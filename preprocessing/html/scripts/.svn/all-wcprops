@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dikduk/!svn/ver/859/DenotationGraph/html/scripts
+END
+makeIndex.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/makeIndex.pl
+END
+htmlImage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/859/DenotationGraph/html/scripts/htmlImage.pl
+END
+htmlNode.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/htmlNode.pl
+END
+htmlPMI.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/htmlPMI.pl
+END
+untokenize.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/untokenize.pl
+END
+countImages.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/countImages.pl
+END
+pickNodes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/pickNodes.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dikduk/!svn/ver/836/DenotationGraph/html/scripts/run.sh
+END

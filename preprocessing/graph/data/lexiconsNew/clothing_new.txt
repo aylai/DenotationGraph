@@ -1,0 +1,597 @@
+anorak
+anoraks
+apparel
+apron
+aprons
+armband
+armbands
+armor
+attire
+backpack
+backpacks
+bag
+bags
+bandage
+bandages
+bandana
+bandanas
+bandanna
+bandannas
+bangle
+bangles
+baseball cap
+bath robe
+bath robes
+bathing suit
+bathingsuit
+bathrobe
+bathrobes
+beanie
+beanies
+bellbottoms
+belt
+belts
+beret
+berets
+bib
+bifocals
+bikini
+bikinis
+blazer
+blazers
+blindfold
+blindfolds
+blouse
+blouses
+boa
+boas
+bodysuit
+bodysuits
+bookbag
+bookbags
+boot
+booties
+boots
+booty
+bottoms
+boutonniere
+bowtie
+bra
+bra-tops
+bracelet
+bracelets
+bras
+briefcase
+brown-hair
+burka
+burkas
+burqa
+burqas
+business attire
+bustier
+cami
+camisole
+camisoles
+cap
+cape
+capes
+capri
+capris
+caps
+cardigan
+cloak
+cloaks
+clothes
+clothing
+coat
+coats
+collar
+collars
+costume
+costumes
+cowboy hat
+crampons
+culottes
+cummerbunds
+diaper
+diapers
+dress
+dress-shoes
+dresses
+dresswear
+dungarees
+ear-gear
+ear-piece
+earbud
+earbuds
+earmuffs
+earphone
+earphones
+earpiece
+earring
+earrings
+eyeglass
+eyeglasses
+eyepatch
+face-mask
+fanny-pack
+fanny-pak
+feather
+fedora
+fedoras
+fleece
+fleeces
+flip-flop
+flip-flops
+flippers
+floatie
+floaties
+floaty
+flop
+footwear
+formal wear
+galoshes
+gas-mask
+gauntlet
+glasses
+glove
+gloves
+goggles
+gown
+gowns
+hairnet
+hairnets
+halter-top
+handbag
+handbags
+hard hat
+hard hats
+hard-hat
+hard-hats
+harness
+harnesses
+hat
+hats
+head-covering
+headband
+headdress
+headdresses
+headgear
+headphone
+headphones
+headpiece
+headpieces
+headscarf
+headscarfs
+headscarves
+headset
+headsets
+headwear
+headwrap
+headwraps
+heel
+helemt
+helmet
+helmets
+hijab
+hijabs
+hoodie
+hoodies
+hosiery
+jacket
+jackets
+jean
+jean-shorts
+jeans
+jersey
+jerseys
+jewelry
+jodhpurs
+jumpers
+jumpsuit
+jumpsuits
+keffiyahs
+keffiyehs
+khaki
+khakis
+kilt
+kilts
+kimino
+kimono
+kimonos
+kippah
+leash
+leg-warmers
+legging
+leggings
+leotard
+leotards
+life saver
+life-jacket
+life-jackets
+life-vest
+life-vests
+lifejacket
+lifejackets
+lifesavers
+lifevest
+lifevests
+lingerie
+loafers
+loincloth
+loincloths
+mask
+masks
+mini-dress
+mini-dresses
+mini-skirt
+mini-skirts
+miniskirt
+miniskirts
+minskirts
+mitt
+mitten
+mittens
+mitts
+moccasins
+mortarboard
+mortarboards
+mouthguards
+mouthpiece
+muzzle
+neck-wear
+neckerchiefs
+necklace
+necklaces
+neckline
+necktie
+neckties
+neclace
+nikes
+nylons
+one-piece
+one-piece-suits
+onesie
+outfit
+outfits
+overall
+overalls
+overcoat
+overcoats
+overshirt
+overshirts
+pajama
+pajamas
+pant
+pantaloons
+panties
+pants
+pantsuit
+pantyhose
+parka
+parkas
+peacoat
+pendant
+pendants
+pinstripes
+pocket
+pockets
+polo shirt
+polo shirts
+poncho
+ponchos
+poof
+pull-overs
+pull-up
+pull-ups
+pullover
+pullovers
+pullup
+purse
+purses
+racing gear
+raincoat
+raincoats
+reflector-vest
+regalia
+ring
+rings
+robe
+robes
+romper
+rucksack
+saddle
+sandal
+sandals
+santa-hats
+saree
+sari
+sarong
+sarongs
+sash
+sashes
+satchel
+satchels
+scarf
+scarfs
+scarves
+scrubs
+scuba diving gear
+scuba gear
+shawl
+shawls
+shirt
+shirts
+shoe
+shoes
+shopping bag
+shopping bags
+short
+shorts
+shoulderbag
+skin
+skirt
+skirts
+skullcap
+slack
+slacks
+sleeper
+sleepwear
+sleeve
+sleeved-shirt
+sleeves
+slipper
+slippers
+sneaker
+sneakers
+snorkel
+snowpants
+snowshoe
+snowshoes
+snowsuit
+snowsuits
+sock
+socks
+spacesuit
+spectacle
+spectacles
+speedo
+speedos
+sports-bra
+sportswear
+striped-tunic
+suit
+suits
+sundress
+sundresses
+sunglasses
+sunhat
+suspender
+suspenders
+swaetshirt
+sweashirt
+sweatband
+sweater
+sweaters
+sweatpants
+sweatshir
+sweatshirt
+sweatshirts
+sweatsuit
+swetashirts
+swim-trunks
+swim-wear
+swimcap
+swimmies
+swimsuit
+swimsuits
+swimwear
+swinsuit
+t-shift
+t-shir
+t-shirt
+t-shirts
+t-shit
+t-short
+t-shrt
+t-top
+tailcoat
+tank
+tank top
+tank-top
+tank-tops
+tankini
+tanktops
+tassels
+tee-shirt
+tee-shirts
+teeshirt
+tiara
+tiaras
+tie
+ties
+toga
+top
+top-hat
+top-hats
+tophats
+trench-coat
+trenchcoat
+trouser
+trousers
+trunks
+tube-dress
+tunic
+turban
+turbans
+turtleneck
+tutu
+tutus
+tux
+tuxedo
+tuxedos
+tuxes
+uggs
+umbrella
+umbrellas
+under-wear
+underclothes
+undergarment
+undergarments
+undershirt
+underwear
+uniform
+uniforms
+v-neck
+v-necks
+veil
+vest
+vests
+waistband
+waistcoat
+watch
+watches
+water-wings
+waterproofs
+wetsuit
+wetsuits
+wife-beater
+wig
+wigs
+windbreaker
+windbreakers
+wings
+wristband
+wristbands
+yarmulke
+zipper
+adidas
+athletic wear
+badge
+ball-cap
+baseball mitt
+bathe cap
+bathe costume
+bathe suit
+bathe trunks
+batting helmet
+belt buckle
+black tie
+blue jean
+body armor
+bonnet
+bowler hat
+box glove
+bridal gown
+brief
+broach
+business suit
+button-down
+camelbak
+camo
+camouflage
+cleats
+cloth
+clothe
+cocktail dress
+combat boot
+corset
+cosplay
+coverall
+cowboy boot
+crash helmet
+crocs
+crown
+crucifix
+dark glasses
+denim
+digital watch
+dinner jacket
+dog tag
+doo-rag
+dress shirt
+dress suit
+dungaree
+fancy dress
+fanny pack
+fatigue
+feather boa
+fez
+flotation device
+fur
+fur coat
+fur hat
+garb
+garment
+garter belt
+golf cap
+grass skirt
+head covering
+headcover
+headlamp
+hood
+hood cloak
+ice skate
+knee brace
+knee pad
+knee-pads
+lab coat
+lei
+life jacket
+life preserver
+life vest
+loafer
+long pants
+long sleeve
+mexican hat
+military uniform
+pants suit
+plain clothes
+polo
+prayer shawl
+ride boot
+rollerblade
+rollerskates
+rubber boot
+run shoe
+safety glasses
+safety hat
+serape
+short pants
+short sleevel
+skate
+ski boot
+ski
+ski cap
+ski jacket
+ski mask
+smock
+snow-gear
+sombrero
+space helmet
+spandex
+sport coat
+sport jacket
+sports shirt
+spur
+stocking
+stocking cap
+straw hat
+street clothes
+stretch pants
+surgical gown
+sweat suit
+swim cap
+swim trunks
+swimming cap
+tennis shoe
+thong
+tights
+top hat
+tracksuit
+trench coat
+visor
+water wings
+wedding dress
+wedding gown
+wristwatch

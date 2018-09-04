@@ -1,0 +1,7214 @@
+9003#0	missing VP	VP3
+9004#0	missing SUBJ	VP0	NP1
+9007#1	missing VP	VP0
+9007#3	missing VP	VP0
+9008#0	missing VP	VP0
+9010#1	missing DOBJ	VP0	NP2
+9011#2	unrecognized TO	not want
+9012#1	missing VP	VP0
+9013#1	missing DOBJ	VP0	NP1
+9015#0	missing VP	VP0
+9016#0	missing VP	VP1
+9017#0	missing VP	VP0
+9019#2	missing VP	VP0
+9022#0	missing VP	VP0
+9023#0	unrecognized TO	listen
+9025#2	missing DOBJ	VP0	NP1
+9026#2	missing VP	VP0
+9032#0	missing VP	VP0
+9033#0	missing VP	VP0
+9034#1	unrecognized TO	rush
+9035#0	missing VP	VP0
+9035#1	missing VP	VP0
+9035#2	missing VP	VP1
+9036#0	missing VP	VP0
+9038#1	missing VP	VP0
+9040#1	missing VP	VP0
+9041#1	missing VP	VP0
+9041#2	missing VP	VP0
+9042#2	missing VP	VP0
+9043#1	unrecognized TO	get ready
+9043#2	unrecognized TO	prepare
+9045#0	unrecognized TO	look
+9045#0	missing VP	VP1
+9045#3	missing VP	VP0
+9046#0	missing VP	VP0
+9047#1	missing VP	VP0
+9048#2	missing VP	VP0
+9048#3	missing VP	VP0
+9051#2	missing VP	VP0
+9054#1	missing VP	VP0
+9056#0	missing VP	VP1
+9060#3	missing VP	VP0
+9062#1	missing VP	VP0
+9062#2	missing VP	VP1
+9063#1	missing VP	VP0
+9066#1	unrecognized TO	pretend
+9067#1	missing VP	VP0
+9073#3	missing VP	VP0
+9076#0	missing VP	VP0
+9077#0	missing VP	VP1
+9077#1	missing VP	VP0
+9078#1	missing VP	VP0
+9078#2	missing VP	VP1
+9078#3	missing VP	VP0
+9079#0	unrecognized TO	pretend
+9079#1	unrecognized TO	pretend
+9079#3	unrecognized TO	pretend
+9082#0	missing VP	VP0
+9082#1	missing VP	VP0
+9082#3	missing VP	VP0
+9089#0	missing VP	VP1
+9089#1	missing VP	VP0
+9093#2	missing VP	VP0
+9094#2	missing VP	VP0
+9095#0	missing VP	VP0
+9095#2	unrecognized TO	prepare
+9095#3	missing VP	VP0
+9096#2	missing VP	VP0
+9100#0	unrecognized TO	listen
+9102#1	missing SUBJ	VP1	NP5
+9106#0	missing VP	VP0
+9106#1	missing VP	VP0
+9106#2	missing VP	VP0
+9106#3	missing VP	VP1
+9112#0	missing VP	VP1
+9112#0	missing VP	VP3
+9112#1	missing VP	VP0
+9112#1	missing VP	VP1
+9119#0	missing VP	VP2
+9121#H	missing VP	VP0
+9124#0	missing VP	VP0
+9126#3	missing DOBJ	VP0	NP1
+9127#3	missing VP	VP0
+9128#1	missing VP	VP0
+9128#3	missing VP	VP0
+9130#1	missing VP	VP0
+9133#2	missing VP	VP0
+9136#3	missing VP	VP0
+9137#3	missing VP	VP0
+9138#0	missing VP	VP0
+9138#0	missing DOBJ	VP1	NP3
+9139#2	missing VP	VP0
+9141#1	missing SUBJ	VP0	NP1
+9142#0	missing VP	VP0
+9142#0	missing VP	VP1
+9142#0	missing VP	VP2
+9142#2	missing VP	VP0
+9145#0	missing VP	VP0
+9145#0	missing VP	VP1
+9145#1	missing VP	VP0
+9145#2	missing VP	VP0
+9147#2	missing VP	VP0
+9151#2	missing VP	VP1
+9157#3	missing VP	VP0
+9158#1	missing VP	VP0
+9159#0	missing VP	VP1
+9162#0	missing VP	VP0
+9162#1	missing VP	VP0
+9163#1	unrecognized TO	pretend
+9165#0	missing VP	VP0
+9165#1	missing VP	VP0
+9167#1	missing VP	VP1
+9168#2	missing VP	VP0
+9169#0	missing VP	VP0
+9169#0	missing VP	VP2
+9169#1	missing VP	VP0
+9169#2	missing VP	VP0
+9172#0	missing VP	VP1
+9179#0	missing VP	VP1
+9181#3	missing VP	VP0
+9184#2	missing VP	VP1
+9185#0	missing VP	VP0
+9187#1	missing VP	VP0
+9192#0	missing VP	VP0
+9192#1	missing VP	VP0
+9194#0	missing VP	VP0
+9195#0	missing VP	VP0
+9195#0	missing VP	VP3
+9197#3	missing VP	VP0
+9198#0	missing VP	VP0
+9201#2	missing DOBJ	VP0	NP3
+9204#0	missing VP	VP0
+9206#0	missing DOBJ	VP0	NP1
+9206#2	missing VP	VP0
+9207#0	missing VP	VP1
+9207#1	missing VP	VP0
+9208#1	missing VP	VP0
+9210#1	missing VP	VP0
+9211#0	missing VP	VP0
+9211#1	missing VP	VP0
+9211#2	missing VP	VP0
+9212#0	missing VP	VP0
+9212#1	missing VP	VP0
+9214#2	missing VP	VP0
+9216#1	missing VP	VP0
+9218#2	missing VP	VP0
+9218#2	missing DOBJ	VP1	NP2
+9219#0	unrecognized TO	prepare
+9222#0	missing VP	VP2
+9222#2	missing VP	VP0
+9224#2	missing VP	VP0
+9225#0	missing VP	VP0
+9227#1	missing VP	VP0
+9227#2	missing VP	VP0
+9227#3	missing VP	VP0
+9235#0	missing VP	VP0
+9237#0	missing VP	VP0
+9237#0	missing VP	VP3
+9237#0	missing VP	VP4
+9238#3	missing VP	VP0
+9239#0	missing VP	VP0
+9240#1	missing DOBJ	VP0	NP2
+9240#3	missing VP	VP0
+9242#0	missing VP	VP0
+9242#1	missing VP	VP0
+9242#3	missing VP	VP0
+9243#1	missing VP	VP2
+9244#0	missing VP	VP1
+9244#H	missing VP	VP2
+9246#1	missing VP	VP0
+9251#0	missing VP	VP0
+9252#2	missing DOBJ	VP0	NP2
+9253#2	missing VP	VP0
+9254#3	missing VP	VP0
+9258#0	missing VP	VP0
+9261#1	missing VP	VP0
+9264#0	missing VP	VP0
+9264#0	missing VP	VP1
+9264#0	missing VP	VP2
+9264#1	missing VP	VP0
+9264#2	missing VP	VP0
+9264#3	missing VP	VP0
+9266#1	missing VP	VP1
+9266#2	missing VP	VP0
+9267#1	missing VP	VP1
+9267#2	missing VP	VP1
+9268#0	missing VP	VP1
+9268#1	missing VP	VP0
+9271#1	missing VP	VP0
+9271#3	missing VP	VP0
+9274#2	missing VP	VP0
+9275#1	missing VP	VP0
+9277#1	missing DOBJ	VP0	NP1
+9277#2	missing DOBJ	VP0	NP2
+9278#2	missing SUBJ	VP0	NP1
+9280#3	missing VP	VP0
+9282#1	missing VP	VP0
+9283#1	missing VP	VP1
+9284#1	unrecognized TO	work out
+9289#0	missing VP	VP0
+9289#1	missing VP	VP0
+9290#0	missing VP	VP0
+9291#2	missing VP	VP0
+9292#0	missing VP	VP1
+9293#0	missing VP	VP0
+9295#1	missing VP	VP1
+9296#0	missing VP	VP0
+9296#1	missing VP	VP0
+9296#2	missing VP	VP0
+9298#1	missing VP	VP0
+9298#2	missing VP	VP1
+9300#0	missing VP	VP0
+9303#0	unrecognized TO	listen
+9304#1	missing VP	VP0
+9304#2	missing VP	VP0
+9307#2	missing VP	VP0
+9309#0	missing VP	VP0
+9314#0	missing DOBJ	VP1	NP4
+9314#2	missing DOBJ	VP0	NP2
+9315#2	missing DOBJ	VP0	NP1
+9319#1	missing VP	VP0
+9320#1	missing VP	VP0
+9320#2	missing VP	VP0
+9320#3	missing VP	VP1
+9322#0	missing VP	VP0
+9322#3	missing VP	VP0
+9322#3	missing DOBJ	VP1	NP4
+9323#0	missing VP	VP1
+9323#2	unrecognized TO	be ready
+9324#0	missing VP	VP0
+9325#0	missing VP	VP0
+9325#2	missing VP	VP0
+9327#2	missing DOBJ	VP0	NP2
+9328#1	missing VP	VP1
+9330#1	missing VP	VP0
+9331#0	missing VP	VP0
+9332#2	missing VP	VP1
+9332#2	missing VP	VP2
+9336#3	missing VP	VP0
+9337#0	unrecognized TO	look
+9337#0	missing VP	VP2
+9338#0	missing VP	VP0
+9338#3	missing VP	VP0
+9339#2	missing VP	VP0
+9340#0	missing VP	VP0
+9342#1	missing VP	VP1
+9344#0	missing VP	VP0
+9344#2	unrecognized TO	prepare
+9344#3	missing VP	VP0
+9352#0	missing VP	VP1
+9352#3	missing VP	VP0
+9353#0	missing VP	VP0
+9353#3	missing VP	VP0
+9355#2	missing VP	VP0
+9355#3	missing VP	VP0
+9356#0	missing VP	VP3
+9356#1	missing VP	VP0
+9357#0	missing DOBJ	VP0	NP1
+9360#0	missing VP	VP0
+9362#0	missing VP	VP0
+9363#2	missing VP	VP0
+9366#1	missing VP	VP0
+9367#2	missing VP	VP0
+9368#0	missing VP	VP4
+9371#0	missing VP	VP0
+9371#0	missing VP	VP1
+9371#2	missing VP	VP0
+9372#1	missing VP	VP1
+9373#1	missing VP	VP3
+9377#0	missing VP	VP0
+9378#0	missing VP	VP0
+9378#1	missing VP	VP0
+9380#2	missing VP	VP0
+9382#1	unrecognized TO	try not
+9383#0	missing VP	VP0
+9383#1	missing VP	VP1
+9383#2	unrecognized TO	prepare
+9383#3	missing VP	VP0
+9384#1	missing VP	VP0
+9388#2	missing VP	VP1
+9393#1	missing VP	VP1
+9393#3	missing VP	VP0
+9394#0	missing VP	VP0
+9398#3	missing SUBJ	VP0	NP2
+9399#2	missing VP	VP0
+9403#0	missing VP	VP0
+9403#0	missing VP	VP1
+9403#2	missing VP	VP0
+9407#2	missing VP	VP0
+9409#2	missing VP	VP0
+9410#1	missing VP	VP0
+9411#2	missing VP	VP0
+9412#0	missing VP	VP0
+9412#0	missing VP	VP3
+9415#0	unrecognized TO	pretend
+9415#1	unrecognized TO	pretend
+9415#3	unrecognized TO	pretend
+9416#0	missing VP	VP0
+9416#0	missing DOBJ	VP1	NP3
+9418#0	missing VP	VP1
+9420#2	missing VP	VP0
+9423#0	missing VP	VP2
+9424#0	missing VP	VP0
+9425#2	missing VP	VP0
+9426#1	missing VP	VP1
+9426#2	missing VP	VP0
+9428#2	missing VP	VP0
+9428#2	missing VP	VP1
+9435#1	unrecognized TO	slide out
+9438#1	missing VP	VP0
+9439#0	unrecognized TO	look
+9440#0	missing VP	VP0
+9440#0	missing VP	VP1
+9443#0	missing SUBJ	VP1	NP2
+9444#0	missing VP	VP0
+9445#0	missing VP	VP0
+9447#0	missing VP	VP0
+9448#2	missing VP	VP0
+9450#0	missing VP	VP1
+9451#1	missing VP	VP1
+9452#0	missing VP	VP0
+9452#1	missing VP	VP0
+9454#1	unrecognized TO	pretend
+9455#0	missing VP	VP0
+9459#0	missing VP	VP2
+9459#3	missing VP	VP0
+9461#0	missing VP	VP1
+9462#0	missing DOBJ	VP0	NP2
+9465#0	missing VP	VP0
+9465#0	missing VP	VP1
+9466#2	missing VP	VP0
+9468#2	missing VP	VP0
+9469#1	missing VP	VP0
+9470#0	missing VP	VP1
+9471#0	missing VP	VP0
+9471#0	missing VP	VP2
+9473#1	unrecognized TO	pretend
+9474#0	missing VP	VP2
+9475#0	unrecognized TO	prepare
+9475#1	unrecognized TO	prepare
+9475#2	unrecognized TO	prepare
+9478#0	missing VP	VP0
+9480#0	missing DOBJ	VP0	NP1
+9481#1	unrecognized TO	work out
+9483#0	missing VP	VP0
+9484#3	missing VP	VP0
+9488#0	missing VP	VP0
+9488#1	missing VP	VP1
+9488#2	missing VP	VP0
+9489#2	missing DOBJ	VP0	NP1
+9491#0	missing VP	VP0
+9492#1	missing VP	VP0
+9492#3	missing VP	VP0
+9493#0	missing VP	VP0
+9493#2	missing VP	VP0
+9494#0	missing VP	VP0
+9498#0	missing VP	VP1
+9499#0	missing VP	VP0
+9501#0	missing VP	VP0
+9501#1	missing VP	VP0
+9501#3	missing VP	VP0
+9505#2	missing VP	VP0
+9506#0	missing VP	VP0
+9507#0	missing VP	VP0
+9507#1	missing VP	VP0
+9512#1	missing VP	VP0
+9512#1	missing VP	VP1
+9514#0	missing VP	VP0
+9514#0	unrecognized TO	look
+9515#2	missing VP	VP0
+9519#0	missing VP	VP0
+9521#1	missing VP	VP0
+9523#0	missing VP	VP0
+9523#0	missing VP	VP3
+9524#0	missing VP	VP0
+9526#1	missing VP	VP0
+9526#3	missing VP	VP0
+9528#0	missing VP	VP1
+9528#1	missing VP	VP0
+9529#0	missing VP	VP1
+9532#0	missing DOBJ	VP0	NP3
+9532#2	missing DOBJ	VP0	NP2
+9532#3	missing DOBJ	VP0	NP1
+9533#0	missing VP	VP0
+9533#1	missing VP	VP0
+9533#2	missing VP	VP0
+9536#0	missing VP	VP0
+9537#0	missing VP	VP0
+9537#0	missing VP	VP1
+9537#1	missing VP	VP0
+9538#0	missing VP	VP1
+9538#2	unrecognized TO	be ready
+9541#0	missing VP	VP1
+9544#0	missing VP	VP0
+9544#0	missing VP	VP2
+9544#2	missing VP	VP1
+9544#3	missing VP	VP0
+9546#0	missing DOBJ	VP0	NP1
+9548#0	missing VP	VP0
+9548#1	missing VP	VP0
+9548#2	missing VP	VP0
+9549#1	missing VP	VP0
+9549#2	missing VP	VP0
+9550#0	missing VP	VP0
+9550#0	missing VP	VP1
+9550#1	missing VP	VP1
+9551#0	missing VP	VP1
+9554#2	missing VP	VP1
+9559#0	missing VP	VP0
+9564#0	missing VP	VP0
+9565#1	missing VP	VP0
+9566#0	missing VP	VP0
+9566#0	missing DOBJ	VP1	NP3
+9568#0	missing VP	VP0
+9568#0	unrecognized TO	look
+9573#0	missing VP	VP0
+9573#1	missing VP	VP0
+9573#1	missing VP	VP1
+9573#1	missing DOBJ	VP2	NP5
+9575#0	unrecognized TO	listen
+9576#0	missing VP	VP0
+9577#0	missing VP	VP0
+9577#0	missing DOBJ	VP1	NP3
+9579#1	missing VP	VP0
+9579#2	missing VP	VP1
+9580#0	missing VP	VP0
+9583#2	missing VP	VP0
+9584#2	missing VP	VP0
+9590#1	missing VP	VP0
+9595#0	unrecognized TO	listen
+9600#2	missing VP	VP0
+9602#1	missing VP	VP0
+9605#0	missing VP	VP0
+9608#0	missing VP	VP0
+9610#0	missing VP	VP0
+9610#0	missing VP	VP1
+9613#0	missing VP	VP0
+9613#2	missing DOBJ	VP0	NP1
+9614#0	missing VP	VP0
+9614#1	missing VP	VP0
+9615#3	missing VP	VP0
+9617#0	missing VP	VP0
+9620#0	unrecognized TO	turn
+9620#1	missing VP	VP0
+9621#0	missing VP	VP1
+9621#2	unrecognized TO	prepare
+9621#3	missing VP	VP0
+9624#1	missing VP	VP0
+9625#0	missing VP	VP0
+9629#0	missing VP	VP0
+9629#1	missing VP	VP1
+9629#2	missing VP	VP1
+9630#2	missing VP	VP1
+9634#2	missing VP	VP1
+9634#2	missing VP	VP2
+9636#2	missing VP	VP0
+9637#1	missing VP	VP0
+9639#1	missing VP	VP0
+9640#0	missing VP	VP0
+9640#1	missing DOBJ	VP0	NP2
+9642#0	missing VP	VP1
+9642#2	missing VP	VP0
+9644#3	missing VP	VP0
+9645#0	missing VP	VP0
+9646#0	missing VP	VP1
+9647#0	missing VP	VP1
+9648#0	missing VP	VP0
+9648#1	missing VP	VP0
+9649#0	missing VP	VP0
+9649#0	missing VP	VP1
+9649#1	missing VP	VP0
+9649#1	missing VP	VP1
+9651#2	missing VP	VP1
+9652#2	missing VP	VP0
+9658#3	missing VP	VP0
+9658#3	missing DOBJ	VP1	NP2
+9660#0	missing VP	VP1
+9661#3	missing VP	VP0
+9665#0	missing VP	VP0
+9665#1	missing VP	VP0
+9667#2	missing VP	VP0
+9668#0	missing VP	VP0
+9669#2	missing VP	VP0
+9669#3	missing VP	VP0
+9670#0	missing VP	VP0
+9672#0	missing VP	VP1
+9674#0	missing DOBJ	VP0	NP1
+9675#0	missing VP	VP0
+9676#0	missing VP	VP0
+9676#1	missing VP	VP0
+9676#2	missing VP	VP0
+9680#2	missing VP	VP0
+9681#1	missing VP	VP0
+9681#2	missing VP	VP0
+9682#2	missing VP	VP0
+9686#2	missing VP	VP0
+9689#1	missing DOBJ	VP0	NP2
+9690#0	missing VP	VP0
+9691#1	missing VP	VP0
+9694#1	missing VP	VP0
+9694#2	missing VP	VP0
+9695#2	missing DOBJ	VP0	NP1
+9697#2	missing VP	VP0
+9698#2	missing VP	VP0
+9702#0	missing VP	VP0
+9702#1	missing VP	VP0
+9702#2	missing VP	VP1
+9704#0	missing VP	VP0
+9704#2	missing VP	VP2
+9705#1	missing VP	VP0
+9706#0	missing VP	VP0
+9706#0	missing VP	VP2
+9706#1	missing VP	VP0
+9706#2	missing VP	VP1
+9706#3	missing VP	VP0
+9707#1	missing VP	VP0
+9708#1	missing VP	VP0
+9709#1	unrecognized TO	pretend
+9710#0	missing VP	VP1
+9711#0	missing VP	VP0
+9714#3	missing VP	VP0
+9714#3	missing VP	VP1
+9718#0	missing VP	VP0
+9719#1	missing VP	VP0
+9720#1	missing DOBJ	VP0	NP1
+9722#0	missing VP	VP0
+9723#0	missing VP	VP0
+9725#0	missing DOBJ	VP0	NP2
+9726#0	unrecognized TO	pretend
+9726#1	unrecognized TO	pretend
+9726#3	unrecognized TO	pretend
+9728#2	missing DOBJ	VP0	NP1
+9728#H	missing VP	VP0
+9732#0	missing VP	VP0
+9735#2	missing VP	VP0
+9740#0	missing VP	VP1
+9740#3	missing VP	VP0
+9741#0	missing VP	VP2
+9741#1	missing SUBJ	VP0	NP1
+9742#0	missing VP	VP0
+9742#0	missing VP	VP1
+9743#0	missing VP	VP0
+9743#2	missing VP	VP0
+9743#3	missing VP	VP0
+9744#0	missing VP	VP0
+9745#2	missing VP	VP0
+9746#0	missing VP	VP1
+9748#1	missing VP	VP0
+9750#0	missing VP	VP0
+9751#0	missing VP	VP0
+9755#0	missing VP	VP0
+9756#2	missing VP	VP0
+9760#1	missing VP	VP0
+9764#0	missing VP	VP1
+9767#1	missing VP	VP1
+9768#1	missing VP	VP0
+9769#0	missing VP	VP0
+9769#3	missing VP	VP0
+9770#0	missing VP	VP0
+9771#1	missing DOBJ	VP0	NP1
+9771#3	missing VP	VP1
+9772#2	missing VP	VP0
+9774#0	missing VP	VP0
+9774#2	missing VP	VP0
+9777#1	unrecognized TO	ride
+9779#0	missing VP	VP0
+9780#0	missing VP	VP0
+9780#3	missing VP	VP0
+9784#0	missing VP	VP1
+9786#0	missing VP	VP0
+9786#2	missing VP	VP0
+9788#0	missing VP	VP0
+9789#1	missing VP	VP1
+9789#2	missing DOBJ	VP0	NP1
+9790#3	missing VP	VP0
+9796#2	missing VP	VP0
+9797#0	missing VP	VP1
+9798#0	missing VP	VP0
+9798#0	missing DOBJ	VP2	NP4
+9800#0	missing VP	VP1
+9800#1	missing VP	VP0
+9801#0	missing VP	VP0
+9801#1	missing VP	VP0
+9802#0	missing VP	VP0
+9802#1	missing VP	VP0
+9802#2	missing VP	VP0
+9805#0	missing VP	VP0
+9805#2	missing VP	VP0
+9810#0	missing VP	VP0
+9810#1	missing DOBJ	VP0	NP2
+9811#2	missing VP	VP0
+9812#3	missing DOBJ	VP0	NP1
+9817#0	missing VP	VP0
+9817#0	missing DOBJ	VP1	NP3
+9818#0	missing VP	VP0
+9819#0	missing VP	VP0
+9819#0	missing VP	VP1
+9819#0	missing VP	VP2
+9819#2	missing VP	VP0
+9821#1	missing VP	VP0
+9827#2	missing DOBJ	VP0	NP1
+9829#1	missing VP	VP0
+9829#1	missing VP	VP2
+9829#2	missing VP	VP0
+9830#1	missing VP	VP0
+9830#2	missing VP	VP0
+9830#3	missing VP	VP0
+9831#1	missing VP	VP0
+9832#0	missing VP	VP0
+9832#0	missing VP	VP2
+9832#1	missing VP	VP0
+9834#1	missing VP	VP0
+9835#0	missing VP	VP0
+9837#1	unrecognized TO	design
+9838#1	missing DOBJ	VP0	NP2
+9840#1	missing VP	VP0
+9846#0	missing VP	VP0
+9846#2	missing VP	VP0
+9848#0	missing VP	VP0
+9848#2	missing VP	VP2
+9850#1	missing VP	VP0
+9850#2	missing VP	VP0
+9850#3	missing VP	VP0
+9854#3	missing VP	VP0
+9855#0	missing VP	VP1
+9856#1	missing VP	VP0
+9860#0	missing VP	VP0
+9861#0	missing VP	VP0
+9863#1	missing VP	VP0
+9863#3	missing VP	VP0
+9863#3	missing VP	VP1
+9864#0	missing VP	VP0
+9865#3	missing VP	VP0
+9867#H	missing DOBJ	VP0	NP1
+9869#2	missing VP	VP0
+9870#0	missing VP	VP0
+9870#1	missing VP	VP0
+9870#2	missing VP	VP0
+9871#0	missing VP	VP0
+9873#0	missing VP	VP0
+9873#1	missing VP	VP1
+9873#2	missing VP	VP0
+9874#2	unrecognized TO	look
+9875#0	missing VP	VP0
+9876#1	missing VP	VP0
+9879#1	missing VP	VP0
+9880#0	missing VP	VP0
+9880#1	missing VP	VP0
+9880#2	missing VP	VP0
+9884#0	missing VP	VP0
+9885#0	missing DOBJ	VP0	NP1
+9887#0	missing VP	VP0
+9888#0	missing VP	VP1
+9888#1	missing VP	VP1
+9895#2	missing VP	VP0
+9897#2	missing VP	VP1
+9899#1	unrecognized TO	prepare
+9902#1	missing VP	VP0
+9902#2	missing VP	VP1
+9902#3	missing VP	VP0
+9903#3	missing DOBJ	VP0	NP1
+9905#3	missing VP	VP0
+9906#0	missing VP	VP0
+9907#0	missing VP	VP0
+9908#0	missing VP	VP0
+9908#0	missing VP	VP1
+9908#0	unrecognized TO	prepare
+9911#0	missing VP	VP2
+9915#2	missing VP	VP0
+9916#0	missing VP	VP1
+9916#0	missing VP	VP2
+9919#2	missing VP	VP0
+9921#2	unrecognized TO	pretend
+9922#0	missing VP	VP1
+9922#2	missing VP	VP0
+9925#1	missing VP	VP0
+9926#0	missing VP	VP1
+9927#0	missing VP	VP0
+9927#2	missing VP	VP0
+9929#1	missing VP	VP0
+9932#1	missing VP	VP0
+9932#2	missing VP	VP1
+9934#2	unrecognized TO	look
+9935#0	missing VP	VP1
+9935#0	missing VP	VP2
+9937#3	missing VP	VP0
+9937#3	missing VP	VP1
+9938#2	missing DOBJ	VP0	NP1
+9940#1	missing VP	VP0
+9940#3	missing VP	VP0
+9942#0	missing VP	VP0
+9942#0	missing VP	VP4
+9942#1	missing VP	VP0
+9942#1	missing VP	VP1
+9942#2	missing VP	VP1
+9942#3	missing VP	VP0
+9943#0	missing VP	VP2
+9944#0	missing VP	VP0
+9944#1	unrecognized TO	move
+9945#0	missing VP	VP2
+9947#0	unrecognized TO	listen
+9948#0	missing VP	VP1
+9948#1	missing VP	VP0
+9951#1	missing DOBJ	VP0	NP2
+9951#2	missing DOBJ	VP0	NP1
+9953#0	missing DOBJ	VP0	NP2
+9954#2	missing DOBJ	VP0	NP2
+9954#3	missing VP	VP0
+9955#0	missing VP	VP0
+9956#0	missing VP	VP0
+9959#1	missing VP	VP0
+9960#1	missing VP	VP0
+9962#2	missing VP	VP2
+9965#0	missing VP	VP0
+9965#3	missing VP	VP0
+9970#0	missing VP	VP0
+9971#0	missing VP	VP0
+9971#2	missing VP	VP0
+9972#0	missing VP	VP0
+9975#0	missing VP	VP0
+9976#0	missing VP	VP0
+9976#1	missing VP	VP1
+9976#2	unrecognized TO	prepare
+9976#3	missing VP	VP0
+9977#1	missing VP	VP0
+9981#3	missing DOBJ	VP0	NP1
+9982#0	missing VP	VP0
+9982#2	missing VP	VP0
+9984#1	missing VP	VP0
+9985#0	missing VP	VP0
+9986#2	missing VP	VP0
+9987#0	missing VP	VP0
+9988#0	missing VP	VP1
+9993#0	missing VP	VP0
+9993#0	missing VP	VP1
+9995#3	missing VP	VP0
+9996#0	missing VP	VP2
+9998#0	unrecognized TO	get ready
+4#0	missing VP	VP0
+4#0	missing VP	VP2
+6#1	missing VP	VP1
+6#3	missing DOBJ	VP0	NP1
+7#0	missing VP	VP0
+10#0	unrecognized TO	attach
+11#0	missing VP	VP0
+11#0	missing VP	VP1
+13#0	missing VP	VP0
+17#0	missing VP	VP1
+18#0	missing VP	VP0
+20#2	missing VP	VP0
+21#1	missing VP	VP1
+23#0	missing VP	VP0
+23#3	missing VP	VP1
+26#1	missing VP	VP0
+27#0	missing VP	VP0
+28#1	missing VP	VP0
+28#2	missing VP	VP0
+28#2	missing VP	VP1
+28#3	missing VP	VP0
+30#0	missing VP	VP0
+32#2	unrecognized TO	get ready
+34#0	missing VP	VP0
+35#0	unrecognized TO	prepare
+38#0	missing VP	VP1
+38#2	missing VP	VP0
+39#1	missing VP	VP1
+41#0	missing VP	VP2
+41#2	missing VP	VP1
+42#0	missing VP	VP0
+42#1	missing VP	VP0
+42#3	missing VP	VP0
+45#1	missing VP	VP0
+45#H	unrecognized TO	get ready
+50#0	unrecognized TO	look
+50#1	missing VP	VP0
+51#1	missing VP	VP0
+52#3	missing DOBJ	VP0	NP1
+55#1	missing VP	VP0
+55#2	missing VP	VP0
+55#3	missing VP	VP0
+56#1	missing VP	VP1
+60#3	missing DOBJ	VP0	NP1
+62#1	missing VP	VP0
+62#2	missing VP	VP0
+63#0	missing VP	VP0
+68#1	missing VP	VP0
+69#0	missing VP	VP0
+69#2	missing VP	VP0
+72#1	missing DOBJ	VP0	NP1
+73#0	unrecognized TO	pretend
+76#0	missing VP	VP0
+76#0	missing VP	VP3
+76#1	missing VP	VP1
+76#2	missing VP	VP1
+80#0	missing VP	VP0
+80#1	missing VP	VP0
+82#1	missing VP	VP0
+82#2	missing VP	VP0
+87#0	missing VP	VP0
+87#0	missing VP	VP2
+89#3	missing VP	VP0
+91#0	missing VP	VP2
+91#2	missing VP	VP1
+93#3	missing VP	VP0
+96#0	missing VP	VP0
+97#0	missing VP	VP0
+97#2	missing VP	VP0
+100#0	missing VP	VP0
+100#2	missing VP	VP0
+103#3	missing VP	VP0
+104#3	missing DOBJ	VP0	NP1
+107#1	missing VP	VP0
+108#0	missing VP	VP0
+109#0	missing VP	VP0
+110#0	missing VP	VP1
+110#0	missing VP	VP2
+110#0	missing VP	VP3
+113#0	missing VP	VP0
+114#0	missing VP	VP0
+116#0	missing VP	VP0
+116#1	missing VP	VP0
+116#1	missing VP	VP1
+116#3	missing VP	VP0
+117#0	missing VP	VP0
+117#1	missing VP	VP0
+119#2	missing VP	VP2
+125#0	missing VP	VP1
+125#0	missing VP	VP2
+125#0	missing VP	VP3
+126#0	missing VP	VP0
+126#3	missing VP	VP0
+128#1	missing VP	VP0
+130#1	missing VP	VP1
+130#3	missing VP	VP0
+131#3	missing VP	VP0
+132#0	missing VP	VP0
+132#1	missing VP	VP0
+148#2	missing VP	VP0
+148#3	missing VP	VP0
+150#0	missing DOBJ	VP0	NP2
+150#1	missing VP	VP0
+151#1	missing VP	VP1
+151#1	missing SUBJ	VP2	NP2
+152#0	missing VP	VP0
+152#0	missing DOBJ	VP1	NP2
+154#0	missing VP	VP0
+155#0	missing VP	VP0
+157#0	missing VP	VP0
+157#1	missing DOBJ	VP0	NP1
+159#1	missing VP	VP1
+159#3	missing VP	VP0
+160#1	missing VP	VP0
+161#1	missing VP	VP0
+161#2	missing VP	VP0
+162#0	missing VP	VP0
+168#2	missing VP	VP0
+169#0	missing VP	VP0
+170#0	missing VP	VP0
+171#2	missing DOBJ	VP0	NP2
+173#1	missing VP	VP0
+174#0	missing VP	VP0
+174#0	missing VP	VP2
+177#1	missing VP	VP0
+178#0	missing VP	VP0
+178#0	missing VP	VP1
+179#3	missing VP	VP0
+179#3	missing VP	VP1
+180#0	missing VP	VP0
+181#0	missing VP	VP1
+181#3	missing VP	VP0
+183#0	missing VP	VP0
+184#0	missing VP	VP0
+184#0	missing VP	VP2
+184#2	missing VP	VP0
+185#1	missing VP	VP0
+189#0	missing VP	VP1
+189#0	missing VP	VP3
+190#1	unrecognized TO	compete
+191#0	missing VP	VP0
+191#0	missing VP	VP1
+193#0	missing VP	VP0
+195#2	missing VP	VP0
+196#0	missing VP	VP1
+197#H	missing DOBJ	VP0	NP1
+198#1	missing VP	VP0
+198#3	missing VP	VP0
+199#3	missing VP	VP0
+200#1	missing VP	VP0
+200#2	missing VP	VP0
+200#3	missing VP	VP0
+204#0	missing VP	VP0
+204#1	missing VP	VP0
+205#0	missing VP	VP2
+206#0	missing VP	VP0
+208#3	missing SUBJ	VP1	NP2
+210#0	missing VP	VP0
+212#0	missing VP	VP2
+213#0	missing VP	VP0
+214#1	missing VP	VP0
+214#1	missing SUBJ	VP1	NP1
+214#2	missing VP	VP1
+216#0	missing VP	VP0
+219#H	missing VP	VP0
+221#0	missing VP	VP0
+223#0	missing VP	VP1
+228#1	missing VP	VP0
+231#0	missing VP	VP0
+232#0	missing VP	VP0
+233#1	missing VP	VP0
+235#0	missing VP	VP0
+235#0	missing DOBJ	VP1	NP2
+235#3	missing VP	VP0
+237#1	missing VP	VP0
+237#2	missing VP	VP0
+238#0	missing VP	VP0
+241#0	missing VP	VP1
+242#0	missing VP	VP1
+243#1	missing VP	VP0
+244#0	missing VP	VP1
+244#2	missing VP	VP0
+245#2	missing VP	VP0
+247#0	missing VP	VP1
+247#1	missing VP	VP0
+247#3	missing VP	VP0
+248#1	missing VP	VP0
+249#0	missing SUBJ	VP0	NP2
+249#0	missing VP	VP1
+249#1	missing VP	VP0
+249#1	missing VP	VP2
+249#2	missing VP	VP0
+250#1	missing VP	VP0
+252#0	missing VP	VP0
+254#0	unrecognized TO	open
+256#0	missing VP	VP0
+256#1	missing VP	VP0
+261#3	missing DOBJ	VP0	NP1
+262#1	missing DOBJ	VP0	NP1
+264#0	missing VP	VP0
+274#0	unrecognized TO	look
+274#1	missing VP	VP0
+276#1	missing VP	VP0
+277#3	missing VP	VP0
+279#0	missing VP	VP0
+282#3	missing VP	VP0
+283#1	missing VP	VP0
+283#2	missing VP	VP0
+286#0	missing VP	VP1
+286#0	missing VP	VP2
+286#0	missing VP	VP3
+291#0	missing VP	VP0
+291#1	missing VP	VP0
+291#2	missing VP	VP0
+293#0	missing VP	VP0
+293#2	missing VP	VP0
+293#3	missing VP	VP0
+295#0	missing VP	VP0
+296#0	missing VP	VP0
+296#1	missing VP	VP0
+299#0	missing VP	VP0
+299#2	missing VP	VP0
+299#3	missing VP	VP0
+302#0	missing VP	VP0
+302#1	missing VP	VP1
+303#0	missing VP	VP1
+303#2	missing VP	VP0
+304#0	missing VP	VP0
+306#1	missing VP	VP0
+307#1	missing VP	VP1
+307#3	missing VP	VP0
+309#1	missing VP	VP0
+310#1	missing VP	VP0
+310#2	missing VP	VP0
+310#3	missing VP	VP0
+311#2	missing VP	VP0
+314#1	missing VP	VP0
+315#0	missing VP	VP0
+316#3	missing VP	VP0
+318#2	missing VP	VP0
+320#0	missing VP	VP2
+321#0	missing VP	VP0
+322#1	missing SUBJ	VP2	NP4
+323#0	missing VP	VP0
+325#0	missing VP	VP1
+326#0	missing VP	VP0
+328#0	missing VP	VP0
+330#0	missing VP	VP0
+330#0	missing VP	VP1
+331#0	missing VP	VP1
+336#0	missing VP	VP0
+337#1	missing VP	VP0
+337#1	missing VP	VP1
+337#1	missing SUBJ	VP2	NP1
+339#0	unrecognized TO	be
+345#0	missing VP	VP0
+345#2	missing VP	VP0
+346#0	missing VP	VP0
+346#0	missing VP	VP2
+346#1	missing VP	VP0
+346#1	missing VP	VP2
+346#1	missing VP	VP3
+353#1	missing VP	VP0
+354#0	missing VP	VP0
+354#2	missing DOBJ	VP0	NP1
+357#3	missing VP	VP0
+362#2	missing VP	VP0
+362#3	missing VP	VP0
+367#0	unrecognized TO	pretend
+367#1	missing VP	VP0
+369#0	missing VP	VP0
+370#0	missing VP	VP0
+370#0	missing VP	VP1
+371#1	missing VP	VP1
+373#0	missing VP	VP0
+375#1	missing DOBJ	VP0	NP2
+375#2	missing VP	VP0
+375#3	missing VP	VP0
+377#1	missing VP	VP1
+379#0	missing VP	VP0
+379#1	missing VP	VP0
+379#2	missing VP	VP0
+379#3	missing VP	VP0
+380#0	missing VP	VP0
+380#1	missing VP	VP1
+385#0	missing VP	VP1
+385#2	missing VP	VP0
+394#0	unrecognized TO	standing ready
+395#2	unrecognized TO	prepare
+398#0	missing VP	VP0
+402#1	unrecognized TO	lean forward
+404#0	missing VP	VP1
+404#1	missing VP	VP0
+404#2	missing VP	VP1
+408#0	missing VP	VP0
+411#H	missing VP	VP0
+412#0	missing VP	VP1
+413#3	missing VP	VP0
+415#0	missing VP	VP0
+417#2	unrecognized TO	prepare
+419#0	missing VP	VP0
+419#0	missing VP	VP2
+419#0	missing VP	VP4
+419#2	missing VP	VP0
+420#0	unrecognized TO	standing ready
+425#1	unrecognized TO	lean forward
+430#2	missing VP	VP0
+432#3	missing VP	VP0
+433#0	missing VP	VP0
+434#0	missing VP	VP1
+437#1	missing VP	VP0
+439#0	missing VP	VP0
+439#3	missing VP	VP0
+441#0	missing VP	VP1
+441#1	missing VP	VP1
+441#2	missing VP	VP1
+442#0	missing VP	VP0
+445#1	missing VP	VP1
+445#H	missing VP	VP0
+445#H	missing DOBJ	VP1	NP2
+447#0	missing VP	VP0
+448#0	missing VP	VP0
+451#0	missing VP	VP0
+451#1	missing VP	VP0
+451#2	missing VP	VP0
+453#0	missing VP	VP0
+453#0	missing DOBJ	VP2	NP4
+455#0	missing VP	VP0
+455#3	missing VP	VP0
+456#2	missing VP	VP0
+456#3	missing VP	VP0
+457#0	missing VP	VP1
+461#0	missing VP	VP1
+463#1	missing VP	VP0
+464#0	missing VP	VP0
+464#0	missing VP	VP2
+464#1	missing VP	VP1
+464#2	missing VP	VP1
+464#3	missing VP	VP0
+469#0	missing VP	VP0
+469#1	missing VP	VP1
+469#3	missing VP	VP0
+472#2	missing VP	VP0
+477#0	missing VP	VP1
+477#1	missing VP	VP0
+478#0	missing VP	VP0
+484#3	missing DOBJ	VP0	NP1
+486#0	missing VP	VP0
+486#1	missing VP	VP0
+487#0	missing VP	VP0
+492#0	missing VP	VP0
+492#0	missing SUBJ	VP1	NP1
+492#1	missing VP	VP0
+493#0	missing VP	VP3
+493#1	missing VP	VP0
+493#1	missing VP	VP2
+494#0	missing VP	VP0
+495#0	missing VP	VP0
+498#1	missing VP	VP0
+502#1	missing VP	VP0
+503#0	missing VP	VP0
+503#0	missing VP	VP1
+503#0	missing VP	VP2
+503#2	missing VP	VP0
+504#0	missing VP	VP1
+506#0	missing SUBJ	VP0	NP4
+507#2	missing DOBJ	VP0	NP1
+508#0	unrecognized TO	look
+508#1	missing VP	VP0
+512#0	missing VP	VP0
+515#3	unrecognized TO	prepare
+516#0	missing VP	VP0
+517#1	missing VP	VP0
+518#0	missing VP	VP2
+520#0	missing VP	VP0
+521#0	missing VP	VP0
+522#0	missing VP	VP0
+522#3	missing VP	VP0
+522#3	missing SUBJ	VP1	NP1
+525#0	missing VP	VP1
+526#0	missing VP	VP0
+527#0	missing VP	VP0
+529#0	missing VP	VP1
+529#1	missing VP	VP1
+530#0	missing VP	VP1
+532#0	missing VP	VP0
+532#1	missing VP	VP1
+532#3	missing VP	VP0
+535#0	missing VP	VP0
+535#3	missing VP	VP0
+536#3	missing DOBJ	VP0	NP1
+536#H	missing DOBJ	VP0	NP1
+537#2	missing VP	VP0
+538#0	missing VP	VP0
+540#0	missing VP	VP0
+541#0	missing VP	VP0
+545#0	missing VP	VP0
+545#2	missing VP	VP0
+551#1	missing DOBJ	VP0	NP2
+551#2	missing VP	VP0
+551#3	missing VP	VP0
+552#0	missing VP	VP2
+552#0	missing VP	VP3
+555#0	missing VP	VP0
+556#3	missing DOBJ	VP0	NP1
+561#0	missing VP	VP0
+564#0	unrecognized TO	aim
+569#0	missing VP	VP0
+569#0	missing VP	VP2
+574#3	missing DOBJ	VP0	NP1
+575#0	missing VP	VP0
+576#0	missing VP	VP1
+577#0	missing VP	VP0
+578#0	missing VP	VP0
+578#1	missing VP	VP0
+580#2	missing VP	VP0
+581#3	missing DOBJ	VP0	NP1
+581#H	missing DOBJ	VP0	NP1
+583#0	missing VP	VP0
+589#0	missing VP	VP0
+589#2	missing VP	VP0
+590#H	missing DOBJ	VP0	NP1
+592#0	missing VP	VP0
+593#0	missing VP	VP2
+593#1	missing SUBJ	VP0	NP1
+595#1	missing VP	VP0
+595#2	missing VP	VP0
+596#0	missing VP	VP0
+596#2	missing VP	VP0
+598#0	missing VP	VP0
+599#0	missing VP	VP0
+599#0	missing VP	VP2
+600#2	missing VP	VP0
+608#0	missing VP	VP1
+608#0	missing VP	VP2
+608#1	missing SUBJ	VP1	NP3
+609#0	missing VP	VP0
+611#0	missing VP	VP0
+612#2	missing VP	VP0
+613#3	missing VP	VP0
+614#0	missing VP	VP0
+615#2	unrecognized TO	get ready
+616#0	missing VP	VP0
+617#0	missing VP	VP1
+618#1	missing VP	VP1
+619#0	missing VP	VP0
+620#0	missing VP	VP0
+623#1	missing VP	VP0
+627#1	missing VP	VP0
+627#2	missing VP	VP0
+627#3	missing VP	VP0
+629#0	missing VP	VP0
+631#0	missing VP	VP1
+634#0	unrecognized TO	be afraid
+644#3	missing VP	VP0
+645#0	missing VP	VP0
+646#1	unrecognized TO	lean forward
+648#0	missing VP	VP0
+649#1	missing VP	VP0
+651#2	missing VP	VP1
+656#3	missing VP	VP1
+658#0	missing VP	VP1
+660#0	missing VP	VP0
+660#1	missing VP	VP0
+669#2	missing VP	VP0
+670#0	missing VP	VP1
+670#0	missing VP	VP2
+670#0	missing VP	VP3
+670#1	missing VP	VP0
+672#0	missing VP	VP0
+672#0	missing VP	VP2
+672#3	missing VP	VP0
+673#3	missing DOBJ	VP0	NP1
+674#1	missing VP	VP0
+675#2	missing VP	VP0
+675#2	missing SUBJ	VP1	NP2
+676#1	missing VP	VP0
+681#0	missing VP	VP0
+682#0	missing VP	VP1
+682#0	missing VP	VP2
+682#1	missing VP	VP1
+685#0	missing VP	VP1
+685#1	missing VP	VP0
+687#3	missing VP	VP0
+687#3	missing VP	VP1
+689#0	missing VP	VP0
+689#1	missing VP	VP0
+690#0	missing VP	VP0
+690#2	missing VP	VP0
+693#1	missing VP	VP0
+693#2	missing VP	VP0
+693#3	missing VP	VP0
+698#1	missing VP	VP1
+699#1	missing VP	VP0
+700#1	missing VP	VP0
+701#1	missing VP	VP0
+704#0	missing VP	VP0
+704#1	missing VP	VP1
+704#2	missing VP	VP0
+704#3	missing VP	VP0
+708#1	missing VP	VP0
+708#2	missing VP	VP0
+718#0	missing VP	VP0
+722#1	missing VP	VP0
+724#0	missing VP	VP0
+724#1	missing VP	VP0
+724#1	missing VP	VP2
+726#2	missing VP	VP0
+728#2	missing VP	VP0
+731#0	missing VP	VP0
+734#1	missing VP	VP0
+734#1	missing SUBJ	VP1	NP1
+734#3	missing VP	VP0
+736#2	missing VP	VP0
+739#0	missing VP	VP0
+739#0	missing DOBJ	VP1	NP2
+739#3	missing VP	VP0
+740#1	missing VP	VP1
+740#2	missing VP	VP0
+740#2	missing VP	VP1
+745#0	missing VP	VP0
+745#1	missing VP	VP1
+746#3	missing VP	VP0
+747#2	missing DOBJ	VP0	NP1
+748#0	missing VP	VP0
+749#0	missing VP	VP1
+749#3	unrecognized TO	look
+750#0	missing VP	VP0
+751#2	missing VP	VP1
+752#0	missing SUBJ	VP1	NP2
+757#2	missing VP	VP0
+758#1	missing VP	VP0
+758#2	missing VP	VP0
+758#3	missing VP	VP0
+761#3	unrecognized TO	prepare
+763#1	missing VP	VP0
+764#0	missing VP	VP0
+764#2	missing VP	VP0
+771#1	missing VP	VP1
+771#2	missing VP	VP0
+772#0	missing VP	VP0
+773#0	missing VP	VP0
+784#1	missing VP	VP1
+784#2	missing VP	VP0
+786#0	missing VP	VP0
+788#0	missing VP	VP0
+788#3	missing VP	VP0
+789#1	missing VP	VP0
+792#2	missing VP	VP0
+793#0	missing VP	VP0
+793#0	missing VP	VP1
+797#0	missing VP	VP0
+799#0	missing DOBJ	VP0	NP1
+800#1	missing VP	VP1
+802#0	missing VP	VP2
+808#1	missing VP	VP1
+809#1	missing VP	VP0
+810#0	missing VP	VP1
+814#0	unrecognized TO	be afraid
+823#0	missing VP	VP3
+823#1	missing VP	VP0
+823#1	missing VP	VP2
+825#0	missing VP	VP1
+825#2	unrecognized TO	prepare
+832#0	missing VP	VP0
+834#0	missing VP	VP0
+842#1	missing VP	VP0
+842#2	missing VP	VP1
+843#0	missing VP	VP2
+843#1	missing VP	VP1
+844#1	missing VP	VP0
+845#0	unrecognized TO	open
+850#0	missing DOBJ	VP0	NP1
+851#0	missing VP	VP1
+852#0	missing VP	VP1
+852#1	missing VP	VP0
+852#3	missing VP	VP0
+856#0	missing VP	VP1
+856#3	missing VP	VP0
+857#0	missing VP	VP0
+858#0	missing VP	VP0
+858#1	missing VP	VP0
+858#3	missing VP	VP1
+861#0	missing VP	VP0
+864#2	missing VP	VP0
+865#0	missing VP	VP0
+873#2	missing VP	VP1
+875#0	missing VP	VP0
+876#2	missing VP	VP0
+877#1	missing VP	VP0
+879#0	missing VP	VP0
+882#1	missing VP	VP0
+887#0	missing VP	VP0
+887#0	missing VP	VP1
+887#0	missing VP	VP3
+890#0	missing VP	VP0
+892#0	missing VP	VP0
+894#0	missing VP	VP0
+896#1	missing VP	VP0
+898#0	missing VP	VP0
+898#1	missing VP	VP0
+898#2	missing VP	VP0
+899#0	missing VP	VP0
+899#3	missing VP	VP0
+900#2	missing DOBJ	VP0	NP1
+902#0	missing VP	VP0
+902#0	missing VP	VP2
+902#0	missing VP	VP4
+902#2	missing VP	VP0
+903#1	missing VP	VP0
+903#1	missing VP	VP1
+903#3	missing VP	VP0
+905#0	missing VP	VP0
+906#2	missing VP	VP0
+909#3	missing VP	VP0
+911#0	missing VP	VP0
+911#1	missing VP	VP0
+912#2	missing VP	VP0
+913#2	unrecognized TO	prepare
+915#0	missing VP	VP0
+915#2	missing VP	VP0
+916#2	missing VP	VP0
+919#0	missing VP	VP0
+923#0	missing VP	VP0
+923#2	missing VP	VP0
+933#0	missing DOBJ	VP0	NP1
+935#0	missing VP	VP0
+935#0	missing DOBJ	VP1	NP2
+935#3	missing VP	VP0
+936#1	missing VP	VP0
+939#3	missing VP	VP0
+944#2	missing VP	VP0
+945#3	missing VP	VP0
+946#0	missing VP	VP1
+947#0	unrecognized TO	standing
+948#2	unrecognized TO	get ready
+951#0	missing VP	VP0
+951#2	missing VP	VP0
+951#3	missing VP	VP0
+952#0	missing VP	VP0
+953#0	missing VP	VP0
+953#0	missing VP	VP1
+953#0	missing VP	VP2
+953#1	missing VP	VP0
+956#1	missing VP	VP0
+956#2	missing VP	VP0
+956#3	missing VP	VP0
+959#1	missing VP	VP0
+961#0	missing VP	VP0
+962#1	missing VP	VP0
+967#2	missing DOBJ	VP0	NP1
+969#0	missing VP	VP0
+969#1	missing VP	VP0
+969#2	missing VP	VP0
+970#0	missing VP	VP1
+970#1	missing VP	VP1
+970#3	missing VP	VP1
+971#3	missing VP	VP0
+972#0	missing SUBJ	VP0	NP4
+975#3	missing DOBJ	VP0	NP1
+977#0	missing VP	VP0
+977#0	missing VP	VP1
+977#0	missing VP	VP2
+977#2	missing VP	VP0
+979#0	missing VP	VP0
+980#0	missing VP	VP0
+980#3	missing VP	VP1
+981#1	missing VP	VP0
+986#0	missing VP	VP0
+987#2	missing VP	VP0
+991#0	missing DOBJ	VP0	NP1
+994#1	missing VP	VP1
+994#3	missing DOBJ	VP0	NP1
+996#0	missing VP	VP0
+998#0	unrecognized TO	prepare
+998#2	unrecognized TO	prepare
+999#1	missing VP	VP0
+1000#1	missing VP	VP0
+1005#0	unrecognized TO	confuse try
+1006#3	unrecognized TO	help
+1007#0	missing VP	VP0
+1007#1	unrecognized TO	get ready
+1009#0	missing VP	VP0
+1009#0	missing VP	VP2
+1010#0	missing VP	VP0
+1010#0	missing VP	VP1
+1011#1	missing VP	VP0
+1012#3	missing VP	VP1
+1014#0	missing VP	VP0
+1015#1	missing VP	VP1
+1016#2	missing VP	VP0
+1016#3	missing VP	VP0
+1016#3	missing VP	VP1
+1019#3	missing VP	VP0
+1020#0	missing VP	VP2
+1022#1	missing VP	VP0
+1024#1	missing VP	VP0
+1024#1	missing DOBJ	VP1	NP2
+1029#2	missing VP	VP0
+1030#1	missing VP	VP0
+1032#0	missing VP	VP0
+1033#0	missing VP	VP0
+1033#1	missing VP	VP0
+1035#0	missing VP	VP0
+1035#2	missing VP	VP0
+1035#2	missing VP	VP1
+1038#0	missing VP	VP0
+1038#1	missing VP	VP0
+1039#3	missing VP	VP0
+1041#3	missing VP	VP0
+1042#2	missing VP	VP0
+1043#0	missing DOBJ	VP1	NP2
+1043#1	missing VP	VP0
+1044#2	missing VP	VP0
+1045#1	missing VP	VP0
+1047#1	missing VP	VP0
+1048#0	missing VP	VP0
+1049#0	missing VP	VP0
+1050#1	missing VP	VP0
+1052#0	unrecognized TO	be happy
+1054#1	unrecognized TO	pose
+1054#3	missing VP	VP0
+1056#0	missing VP	VP0
+1056#1	missing VP	VP0
+1060#1	missing VP	VP0
+1060#2	missing VP	VP0
+1060#3	missing VP	VP0
+1061#0	missing VP	VP1
+1071#0	missing VP	VP0
+1071#3	missing VP	VP0
+1074#0	missing VP	VP0
+1074#1	missing VP	VP0
+1074#3	missing DOBJ	VP0	NP2
+1077#0	missing VP	VP1
+1078#1	missing VP	VP0
+1080#0	missing VP	VP1
+1081#1	missing VP	VP1
+1082#3	missing VP	VP0
+1085#0	missing VP	VP0
+1086#2	missing DOBJ	VP0	NP1
+1091#H	missing DOBJ	VP0	NP1
+1093#1	missing VP	VP0
+1093#2	missing VP	VP0
+1093#3	missing VP	VP0
+1098#1	missing VP	VP0
+1098#2	missing VP	VP1
+1099#0	missing VP	VP1
+1105#2	missing DOBJ	VP0	NP1
+1106#0	missing VP	VP0
+1110#1	missing VP	VP0
+1114#1	missing VP	VP0
+1114#1	missing SUBJ	VP1	NP3
+1115#0	missing VP	VP0
+1117#0	missing VP	VP0
+1118#0	missing VP	VP0
+1121#0	missing VP	VP0
+1123#3	missing VP	VP0
+1125#0	missing VP	VP0
+1125#1	missing VP	VP0
+1125#2	missing VP	VP0
+1125#2	missing VP	VP1
+1128#0	unrecognized TO	pretend
+1128#1	unrecognized TO	pretend
+1128#2	unrecognized TO	pretend
+1129#0	missing VP	VP1
+1130#0	missing VP	VP0
+1130#1	missing VP	VP1
+1131#0	missing VP	VP0
+1131#0	missing VP	VP1
+1131#2	missing VP	VP0
+1134#2	missing DOBJ	VP0	NP1
+1134#3	missing DOBJ	VP0	NP1
+1135#1	missing VP	VP0
+1136#0	missing VP	VP0
+1136#0	missing VP	VP2
+1136#0	missing VP	VP5
+1136#2	missing VP	VP0
+1136#2	missing VP	VP1
+1140#2	missing VP	VP0
+1145#0	missing VP	VP0
+1150#2	missing VP	VP0
+1151#2	missing VP	VP0
+1156#0	missing VP	VP1
+1156#0	missing SUBJ	VP2	NP3
+1160#1	missing VP	VP0
+1163#0	missing VP	VP0
+1163#2	missing VP	VP0
+1164#1	missing DOBJ	VP0	NP1
+1165#0	missing VP	VP0
+1166#1	missing VP	VP0
+1166#2	missing VP	VP0
+1166#3	missing VP	VP0
+1167#1	missing VP	VP0
+1168#2	missing VP	VP1
+1169#0	missing VP	VP3
+1170#0	missing VP	VP0
+1172#1	missing VP	VP0
+1172#1	missing VP	VP1
+1173#0	missing VP	VP0
+1175#0	missing VP	VP0
+1182#H	unrecognized TO	prepare
+1190#0	missing VP	VP0
+1190#2	missing SUBJ	VP0	NP2
+1192#1	missing VP	VP0
+1200#0	missing DOBJ	VP0	NP1
+1200#1	missing VP	VP0
+1202#0	missing VP	VP1
+1203#1	missing VP	VP0
+1210#0	missing VP	VP0
+1212#0	missing VP	VP0
+1214#2	missing VP	VP0
+1215#0	missing VP	VP0
+1217#0	missing VP	VP0
+1217#1	missing VP	VP0
+1219#1	missing VP	VP0
+1219#1	missing VP	VP3
+1222#0	missing VP	VP0
+1225#0	missing VP	VP0
+1225#1	missing VP	VP0
+1225#2	missing VP	VP0
+1225#2	missing VP	VP3
+1227#0	missing VP	VP0
+1227#0	missing VP	VP2
+1232#0	missing VP	VP1
+1232#0	missing VP	VP3
+1232#2	missing VP	VP0
+1234#1	missing VP	VP0
+1235#0	missing VP	VP0
+1236#2	missing VP	VP0
+1240#0	missing VP	VP0
+1241#1	missing VP	VP0
+1245#0	missing VP	VP0
+1245#2	missing VP	VP0
+1246#2	missing VP	VP1
+1248#0	missing VP	VP1
+1248#1	missing VP	VP0
+1248#2	missing VP	VP0
+1248#3	missing VP	VP0
+1250#3	missing VP	VP0
+1252#3	missing VP	VP0
+1254#2	missing VP	VP0
+1256#1	missing VP	VP0
+1257#0	missing VP	VP0
+1262#0	missing VP	VP0
+1263#2	unrecognized TO	want
+1265#0	missing VP	VP0
+1266#1	missing VP	VP0
+1268#0	missing VP	VP0
+1268#2	missing VP	VP1
+1272#0	missing VP	VP0
+1274#0	missing VP	VP0
+1274#1	missing VP	VP0
+1274#2	missing VP	VP1
+1274#3	missing VP	VP0
+1277#0	missing VP	VP0
+1277#1	missing DOBJ	VP1	NP2
+1281#0	missing VP	VP0
+1282#1	unrecognized TO	prepare
+1283#1	missing VP	VP1
+1285#1	missing VP	VP0
+1289#0	missing VP	VP0
+1295#1	unrecognized TO	look
+1295#2	missing VP	VP0
+1303#0	missing VP	VP1
+1303#0	missing VP	VP2
+1304#0	missing VP	VP0
+1304#1	missing VP	VP0
+1304#3	missing VP	VP0
+1304#3	missing SUBJ	VP1	NP1
+1305#1	unrecognized TO	be curious
+1311#0	missing VP	VP0
+1311#2	missing VP	VP1
+1312#0	unrecognized TO	appear to be happy
+1314#1	unrecognized TO	get ready
+1315#0	unrecognized TO	turn
+1315#1	missing VP	VP0
+1317#0	missing VP	VP0
+1317#2	unrecognized TO	want
+1319#0	missing VP	VP0
+1319#0	unrecognized TO	coveralls attempt
+1322#0	missing VP	VP2
+1324#0	missing VP	VP1
+1324#0	missing VP	VP2
+1326#0	missing SUBJ	VP1	NP5
+1329#0	missing VP	VP0
+1329#0	missing DOBJ	VP1	NP3
+1329#1	missing DOBJ	VP0	NP1
+1330#1	unrecognized TO	can
+1330#2	unrecognized TO	jump to try
+1331#1	missing VP	VP0
+1334#0	missing VP	VP1
+1334#2	missing VP	VP0
+1334#3	missing VP	VP0
+1336#0	missing VP	VP0
+1342#0	missing VP	VP0
+1342#1	missing VP	VP1
+1345#0	unrecognized TO	be
+1347#0	missing VP	VP1
+1347#1	missing VP	VP0
+1348#2	missing VP	VP0
+1352#0	missing VP	VP0
+1354#0	missing VP	VP0
+1355#1	missing VP	VP0
+1355#2	missing VP	VP0
+1356#0	missing VP	VP0
+1356#0	missing VP	VP1
+1356#1	missing VP	VP1
+1360#1	missing VP	VP1
+1362#2	missing VP	VP0
+1363#0	missing VP	VP0
+1363#3	unrecognized TO	get ready
+1368#0	missing VP	VP0
+1369#0	missing VP	VP1
+1369#1	missing VP	VP0
+1369#2	missing VP	VP0
+1370#2	missing VP	VP0
+1372#1	missing VP	VP0
+1375#2	missing VP	VP0
+1382#3	missing VP	VP0
+1386#2	missing VP	VP0
+1386#3	unrecognized TO	get ready
+1389#0	missing VP	VP0
+1389#1	missing VP	VP0
+1389#3	missing VP	VP0
+1390#3	missing VP	VP0
+1391#0	missing VP	VP0
+1392#1	unrecognized TO	learn
+1393#0	missing VP	VP0
+1396#H	missing DOBJ	VP0	NP1
+1397#1	missing VP	VP0
+1397#2	missing VP	VP0
+1404#0	missing VP	VP0
+1404#0	unrecognized TO	design
+1404#1	missing VP	VP0
+1405#0	missing VP	VP0
+1406#1	missing VP	VP0
+1406#1	missing VP	VP1
+1408#3	missing VP	VP0
+1409#0	missing VP	VP1
+1409#0	missing VP	VP3
+1411#0	missing VP	VP0
+1411#2	missing VP	VP0
+1415#0	missing VP	VP0
+1416#0	missing SUBJ	VP1	NP3
+1417#1	missing VP	VP0
+1417#3	missing VP	VP0
+1418#0	missing VP	VP0
+1418#2	missing VP	VP0
+1419#0	missing VP	VP0
+1419#1	missing VP	VP0
+1422#0	missing VP	VP1
+1425#3	missing DOBJ	VP0	NP1
+1427#0	missing VP	VP0
+1427#2	missing VP	VP0
+1427#3	missing VP	VP0
+1427#3	missing SUBJ	VP1	NP1
+1428#0	missing VP	VP0
+1428#2	missing SUBJ	VP0	NP1
+1430#0	missing VP	VP0
+1432#0	missing VP	VP0
+1432#2	missing VP	VP0
+1432#2	missing VP	VP1
+1434#1	missing VP	VP0
+1434#2	unrecognized TO	get ready
+1436#0	missing VP	VP0
+1436#0	missing SUBJ	VP3	NP6
+1436#1	missing VP	VP0
+1437#1	missing VP	VP0
+1441#2	missing VP	VP0
+1441#2	missing VP	VP1
+1442#0	missing VP	VP1
+1443#1	missing VP	VP1
+1444#0	missing VP	VP0
+1445#0	missing VP	VP2
+1445#0	missing VP	VP3
+1447#0	missing VP	VP1
+1447#0	missing VP	VP2
+1447#1	missing SUBJ	VP2	NP2
+1450#0	missing VP	VP0
+1452#0	missing VP	VP1
+1453#0	unrecognized TO	play
+1455#0	missing VP	VP0
+1455#1	missing VP	VP0
+1457#0	missing VP	VP1
+1459#2	missing VP	VP0
+1459#2	missing VP	VP1
+1460#0	missing VP	VP0
+1464#2	unrecognized TO	wok
+1465#0	missing VP	VP0
+1465#2	missing VP	VP0
+1467#1	missing SUBJ	VP0	NP2
+1467#2	missing VP	VP1
+1468#0	missing VP	VP0
+1473#0	missing VP	VP0
+1473#1	missing VP	VP0
+1473#2	missing VP	VP0
+1473#2	missing VP	VP2
+1477#1	missing VP	VP0
+1478#1	missing VP	VP0
+1479#1	missing VP	VP0
+1481#0	missing VP	VP1
+1484#3	missing VP	VP1
+1484#3	missing VP	VP2
+1485#0	missing VP	VP0
+1485#0	missing VP	VP1
+1485#1	missing VP	VP0
+1486#1	missing VP	VP0
+1490#0	missing VP	VP0
+1490#0	missing VP	VP1
+1492#3	missing VP	VP0
+1493#0	missing VP	VP1
+1497#3	missing VP	VP1
+1498#1	missing VP	VP0
+1501#0	missing VP	VP0
+1501#1	missing VP	VP0
+1501#2	missing VP	VP0
+1501#2	missing VP	VP1
+1503#0	missing VP	VP0
+1505#2	missing SUBJ	VP0	NP1
+1508#1	missing VP	VP2
+1509#0	missing VP	VP0
+1510#1	missing VP	VP0
+1510#3	missing VP	VP1
+1512#1	missing VP	VP0
+1512#1	missing VP	VP2
+1513#3	missing VP	VP0
+1514#0	unrecognized TO	seem fun
+1515#2	missing VP	VP1
+1519#1	missing VP	VP0
+1519#2	missing VP	VP0
+1521#0	missing VP	VP0
+1522#0	missing VP	VP0
+1523#0	missing VP	VP0
+1523#1	missing VP	VP0
+1523#2	missing VP	VP0
+1523#2	missing VP	VP1
+1524#1	missing VP	VP0
+1525#0	missing VP	VP0
+1525#0	missing VP	VP1
+1525#1	missing VP	VP1
+1525#2	missing VP	VP0
+1525#3	missing VP	VP0
+1530#0	missing VP	VP0
+1530#2	missing VP	VP0
+1539#0	unrecognized TO	prepare
+1539#1	unrecognized TO	prepare
+1540#1	missing VP	VP0
+1541#2	missing VP	VP0
+1543#0	missing VP	VP0
+1544#0	missing VP	VP0
+1547#0	missing VP	VP0
+1547#0	unrecognized TO	get ready
+1548#1	missing VP	VP0
+1553#0	missing VP	VP0
+1554#2	missing DOBJ	VP0	NP2
+1556#0	missing VP	VP0
+1560#0	missing VP	VP0
+1560#1	missing VP	VP0
+1561#0	missing VP	VP0
+1568#0	missing VP	VP1
+1570#0	missing VP	VP0
+1571#0	missing VP	VP0
+1571#1	missing DOBJ	VP0	NP2
+1572#1	missing VP	VP0
+1575#0	missing VP	VP2
+1575#0	missing VP	VP4
+1578#0	missing VP	VP1
+1578#1	missing VP	VP0
+1579#0	missing VP	VP0
+1579#1	missing VP	VP0
+1580#1	missing VP	VP2
+1580#3	missing VP	VP0
+1581#0	missing VP	VP0
+1584#0	missing VP	VP0
+1586#0	missing VP	VP0
+1586#0	unrecognized TO	be
+1588#1	missing VP	VP0
+1590#0	missing VP	VP0
+1590#1	missing VP	VP0
+1595#1	missing VP	VP0
+1595#3	unrecognized TO	continue
+1596#2	missing VP	VP0
+1599#3	missing VP	VP0
+1603#1	missing VP	VP0
+1603#3	missing VP	VP0
+1604#2	missing VP	VP0
+1609#0	missing VP	VP0
+1611#1	missing VP	VP0
+1613#0	missing VP	VP0
+1614#0	missing VP	VP0
+1614#3	missing VP	VP0
+1620#1	missing VP	VP0
+1620#3	missing VP	VP0
+1621#1	unrecognized TO	compete
+1623#0	missing VP	VP1
+1623#1	missing VP	VP0
+1625#0	missing VP	VP0
+1627#3	missing DOBJ	VP0	NP1
+1628#0	unrecognized TO	rush
+1628#3	missing VP	VP0
+1629#3	missing VP	VP0
+1630#1	missing VP	VP0
+1630#H	missing DOBJ	VP0	NP1
+1632#0	missing VP	VP0
+1636#0	missing VP	VP0
+1636#2	missing VP	VP1
+1637#0	missing VP	VP0
+1637#2	missing VP	VP1
+1637#2	missing VP	VP2
+1639#0	missing VP	VP0
+1639#0	missing VP	VP1
+1640#0	missing VP	VP0
+1640#2	unrecognized TO	head try
+1643#1	missing VP	VP0
+1644#0	missing VP	VP0
+1644#1	missing VP	VP0
+1644#3	missing VP	VP0
+1644#3	missing VP	VP2
+1646#1	missing VP	VP0
+1647#2	missing VP	VP0
+1648#3	missing DOBJ	VP0	NP1
+1650#0	missing VP	VP3
+1650#2	missing VP	VP0
+1653#1	unrecognized TO	ask
+1655#H	missing VP	VP0
+1656#2	missing VP	VP0
+1659#3	missing VP	VP0
+1662#0	missing VP	VP0
+1662#0	missing SUBJ	VP1	NP1
+1663#0	missing VP	VP0
+1663#0	missing VP	VP2
+1664#2	missing VP	VP0
+1666#0	missing VP	VP0
+1666#0	missing VP	VP2
+1669#2	missing VP	VP0
+1669#3	missing VP	VP0
+1670#1	missing VP	VP0
+1670#3	missing VP	VP0
+1672#0	missing VP	VP0
+1673#0	missing VP	VP0
+1673#2	missing VP	VP1
+1673#2	missing SUBJ	VP2	NP2
+1676#2	missing VP	VP0
+1679#2	missing VP	VP0
+1681#1	missing VP	VP0
+1683#1	missing VP	VP0
+1686#0	missing VP	VP0
+1687#0	unrecognized TO	prepare
+1689#0	missing VP	VP0
+1689#1	missing VP	VP0
+1690#0	missing VP	VP0
+1702#3	missing VP	VP0
+1705#0	missing VP	VP0
+1705#3	unrecognized TO	prepare
+1707#0	missing VP	VP0
+1711#1	missing VP	VP0
+1719#1	missing VP	VP0
+1722#0	missing VP	VP0
+1722#1	missing VP	VP0
+1722#2	missing VP	VP0
+1723#0	missing VP	VP0
+1723#3	missing VP	VP0
+1725#2	unrecognized TO	help
+1726#0	missing VP	VP0
+1729#0	missing VP	VP0
+1729#3	missing VP	VP0
+1731#0	missing VP	VP0
+1731#1	missing VP	VP0
+1734#0	missing VP	VP1
+1734#1	missing DOBJ	VP0	NP1
+1736#3	missing VP	VP0
+1737#0	missing VP	VP0
+1738#1	missing VP	VP0
+1738#3	missing VP	VP0
+1739#0	missing VP	VP1
+1743#1	missing VP	VP0
+1744#0	missing VP	VP1
+1744#0	missing VP	VP2
+1745#1	missing VP	VP0
+1746#0	missing VP	VP0
+1746#0	missing VP	VP3
+1746#1	missing VP	VP0
+1746#3	missing VP	VP0
+1746#3	missing VP	VP1
+1747#2	missing VP	VP0
+1748#0	missing VP	VP0
+1748#0	missing VP	VP1
+1749#0	missing VP	VP0
+1750#0	missing VP	VP0
+1750#2	missing VP	VP1
+1752#0	unrecognized TO	pretend
+1753#0	missing VP	VP0
+1753#0	missing VP	VP1
+1753#1	missing VP	VP1
+1754#1	missing VP	VP0
+1756#0	missing VP	VP1
+1756#1	missing VP	VP0
+1757#3	missing DOBJ	VP0	NP1
+1762#2	missing VP	VP0
+1765#3	missing VP	VP0
+1771#2	missing VP	VP0
+1771#3	missing VP	VP0
+1773#0	missing VP	VP0
+1774#0	missing VP	VP0
+1774#0	missing VP	VP2
+1776#2	missing VP	VP0
+1779#0	missing VP	VP0
+1781#0	missing VP	VP0
+1781#1	missing VP	VP0
+1786#0	missing VP	VP0
+1786#2	missing VP	VP0
+1786#2	missing SUBJ	VP1	NP1
+1789#0	missing VP	VP1
+1790#0	missing VP	VP0
+1790#3	missing VP	VP0
+1791#0	missing VP	VP2
+1796#0	missing VP	VP0
+1801#0	missing VP	VP0
+1805#0	missing VP	VP0
+1806#1	missing VP	VP0
+1809#0	missing VP	VP1
+1809#0	missing VP	VP3
+1809#2	missing VP	VP0
+1809#3	missing VP	VP0
+1810#1	missing VP	VP0
+1810#3	missing DOBJ	VP0	NP1
+1813#2	missing VP	VP0
+1813#3	missing DOBJ	VP0	NP1
+1813#H	missing DOBJ	VP0	NP1
+1815#1	missing VP	VP0
+1815#2	missing VP	VP0
+1815#3	missing VP	VP0
+1816#0	missing VP	VP1
+1817#3	missing VP	VP0
+1820#3	missing VP	VP0
+1822#1	missing VP	VP1
+1823#3	unrecognized TO	get ready
+1825#0	missing VP	VP0
+1825#2	missing DOBJ	VP0	NP1
+1826#1	missing DOBJ	VP0	NP1
+1828#0	missing VP	VP0
+1829#0	missing VP	VP0
+1829#0	missing VP	VP2
+1829#1	missing VP	VP1
+1831#0	missing VP	VP0
+1831#0	missing VP	VP2
+1832#1	missing VP	VP0
+1832#1	missing VP	VP1
+1833#2	missing DOBJ	VP0	NP1
+1833#H	missing DOBJ	VP0	NP1
+1835#1	missing VP	VP1
+1836#3	unrecognized TO	help
+1840#0	missing VP	VP0
+1840#1	missing VP	VP0
+1840#2	missing VP	VP0
+1841#1	missing SUBJ	VP1	NP1
+1842#0	missing VP	VP0
+1843#0	unrecognized TO	prepare
+1843#2	missing VP	VP0
+1844#1	missing DOBJ	VP0	NP3
+1847#3	missing DOBJ	VP0	NP1
+1849#0	missing VP	VP1
+1850#0	missing VP	VP1
+1850#H	missing DOBJ	VP0	NP1
+1853#1	missing VP	VP1
+1855#0	missing VP	VP0
+1855#1	missing VP	VP3
+1855#2	missing VP	VP1
+1856#0	missing VP	VP1
+1857#3	unrecognized TO	be happy
+1858#0	unrecognized TO	get ready
+1859#0	missing VP	VP0
+1859#3	missing VP	VP0
+1860#2	missing VP	VP0
+1862#1	missing VP	VP0
+1862#2	missing VP	VP0
+1862#3	missing VP	VP0
+1863#0	missing VP	VP0
+1864#3	missing VP	VP0
+1866#1	missing VP	VP0
+1867#0	missing VP	VP0
+1870#1	missing DOBJ	VP0	NP1
+1871#2	missing VP	VP0
+1872#1	missing VP	VP1
+1874#1	missing VP	VP0
+1874#2	missing VP	VP0
+1876#0	missing VP	VP1
+1878#0	missing VP	VP0
+1878#3	missing VP	VP0
+1882#3	missing VP	VP1
+1883#0	missing VP	VP0
+1886#0	missing VP	VP0
+1886#1	missing VP	VP0
+1886#3	missing VP	VP0
+1887#3	unrecognized TO	get ready
+1889#0	missing VP	VP0
+1890#1	missing VP	VP0
+1893#0	missing VP	VP0
+1893#2	missing VP	VP2
+1900#0	missing VP	VP0
+1910#3	missing VP	VP0
+1911#3	missing VP	VP0
+1912#1	missing VP	VP0
+1917#0	missing VP	VP0
+1918#1	missing VP	VP0
+1919#1	missing VP	VP0
+1919#2	missing VP	VP0
+1920#0	missing VP	VP0
+1920#1	missing VP	VP0
+1920#2	missing VP	VP0
+1922#0	missing VP	VP1
+1922#3	missing DOBJ	VP0	NP1
+1923#0	missing VP	VP0
+1924#2	missing VP	VP0
+1925#3	missing DOBJ	VP0	NP1
+1926#0	missing VP	VP0
+1926#0	missing VP	VP4
+1926#0	missing VP	VP5
+1927#0	missing VP	VP0
+1929#0	missing VP	VP0
+1929#1	missing VP	VP1
+1930#0	missing VP	VP0
+1930#0	missing VP	VP1
+1932#0	missing VP	VP0
+1932#2	missing VP	VP0
+1933#0	missing VP	VP0
+1933#1	missing VP	VP0
+1933#2	missing VP	VP0
+1934#0	missing VP	VP0
+1934#2	unrecognized TO	want
+1938#0	missing VP	VP0
+1938#0	missing VP	VP4
+1939#0	missing VP	VP0
+1939#1	missing VP	VP0
+1939#2	missing VP	VP0
+1940#1	missing VP	VP0
+1940#1	missing SUBJ	VP1	NP1
+1941#2	missing VP	VP0
+1942#1	missing SUBJ	VP1	NP2
+1942#2	missing DOBJ	VP0	NP2
+1947#3	missing VP	VP0
+1958#0	unrecognized TO	look
+1959#0	missing VP	VP0
+1960#0	missing VP	VP0
+1965#2	missing VP	VP0
+1967#0	missing VP	VP0
+1968#0	missing VP	VP0
+1972#1	missing VP	VP1
+1973#0	missing VP	VP0
+1974#0	unrecognized TO	stretch
+1978#0	missing VP	VP1
+1979#1	missing VP	VP0
+1979#2	missing VP	VP0
+1981#1	missing VP	VP1
+1982#1	missing DOBJ	VP0	NP2
+1982#2	missing DOBJ	VP0	NP1
+1984#1	missing VP	VP1
+1986#0	missing VP	VP0
+1986#2	unrecognized TO	pretend
+1994#0	missing VP	VP1
+1994#0	missing VP	VP3
+1995#0	missing VP	VP0
+1996#1	missing VP	VP0
+1996#H	missing DOBJ	VP0	NP1
+2002#0	missing VP	VP0
+2003#0	missing VP	VP0
+2006#0	missing VP	VP0
+2007#0	missing VP	VP0
+2008#0	missing VP	VP0
+2009#0	missing VP	VP0
+2009#0	missing DOBJ	VP2	NP3
+2011#0	missing VP	VP0
+2011#0	missing VP	VP1
+2011#0	missing VP	VP2
+2011#0	missing VP	VP3
+2011#1	missing VP	VP0
+2012#0	missing VP	VP1
+2013#1	missing VP	VP2
+2014#0	missing VP	VP0
+2015#0	missing VP	VP0
+2017#0	missing VP	VP0
+2019#0	missing VP	VP0
+2019#1	missing VP	VP0
+2020#0	missing VP	VP0
+2021#2	missing DOBJ	VP0	NP1
+2022#3	missing VP	VP0
+2025#0	missing DOBJ	VP0	NP1
+2027#0	missing VP	VP1
+2028#1	missing VP	VP0
+2032#3	missing VP	VP0
+2034#0	missing VP	VP0
+2037#0	missing VP	VP0
+2037#3	missing VP	VP0
+2038#0	missing VP	VP0
+2039#1	missing VP	VP0
+2044#2	missing VP	VP0
+2046#1	missing VP	VP0
+2047#0	missing SUBJ	VP1	NP3
+2049#0	missing VP	VP3
+2049#0	missing VP	VP4
+2050#0	missing VP	VP0
+2050#1	missing VP	VP0
+2050#2	missing VP	VP0
+2051#3	unrecognized TO	have
+2053#0	missing SUBJ	VP0	NP2
+2055#0	unrecognized TO	prepare
+2055#2	missing DOBJ	VP0	NP1
+2058#1	missing VP	VP0
+2060#0	missing VP	VP0
+2060#2	missing VP	VP0
+2060#2	missing SUBJ	VP1	NP1
+2062#0	missing VP	VP1
+2062#3	missing VP	VP0
+2064#0	missing VP	VP0
+2065#0	unrecognized TO	seem to be get ready
+2066#1	missing VP	VP1
+2066#1	missing VP	VP2
+2066#2	missing VP	VP2
+2067#0	missing VP	VP0
+2067#3	missing VP	VP0
+2068#3	missing DOBJ	VP0	NP1
+2070#3	missing DOBJ	VP0	NP1
+2070#H	missing DOBJ	VP0	NP1
+2072#H	missing VP	VP0
+2074#0	unrecognized TO	look
+2074#1	missing VP	VP0
+2075#2	missing VP	VP0
+2076#0	missing VP	VP1
+2080#0	missing VP	VP0
+2080#2	missing SUBJ	VP0	NP1
+2083#1	missing VP	VP0
+2083#2	missing VP	VP0
+2083#3	missing VP	VP0
+2084#0	missing VP	VP1
+2091#0	missing VP	VP1
+2091#0	missing SUBJ	VP2	NP3
+2094#0	missing VP	VP0
+2094#1	missing VP	VP0
+2094#3	missing VP	VP0
+2094#3	missing VP	VP1
+2095#1	missing VP	VP0
+2095#2	missing VP	VP0
+2097#0	missing VP	VP1
+2097#1	missing VP	VP0
+2098#0	missing DOBJ	VP0	NP1
+2098#1	missing VP	VP0
+2099#1	missing VP	VP0
+2099#2	missing VP	VP0
+2099#3	missing VP	VP0
+2104#1	missing VP	VP0
+2104#2	missing VP	VP0
+2104#3	missing VP	VP0
+2105#0	missing VP	VP0
+2106#3	missing VP	VP0
+2108#2	missing VP	VP0
+2109#0	missing VP	VP0
+2110#1	missing VP	VP0
+2114#0	missing VP	VP2
+2114#1	unrecognized TO	get ready
+2114#3	missing VP	VP0
+2120#0	missing VP	VP2
+2125#0	missing VP	VP1
+2127#0	missing VP	VP0
+2128#2	missing VP	VP0
+2129#0	missing VP	VP0
+2130#1	missing VP	VP2
+2130#1	missing VP	VP3
+2131#0	missing VP	VP0
+2131#0	missing DOBJ	VP2	NP4
+2131#3	missing VP	VP0
+2132#0	missing VP	VP1
+2133#0	missing VP	VP0
+2133#1	unrecognized TO	prepare
+2135#0	missing VP	VP0
+2137#0	missing VP	VP0
+2137#0	missing SUBJ	VP1	NP1
+2138#0	missing VP	VP0
+2140#1	unrecognized TO	get ready
+2140#2	unrecognized TO	prepare
+2140#2	unrecognized TO	prepare to go
+2140#3	unrecognized TO	prepare
+2141#0	missing DOBJ	VP0	NP2
+2142#1	missing VP	VP0
+2142#2	missing VP	VP0
+2142#3	missing VP	VP0
+2144#1	missing VP	VP0
+2144#2	missing VP	VP0
+2144#3	missing DOBJ	VP0	NP2
+2146#0	missing VP	VP1
+2146#2	missing VP	VP0
+2146#3	missing VP	VP0
+2149#0	missing VP	VP0
+2149#1	missing VP	VP0
+2149#2	missing VP	VP0
+2151#0	missing VP	VP0
+2151#0	missing DOBJ	VP2	NP5
+2151#3	missing DOBJ	VP0	NP2
+2155#0	missing VP	VP0
+2157#1	missing VP	VP0
+2159#1	missing VP	VP0
+2159#3	unrecognized TO	pretend
+2161#0	missing VP	VP1
+2161#1	missing VP	VP1
+2161#2	missing VP	VP0
+2162#0	missing VP	VP0
+2162#1	missing VP	VP0
+2165#0	missing VP	VP0
+2175#0	missing VP	VP0
+2175#0	missing VP	VP4
+2175#2	unrecognized TO	wok
+2176#0	missing VP	VP0
+2176#0	missing VP	VP2
+2178#1	missing VP	VP0
+2179#0	missing VP	VP0
+2179#0	missing VP	VP1
+2181#0	missing VP	VP0
+2181#2	missing VP	VP0
+2181#2	missing VP	VP1
+2182#0	missing VP	VP0
+2182#0	missing VP	VP2
+2182#0	missing VP	VP3
+2191#3	missing VP	VP0
+2192#1	missing VP	VP1
+2192#2	missing VP	VP0
+2192#3	missing VP	VP0
+2195#2	missing VP	VP0
+2196#0	missing VP	VP0
+2201#0	missing VP	VP0
+2201#0	missing DOBJ	VP1	NP2
+2201#0	missing VP	VP2
+2202#1	missing VP	VP1
+2204#0	missing VP	VP1
+2205#0	missing VP	VP1
+2205#1	missing DOBJ	VP0	NP1
+2206#2	missing VP	VP0
+2207#0	missing VP	VP0
+2209#1	missing VP	VP0
+2210#0	missing VP	VP0
+2211#3	missing VP	VP0
+2214#0	missing VP	VP0
+2214#1	missing VP	VP0
+2214#3	missing VP	VP0
+2216#1	missing VP	VP0
+2216#2	missing VP	VP0
+2220#0	missing VP	VP0
+2220#1	missing VP	VP0
+2221#0	unrecognized TO	seem to be get ready
+2227#0	missing VP	VP0
+2229#0	missing VP	VP0
+2229#1	missing VP	VP0
+2233#0	missing VP	VP0
+2234#0	missing VP	VP0
+2235#0	missing VP	VP0
+2235#1	missing VP	VP0
+2236#2	missing VP	VP0
+2237#1	missing VP	VP0
+2237#1	missing VP	VP1
+2240#1	unrecognized TO	get prepare
+2242#0	missing VP	VP0
+2246#3	missing DOBJ	VP0	NP1
+2248#0	missing VP	VP0
+2250#0	missing VP	VP0
+2255#0	missing VP	VP0
+2256#0	missing VP	VP0
+2256#2	missing VP	VP0
+2262#3	missing VP	VP1
+2263#0	missing VP	VP0
+2264#3	missing VP	VP0
+2265#1	missing VP	VP1
+2265#1	missing VP	VP3
+2266#0	missing VP	VP0
+2266#1	missing VP	VP0
+2269#0	missing VP	VP0
+2270#0	missing VP	VP0
+2270#3	missing VP	VP0
+2272#2	missing VP	VP0
+2276#0	missing VP	VP0
+2280#2	missing VP	VP0
+2286#3	missing VP	VP0
+2288#3	missing VP	VP0
+2294#1	missing VP	VP0
+2297#1	missing VP	VP0
+2298#0	missing VP	VP0
+2298#2	missing VP	VP0
+2300#0	missing VP	VP0
+2300#0	missing VP	VP1
+2301#1	missing DOBJ	VP0	NP1
+2303#1	missing VP	VP0
+2303#1	missing VP	VP2
+2303#2	missing VP	VP0
+2305#0	missing VP	VP1
+2307#0	missing VP	VP0
+2307#H	missing DOBJ	VP0	NP1
+2308#0	missing VP	VP0
+2313#0	missing SUBJ	VP2	NP6
+2315#0	missing VP	VP0
+2315#0	missing VP	VP2
+2316#0	missing VP	VP0
+2316#1	missing VP	VP0
+2321#0	missing VP	VP0
+2327#H	missing DOBJ	VP0	NP1
+2330#0	missing VP	VP0
+2332#0	unrecognized TO	prepare
+2333#1	missing VP	VP0
+2335#0	missing VP	VP0
+2335#1	missing VP	VP0
+2335#2	missing VP	VP0
+2337#2	missing VP	VP0
+2339#0	missing VP	VP0
+2342#1	missing VP	VP0
+2345#0	missing VP	VP2
+2345#0	missing SUBJ	VP3	NP3
+2345#1	missing VP	VP1
+2345#1	missing VP	VP2
+2346#0	missing VP	VP0
+2346#0	missing VP	VP2
+2347#0	missing VP	VP0
+2347#3	missing VP	VP0
+2349#1	missing VP	VP0
+2349#2	missing VP	VP0
+2352#0	missing VP	VP0
+2352#1	missing VP	VP0
+2352#2	missing VP	VP0
+2354#0	missing VP	VP0
+2354#0	missing VP	VP2
+2354#1	missing VP	VP1
+2355#1	unrecognized TO	prepare
+2355#1	missing VP	VP1
+2355#3	missing VP	VP0
+2356#0	missing VP	VP1
+2356#1	missing VP	VP0
+2356#1	missing SUBJ	VP1	NP1
+2357#0	missing VP	VP0
+2358#2	missing VP	VP0
+2360#1	missing VP	VP0
+2362#0	missing VP	VP0
+2362#3	missing DOBJ	VP0	NP1
+2363#0	missing VP	VP0
+2363#1	missing VP	VP0
+2363#3	missing VP	VP0
+2364#0	missing VP	VP0
+2364#3	missing VP	VP0
+2365#0	missing VP	VP3
+2367#1	missing VP	VP0
+2369#3	missing VP	VP0
+2370#1	missing VP	VP0
+2375#0	missing VP	VP0
+2376#0	missing VP	VP0
+2376#1	missing VP	VP0
+2376#2	missing VP	VP0
+2381#0	missing VP	VP0
+2381#1	missing VP	VP1
+2381#3	unrecognized TO	huddle
+2384#0	missing VP	VP0
+2384#3	missing DOBJ	VP0	NP1
+2386#1	missing VP	VP0
+2388#1	missing VP	VP1
+2393#1	missing VP	VP0
+2393#2	missing VP	VP0
+2394#1	missing VP	VP1
+2395#0	missing VP	VP0
+2395#0	missing VP	VP4
+2396#2	unrecognized TO	learn
+2400#0	missing VP	VP0
+2403#1	missing DOBJ	VP0	NP3
+2404#2	missing VP	VP0
+2405#0	missing VP	VP0
+2405#0	missing VP	VP1
+2405#0	missing VP	VP4
+2406#H	missing VP	VP0
+2409#1	missing VP	VP0
+2411#3	missing VP	VP2
+2413#0	missing VP	VP0
+2414#0	missing VP	VP0
+2415#1	missing VP	VP0
+2415#1	unrecognized TO	prepare
+2416#0	missing VP	VP1
+2417#1	missing VP	VP0
+2417#2	unrecognized TO	prepare
+2418#0	missing VP	VP0
+2418#0	missing VP	VP2
+2418#1	missing VP	VP0
+2418#2	missing VP	VP0
+2419#0	missing VP	VP0
+2421#2	missing VP	VP0
+2422#0	missing VP	VP0
+2424#3	missing VP	VP0
+2429#0	missing VP	VP0
+2429#H	missing DOBJ	VP0	NP1
+2430#0	missing VP	VP0
+2431#0	missing VP	VP1
+2431#2	missing VP	VP0
+2432#0	missing VP	VP0
+2433#1	missing VP	VP0
+2439#0	missing VP	VP0
+2439#3	unrecognized TO	prepare
+2440#0	missing VP	VP0
+2440#0	missing VP	VP1
+2440#1	missing VP	VP0
+2441#1	unrecognized TO	happen
+2443#0	missing VP	VP0
+2445#2	missing DOBJ	VP0	NP1
+2449#0	missing VP	VP2
+2449#0	missing VP	VP3
+2450#0	missing VP	VP0
+2452#0	missing VP	VP0
+2452#3	missing VP	VP0
+2453#0	missing VP	VP0
+2453#1	missing VP	VP0
+2454#0	missing VP	VP0
+2455#0	missing VP	VP0
+2455#3	missing VP	VP0
+2456#1	missing VP	VP0
+2456#2	missing VP	VP0
+2460#0	missing VP	VP1
+2461#0	missing VP	VP1
+2463#1	missing VP	VP1
+2467#2	missing VP	VP1
+2473#3	missing VP	VP0
+2474#0	missing VP	VP0
+2474#2	missing VP	VP0
+2474#2	missing VP	VP2
+2479#3	unrecognized TO	be happy
+2480#1	missing VP	VP0
+2481#1	missing VP	VP0
+2481#2	missing VP	VP0
+2484#0	missing VP	VP0
+2484#2	missing VP	VP0
+2489#0	missing VP	VP0
+2494#0	missing VP	VP0
+2494#1	unrecognized TO	gather around
+2495#1	missing VP	VP0
+2496#0	missing VP	VP0
+2496#3	missing VP	VP0
+2497#0	missing VP	VP1
+2498#1	missing VP	VP0
+2500#2	missing VP	VP0
+2501#0	missing VP	VP3
+2503#0	missing VP	VP0
+2505#1	unrecognized TO	prepare
+2505#1	missing VP	VP1
+2505#3	missing VP	VP0
+2506#1	missing VP	VP1
+2507#1	missing DOBJ	VP1	NP2
+2509#0	missing VP	VP1
+2515#1	missing VP	VP0
+2518#1	missing VP	VP0
+2520#2	missing VP	VP0
+2522#0	missing VP	VP0
+2522#1	missing VP	VP0
+2522#1	missing SUBJ	VP1	NP2
+2524#2	unrecognized TO	get ready
+2526#0	missing VP	VP0
+2529#0	missing DOBJ	VP0	NP1
+2529#1	missing DOBJ	VP0	NP1
+2529#2	missing DOBJ	VP0	NP1
+2529#3	missing DOBJ	VP0	NP1
+2530#2	missing VP	VP0
+2530#3	unrecognized TO	prepare
+2532#0	unrecognized TO	prepare
+2532#2	missing DOBJ	VP0	NP1
+2533#2	missing VP	VP0
+2537#1	missing VP	VP0
+2539#0	missing VP	VP0
+2542#0	missing VP	VP0
+2542#1	missing VP	VP0
+2548#0	missing VP	VP0
+2548#1	missing VP	VP0
+2552#0	missing VP	VP0
+2554#1	unrecognized TO	want
+2557#3	missing VP	VP0
+2564#0	missing VP	VP0
+2566#1	missing DOBJ	VP0	NP2
+2566#2	missing DOBJ	VP0	NP1
+2568#2	missing VP	VP0
+2571#0	unrecognized TO	gather ready
+2573#1	missing VP	VP0
+2574#0	missing VP	VP1
+2576#0	missing VP	VP0
+2576#1	unrecognized TO	prepare
+2577#0	missing VP	VP0
+2578#1	missing VP	VP1
+2580#2	missing VP	VP0
+2583#2	missing VP	VP0
+2584#0	missing VP	VP1
+2588#0	missing VP	VP0
+2588#1	missing VP	VP0
+2589#1	missing VP	VP0
+2591#0	missing VP	VP0
+2591#1	missing VP	VP0
+2591#2	missing VP	VP1
+2591#3	missing VP	VP0
+2592#0	missing VP	VP0
+2592#0	missing VP	VP1
+2592#0	missing VP	VP2
+2592#0	missing VP	VP3
+2592#0	missing VP	VP4
+2593#0	missing VP	VP0
+2594#0	missing VP	VP0
+2595#0	unrecognized TO	have
+2596#1	missing VP	VP0
+2598#0	missing VP	VP0
+2599#0	missing VP	VP0
+2600#0	missing VP	VP1
+2600#1	missing VP	VP0
+2601#0	missing VP	VP0
+2601#0	missing VP	VP2
+2601#2	missing VP	VP0
+2603#3	missing VP	VP0
+2604#0	missing VP	VP0
+2605#0	missing VP	VP0
+2605#0	missing VP	VP2
+2607#0	missing VP	VP0
+2607#2	missing VP	VP0
+2610#0	missing VP	VP1
+2610#2	missing VP	VP0
+2612#0	missing VP	VP0
+2613#0	missing VP	VP1
+2614#0	missing VP	VP0
+2614#2	missing VP	VP0
+2616#0	missing VP	VP0
+2617#0	missing VP	VP0
+2620#2	missing VP	VP0
+2626#0	missing VP	VP0
+2627#0	missing VP	VP1
+2627#0	missing VP	VP2
+2629#0	missing VP	VP0
+2629#1	missing VP	VP0
+2629#1	missing VP	VP1
+2633#0	unrecognized TO	get ready
+2634#3	missing VP	VP0
+2635#0	missing VP	VP0
+2635#1	missing VP	VP0
+2635#2	missing VP	VP0
+2640#0	missing VP	VP0
+2643#0	missing VP	VP0
+2643#1	missing VP	VP0
+2643#3	missing DOBJ	VP0	NP2
+2643#H	missing DOBJ	VP0	NP1
+2645#1	missing VP	VP0
+2646#0	missing VP	VP0
+2646#1	missing VP	VP1
+2651#0	missing VP	VP0
+2652#1	missing VP	VP0
+2652#2	missing VP	VP1
+2655#0	missing VP	VP1
+2655#1	missing VP	VP0
+2656#0	missing VP	VP1
+2656#1	unrecognized TO	jog
+2657#0	missing VP	VP0
+2657#0	missing SUBJ	VP1	NP3
+2657#1	missing VP	VP0
+2658#0	missing VP	VP0
+2658#0	missing VP	VP2
+2658#1	missing VP	VP0
+2660#0	unrecognized TO	get ready
+2661#1	missing VP	VP0
+2665#0	missing VP	VP0
+2665#1	missing VP	VP0
+2666#0	missing VP	VP0
+2666#0	missing VP	VP1
+2666#1	missing VP	VP0
+2667#1	missing VP	VP0
+2669#1	missing VP	VP0
+2670#0	missing VP	VP0
+2672#0	missing VP	VP0
+2672#0	missing VP	VP3
+2675#0	missing SUBJ	VP1	NP0
+2675#0	missing VP	VP2
+2675#1	missing VP	VP1
+2678#0	missing VP	VP3
+2678#1	missing VP	VP0
+2678#2	missing VP	VP0
+2681#1	missing VP	VP0
+2681#2	unrecognized TO	get ready
+2681#3	missing VP	VP0
+2683#0	missing VP	VP0
+2683#1	missing VP	VP0
+2683#3	missing VP	VP0
+2684#2	unrecognized TO	stoop
+2687#0	missing VP	VP0
+2688#3	missing VP	VP0
+2690#3	missing VP	VP1
+2690#3	missing VP	VP2
+2692#3	missing VP	VP0
+2693#0	missing VP	VP0
+2693#2	missing SUBJ	VP0	NP2
+2694#2	missing VP	VP0
+2694#2	missing VP	VP1
+2694#3	unrecognized TO	prepare
+2695#2	unrecognized TO	get ready
+2696#1	missing VP	VP0
+2696#3	missing VP	VP0
+2700#1	missing VP	VP0
+2704#0	missing SUBJ	VP1	NP1
+2704#1	missing VP	VP0
+2704#2	missing SUBJ	VP0	NP1
+2705#0	missing VP	VP0
+2705#0	missing VP	VP1
+2707#0	missing VP	VP0
+2707#1	missing VP	VP0
+2709#2	missing VP	VP0
+2714#0	missing VP	VP0
+2715#0	missing DOBJ	VP0	NP1
+2718#0	missing VP	VP1
+2718#0	missing VP	VP2
+2718#2	missing VP	VP1
+2718#H	missing VP	VP0
+2722#0	missing VP	VP0
+2725#2	missing VP	VP1
+2726#1	missing VP	VP0
+2728#0	missing VP	VP0
+2728#2	missing VP	VP0
+2729#1	unrecognized TO	ski
+2729#3	unrecognized TO	get ready
+2732#0	missing VP	VP0
+2733#1	missing VP	VP0
+2733#2	missing VP	VP0
+2734#2	missing VP	VP0
+2735#2	missing VP	VP0
+2738#0	missing VP	VP0
+2741#0	missing VP	VP0
+2741#1	missing VP	VP0
+2743#0	missing VP	VP0
+2743#0	missing VP	VP1
+2743#0	missing VP	VP2
+2743#2	missing VP	VP0
+2745#3	missing VP	VP0
+2747#3	missing VP	VP0
+2749#0	missing VP	VP0
+2749#3	missing VP	VP0
+2750#0	missing VP	VP0
+2750#H	missing DOBJ	VP0	NP1
+2751#2	missing VP	VP0
+2758#2	missing VP	VP0
+2759#3	unrecognized TO	get comfortable
+2760#0	missing VP	VP0
+2766#0	missing VP	VP0
+2766#1	missing VP	VP0
+2767#2	missing VP	VP0
+2771#0	missing VP	VP0
+2771#0	missing SUBJ	VP3	NP6
+2772#0	missing VP	VP1
+2777#1	missing VP	VP1
+2778#0	unrecognized TO	get ready
+2779#2	missing VP	VP0
+2780#0	missing VP	VP0
+2780#0	missing SUBJ	VP1	NP1
+2780#0	missing SUBJ	VP2	NP1
+2781#0	missing VP	VP0
+2785#1	missing VP	VP1
+2787#0	missing SUBJ	VP2	NP4
+2787#2	missing VP	VP0
+2789#1	missing VP	VP0
+2789#1	missing VP	VP2
+2792#H	missing DOBJ	VP0	NP1
+2800#2	missing SUBJ	VP1	NP2
+2804#0	missing VP	VP0
+2804#3	missing VP	VP1
+2805#0	missing VP	VP3
+2809#1	missing DOBJ	VP0	NP2
+2810#0	missing VP	VP2
+2811#0	missing SUBJ	VP1	NP3
+2815#0	missing VP	VP0
+2816#0	missing VP	VP0
+2819#3	missing VP	VP0
+2820#0	missing VP	VP0
+2820#3	unrecognized TO	fix
+2821#0	missing SUBJ	VP0	NP2
+2821#1	missing VP	VP0
+2822#2	missing VP	VP0
+2823#1	missing VP	VP1
+2823#2	missing VP	VP0
+2824#3	missing VP	VP0
+2825#0	missing VP	VP0
+2825#1	missing VP	VP0
+2826#2	missing VP	VP1
+2827#0	missing VP	VP0
+2827#1	missing VP	VP0
+2828#2	missing VP	VP0
+2832#0	missing SUBJ	VP0	NP2
+2832#2	missing VP	VP0
+2832#3	missing SUBJ	VP0	NP1
+2835#0	unrecognized TO	look like
+2838#0	missing VP	VP0
+2838#1	unrecognized TO	get ready
+2838#2	unrecognized TO	prepare
+2840#0	missing VP	VP0
+2847#2	missing VP	VP0
+2853#0	unrecognized TO	look
+2853#1	missing VP	VP0
+2861#0	missing DOBJ	VP0	NP1
+2861#0	missing VP	VP2
+2861#1	missing VP	VP0
+2861#1	missing VP	VP1
+2862#0	missing VP	VP1
+2862#0	missing VP	VP2
+2862#0	missing VP	VP3
+2862#2	missing VP	VP0
+2864#0	missing VP	VP2
+2866#1	unrecognized TO	be
+2869#0	missing VP	VP0
+2869#0	missing VP	VP1
+2869#2	missing VP	VP0
+2870#0	missing VP	VP0
+2871#1	missing VP	VP0
+2871#2	missing VP	VP0
+2871#3	missing DOBJ	VP0	NP2
+2872#0	missing VP	VP0
+2872#2	missing VP	VP0
+2873#1	missing VP	VP0
+2875#2	unrecognized TO	get ready
+2876#1	missing VP	VP0
+2880#2	missing VP	VP0
+2884#0	missing VP	VP0
+2887#1	missing VP	VP2
+2889#1	missing DOBJ	VP0	NP1
+2889#2	missing VP	VP0
+2890#2	unrecognized TO	get ready
+2891#0	missing VP	VP0
+2891#1	missing VP	VP0
+2891#2	missing VP	VP0
+2891#3	missing VP	VP0
+2894#2	missing VP	VP0
+2898#0	missing VP	VP0
+2898#0	missing VP	VP1
+2899#0	missing VP	VP0
+2900#0	missing VP	VP0
+2900#1	missing VP	VP0
+2900#3	missing VP	VP0
+2900#3	missing SUBJ	VP1	NP1
+2904#0	missing VP	VP0
+2904#2	missing VP	VP0
+2904#2	missing SUBJ	VP1	NP1
+2906#0	missing VP	VP0
+2906#2	missing VP	VP0
+2907#0	missing VP	VP0
+2907#1	missing VP	VP0
+2907#2	missing VP	VP0
+2913#1	missing VP	VP0
+2913#3	missing VP	VP1
+2914#0	missing VP	VP0
+2916#0	missing VP	VP1
+2921#1	missing VP	VP0
+2923#0	missing VP	VP2
+2923#1	missing VP	VP1
+2927#0	missing VP	VP1
+2927#1	missing VP	VP0
+2928#0	missing VP	VP1
+2928#H	missing DOBJ	VP0	NP1
+2931#2	missing VP	VP0
+2931#3	missing VP	VP0
+2932#0	missing VP	VP0
+2932#1	missing VP	VP0
+2932#2	missing VP	VP0
+2932#3	missing VP	VP1
+2933#0	missing VP	VP0
+2934#0	missing VP	VP0
+2934#2	missing VP	VP0
+2934#3	missing VP	VP0
+2936#2	missing VP	VP0
+2940#1	missing VP	VP0
+2943#0	missing VP	VP1
+2945#0	missing VP	VP0
+2948#3	missing VP	VP1
+2951#0	missing VP	VP0
+2951#0	unrecognized TO	get ready
+2951#1	missing VP	VP0
+2955#0	missing VP	VP0
+2955#1	missing VP	VP0
+2955#2	missing VP	VP0
+2958#0	missing VP	VP0
+2960#2	missing VP	VP0
+2961#1	missing VP	VP0
+2962#0	missing VP	VP0
+2962#2	missing VP	VP0
+2967#0	missing VP	VP0
+2967#1	missing VP	VP0
+2970#2	missing VP	VP0
+2970#3	missing VP	VP0
+2971#0	missing VP	VP0
+2972#0	missing VP	VP1
+2973#2	missing VP	VP0
+2973#3	missing VP	VP0
+2976#2	missing VP	VP0
+2978#3	missing VP	VP0
+2983#2	missing VP	VP0
+2984#0	missing VP	VP0
+2989#1	missing VP	VP1
+2990#2	missing VP	VP1
+2991#0	missing VP	VP0
+2991#1	missing VP	VP1
+2993#0	missing VP	VP0
+2999#0	missing VP	VP0
+2999#1	missing DOBJ	VP0	NP2
+3003#0	missing VP	VP2
+3004#2	unrecognized TO	prepare
+3008#0	missing VP	VP0
+3009#0	missing VP	VP0
+3009#1	missing VP	VP0
+3009#1	missing DOBJ	VP1	NP3
+3010#1	missing VP	VP1
+3012#0	missing VP	VP1
+3012#0	missing VP	VP2
+3013#1	missing VP	VP0
+3015#0	missing VP	VP0
+3015#1	missing VP	VP0
+3015#2	missing VP	VP0
+3016#0	missing VP	VP1
+3017#0	missing VP	VP0
+3017#2	missing VP	VP0
+3017#3	missing VP	VP0
+3018#0	missing VP	VP0
+3020#1	missing VP	VP0
+3020#1	missing VP	VP1
+3021#1	missing VP	VP0
+3024#0	missing VP	VP0
+3025#0	missing VP	VP0
+3025#0	missing VP	VP3
+3025#1	missing VP	VP0
+3025#1	missing VP	VP1
+3028#1	missing VP	VP0
+3029#1	missing VP	VP0
+3029#2	missing VP	VP0
+3035#0	missing VP	VP0
+3035#2	unrecognized TO	determine
+3036#0	missing VP	VP3
+3037#2	missing VP	VP0
+3039#2	unrecognized TO	prepare
+3040#0	missing VP	VP1
+3042#1	missing VP	VP0
+3045#3	unrecognized TO	form
+3052#0	missing VP	VP0
+3052#0	missing VP	VP1
+3053#1	missing VP	VP1
+3054#2	missing VP	VP0
+3055#1	missing VP	VP0
+3059#0	missing VP	VP2
+3059#0	missing VP	VP3
+3059#1	missing VP	VP0
+3059#1	missing VP	VP2
+3064#1	missing VP	VP0
+3065#0	unrecognized TO	look like
+3068#0	missing VP	VP0
+3068#3	missing VP	VP0
+3069#0	missing VP	VP0
+3071#0	missing VP	VP0
+3072#1	missing VP	VP0
+3075#0	missing VP	VP0
+3082#1	missing VP	VP0
+3084#2	missing VP	VP0
+3085#1	missing VP	VP0
+3085#1	missing SUBJ	VP1	NP2
+3088#1	missing VP	VP0
+3089#2	missing DOBJ	VP0	NP1
+3090#1	missing VP	VP0
+3090#3	missing VP	VP0
+3091#1	missing VP	VP0
+3091#2	missing VP	VP0
+3091#2	missing VP	VP1
+3096#0	missing VP	VP1
+3096#2	missing VP	VP0
+3098#0	missing VP	VP0
+3098#1	missing VP	VP1
+3098#1	missing VP	VP3
+3101#0	unrecognized TO	get ready
+3105#0	missing VP	VP0
+3107#0	missing SUBJ	VP1	NP3
+3107#1	missing VP	VP1
+3108#0	missing VP	VP0
+3109#2	missing DOBJ	VP0	NP1
+3109#2	missing VP	VP1
+3111#0	missing VP	VP0
+3111#1	missing VP	VP0
+3111#3	missing VP	VP0
+3112#3	missing VP	VP0
+3115#2	missing VP	VP0
+3115#3	missing VP	VP0
+3118#0	missing SUBJ	VP0	NP5
+3118#1	missing VP	VP0
+3118#1	missing VP	VP1
+3119#0	missing VP	VP1
+3120#0	missing VP	VP1
+3120#0	missing VP	VP4
+3120#1	missing VP	VP0
+3120#2	missing VP	VP1
+3120#3	missing VP	VP0
+3121#2	missing VP	VP0
+3122#1	unrecognized TO	get ready
+3122#2	missing VP	VP0
+3124#1	missing VP	VP0
+3125#3	missing VP	VP0
+3127#3	missing VP	VP0
+3128#0	missing VP	VP0
+3128#2	missing VP	VP0
+3129#0	missing VP	VP0
+3129#0	missing DOBJ	VP1	NP2
+3130#0	missing VP	VP0
+3132#1	missing VP	VP1
+3137#0	missing VP	VP0
+3137#0	missing VP	VP3
+3137#1	missing VP	VP0
+3137#3	missing VP	VP0
+3137#3	missing VP	VP1
+3140#3	missing VP	VP0
+3143#0	missing VP	VP0
+3146#2	missing VP	VP0
+3150#2	missing VP	VP0
+3151#0	missing VP	VP0
+3153#2	missing VP	VP0
+3154#0	missing VP	VP1
+3155#1	missing VP	VP1
+3155#H	missing DOBJ	VP0	NP1
+3159#0	missing VP	VP0
+3159#0	missing SUBJ	VP1	NP2
+3159#0	missing VP	VP2
+3159#0	missing SUBJ	VP3	NP6
+3159#2	missing VP	VP1
+3159#3	missing VP	VP1
+3162#0	missing VP	VP0
+3163#1	unrecognized TO	get ready
+3163#2	unrecognized TO	get ready
+3168#1	missing VP	VP0
+3173#2	missing VP	VP0
+3173#2	missing VP	VP1
+3173#2	missing VP	VP2
+3173#3	missing VP	VP0
+3174#2	missing VP	VP0
+3176#2	missing VP	VP0
+3177#0	missing SUBJ	VP1	NP4
+3178#0	missing VP	VP0
+3178#0	missing VP	VP1
+3180#0	missing VP	VP0
+3181#2	missing VP	VP0
+3182#0	missing VP	VP2
+3183#1	missing VP	VP2
+3184#0	missing VP	VP0
+3184#3	missing VP	VP0
+3185#0	missing VP	VP0
+3189#2	missing VP	VP1
+3190#0	missing VP	VP0
+3190#2	missing VP	VP0
+3190#3	missing VP	VP0
+3191#1	missing VP	VP0
+3191#2	missing VP	VP0
+3192#2	missing VP	VP0
+3193#2	missing VP	VP0
+3197#1	missing VP	VP0
+3200#1	missing VP	VP1
+3201#0	missing VP	VP0
+3201#1	missing VP	VP0
+3201#2	missing VP	VP0
+3202#0	missing VP	VP0
+3203#1	missing VP	VP0
+3203#1	missing VP	VP2
+3203#3	missing VP	VP0
+3205#3	missing VP	VP0
+3207#H	unrecognized TO	be
+3209#0	missing VP	VP0
+3210#0	missing VP	VP1
+3211#H	missing DOBJ	VP0	NP2
+3213#0	missing VP	VP0
+3214#1	missing VP	VP0
+3216#1	missing VP	VP0
+3219#0	missing VP	VP0
+3222#1	missing VP	VP0
+3227#2	missing VP	VP0
+3229#2	missing VP	VP0
+3229#3	unrecognized TO	get ready
+3230#0	missing VP	VP0
+3231#0	missing VP	VP0
+3232#0	missing VP	VP0
+3232#2	missing VP	VP0
+3233#1	missing VP	VP0
+3238#2	missing VP	VP0
+3239#2	missing VP	VP0
+3242#0	missing VP	VP0
+3242#1	missing VP	VP0
+3242#2	missing VP	VP0
+3243#0	missing VP	VP1
+3243#1	missing VP	VP0
+3243#2	missing VP	VP0
+3253#0	missing VP	VP0
+3253#1	missing VP	VP0
+3259#0	missing VP	VP0
+3259#1	missing VP	VP0
+3259#2	missing VP	VP0
+3261#0	missing VP	VP0
+3261#1	missing VP	VP1
+3263#1	missing VP	VP0
+3265#0	missing VP	VP0
+3266#1	missing VP	VP0
+3267#0	missing VP	VP0
+3268#0	missing VP	VP0
+3268#1	missing VP	VP1
+3268#2	missing VP	VP0
+3268#3	missing VP	VP0
+3270#0	missing VP	VP1
+3270#1	missing VP	VP0
+3270#3	missing VP	VP0
+3271#1	missing VP	VP0
+3273#1	missing VP	VP0
+3273#1	missing VP	VP1
+3283#3	missing VP	VP0
+3284#1	missing VP	VP0
+3290#1	missing VP	VP0
+3293#1	missing VP	VP0
+3293#3	missing VP	VP0
+3296#1	missing VP	VP0
+3297#0	missing VP	VP2
+3298#3	missing VP	VP0
+3299#0	missing VP	VP0
+3300#0	missing VP	VP1
+3301#0	missing VP	VP0
+3301#1	missing VP	VP1
+3305#0	missing VP	VP0
+3306#0	missing VP	VP0
+3307#1	missing VP	VP0
+3311#1	missing VP	VP0
+3312#1	missing VP	VP0
+3315#1	missing VP	VP0
+3316#0	missing VP	VP0
+3316#0	missing VP	VP2
+3318#1	missing VP	VP0
+3319#0	missing VP	VP0
+3319#0	missing SUBJ	VP3	NP6
+3319#1	missing VP	VP0
+3322#1	missing VP	VP0
+3322#H	missing DOBJ	VP0	NP1
+3324#1	missing VP	VP0
+3325#0	missing VP	VP0
+3326#0	unrecognized TO	have
+3326#1	missing VP	VP1
+3327#0	missing VP	VP0
+3327#2	missing VP	VP0
+3327#3	missing DOBJ	VP0	NP1
+3328#0	missing SUBJ	VP1	NP2
+3329#1	missing VP	VP0
+3329#2	missing DOBJ	VP0	NP2
+3330#0	missing VP	VP0
+3332#2	missing VP	VP0
+3334#0	missing VP	VP1
+3338#0	missing VP	VP0
+3338#2	missing VP	VP0
+3340#0	missing VP	VP0
+3340#0	missing VP	VP1
+3340#0	missing VP	VP2
+3340#0	missing VP	VP3
+3340#0	missing VP	VP4
+3342#1	missing VP	VP0
+3344#0	missing VP	VP2
+3344#3	missing VP	VP0
+3348#0	missing VP	VP0
+3348#1	missing SUBJ	VP0	NP1
+3348#3	missing VP	VP0
+3350#0	missing VP	VP1
+3351#0	missing VP	VP0
+3351#1	missing VP	VP0
+3352#2	missing VP	VP1
+3354#0	missing VP	VP0
+3354#1	missing VP	VP0
+3360#2	missing VP	VP0
+3363#0	missing VP	VP1
+3363#2	missing VP	VP0
+3363#3	missing VP	VP0
+3369#2	missing VP	VP0
+3371#0	missing VP	VP0
+3371#2	unrecognized TO	learn
+3373#0	missing VP	VP0
+3373#2	missing VP	VP0
+3373#3	missing VP	VP0
+3376#3	missing VP	VP0
+3379#0	missing VP	VP1
+3379#0	missing VP	VP2
+3379#2	missing VP	VP0
+3381#0	missing VP	VP0
+3381#1	missing VP	VP0
+3382#0	missing VP	VP0
+3382#2	missing VP	VP1
+3383#1	missing VP	VP0
+3385#0	missing VP	VP0
+3385#1	missing VP	VP0
+3386#1	missing VP	VP0
+3387#1	missing VP	VP0
+3389#0	missing VP	VP0
+3390#1	missing VP	VP1
+3391#0	missing VP	VP0
+3391#1	missing VP	VP0
+3392#0	missing VP	VP0
+3392#0	missing DOBJ	VP1	NP2
+3392#0	missing VP	VP2
+3392#2	missing DOBJ	VP1	NP2
+3393#0	missing VP	VP0
+3393#0	missing VP	VP1
+3393#1	missing VP	VP0
+3393#1	missing VP	VP1
+3396#3	missing VP	VP0
+3398#0	missing VP	VP1
+3399#1	missing VP	VP0
+3399#2	missing VP	VP0
+3399#3	missing VP	VP0
+3400#0	missing VP	VP0
+3401#2	missing VP	VP0
+3402#0	missing VP	VP0
+3402#0	missing VP	VP3
+3402#1	missing VP	VP0
+3403#0	missing VP	VP0
+3403#1	missing VP	VP1
+3403#H	missing VP	VP0
+3404#1	missing VP	VP0
+3406#0	missing VP	VP0
+3411#0	missing VP	VP0
+3411#1	missing VP	VP0
+3411#3	missing VP	VP0
+3412#0	missing VP	VP2
+3413#0	missing VP	VP0
+3413#0	missing VP	VP2
+3414#0	missing VP	VP0
+3417#0	missing VP	VP0
+3417#1	missing VP	VP0
+3417#3	missing DOBJ	VP0	NP2
+3418#3	unrecognized TO	prepare
+3419#0	missing VP	VP0
+3421#0	unrecognized TO	reach down
+3424#1	missing VP	VP0
+3434#0	missing VP	VP0
+3434#2	missing VP	VP0
+3436#H	missing DOBJ	VP0	NP1
+3440#0	missing VP	VP0
+3441#1	missing VP	VP0
+3443#0	missing VP	VP0
+3443#0	missing DOBJ	VP1	NP3
+3443#1	missing VP	VP0
+3443#2	missing DOBJ	VP0	NP1
+3446#0	missing VP	VP1
+3448#0	missing VP	VP1
+3451#0	missing VP	VP0
+3454#0	missing VP	VP0
+3455#3	missing VP	VP0
+3456#0	missing VP	VP0
+3456#1	missing VP	VP1
+3456#1	missing VP	VP2
+3460#1	missing VP	VP1
+3461#0	missing VP	VP1
+3461#3	missing VP	VP0
+3474#0	missing VP	VP0
+3475#0	missing VP	VP0
+3475#1	missing VP	VP0
+3475#1	missing SUBJ	VP1	NP2
+3476#2	missing VP	VP0
+3482#0	missing VP	VP0
+3485#0	missing VP	VP1
+3487#0	missing VP	VP0
+3491#0	missing VP	VP0
+3492#0	missing VP	VP0
+3492#0	missing VP	VP1
+3492#1	missing VP	VP0
+3493#2	missing VP	VP0
+3496#0	missing VP	VP0
+3496#1	missing VP	VP0
+3496#2	unrecognized TO	get ready
+3499#0	missing SUBJ	VP1	NP2
+3499#1	missing SUBJ	VP1	NP3
+3499#2	missing VP	VP0
+3502#0	unrecognized TO	pretend
+3504#0	missing VP	VP0
+3504#2	missing VP	VP0
+3505#0	missing VP	VP1
+3505#1	missing VP	VP0
+3505#2	missing VP	VP1
+3506#H	missing VP	VP0
+3510#0	missing VP	VP0
+3510#0	missing VP	VP1
+3514#0	missing VP	VP0
+3514#0	missing SUBJ	VP3	NP1
+3515#1	missing VP	VP0
+3515#1	missing VP	VP1
+3517#0	missing VP	VP0
+3518#0	missing VP	VP0
+3518#1	missing VP	VP0
+3520#0	missing DOBJ	VP0	NP2
+3521#0	missing VP	VP0
+3521#1	missing VP	VP0
+3522#0	missing VP	VP0
+3523#0	missing VP	VP0
+3524#1	missing VP	VP0
+3525#0	missing VP	VP0
+3525#0	missing VP	VP2
+3525#1	missing VP	VP0
+3525#3	missing VP	VP0
+3527#2	missing VP	VP0
+3528#1	missing VP	VP1
+3531#2	missing VP	VP0
+3534#0	missing DOBJ	VP0	NP1
+3536#0	unrecognized TO	have
+3536#1	missing VP	VP1
+3537#1	missing VP	VP0
+3538#0	missing VP	VP0
+3540#2	missing VP	VP0
+3541#0	missing VP	VP0
+3541#1	missing VP	VP0
+3542#2	missing VP	VP0
+3543#0	missing VP	VP0
+3545#1	missing DOBJ	VP0	NP1
+3545#1	missing VP	VP1
+3545#2	missing VP	VP0
+3545#2	missing SUBJ	VP1	NP1
+3546#1	missing VP	VP0
+3547#0	missing VP	VP0
+3547#1	missing VP	VP0
+3547#2	missing SUBJ	VP0	NP1
+3548#2	missing VP	VP2
+3551#0	missing VP	VP0
+3553#3	missing VP	VP0
+3555#1	missing VP	VP0
+3557#0	missing VP	VP0
+3557#2	missing VP	VP0
+3558#0	missing VP	VP1
+3559#1	unrecognized TO	prepare
+3560#2	missing VP	VP0
+3560#3	missing DOBJ	VP0	NP1
+3561#1	missing VP	VP0
+3563#0	missing VP	VP1
+3563#2	missing VP	VP1
+3564#1	missing VP	VP0
+3566#0	missing VP	VP0
+3566#1	missing VP	VP0
+3566#2	missing VP	VP0
+3567#3	missing VP	VP0
+3570#2	missing VP	VP0
+3573#2	missing VP	VP0
+3576#3	missing VP	VP0
+3577#0	missing VP	VP0
+3577#1	missing VP	VP0
+3577#2	missing DOBJ	VP0	NP1
+3578#3	missing VP	VP0
+3579#0	missing VP	VP0
+3579#1	missing VP	VP1
+3580#2	missing VP	VP0
+3581#1	missing VP	VP2
+3584#0	missing VP	VP0
+3589#0	missing VP	VP0
+3589#1	missing VP	VP0
+3589#3	missing VP	VP0
+3591#2	missing VP	VP1
+3592#0	missing DOBJ	VP0	NP2
+3593#0	missing VP	VP0
+3599#1	missing VP	VP0
+3599#3	missing VP	VP0
+3600#1	missing VP	VP0
+3600#1	missing VP	VP2
+3600#2	missing SUBJ	VP1	NP2
+3600#3	missing VP	VP1
+3601#0	missing VP	VP1
+3601#0	missing VP	VP2
+3601#0	missing VP	VP3
+3602#1	missing VP	VP0
+3602#3	missing VP	VP0
+3603#0	missing VP	VP0
+3603#1	missing VP	VP0
+3613#0	missing VP	VP0
+3613#2	missing VP	VP0
+3614#2	missing VP	VP0
+3615#1	missing VP	VP0
+3616#1	unrecognized TO	ski
+3616#3	unrecognized TO	get ready
+3618#0	missing VP	VP0
+3619#0	missing VP	VP0
+3619#2	missing VP	VP0
+3621#3	missing VP	VP0
+3623#1	missing SUBJ	VP1	NP2
+3623#2	missing DOBJ	VP0	NP2
+3623#H	missing DOBJ	VP0	NP1
+3624#0	missing VP	VP0
+3625#0	missing VP	VP0
+3625#2	missing VP	VP0
+3629#0	missing VP	VP0
+3632#1	missing VP	VP0
+3634#0	missing VP	VP0
+3637#0	missing VP	VP0
+3638#0	missing VP	VP0
+3638#1	missing VP	VP0
+3642#0	missing VP	VP0
+3642#0	missing VP	VP3
+3642#0	missing VP	VP4
+3643#0	missing VP	VP1
+3643#1	missing VP	VP0
+3647#0	missing VP	VP0
+3650#0	missing VP	VP1
+3651#0	missing VP	VP0
+3652#1	missing VP	VP1
+3653#0	missing VP	VP0
+3658#2	missing VP	VP0
+3659#0	missing VP	VP0
+3660#3	unrecognized TO	standing ready
+3663#3	missing VP	VP1
+3664#0	missing VP	VP0
+3665#0	missing VP	VP0
+3665#0	missing VP	VP2
+3667#0	missing VP	VP0
+3667#1	missing VP	VP0
+3667#1	missing SUBJ	VP1	NP1
+3670#3	missing VP	VP0
+3672#2	unrecognized TO	set up
+3675#0	missing VP	VP0
+3675#0	missing VP	VP1
+3675#3	missing VP	VP0
+3678#1	missing VP	VP0
+3679#0	missing VP	VP0
+3679#1	missing VP	VP0
+3679#2	missing VP	VP0
+3680#0	missing VP	VP2
+3680#1	missing VP	VP1
+3680#2	missing VP	VP1
+3681#0	missing VP	VP0
+3681#2	missing VP	VP0
+3681#3	missing VP	VP0
+3689#1	unrecognized TO	be ready
+3690#0	missing DOBJ	VP0	NP1
+3690#1	missing DOBJ	VP0	NP1
+3690#2	missing DOBJ	VP0	NP1
+3692#1	unrecognized TO	pretend
+3692#2	missing DOBJ	VP0	NP1
+3692#H	missing VP	VP0
+3694#0	missing VP	VP0
+3697#2	missing VP	VP0
+3701#3	missing VP	VP0
+3703#0	missing VP	VP0
+3703#0	missing VP	VP2
+3704#0	missing VP	VP0
+3705#2	missing VP	VP0
+3705#2	missing SUBJ	VP1	NP1
+3706#0	missing VP	VP1
+3708#1	missing DOBJ	VP0	NP1
+3710#0	missing VP	VP0
+3710#1	missing VP	VP0
+3710#2	missing VP	VP0
+3711#0	missing VP	VP0
+3714#0	missing VP	VP0
+3714#0	missing VP	VP2
+3714#2	missing VP	VP0
+3717#0	missing VP	VP1
+3718#2	missing VP	VP1
+3720#3	unrecognized TO	prepare
+3724#0	missing DOBJ	VP0	NP1
+3728#2	missing VP	VP0
+3729#3	missing VP	VP0
+3731#0	missing VP	VP1
+3731#1	missing VP	VP0
+3732#0	missing VP	VP0
+3732#2	missing VP	VP0
+3733#1	missing VP	VP0
+3736#H	unrecognized TO	be
+3738#0	missing VP	VP0
+3739#0	missing VP	VP0
+3740#1	missing VP	VP0
+3740#3	missing VP	VP0
+3741#0	missing VP	VP0
+3741#1	missing VP	VP0
+3742#0	missing VP	VP0
+3743#1	missing VP	VP0
+3743#2	missing VP	VP0
+3744#0	missing VP	VP0
+3744#0	missing DOBJ	VP1	NP3
+3744#2	missing VP	VP0
+3745#0	missing VP	VP0
+3745#1	missing VP	VP0
+3746#0	missing VP	VP0
+3746#2	missing VP	VP0
+3746#2	missing VP	VP1
+3748#0	missing VP	VP0
+3748#0	missing VP	VP1
+3748#0	missing VP	VP2
+3748#0	missing VP	VP3
+3748#1	missing VP	VP0
+3751#1	missing VP	VP0
+3752#2	missing VP	VP0
+3753#0	missing SUBJ	VP0	NP2
+3754#0	missing VP	VP1
+3754#1	missing VP	VP0
+3756#1	missing VP	VP0
+3757#0	missing VP	VP2
+3757#0	missing VP	VP4
+3757#1	missing VP	VP0
+3760#3	unrecognized TO	prepare
+3767#0	missing VP	VP0
+3767#0	missing VP	VP1
+3767#0	missing VP	VP3
+3767#2	missing VP	VP1
+3769#1	missing VP	VP0
+3772#0	missing VP	VP0
+3772#0	missing VP	VP1
+3772#1	missing VP	VP3
+3775#1	missing VP	VP1
+3776#0	missing VP	VP0
+3776#2	missing DOBJ	VP0	NP3
+3776#3	missing VP	VP0
+3780#0	missing VP	VP0
+3781#0	missing VP	VP1
+3781#0	missing VP	VP2
+3782#0	missing VP	VP0
+3783#1	missing VP	VP0
+3784#0	unrecognized TO	pretend
+3784#1	unrecognized TO	pretend
+3785#3	missing VP	VP0
+3785#3	unrecognized TO	look
+3789#0	missing VP	VP0
+3790#0	missing VP	VP0
+3792#2	unrecognized TO	get ready
+3793#1	missing VP	VP0
+3793#2	missing VP	VP0
+3798#2	missing DOBJ	VP1	NP3
+3799#1	missing VP	VP0
+3800#1	missing VP	VP0
+3801#0	missing VP	VP0
+3801#1	missing VP	VP1
+3801#2	missing VP	VP0
+3804#1	missing VP	VP0
+3804#1	missing VP	VP1
+3804#2	missing VP	VP0
+3805#0	missing VP	VP1
+3805#1	missing VP	VP0
+3806#3	missing VP	VP0
+3808#0	missing VP	VP2
+3808#0	missing VP	VP3
+3810#0	missing DOBJ	VP0	NP1
+3815#0	missing VP	VP0
+3816#0	missing VP	VP0
+3816#1	missing VP	VP0
+3817#1	missing VP	VP2
+3818#1	missing VP	VP0
+3819#1	unrecognized TO	hold
+3822#0	missing VP	VP0
+3823#1	unrecognized TO	excite
+3825#2	missing VP	VP0
+3827#0	missing VP	VP0
+3827#1	missing VP	VP0
+3829#0	missing VP	VP0
+3829#2	missing VP	VP0
+3830#0	missing VP	VP0
+3832#0	missing VP	VP1
+3832#2	missing VP	VP0
+3835#0	missing VP	VP0
+3835#3	missing VP	VP0
+3839#1	missing VP	VP0
+3839#2	missing DOBJ	VP0	NP1
+3841#0	missing VP	VP1
+3844#3	unrecognized TO	prepare
+3845#1	missing VP	VP0
+3845#1	missing SUBJ	VP1	NP1
+3846#0	missing VP	VP1
+3846#0	missing VP	VP2
+3846#2	missing VP	VP2
+3847#0	missing VP	VP0
+3848#0	missing VP	VP0
+3849#2	missing VP	VP0
+3849#3	missing DOBJ	VP0	NP1
+3850#0	unrecognized TO	look
+3852#0	missing VP	VP1
+3853#1	missing VP	VP0
+3854#0	missing VP	VP1
+3854#0	missing VP	VP3
+3855#0	missing VP	VP0
+3858#0	missing VP	VP0
+3861#0	missing VP	VP0
+3861#0	missing VP	VP2
+3861#2	missing VP	VP0
+3863#0	missing VP	VP0
+3866#1	missing VP	VP0
+3866#2	unrecognized TO	prepare
+3868#0	missing VP	VP0
+3869#1	missing VP	VP0
+3871#0	missing VP	VP0
+3871#0	missing VP	VP2
+3873#0	missing DOBJ	VP0	NP4
+3875#0	missing VP	VP0
+3875#0	missing VP	VP1
+3875#1	missing VP	VP1
+3878#3	missing VP	VP0
+3879#0	missing VP	VP3
+3884#0	missing VP	VP1
+3885#0	missing VP	VP0
+3888#0	missing VP	VP0
+3889#0	missing VP	VP0
+3891#0	missing VP	VP3
+3892#0	missing VP	VP0
+3892#1	missing VP	VP0
+3892#3	missing VP	VP0
+3897#0	missing VP	VP1
+3898#0	missing VP	VP0
+3898#1	missing VP	VP0
+3900#0	missing VP	VP1
+3900#0	missing VP	VP2
+3904#1	missing VP	VP0
+3904#2	missing VP	VP0
+3906#0	missing VP	VP0
+3906#2	missing VP	VP0
+3906#3	missing VP	VP1
+3907#0	missing VP	VP0
+3907#3	missing VP	VP0
+3910#0	missing VP	VP0
+3911#2	missing VP	VP0
+3914#1	unrecognized TO	jump high
+3915#1	missing VP	VP0
+3915#3	missing VP	VP0
+3916#2	unrecognized TO	fight
+3919#1	missing VP	VP0
+3919#3	missing VP	VP0
+3919#3	missing SUBJ	VP1	NP1
+3921#1	missing VP	VP0
+3922#0	missing VP	VP0
+3924#0	missing VP	VP0
+3927#0	missing VP	VP0
+3927#2	missing VP	VP1
+3929#1	missing VP	VP1
+3929#3	missing VP	VP0
+3931#0	missing VP	VP0
+3934#1	missing VP	VP0
+3936#0	unrecognized TO	get ready
+3937#1	missing VP	VP0
+3940#1	unrecognized TO	get ready
+3941#2	missing VP	VP1
+3942#2	missing VP	VP0
+3947#0	missing VP	VP0
+3947#2	missing VP	VP0
+3947#3	missing VP	VP0
+3947#3	missing SUBJ	VP1	NP1
+3948#0	missing VP	VP0
+3951#0	missing VP	VP0
+3952#0	missing VP	VP0
+3955#H	unrecognized TO	be
+3957#3	unrecognized TO	want
+3958#0	missing VP	VP1
+3958#1	missing VP	VP0
+3960#0	missing SUBJ	VP1	NP2
+3961#0	missing VP	VP0
+3964#0	missing VP	VP0
+3964#0	missing VP	VP2
+3966#0	missing VP	VP1
+3966#1	missing VP	VP0
+3967#2	missing VP	VP0
+3968#1	missing VP	VP0
+3969#0	missing VP	VP0
+3969#1	missing VP	VP0
+3970#0	missing VP	VP1
+3971#0	missing VP	VP0
+3971#0	missing VP	VP2
+3971#1	missing VP	VP1
+3973#1	missing VP	VP0
+3975#0	missing VP	VP1
+3980#1	missing VP	VP0
+3980#2	missing VP	VP0
+3981#3	missing VP	VP0
+3982#2	missing VP	VP0
+3983#0	missing VP	VP0
+3983#1	missing VP	VP0
+3983#3	missing VP	VP0
+3984#2	missing VP	VP0
+3986#3	unrecognized TO	look pleased
+3987#2	missing VP	VP0
+3988#H	missing DOBJ	VP0	NP1
+3989#0	missing VP	VP0
+3992#0	missing VP	VP0
+3993#0	missing VP	VP2
+3993#1	missing VP	VP0
+3993#1	missing VP	VP2
+3993#2	missing VP	VP0
+3993#2	missing SUBJ	VP1	NP1
+3994#3	missing VP	VP0
+3997#0	missing VP	VP0
+3998#0	missing VP	VP0
+3998#1	missing VP	VP0
+3999#1	missing VP	VP0
+4001#3	missing VP	VP0
+4004#3	missing VP	VP0
+4015#1	missing VP	VP0
+4015#2	missing VP	VP0
+4019#0	missing DOBJ	VP0	NP1
+4021#0	missing VP	VP1
+4022#0	missing VP	VP0
+4022#0	missing VP	VP3
+4022#2	missing VP	VP0
+4022#2	missing VP	VP2
+4025#0	unrecognized TO	help
+4027#2	missing VP	VP0
+4031#0	missing VP	VP0
+4033#0	missing VP	VP0
+4033#2	missing DOBJ	VP0	NP2
+4036#0	missing VP	VP0
+4036#1	missing VP	VP0
+4036#1	missing VP	VP1
+4036#2	missing VP	VP0
+4037#1	missing VP	VP0
+4037#2	unrecognized TO	get ready
+4038#1	missing VP	VP0
+4038#3	missing VP	VP0
+4041#1	missing VP	VP1
+4042#0	missing VP	VP0
+4043#0	missing VP	VP0
+4046#0	missing VP	VP1
+4046#2	missing VP	VP0
+4046#3	missing VP	VP0
+4047#0	unrecognized TO	look like
+4052#0	missing VP	VP0
+4052#1	missing VP	VP0
+4052#2	missing VP	VP0
+4052#3	missing DOBJ	VP0	NP1
+4058#1	missing VP	VP0
+4062#1	missing VP	VP1
+4064#0	missing DOBJ	VP0	NP1
+4068#1	missing VP	VP0
+4070#0	missing SUBJ	VP1	NP5
+4071#0	unrecognized TO	lean
+4075#0	missing VP	VP0
+4076#1	missing VP	VP0
+4077#0	missing VP	VP0
+4080#1	missing VP	VP0
+4082#1	missing VP	VP1
+4083#0	missing VP	VP0
+4083#3	missing VP	VP0
+4084#2	missing VP	VP0
+4084#2	missing VP	VP2
+4085#1	missing VP	VP0
+4085#2	missing VP	VP0
+4086#2	missing VP	VP0
+4087#1	missing VP	VP0
+4087#3	missing VP	VP0
+4088#0	missing VP	VP0
+4088#1	missing VP	VP0
+4088#3	missing VP	VP0
+4089#0	missing VP	VP1
+4089#1	missing VP	VP0
+4090#0	missing VP	VP1
+4092#1	missing VP	VP0
+4092#2	unrecognized TO	look
+4094#1	missing VP	VP0
+4095#1	missing VP	VP0
+4097#2	missing VP	VP0
+4101#2	missing DOBJ	VP0	NP1
+4101#3	missing DOBJ	VP0	NP1
+4103#1	missing VP	VP0
+4103#2	missing VP	VP0
+4108#1	missing VP	VP0
+4108#2	missing VP	VP0
+4110#1	missing VP	VP1
+4113#1	missing VP	VP1
+4116#3	missing VP	VP0
+4120#0	unrecognized TO	get ready
+4121#0	missing SUBJ	VP2	NP4
+4121#1	missing VP	VP0
+4121#1	missing VP	VP1
+4121#1	missing SUBJ	VP2	NP2
+4125#0	missing VP	VP0
+4125#3	missing VP	VP0
+4125#3	missing SUBJ	VP1	NP1
+4126#2	missing VP	VP0
+4132#0	missing VP	VP0
+4132#1	missing VP	VP0
+4135#1	missing DOBJ	VP0	NP1
+4135#2	missing VP	VP0
+4136#2	missing VP	VP0
+4139#0	missing VP	VP1
+4139#3	missing VP	VP0
+4144#0	missing VP	VP0
+4145#0	missing VP	VP0
+4146#2	missing VP	VP1
+4147#0	missing VP	VP2
+4147#0	unrecognized TO	use
+4150#0	missing VP	VP2
+4150#1	missing VP	VP0
+4150#2	missing VP	VP0
+4151#0	missing VP	VP0
+4151#0	missing VP	VP1
+4151#1	missing VP	VP0
+4151#3	unrecognized TO	prepare
+4152#0	missing VP	VP0
+4152#2	missing VP	VP0
+4154#1	missing VP	VP0
+4155#1	missing VP	VP0
+4158#0	missing VP	VP0
+4159#1	missing VP	VP0
+4159#2	missing VP	VP0
+4161#0	missing VP	VP1
+4161#0	missing VP	VP2
+4162#0	missing VP	VP1
+4163#0	missing VP	VP0
+4163#2	missing DOBJ	VP0	NP2
+4165#0	missing VP	VP0
+4174#0	missing SUBJ	VP1	NP2
+4179#2	missing VP	VP0
+4180#1	missing VP	VP0
+4183#1	missing SUBJ	VP1	NP3
+4183#3	missing VP	VP0
+4185#0	missing VP	VP2
+4185#1	missing VP	VP0
+4185#1	missing VP	VP2
+4185#3	missing VP	VP1
+4188#2	missing SUBJ	VP0	NP3
+4188#2	missing SUBJ	VP1	NP3
+4190#1	missing VP	VP0
+4192#0	missing VP	VP2
+4192#1	missing VP	VP0
+4195#3	missing VP	VP0
+4196#0	missing VP	VP0
+4197#0	missing VP	VP0
+4200#2	missing VP	VP0
+4204#1	missing VP	VP0
+4209#0	missing VP	VP1
+4210#1	missing VP	VP0
+4213#H	missing DOBJ	VP0	NP1
+4215#0	missing VP	VP0
+4216#0	unrecognized TO	get ready
+4219#2	unrecognized TO	get ready
+4221#0	missing VP	VP0
+4221#2	missing VP	VP0
+4223#0	missing VP	VP1
+4223#0	missing VP	VP2
+4224#0	missing VP	VP0
+4224#1	missing VP	VP0
+4226#0	missing VP	VP0
+4227#2	missing VP	VP2
+4228#1	missing VP	VP0
+4231#3	missing VP	VP0
+4232#1	unrecognized TO	prepare
+4233#2	missing VP	VP0
+4236#0	missing VP	VP0
+4239#2	missing VP	VP0
+4241#3	missing VP	VP0
+4242#0	missing VP	VP0
+4242#0	missing DOBJ	VP2	NP4
+4242#1	missing DOBJ	VP1	NP4
+4244#1	missing VP	VP0
+4251#0	missing VP	VP0
+4252#0	missing VP	VP0
+4255#0	missing VP	VP2
+4255#0	missing VP	VP3
+4255#3	missing VP	VP0
+4257#0	missing VP	VP0
+4257#0	missing VP	VP1
+4257#3	missing VP	VP0
+4258#0	missing VP	VP0
+4259#0	unrecognized TO	have
+4260#2	missing VP	VP1
+4261#1	missing VP	VP0
+4262#0	missing VP	VP0
+4264#1	unrecognized TO	prepare
+4268#1	missing VP	VP0
+4269#0	missing VP	VP0
+4269#1	missing VP	VP1
+4270#1	missing VP	VP0
+4270#2	missing VP	VP0
+4270#2	missing SUBJ	VP1	NP1
+4270#3	missing VP	VP0
+4271#0	missing VP	VP0
+4273#0	missing VP	VP0
+4273#0	missing VP	VP1
+4276#1	missing VP	VP0
+4277#1	missing VP	VP0
+4278#0	missing VP	VP0
+4278#3	missing VP	VP0
+4279#0	missing VP	VP0
+4280#0	missing VP	VP0
+4280#1	missing VP	VP0
+4284#3	missing VP	VP0
+4286#0	missing VP	VP0
+4286#1	missing VP	VP1
+4287#0	missing VP	VP0
+4287#0	missing VP	VP1
+4287#2	missing VP	VP0
+4287#3	missing VP	VP0
+4288#2	missing VP	VP0
+4290#2	missing VP	VP1
+4291#0	missing VP	VP0
+4292#3	unrecognized TO	sit sail
+4294#0	missing VP	VP0
+4294#0	missing VP	VP1
+4294#1	missing VP	VP0
+4296#1	missing VP	VP2
+4299#2	missing VP	VP0
+4307#1	missing VP	VP0
+4307#3	missing VP	VP0
+4312#0	missing VP	VP0
+4312#0	missing SUBJ	VP1	NP1
+4317#1	missing VP	VP0
+4325#0	missing VP	VP0
+4325#2	missing VP	VP0
+4326#1	missing VP	VP3
+4326#3	missing VP	VP2
+4327#0	missing VP	VP0
+4330#0	missing VP	VP0
+4330#2	missing VP	VP0
+4331#1	missing VP	VP0
+4331#2	missing VP	VP0
+4331#3	missing VP	VP0
+4333#2	missing VP	VP0
+4334#3	missing VP	VP0
+4335#0	missing VP	VP1
+4336#0	missing VP	VP0
+4336#0	missing VP	VP1
+4338#2	missing VP	VP0
+4339#0	missing VP	VP1
+4339#2	missing VP	VP0
+4339#H	missing DOBJ	VP0	NP1
+4341#0	missing VP	VP0
+4341#2	missing VP	VP0
+4341#2	missing VP	VP1
+4343#0	missing VP	VP1
+4343#0	missing VP	VP2
+4344#0	missing VP	VP0
+4344#3	missing VP	VP0
+4345#0	unrecognized TO	seem fun
+4346#2	missing VP	VP2
+4347#1	missing VP	VP0
+4347#2	missing VP	VP0
+4348#0	missing VP	VP0
+4348#1	missing VP	VP0
+4349#0	missing VP	VP1
+4350#2	missing DOBJ	VP0	NP1
+4351#0	missing VP	VP0
+4352#0	missing VP	VP1
+4353#2	missing VP	VP0
+4357#0	unrecognized TO	need
+4359#1	missing VP	VP0
+4359#3	missing VP	VP0
+4360#0	missing VP	VP0
+4361#0	missing VP	VP0
+4361#2	missing DOBJ	VP0	NP1
+4362#0	missing VP	VP0
+4362#2	missing VP	VP0
+4363#0	missing VP	VP0
+4364#0	missing VP	VP0
+4366#3	missing VP	VP0
+4369#0	missing VP	VP0
+4369#1	missing VP	VP1
+4370#0	missing VP	VP1
+4370#0	missing VP	VP2
+4375#0	missing VP	VP0
+4375#0	missing VP	VP3
+4376#0	missing VP	VP0
+4376#0	missing SUBJ	VP3	NP7
+4376#1	missing VP	VP0
+4376#3	unrecognized TO	prepare
+4380#0	missing VP	VP0
+4380#3	missing VP	VP0
+4382#0	missing VP	VP0
+4386#0	missing VP	VP0
+4389#0	missing VP	VP1
+4390#2	missing VP	VP0
+4394#3	missing VP	VP0
+4396#0	missing VP	VP1
+4400#0	missing VP	VP0
+4400#1	missing VP	VP0
+4401#0	missing VP	VP0
+4402#1	missing VP	VP0
+4402#1	missing VP	VP1
+4403#2	missing VP	VP0
+4409#0	missing VP	VP0
+4417#0	missing VP	VP0
+4418#0	missing VP	VP0
+4418#2	unrecognized TO	get ready
+4420#0	missing VP	VP0
+4420#1	missing VP	VP0
+4420#1	unrecognized TO	ready
+4420#2	missing VP	VP0
+4422#1	missing VP	VP0
+4423#0	missing VP	VP0
+4425#0	missing VP	VP0
+4425#0	missing VP	VP2
+4425#1	missing VP	VP0
+4428#0	missing VP	VP0
+4428#1	missing VP	VP0
+4430#0	missing VP	VP0
+4434#0	missing VP	VP0
+4435#0	missing VP	VP0
+4435#0	missing VP	VP1
+4436#0	missing VP	VP1
+4439#0	missing VP	VP0
+4439#0	missing VP	VP1
+4440#1	unrecognized TO	white
+4442#0	missing VP	VP0
+4443#0	missing VP	VP0
+4443#1	missing VP	VP0
+4443#3	missing VP	VP0
+4447#0	missing VP	VP0
+4452#1	missing VP	VP0
+4452#2	missing VP	VP0
+4454#0	missing VP	VP0
+4454#3	missing VP	VP0
+4460#0	missing VP	VP0
+4460#0	missing DOBJ	VP3	NP9
+4462#0	missing VP	VP1
+4463#1	unrecognized TO	get ready
+4464#0	missing VP	VP3
+4464#1	missing VP	VP0
+4464#2	missing VP	VP0
+4466#1	unrecognized TO	get ready
+4467#0	missing SUBJ	VP0	NP1
+4467#3	missing VP	VP0
+4471#2	missing VP	VP0
+4471#3	missing VP	VP0
+4472#0	missing VP	VP0
+4472#1	missing VP	VP1
+4472#2	missing VP	VP0
+4473#0	missing VP	VP0
+4473#1	missing VP	VP0
+4477#1	missing VP	VP0
+4481#0	missing VP	VP0
+4481#1	missing VP	VP0
+4481#2	missing VP	VP0
+4481#2	missing SUBJ	VP1	NP1
+4486#0	missing VP	VP0
+4487#2	missing VP	VP0
+4488#0	missing VP	VP1
+4489#0	missing VP	VP0
+4489#2	missing VP	VP1
+4490#2	missing VP	VP0
+4491#0	missing VP	VP0
+4491#1	missing VP	VP0
+4491#3	missing VP	VP0
+4493#2	missing VP	VP0
+4495#0	missing VP	VP0
+4496#3	missing VP	VP0
+4498#1	missing VP	VP1
+4500#0	missing VP	VP0
+4500#1	missing VP	VP0
+4503#1	missing VP	VP0
+4503#1	missing DOBJ	VP1	NP5
+4504#0	missing VP	VP1
+4506#0	missing DOBJ	VP1	NP4
+4507#1	missing VP	VP0
+4510#0	missing SUBJ	VP1	NP3
+4513#0	missing VP	VP0
+4513#2	missing VP	VP0
+4514#2	missing VP	VP0
+4516#0	missing SUBJ	VP1	NP3
+4516#1	missing VP	VP1
+4517#0	missing VP	VP0
+4517#1	missing VP	VP0
+4519#0	missing VP	VP0
+4520#0	missing VP	VP1
+4520#0	missing VP	VP2
+4521#2	missing VP	VP0
+4523#0	missing VP	VP1
+4523#0	missing VP	VP2
+4524#0	missing VP	VP0
+4524#0	missing VP	VP2
+4524#3	missing DOBJ	VP0	NP1
+4533#0	missing VP	VP1
+4534#0	missing VP	VP1
+4538#0	missing VP	VP0
+4543#1	missing VP	VP0
+4544#1	missing VP	VP0
+4546#1	missing VP	VP0
+4546#1	missing VP	VP2
+4547#0	missing VP	VP1
+4549#0	missing VP	VP2
+4549#1	missing VP	VP0
+4551#1	missing VP	VP0
+4552#1	unrecognized TO	bend
+4554#2	missing VP	VP0
+4554#2	missing VP	VP1
+4554#3	unrecognized TO	prepare
+4555#1	missing VP	VP0
+4559#0	missing VP	VP0
+4559#0	missing VP	VP3
+4559#1	unrecognized TO	swerve
+4560#1	missing VP	VP1
+4565#0	missing VP	VP0
+4565#1	missing VP	VP0
+4567#1	missing VP	VP0
+4567#2	missing VP	VP0
+4567#3	missing VP	VP0
+4572#0	missing VP	VP0
+4575#1	missing VP	VP1
+4580#0	missing VP	VP0
+4581#0	missing VP	VP0
+4581#1	missing VP	VP1
+4581#3	unrecognized TO	huddle
+4587#0	unrecognized TO	get ready
+4587#1	unrecognized TO	get ready
+4587#3	unrecognized TO	get ready
+4589#0	missing VP	VP1
+4589#1	missing VP	VP0
+4590#1	missing VP	VP0
+4592#0	missing VP	VP1
+4593#0	missing VP	VP0
+4594#0	missing VP	VP0
+4598#1	missing VP	VP0
+4599#2	missing VP	VP0
+4602#1	missing VP	VP0
+4606#0	missing VP	VP0
+4609#0	missing VP	VP1
+4611#1	missing VP	VP1
+4614#1	missing VP	VP1
+4617#2	missing VP	VP0
+4618#1	missing VP	VP0
+4621#1	missing DOBJ	VP0	NP1
+4624#1	missing VP	VP0
+4625#2	missing VP	VP0
+4626#0	missing SUBJ	VP2	NP4
+4626#2	missing VP	VP0
+4632#0	unrecognized TO	hope
+4633#0	missing VP	VP0
+4634#1	missing VP	VP0
+4635#0	unrecognized TO	look
+4637#1	missing VP	VP0
+4637#2	missing VP	VP0
+4637#2	missing VP	VP1
+4639#0	missing VP	VP0
+4640#0	missing VP	VP1
+4640#0	missing SUBJ	VP2	NP3
+4641#0	missing VP	VP0
+4642#1	missing VP	VP0
+4644#3	missing VP	VP0
+4646#2	missing VP	VP0
+4648#0	missing VP	VP0
+4650#0	missing VP	VP0
+4651#0	missing VP	VP1
+4651#1	missing VP	VP1
+4651#2	missing VP	VP0
+4654#1	missing VP	VP0
+4655#0	missing VP	VP0
+4655#0	missing VP	VP2
+4655#2	missing VP	VP0
+4657#0	missing VP	VP0
+4657#2	missing VP	VP0
+4661#0	missing VP	VP1
+4663#0	missing VP	VP0
+4667#0	missing VP	VP0
+4669#1	missing VP	VP0
+4670#1	missing VP	VP0
+4671#0	missing VP	VP0
+4671#2	missing VP	VP0
+4671#3	missing VP	VP0
+4674#1	missing VP	VP0
+4675#1	missing VP	VP0
+4675#1	missing VP	VP1
+4675#1	missing VP	VP4
+4675#1	missing VP	VP5
+4681#0	missing VP	VP0
+4681#0	unrecognized TO	prepare
+4682#0	missing VP	VP0
+4684#1	missing VP	VP1
+4686#0	missing VP	VP0
+4686#0	missing SUBJ	VP3	NP7
+4686#1	missing VP	VP0
+4688#1	missing VP	VP0
+4689#0	missing VP	VP0
+4690#1	missing VP	VP0
+4691#0	missing VP	VP0
+4693#0	missing VP	VP0
+4697#0	missing VP	VP0
+4697#1	missing VP	VP0
+4697#2	missing VP	VP0
+4699#0	missing VP	VP0
+4700#2	missing DOBJ	VP0	NP1
+4705#3	missing DOBJ	VP0	NP2
+4707#2	missing VP	VP1
+4708#0	missing VP	VP0
+4713#0	missing VP	VP0
+4716#1	missing VP	VP0
+4717#0	missing VP	VP0
+4717#2	missing VP	VP0
+4721#0	missing VP	VP2
+4724#0	missing VP	VP0
+4725#0	missing SUBJ	VP0	NP1
+4725#2	missing VP	VP0
+4725#3	missing VP	VP0
+4726#1	missing VP	VP0
+4728#1	unrecognized TO	prepare
+4730#0	missing VP	VP0
+4730#0	missing VP	VP1
+4730#1	missing VP	VP0
+4731#0	missing VP	VP0
+4732#0	missing VP	VP0
+4733#0	missing VP	VP0
+4736#0	missing VP	VP2
+4736#0	missing VP	VP3
+4738#0	missing SUBJ	VP1	NP4
+4741#3	missing VP	VP0
+4742#1	missing VP	VP0
+4744#0	missing VP	VP0
+4744#0	missing VP	VP1
+4745#0	missing VP	VP1
+4747#3	missing VP	VP0
+4748#1	missing VP	VP0
+4748#1	missing VP	VP2
+4749#1	missing VP	VP0
+4751#0	missing DOBJ	VP0	NP2
+4754#0	missing VP	VP0
+4754#3	unrecognized TO	fix
+4757#3	unrecognized TO	prepare
+4758#0	missing VP	VP0
+4761#0	missing VP	VP1
+4762#0	unrecognized TO	need
+4765#1	missing VP	VP2
+4765#2	missing VP	VP0
+4767#2	missing DOBJ	VP0	NP1
+4770#2	missing VP	VP1
+4771#0	missing VP	VP1
+4771#2	missing VP	VP1
+4773#0	missing VP	VP0
+4773#1	missing VP	VP0
+4775#2	missing VP	VP0
+4776#0	missing VP	VP0
+4777#0	missing VP	VP0
+4777#2	missing VP	VP0
+4779#0	missing VP	VP0
+4784#2	missing DOBJ	VP0	NP1
+4788#3	missing VP	VP0
+4791#3	missing VP	VP1
+4793#0	missing VP	VP0
+4793#0	missing VP	VP1
+4793#1	missing VP	VP0
+4795#0	missing VP	VP0
+4795#1	missing VP	VP1
+4795#2	missing VP	VP0
+4800#0	missing VP	VP0
+4800#0	missing VP	VP1
+4800#1	missing VP	VP0
+4801#0	missing VP	VP0
+4802#0	missing VP	VP0
+4802#0	missing VP	VP1
+4803#0	missing VP	VP1
+4803#1	missing VP	VP1
+4803#2	missing VP	VP1
+4804#1	missing VP	VP0
+4804#3	missing VP	VP0
+4807#2	missing VP	VP2
+4807#3	missing VP	VP0
+4810#0	missing VP	VP1
+4810#2	missing VP	VP1
+4812#0	missing VP	VP0
+4812#1	missing VP	VP0
+4813#0	missing VP	VP0
+4813#0	missing VP	VP2
+4815#1	missing VP	VP0
+4816#0	missing VP	VP0
+4816#1	missing VP	VP0
+4821#0	missing VP	VP1
+4821#1	missing VP	VP0
+4822#1	missing VP	VP0
+4823#0	missing VP	VP0
+4829#0	missing VP	VP0
+4829#2	missing VP	VP1
+4832#0	missing VP	VP0
+4834#0	missing VP	VP3
+4834#0	missing VP	VP4
+4834#0	missing VP	VP5
+4834#0	missing VP	VP6
+4834#0	missing VP	VP7
+4834#2	missing VP	VP0
+4835#0	missing VP	VP0
+4835#1	missing VP	VP1
+4835#1	missing SUBJ	VP2	NP3
+4838#H	missing DOBJ	VP0	NP1
+4839#1	missing VP	VP0
+4839#3	unrecognized TO	come
+4841#1	missing VP	VP0
+4841#1	missing VP	VP1
+4842#0	missing VP	VP1
+4842#1	missing VP	VP0
+4850#3	missing VP	VP0
+4855#2	missing VP	VP0
+4859#1	unrecognized TO	get ready
+4863#0	missing VP	VP3
+4863#1	missing VP	VP0
+4863#2	missing VP	VP0
+4866#2	missing VP	VP0
+4868#0	missing VP	VP0
+4868#0	missing VP	VP1
+4871#0	missing VP	VP0
+4871#1	missing VP	VP0
+4871#2	missing VP	VP0
+4872#0	missing VP	VP0
+4872#0	missing VP	VP1
+4876#0	missing VP	VP0
+4879#0	missing VP	VP0
+4881#0	missing DOBJ	VP0	NP3
+4884#1	missing VP	VP0
+4885#3	missing VP	VP0
+4890#0	missing VP	VP0
+4890#0	missing VP	VP4
+4891#0	missing VP	VP0
+4891#0	missing VP	VP1
+4896#0	missing VP	VP1
+4897#0	missing VP	VP0
+4897#0	missing SUBJ	VP1	NP3
+4898#0	missing VP	VP0
+4900#2	missing VP	VP1
+4901#0	missing VP	VP0
+4901#1	missing VP	VP0
+4901#2	missing VP	VP0
+4901#3	missing VP	VP0
+4903#1	missing VP	VP0
+4904#1	missing VP	VP0
+4905#3	missing VP	VP0
+4908#0	missing VP	VP1
+4908#1	missing VP	VP0
+4909#0	missing VP	VP2
+4909#2	missing VP	VP0
+4910#0	missing VP	VP0
+4911#0	missing VP	VP0
+4912#0	missing VP	VP0
+4913#0	missing VP	VP0
+4913#2	missing VP	VP0
+4916#0	missing VP	VP1
+4916#1	missing VP	VP1
+4916#1	missing VP	VP2
+4916#H	missing DOBJ	VP0	NP1
+4918#0	missing VP	VP0
+4922#0	missing VP	VP0
+4922#0	missing VP	VP1
+4922#0	missing VP	VP2
+4922#2	missing VP	VP0
+4923#0	missing VP	VP0
+4923#3	unrecognized TO	want
+4924#2	missing VP	VP0
+4925#1	missing VP	VP0
+4928#0	missing VP	VP2
+4928#1	missing VP	VP0
+4931#2	missing DOBJ	VP0	NP1
+4932#1	missing VP	VP0
+4932#1	missing VP	VP1
+4937#1	missing VP	VP0
+4937#1	missing SUBJ	VP1	NP1
+4937#2	missing VP	VP0
+4937#3	missing VP	VP1
+4940#0	missing VP	VP0
+4941#1	missing VP	VP0
+4941#3	unrecognized TO	get ready
+4943#0	missing VP	VP1
+4944#0	missing VP	VP0
+4945#1	missing VP	VP0
+4945#2	missing VP	VP1
+4946#3	missing VP	VP0
+4947#1	missing VP	VP0
+4948#0	missing VP	VP0
+4949#0	missing VP	VP0
+4950#3	missing VP	VP0
+4952#2	missing VP	VP0
+4953#0	missing VP	VP0
+4953#0	missing VP	VP1
+4953#0	missing VP	VP2
+4954#0	missing VP	VP1
+4954#0	missing VP	VP2
+4955#H	unrecognized TO	lay down
+4956#0	missing VP	VP2
+4956#2	missing VP	VP1
+4960#2	missing VP	VP0
+4963#0	missing VP	VP0
+4963#2	missing VP	VP0
+4965#3	missing VP	VP0
+4967#3	missing VP	VP0
+4968#0	missing VP	VP2
+4968#1	missing VP	VP0
+4968#2	missing VP	VP0
+4969#0	missing VP	VP0
+4971#2	missing VP	VP0
+4972#0	missing VP	VP1
+4974#0	missing VP	VP0
+4974#2	missing VP	VP0
+4975#1	missing VP	VP0
+4977#0	missing VP	VP1
+4977#0	missing VP	VP2
+4978#0	missing VP	VP0
+4978#0	missing VP	VP1
+4979#1	missing VP	VP0
+4979#1	missing VP	VP1
+4980#0	missing VP	VP1
+4980#3	missing VP	VP1
+4981#0	missing VP	VP0
+4983#0	missing VP	VP0
+4984#0	missing VP	VP0
+4984#2	missing VP	VP0
+4986#3	missing VP	VP0
+4989#1	missing VP	VP0
+4995#0	missing VP	VP0
+4995#2	unrecognized TO	strain
+5003#0	missing VP	VP0
+5004#1	missing VP	VP0
+5004#2	missing DOBJ	VP0	NP1
+5005#1	missing VP	VP0
+5007#0	missing SUBJ	VP4	NP9
+5007#2	missing VP	VP0
+5009#0	missing VP	VP0
+5009#1	missing VP	VP0
+5013#3	missing DOBJ	VP0	NP1
+5015#0	unrecognized TO	prepare
+5016#0	missing VP	VP0
+5018#1	missing VP	VP0
+5020#0	missing VP	VP0
+5020#1	missing VP	VP1
+5021#0	missing VP	VP0
+5021#1	missing VP	VP0
+5021#2	missing VP	VP0
+5021#3	missing VP	VP0
+5026#0	missing VP	VP0
+5026#3	missing VP	VP0
+5027#2	missing VP	VP0
+5028#1	missing VP	VP0
+5028#2	missing VP	VP0
+5030#0	missing VP	VP0
+5030#2	missing VP	VP0
+5031#0	missing VP	VP0
+5031#1	missing VP	VP0
+5032#0	missing VP	VP0
+5034#1	missing VP	VP0
+5035#2	missing VP	VP0
+5036#1	missing VP	VP1
+5037#0	missing VP	VP0
+5037#2	missing VP	VP0
+5038#0	missing VP	VP0
+5041#2	missing VP	VP0
+5041#2	missing VP	VP1
+5045#2	missing VP	VP0
+5046#0	missing VP	VP0
+5046#1	missing VP	VP0
+5046#3	missing VP	VP0
+5048#0	missing VP	VP0
+5050#2	missing VP	VP0
+5050#2	unrecognized TO	turn
+5051#2	missing VP	VP1
+5052#2	missing VP	VP0
+5053#2	missing VP	VP0
+5059#0	missing VP	VP0
+5060#0	missing VP	VP0
+5061#0	unrecognized TO	prepare
+5062#0	missing VP	VP1
+5067#1	missing VP	VP1
+5069#1	missing VP	VP0
+5069#2	missing VP	VP0
+5070#2	unrecognized TO	learn
+5072#1	missing SUBJ	VP0	NP3
+5072#1	missing SUBJ	VP1	NP3
+5073#0	missing VP	VP0
+5076#0	missing VP	VP0
+5077#0	missing VP	VP0
+5077#1	missing VP	VP0
+5078#0	missing VP	VP0
+5078#1	missing VP	VP0
+5079#1	unrecognized TO	decide
+5082#0	missing VP	VP0
+5082#0	missing VP	VP1
+5082#1	missing VP	VP0
+5082#3	missing VP	VP0
+5083#1	missing VP	VP1
+5084#3	missing VP	VP0
+5085#0	missing VP	VP0
+5087#0	missing SUBJ	VP0	NP2
+5087#2	missing VP	VP3
+5087#3	missing VP	VP2
+5089#0	missing VP	VP0
+5089#1	missing VP	VP0
+5090#2	missing VP	VP1
+5091#1	missing VP	VP0
+5092#2	missing VP	VP0
+5095#2	missing VP	VP0
+5098#0	missing VP	VP0
+5098#3	missing VP	VP1
+5105#1	missing VP	VP0
+5105#1	missing VP	VP2
+5106#0	missing VP	VP0
+5107#0	missing VP	VP0
+5108#3	missing VP	VP0
+5111#0	missing VP	VP0
+5112#0	missing VP	VP0
+5115#2	missing VP	VP0
+5115#3	missing VP	VP0
+5116#1	missing VP	VP1
+5118#0	missing VP	VP0
+5118#0	missing VP	VP2
+5118#1	missing VP	VP0
+5123#0	missing VP	VP0
+5123#1	missing VP	VP0
+5123#2	missing VP	VP0
+5123#3	unrecognized TO	prepare
+5126#0	missing VP	VP0
+5126#1	missing VP	VP0
+5126#3	missing VP	VP0
+5128#1	missing VP	VP0
+5128#2	missing VP	VP0
+5128#3	missing VP	VP0
+5129#0	missing VP	VP0
+5129#3	missing VP	VP0
+5132#2	missing VP	VP0
+5135#0	missing VP	VP1
+5135#0	missing VP	VP2
+5135#0	missing VP	VP3
+5137#0	missing VP	VP0
+5137#1	missing VP	VP1
+5137#3	unrecognized TO	huddle
+5140#2	missing VP	VP0
+5144#1	unrecognized TO	prepare
+5145#3	missing VP	VP0
+5147#0	missing VP	VP1
+5148#1	missing DOBJ	VP0	NP1
+5148#2	missing VP	VP0
+5150#0	missing VP	VP0
+5150#1	missing VP	VP0
+5150#3	missing VP	VP0
+5151#0	missing VP	VP1
+5152#0	missing VP	VP0
+5154#0	missing VP	VP0
+5154#0	missing VP	VP1
+5156#2	missing VP	VP0
+5158#0	missing VP	VP0
+5158#0	missing VP	VP1
+5158#1	missing VP	VP1
+5158#2	missing VP	VP0
+5161#1	missing VP	VP1
+5161#2	missing VP	VP0
+5161#3	missing VP	VP0
+5163#0	missing VP	VP0
+5163#0	missing VP	VP2
+5164#1	missing VP	VP0
+5164#2	missing VP	VP0
+5168#3	missing VP	VP0
+5169#0	missing VP	VP0
+5171#0	missing VP	VP2
+5171#1	missing VP	VP0
+5171#2	missing VP	VP0
+5171#3	missing VP	VP0
+5172#1	missing VP	VP0
+5172#1	missing VP	VP2
+5173#2	missing DOBJ	VP0	NP1
+5178#1	missing VP	VP0
+5179#0	missing VP	VP0
+5179#3	unrecognized TO	compete
+5184#2	missing VP	VP0
+5185#1	missing VP	VP0
+5186#0	missing SUBJ	VP0	NP1
+5186#3	missing VP	VP0
+5187#0	missing VP	VP0
+5187#0	unrecognized TO	get ready
+5187#1	missing SUBJ	VP1	NP2
+5188#2	missing VP	VP0
+5190#1	missing VP	VP1
+5190#2	missing VP	VP1
+5191#0	missing VP	VP0
+5195#0	missing VP	VP0
+5198#1	missing VP	VP0
+5198#1	missing VP	VP2
+5201#0	unrecognized TO	stoop
+5201#2	unrecognized TO	get ready
+5202#0	missing VP	VP0
+5202#1	missing VP	VP0
+5202#2	missing VP	VP0
+5203#0	missing SUBJ	VP1	NP3
+5206#0	missing VP	VP0
+5208#2	missing VP	VP1
+5209#3	missing VP	VP0
+5213#0	missing VP	VP0
+5226#1	missing VP	VP0
+5228#1	missing VP	VP0
+5228#1	missing VP	VP2
+5228#2	missing VP	VP0
+5229#1	missing VP	VP0
+5233#0	unrecognized TO	appear to be happy
+5235#0	missing VP	VP0
+5235#0	missing VP	VP2
+5235#1	missing VP	VP0
+5235#1	missing VP	VP3
+5238#0	missing VP	VP0
+5238#1	missing VP	VP1
+5238#2	missing VP	VP0
+5239#1	unrecognized TO	prepare
+5239#2	unrecognized TO	prepare
+5241#0	missing VP	VP1
+5244#1	missing VP	VP0
+5244#1	missing VP	VP1
+5248#1	missing VP	VP0
+5251#0	missing VP	VP0
+5252#2	missing VP	VP0
+5253#0	missing VP	VP2
+5253#0	missing VP	VP3
+5255#0	missing VP	VP0
+5255#2	unrecognized TO	get ready
+5256#1	missing VP	VP0
+5258#2	missing VP	VP0
+5260#0	missing VP	VP0
+5260#0	missing VP	VP2
+5262#0	missing VP	VP1
+5262#2	missing VP	VP0
+5264#0	missing VP	VP0
+5265#1	missing VP	VP0
+5265#2	missing VP	VP0
+5269#1	missing VP	VP0
+5270#1	missing VP	VP0
+5270#1	missing VP	VP1
+5271#2	missing VP	VP0
+5275#0	missing VP	VP0
+5275#2	missing VP	VP1
+5277#0	missing VP	VP0
+5279#0	missing SUBJ	VP1	NP4
+5281#0	missing VP	VP0
+5282#0	missing VP	VP0
+5284#0	missing VP	VP0
+5284#2	missing VP	VP0
+5284#3	missing VP	VP0
+5285#1	missing VP	VP0
+5286#0	missing VP	VP0
+5290#1	missing VP	VP0
+5296#0	missing VP	VP0
+5296#2	missing VP	VP0
+5298#0	missing VP	VP0
+5298#1	missing VP	VP0
+5298#3	missing VP	VP0
+5303#3	missing VP	VP0
+5304#0	missing SUBJ	VP1	NP5
+5309#0	missing VP	VP0
+5309#3	missing VP	VP0
+5314#0	missing VP	VP1
+5318#0	missing VP	VP1
+5319#0	missing VP	VP0
+5324#2	missing VP	VP0
+5324#2	missing DOBJ	VP1	NP2
+5325#0	missing VP	VP0
+5325#0	missing VP	VP2
+5328#1	missing VP	VP0
+5328#3	missing VP	VP0
+5333#0	missing VP	VP0
+5333#1	missing VP	VP0
+5333#1	missing SUBJ	VP1	NP1
+5333#2	missing VP	VP0
+5334#0	missing VP	VP0
+5336#3	missing VP	VP0
+5338#0	missing VP	VP0
+5338#1	missing VP	VP1
+5339#1	missing VP	VP1
+5342#0	missing VP	VP0
+5342#1	unrecognized TO	want
+5342#2	missing VP	VP1
+5342#2	missing SUBJ	VP2	NP4
+5342#3	missing VP	VP0
+5344#0	missing VP	VP1
+5346#1	missing VP	VP1
+5350#0	missing VP	VP0
+5353#0	missing VP	VP0
+5353#1	missing VP	VP0
+5359#0	missing VP	VP1
+5359#1	missing VP	VP0
+5359#2	missing VP	VP0
+5359#2	missing VP	VP1
+5362#2	unrecognized TO	prepare
+5363#3	missing VP	VP0
+5366#0	missing VP	VP0
+5366#1	missing VP	VP0
+5366#3	missing VP	VP0
+5367#1	missing VP	VP0
+5367#2	missing VP	VP0
+5368#0	missing VP	VP0
+5368#1	missing VP	VP0
+5370#0	missing DOBJ	VP0	NP1
+5370#3	missing DOBJ	VP0	NP1
+5377#2	missing DOBJ	VP0	NP1
+5380#1	missing VP	VP0
+5381#1	missing VP	VP2
+5385#0	missing VP	VP0
+5386#0	missing VP	VP0
+5386#0	missing VP	VP1
+5387#0	missing VP	VP0
+5391#1	missing VP	VP0
+5391#2	missing VP	VP0
+5392#1	missing VP	VP0
+5393#0	missing VP	VP0
+5394#0	missing VP	VP0
+5395#0	missing VP	VP0
+5395#1	missing VP	VP0
+5398#2	missing VP	VP0
+5399#1	missing VP	VP0
+5399#1	missing VP	VP1
+5401#1	missing VP	VP0
+5401#2	missing VP	VP0
+5403#0	missing VP	VP0
+5403#1	missing VP	VP0
+5404#H	missing VP	VP0
+5405#0	missing VP	VP0
+5405#0	missing VP	VP6
+5405#H	missing VP	VP0
+5409#1	unrecognized TO	look
+5415#0	missing VP	VP0
+5416#2	missing VP	VP0
+5417#0	missing VP	VP0
+5418#0	missing DOBJ	VP0	NP3
+5418#2	missing VP	VP0
+5421#3	missing VP	VP1
+5424#3	missing VP	VP0
+5427#0	missing VP	VP1
+5428#1	missing VP	VP0
+5428#3	missing VP	VP0
+5431#1	missing VP	VP0
+5432#0	missing VP	VP0
+5433#0	missing VP	VP0
+5433#1	missing VP	VP0
+5433#2	missing VP	VP0
+5434#0	missing VP	VP0
+5435#3	missing VP	VP0
+5437#0	missing VP	VP0
+5437#0	missing VP	VP2
+5438#0	missing VP	VP1
+5438#0	missing VP	VP2
+5440#1	missing VP	VP0
+5440#1	unrecognized TO	prepare
+5442#0	missing VP	VP0
+5443#2	missing VP	VP0
+5444#1	missing VP	VP1
+5445#0	missing VP	VP0
+5449#0	missing VP	VP0
+5449#0	missing VP	VP2
+5451#0	missing VP	VP0
+5451#0	unrecognized TO	prepare
+5452#0	missing VP	VP0
+5454#0	missing VP	VP0
+5455#0	missing VP	VP0
+5457#0	missing VP	VP0
+5458#0	missing VP	VP0
+5458#1	missing VP	VP0
+5458#2	missing VP	VP0
+5459#0	missing VP	VP1
+5459#1	missing VP	VP0
+5460#1	missing VP	VP0
+5460#2	missing VP	VP0
+5460#3	missing VP	VP0
+5462#1	missing VP	VP0
+5462#1	missing SUBJ	VP1	NP1
+5464#0	missing VP	VP0
+5464#1	missing VP	VP0
+5466#2	missing VP	VP0
+5467#0	missing VP	VP0
+5470#0	missing SUBJ	VP1	NP3
+5471#0	missing VP	VP1
+5471#0	missing VP	VP2
+5476#2	missing VP	VP1
+5482#0	missing VP	VP1
+5483#1	missing VP	VP0
+5487#0	missing VP	VP0
+5487#1	missing VP	VP0
+5487#2	missing VP	VP0
+5487#2	missing SUBJ	VP1	NP2
+5489#0	unrecognized TO	prepare
+5494#1	missing VP	VP1
+5494#2	missing VP	VP0
+5498#3	unrecognized TO	get ready
+5499#0	missing VP	VP0
+5499#0	missing VP	VP1
+5499#2	missing SUBJ	VP0	NP1
+5500#0	missing VP	VP0
+5500#1	missing VP	VP1
+5502#0	missing VP	VP1
+5502#1	missing VP	VP0
+5503#0	missing VP	VP2
+5503#0	missing VP	VP3
+5503#1	missing VP	VP1
+5503#2	missing VP	VP1
+5504#0	missing VP	VP0
+5504#1	missing VP	VP0
+5504#3	missing VP	VP0
+5508#1	missing VP	VP1
+5508#3	missing VP	VP0
+5511#0	unrecognized TO	get ready
+5514#1	missing VP	VP0
+5515#0	missing VP	VP0
+5515#2	unrecognized TO	get ready
+5517#2	missing VP	VP0
+5518#2	missing DOBJ	VP0	NP1
+5522#0	missing VP	VP0
+5522#1	missing VP	VP0
+5523#3	unrecognized TO	help
+5526#0	missing VP	VP2
+5528#0	missing VP	VP0
+5528#2	missing VP	VP1
+5529#1	missing VP	VP0
+5530#1	missing VP	VP0
+5530#1	missing VP	VP1
+5530#3	missing VP	VP0
+5532#0	missing VP	VP0
+5532#1	missing VP	VP0
+5534#2	missing VP	VP0
+5534#2	missing VP	VP1
+5537#0	unrecognized TO	reach down
+5542#1	missing VP	VP0
+5545#3	missing VP	VP0
+5549#1	missing VP	VP0
+5549#1	missing DOBJ	VP1	NP2
+5550#1	missing VP	VP0
+5551#0	missing VP	VP0
+5553#1	missing VP	VP0
+5557#0	missing VP	VP0
+5557#2	missing VP	VP0
+5558#0	missing VP	VP0
+5559#0	missing VP	VP0
+5559#1	missing VP	VP0
+5560#0	missing VP	VP0
+5560#2	missing VP	VP0
+5561#0	missing VP	VP0
+5562#0	missing VP	VP0
+5562#3	missing VP	VP0
+5566#0	missing VP	VP1
+5566#0	missing VP	VP2
+5571#0	missing VP	VP0
+5571#0	missing VP	VP2
+5571#3	missing VP	VP0
+5571#3	missing SUBJ	VP1	NP1
+5572#0	missing VP	VP0
+5573#0	missing VP	VP1
+5573#3	missing VP	VP0
+5575#0	missing VP	VP0
+5575#1	missing VP	VP0
+5576#0	missing VP	VP0
+5577#1	unrecognized TO	want
+5579#0	missing VP	VP0
+5582#2	missing VP	VP0
+5583#1	missing VP	VP0
+5585#1	missing VP	VP0
+5586#0	missing VP	VP1
+5586#3	missing VP	VP0
+5588#2	missing VP	VP0
+5589#0	missing VP	VP0
+5589#1	missing VP	VP0
+5589#2	missing VP	VP0
+5589#2	missing VP	VP3
+5590#1	missing VP	VP0
+5590#3	missing VP	VP0
+5595#0	missing VP	VP1
+5595#0	missing VP	VP2
+5596#1	missing VP	VP0
+5599#1	missing VP	VP0
+5603#0	missing VP	VP0
+5603#0	missing VP	VP4
+5603#2	unrecognized TO	wok
+5604#3	unrecognized TO	help
+5605#0	missing VP	VP1
+5605#0	missing VP	VP2
+5609#0	missing VP	VP0
+5609#2	missing VP	VP0
+5610#0	missing VP	VP0
+5612#2	missing VP	VP0
+5613#0	missing VP	VP0
+5614#0	missing DOBJ	VP0	NP1
+5615#0	missing VP	VP0
+5617#0	missing VP	VP0
+5617#0	missing SUBJ	VP2	NP6
+5617#1	missing VP	VP0
+5619#1	missing VP	VP0
+5621#0	missing VP	VP0
+5622#2	missing VP	VP0
+5623#0	missing VP	VP0
+5623#1	missing VP	VP0
+5623#2	missing VP	VP0
+5625#1	missing VP	VP0
+5625#2	missing VP	VP0
+5626#0	missing VP	VP0
+5627#1	missing VP	VP0
+5629#0	missing VP	VP0
+5629#1	missing VP	VP0
+5631#0	missing VP	VP0
+5631#2	missing VP	VP0
+5632#0	missing VP	VP0
+5634#1	missing VP	VP0
+5634#3	unrecognized TO	prepare
+5638#1	missing VP	VP0
+5638#2	missing VP	VP0
+5641#1	missing VP	VP0
+5641#3	missing VP	VP0
+5641#3	missing SUBJ	VP1	NP1
+5645#0	missing VP	VP0
+5646#0	missing VP	VP0
+5647#0	missing VP	VP0
+5647#0	missing VP	VP1
+5647#2	missing VP	VP1
+5649#0	missing VP	VP0
+5649#1	missing VP	VP0
+5650#0	missing VP	VP0
+5650#0	missing VP	VP2
+5651#0	missing VP	VP1
+5653#3	missing VP	VP0
+5655#1	missing VP	VP1
+5656#0	missing VP	VP0
+5656#1	missing VP	VP0
+5660#0	missing VP	VP0
+5660#3	missing SUBJ	VP0	NP1
+5665#2	missing VP	VP1
+5668#1	missing VP	VP0
+5668#3	missing VP	VP0
+5668#3	missing VP	VP1
+5670#0	missing VP	VP0
+5671#0	missing VP	VP0
+5671#0	unrecognized TO	make
+5671#1	missing VP	VP0
+5672#1	unrecognized TO	jump high
+5674#0	missing DOBJ	VP0	NP1
+5674#1	missing VP	VP0
+5675#1	missing VP	VP0
+5675#2	missing VP	VP0
+5678#0	missing VP	VP0
+5678#2	missing VP	VP1
+5679#2	unrecognized TO	get ready
+5681#2	missing VP	VP0
+5682#0	missing VP	VP0
+5684#2	missing VP	VP0
+5687#1	missing VP	VP1
+5687#2	missing VP	VP0
+5689#1	missing VP	VP0
+5692#0	missing VP	VP1
+5692#0	missing VP	VP2
+5692#2	missing VP	VP0
+5693#0	missing VP	VP0
+5694#2	missing VP	VP0
+5695#1	missing VP	VP0
+5695#2	missing VP	VP0
+5697#3	missing VP	VP1
+5698#3	missing VP	VP0
+5699#2	missing DOBJ	VP0	NP1
+5704#1	missing VP	VP0
+5704#1	missing SUBJ	VP1	NP2
+5704#2	missing VP	VP0
+5705#0	unrecognized TO	get ready
+5705#1	unrecognized TO	get ready
+5705#3	unrecognized TO	get ready
+5707#1	unrecognized TO	prepare
+5707#2	missing VP	VP0
+5708#1	missing VP	VP0
+5708#3	missing VP	VP0
+5715#2	missing VP	VP0
+5715#2	missing VP	VP1
+5717#0	missing VP	VP0
+5721#0	missing VP	VP0
+5721#0	missing VP	VP2
+5721#1	missing VP	VP0
+5723#0	missing VP	VP0
+5724#0	missing VP	VP1
+5724#3	missing VP	VP0
+5725#0	missing VP	VP0
+5725#1	missing VP	VP0
+5725#2	missing VP	VP0
+5727#0	missing VP	VP0
+5727#2	missing VP	VP0
+5729#0	missing VP	VP0
+5729#1	missing VP	VP0
+5731#0	missing VP	VP1
+5732#0	missing VP	VP0
+5732#1	missing VP	VP0
+5733#1	missing VP	VP1
+5733#2	missing VP	VP0
+5733#3	missing VP	VP0
+5735#0	missing VP	VP0
+5736#0	missing VP	VP0
+5736#0	missing VP	VP2
+5740#0	missing VP	VP0
+5740#2	unrecognized TO	strain
+5741#1	missing VP	VP0
+5741#1	missing VP	VP1
+5742#0	missing VP	VP0
+5742#1	missing VP	VP0
+5742#2	missing VP	VP0
+5742#3	missing VP	VP0
+5744#3	missing DOBJ	VP0	NP1
+5744#3	missing VP	VP1
+5746#0	missing VP	VP0
+5746#0	missing VP	VP1
+5747#1	missing SUBJ	VP0	NP1
+5748#1	missing VP	VP0
+5750#1	missing VP	VP0
+5752#1	missing VP	VP0
+5752#2	missing VP	VP0
+5756#1	missing VP	VP2
+5756#3	missing VP	VP1
+5760#1	missing VP	VP0
+5768#1	missing VP	VP0
+5768#1	missing DOBJ	VP2	NP5
+5769#1	missing VP	VP0
+5770#0	missing VP	VP0
+5772#0	missing VP	VP0
+5773#2	missing VP	VP0
+5775#0	missing VP	VP0
+5775#1	missing DOBJ	VP0	NP3
+5776#0	missing VP	VP1
+5777#0	missing VP	VP1
+5779#1	missing VP	VP0
+5780#0	missing VP	VP0
+5783#0	missing DOBJ	VP1	NP3
+5783#1	missing VP	VP0
+5783#2	missing VP	VP0
+5783#3	missing VP	VP1
+5785#1	unrecognized TO	prepare
+5786#0	missing VP	VP0
+5786#0	missing VP	VP2
+5786#0	missing VP	VP3
+5788#3	missing VP	VP0
+5790#0	missing VP	VP0
+5791#0	missing VP	VP0
+5792#0	missing VP	VP1
+5793#0	missing VP	VP0
+5793#0	missing VP	VP1
+5793#0	missing VP	VP2
+5794#0	missing VP	VP0
+5794#1	missing VP	VP0
+5795#0	missing VP	VP0
+5795#1	missing VP	VP0
+5795#2	missing VP	VP1
+5801#0	unrecognized TO	get ready
+5801#1	missing VP	VP0
+5802#0	missing VP	VP0
+5803#0	missing VP	VP0
+5807#0	missing VP	VP0
+5807#1	missing VP	VP1
+5809#2	missing VP	VP0
+5810#1	missing VP	VP1
+5811#1	missing VP	VP0
+5812#0	missing VP	VP0
+5813#2	missing VP	VP0
+5816#0	missing VP	VP0
+5816#2	missing VP	VP0
+5822#0	missing VP	VP1
+5823#3	missing VP	VP0
+5826#0	missing VP	VP0
+5826#0	missing VP	VP2
+5826#1	missing VP	VP0
+5830#1	missing VP	VP1
+5830#1	missing VP	VP3
+5833#1	missing VP	VP0
+5833#2	missing VP	VP0
+5835#0	missing VP	VP0
+5836#0	missing VP	VP0
+5838#1	missing VP	VP0
+5838#2	missing VP	VP0
+5839#0	missing VP	VP1
+5843#0	missing VP	VP0
+5843#1	missing VP	VP0
+5845#0	missing VP	VP2
+5845#0	missing VP	VP3
+5845#2	missing VP	VP1
+5846#2	missing VP	VP0
+5847#2	missing DOBJ	VP0	NP1
+5848#2	missing VP	VP0
+5850#0	missing VP	VP0
+5853#0	missing VP	VP2
+5856#1	missing VP	VP0
+5857#1	missing VP	VP0
+5859#1	missing VP	VP1
+5860#0	missing VP	VP0
+5860#0	missing VP	VP1
+5861#0	missing VP	VP0
+5861#1	missing VP	VP0
+5861#2	missing VP	VP0
+5861#3	missing VP	VP0
+5863#1	missing VP	VP0
+5864#1	missing DOBJ	VP0	NP1
+5866#0	missing VP	VP0
+5866#1	missing VP	VP0
+5869#3	missing VP	VP0
+5872#1	missing VP	VP0
+5872#2	missing VP	VP0
+5873#0	unrecognized TO	lean down
+5873#1	missing VP	VP1
+5873#1	unrecognized TO	pretend
+5875#0	missing VP	VP1
+5879#0	missing VP	VP0
+5879#2	missing VP	VP0
+5880#2	missing VP	VP0
+5880#3	missing DOBJ	VP0	NP1
+5881#0	missing VP	VP0
+5884#0	missing VP	VP0
+5887#0	missing VP	VP0
+5889#0	missing VP	VP0
+5890#1	missing VP	VP0
+5890#3	missing VP	VP0
+5890#3	missing VP	VP1
+5891#0	missing VP	VP0
+5891#1	missing VP	VP0
+5892#3	missing VP	VP0
+5893#0	missing SUBJ	VP1	NP2
+5893#1	missing VP	VP1
+5894#0	missing VP	VP1
+5897#1	missing VP	VP0
+5897#2	missing VP	VP0
+5897#H	missing VP	VP0
+5898#1	missing VP	VP0
+5900#0	missing VP	VP0
+5900#0	missing VP	VP2
+5900#1	missing VP	VP1
+5900#1	missing VP	VP2
+5900#2	missing VP	VP0
+5902#0	missing VP	VP0
+5906#0	missing VP	VP0
+5906#1	missing VP	VP0
+5907#3	missing VP	VP0
+5909#0	missing VP	VP0
+5910#0	unrecognized TO	get ready
+5915#0	missing VP	VP0
+5915#1	missing VP	VP0
+5919#0	missing VP	VP0
+5925#2	missing VP	VP1
+5926#1	missing VP	VP0
+5928#0	missing VP	VP1
+5928#1	missing VP	VP1
+5929#2	missing VP	VP0
+5929#3	missing VP	VP0
+5933#2	missing VP	VP0
+5934#0	missing VP	VP0
+5934#0	missing VP	VP3
+5934#1	missing VP	VP0
+5934#1	missing VP	VP1
+5936#0	missing VP	VP0
+5936#1	missing VP	VP0
+5937#0	missing VP	VP1
+5937#2	missing VP	VP2
+5942#0	missing VP	VP0
+5946#1	missing VP	VP1
+5948#0	missing VP	VP0
+5948#2	missing VP	VP1
+5949#2	missing VP	VP0
+5950#0	missing VP	VP0
+5952#0	missing VP	VP2
+5952#2	unrecognized TO	get ready
+5952#3	missing VP	VP0
+5953#0	missing VP	VP0
+5954#2	missing VP	VP0
+5961#0	missing VP	VP0
+5961#3	missing VP	VP0
+5963#H	missing VP	VP0
+5964#1	missing VP	VP1
+5964#H	missing DOBJ	VP0	NP1
+5968#0	missing VP	VP0
+5969#0	missing VP	VP0
+5970#0	unrecognized TO	check
+5971#0	missing VP	VP2
+5971#3	missing VP	VP0
+5972#2	missing VP	VP0
+5975#1	missing VP	VP0
+5976#0	missing VP	VP0
+5976#0	missing VP	VP2
+5978#0	missing VP	VP0
+5978#0	missing VP	VP1
+5980#0	unrecognized TO	do not manage
+5980#1	unrecognized TO	turn
+5981#0	missing VP	VP0
+5984#0	missing VP	VP0
+5985#2	missing VP	VP0
+5985#3	missing VP	VP0
+5985#3	missing VP	VP1
+5988#0	missing VP	VP0
+5988#2	missing VP	VP0
+5994#0	missing VP	VP0
+5995#0	missing SUBJ	VP1	NP2
+5998#0	missing VP	VP0
+6000#0	missing VP	VP1
+6000#0	unrecognized TO	prepare
+6002#0	missing VP	VP0
+6003#3	missing VP	VP0
+6004#3	missing VP	VP0
+6005#0	missing VP	VP0
+6011#0	missing VP	VP0
+6011#0	missing VP	VP1
+6011#1	missing VP	VP0
+6013#0	missing VP	VP1
+6015#0	unrecognized TO	do seem
+6015#1	missing VP	VP1
+6017#0	missing VP	VP0
+6017#3	missing VP	VP0
+6020#1	missing VP	VP0
+6021#0	missing VP	VP0
+6026#1	missing VP	VP0
+6028#2	missing VP	VP0
+6030#1	missing VP	VP0
+6033#1	unrecognized TO	dressed
+6034#0	missing VP	VP0
+6035#1	missing VP	VP1
+6036#2	missing VP	VP0
+6037#3	missing VP	VP0
+6042#1	missing VP	VP0
+6043#0	missing VP	VP0
+6043#2	missing VP	VP0
+6043#3	missing VP	VP0
+6047#0	missing VP	VP0
+6049#1	missing VP	VP1
+6053#0	missing VP	VP0
+6053#0	missing VP	VP2
+6054#0	missing VP	VP0
+6054#0	missing VP	VP1
+6055#0	missing VP	VP0
+6055#1	missing VP	VP1
+6055#3	missing VP	VP1
+6055#3	missing VP	VP2
+6062#0	missing VP	VP0
+6063#1	missing VP	VP1
+6065#2	missing VP	VP0
+6066#0	unrecognized TO	have
+6066#1	missing VP	VP1
+6067#0	missing DOBJ	VP1	NP3
+6068#0	missing VP	VP0
+6069#2	missing VP	VP0
+6070#1	unrecognized TO	listen
+6073#1	missing VP	VP0
+6075#0	missing VP	VP1
+6075#1	missing VP	VP0
+6076#0	unrecognized TO	prepare
+6076#1	missing VP	VP1
+6078#1	missing DOBJ	VP0	NP1
+6080#1	missing VP	VP0
+6080#1	missing VP	VP1
+6082#1	missing VP	VP2
+6082#2	missing VP	VP2
+6082#3	missing VP	VP0
+6086#0	missing VP	VP2
+6086#2	missing VP	VP1
+6087#1	missing VP	VP0
+6091#0	missing VP	VP0
+6091#0	missing VP	VP1
+6091#1	missing VP	VP0
+6091#3	missing VP	VP0
+6092#0	unrecognized TO	prepare
+6093#3	missing VP	VP0
+6097#2	missing VP	VP0
+6098#0	missing VP	VP0
+6099#0	missing VP	VP0
+6109#0	missing VP	VP0
+6109#3	missing VP	VP0
+6114#0	missing VP	VP0
+6114#2	missing VP	VP0
+6116#1	missing VP	VP0
+6118#0	missing VP	VP0
+6118#0	missing VP	VP2
+6118#2	missing VP	VP0
+6118#3	missing VP	VP1
+6119#0	missing VP	VP0
+6120#1	missing VP	VP0
+6124#0	missing VP	VP0
+6130#0	missing VP	VP0
+6130#2	missing VP	VP1
+6131#2	missing VP	VP0
+6132#0	missing VP	VP1
+6132#1	unrecognized TO	prepare
+6134#1	missing VP	VP0
+6134#3	missing VP	VP0
+6137#0	missing VP	VP0
+6142#0	missing VP	VP0
+6142#1	missing VP	VP1
+6145#0	missing VP	VP0
+6151#1	missing VP	VP0
+6151#2	missing VP	VP0
+6151#H	missing DOBJ	VP0	NP1
+6152#2	missing SUBJ	VP1	NP2
+6156#1	missing VP	VP0
+6157#2	missing VP	VP0
+6158#0	missing VP	VP0
+6158#2	unrecognized TO	get ready
+6158#3	missing VP	VP0
+6159#2	missing VP	VP0
+6161#1	unrecognized TO	be
+6163#1	missing VP	VP0
+6164#0	missing VP	VP0
+6165#1	missing DOBJ	VP0	NP2
+6166#3	missing VP	VP0
+6167#1	missing VP	VP0
+6168#0	missing VP	VP0
+6168#2	missing DOBJ	VP1	NP3
+6168#3	missing VP	VP0
+6169#1	missing VP	VP1
+6174#2	missing VP	VP0
+6176#3	unrecognized TO	get ready
+6177#0	missing VP	VP0
+6177#1	missing VP	VP1
+6178#0	missing VP	VP0
+6178#0	missing VP	VP2
+6180#0	missing VP	VP0
+6180#2	missing VP	VP0
+6184#1	missing VP	VP0
+6186#1	unrecognized TO	look
+6190#0	missing VP	VP1
+6190#2	unrecognized TO	smile
+6190#3	missing VP	VP0
+6191#3	missing VP	VP0
+6191#3	missing SUBJ	VP1	NP1
+6192#0	missing VP	VP2
+6195#0	missing VP	VP0
+6198#3	missing VP	VP0
+6199#0	missing VP	VP0
+6201#0	missing VP	VP0
+6203#0	missing VP	VP0
+6205#0	missing VP	VP0
+6205#1	missing VP	VP0
+6205#2	missing VP	VP0
+6205#3	missing DOBJ	VP0	NP1
+6205#3	missing VP	VP1
+6206#0	missing VP	VP0
+6207#0	missing VP	VP0
+6207#0	missing VP	VP2
+6207#1	missing VP	VP0
+6209#0	missing VP	VP0
+6210#3	unrecognized TO	bend ready
+6211#0	missing VP	VP0
+6211#1	missing VP	VP0
+6215#0	missing VP	VP0
+6217#0	missing VP	VP1
+6218#0	missing VP	VP0
+6218#3	missing VP	VP0
+6222#1	missing VP	VP0
+6223#0	missing VP	VP1
+6223#1	missing VP	VP0
+6223#3	missing VP	VP0
+6228#0	missing VP	VP0
+6228#2	missing VP	VP0
+6236#0	missing VP	VP0
+6238#0	missing VP	VP0
+6238#1	missing VP	VP0
+6238#2	missing VP	VP0
+6239#0	missing VP	VP0
+6240#2	missing VP	VP0
+6243#0	missing VP	VP0
+6251#0	missing VP	VP0
+6254#2	unrecognized TO	learn
+6255#0	missing VP	VP1
+6255#2	missing VP	VP0
+6258#0	missing VP	VP1
+6260#3	missing VP	VP0
+6261#3	missing VP	VP0
+6262#2	missing VP	VP1
+6263#0	missing VP	VP1
+6263#1	missing VP	VP0
+6264#0	missing VP	VP0
+6266#1	missing VP	VP1
+6268#1	missing VP	VP1
+6272#0	missing VP	VP0
+6272#1	missing VP	VP0
+6276#1	missing VP	VP2
+6278#1	missing VP	VP1
+6278#2	unrecognized TO	paint
+6282#0	missing VP	VP1
+6284#0	missing VP	VP0
+6284#0	missing VP	VP1
+6285#0	missing VP	VP0
+6286#0	unrecognized TO	prepare
+6287#0	missing VP	VP1
+6288#0	missing VP	VP0
+6288#1	missing VP	VP0
+6288#1	missing VP	VP1
+6288#3	missing VP	VP0
+6290#0	missing VP	VP0
+6291#1	missing VP	VP1
+6294#0	missing VP	VP0
+6295#3	missing VP	VP0
+6299#2	missing DOBJ	VP1	NP3
+6302#0	missing DOBJ	VP1	NP3
+6304#0	missing VP	VP0
+6304#1	missing VP	VP0
+6309#2	missing DOBJ	VP0	NP1
+6310#3	missing VP	VP0
+6313#1	missing VP	VP0
+6313#1	missing DOBJ	VP1	NP2
+6313#3	missing VP	VP0
+6316#2	missing VP	VP0
+6317#0	missing VP	VP0
+6317#3	missing VP	VP0
+6320#0	missing VP	VP1
+6325#3	missing VP	VP1
+6326#1	unrecognized TO	get ready
+6326#2	missing VP	VP0
+6327#1	missing VP	VP0
+6328#3	missing VP	VP0
+6329#1	missing VP	VP1
+6329#2	missing VP	VP0
+6329#3	missing VP	VP1
+6330#1	unrecognized TO	standing
+6331#0	missing VP	VP0
+6334#1	missing VP	VP0
+6340#2	missing VP	VP1
+6340#3	missing VP	VP0
+6341#0	missing VP	VP0
+6344#0	missing VP	VP0
+6344#2	missing VP	VP0
+6345#0	missing VP	VP0
+6351#2	missing VP	VP0
+6353#1	missing VP	VP0
+6353#1	missing VP	VP1
+6354#0	missing VP	VP0
+6356#0	missing VP	VP0
+6359#0	missing DOBJ	VP0	NP3
+6361#0	missing VP	VP0
+6361#1	missing VP	VP0
+6361#2	missing VP	VP0
+6361#3	missing VP	VP0
+6366#1	missing SUBJ	VP1	NP3
+6367#0	missing VP	VP0
+6367#2	missing VP	VP1
+6369#0	missing VP	VP0
+6369#0	missing VP	VP1
+6369#0	missing SUBJ	VP2	NP4
+6370#1	missing VP	VP0
+6371#3	missing VP	VP0
+6373#3	missing VP	VP0
+6374#0	missing VP	VP0
+6374#1	missing VP	VP0
+6374#1	missing VP	VP1
+6374#3	missing VP	VP0
+6378#2	missing VP	VP0
+6379#0	missing VP	VP0
+6379#2	missing VP	VP1
+6380#1	missing VP	VP0
+6380#2	missing VP	VP0
+6381#1	unrecognized TO	listen
+6385#3	missing DOBJ	VP0	NP1
+6386#2	missing VP	VP0
+6387#2	missing VP	VP0
+6387#2	missing VP	VP1
+6392#1	missing VP	VP0
+6392#2	missing VP	VP0
+6397#1	missing VP	VP0
+6399#1	missing DOBJ	VP0	NP1
+6401#0	missing VP	VP0
+6402#0	missing VP	VP2
+6403#0	missing VP	VP1
+6404#0	missing VP	VP0
+6405#1	unrecognized TO	get ready
+6408#0	missing VP	VP1
+6409#0	missing VP	VP0
+6409#0	unrecognized TO	prepare
+6409#1	missing VP	VP0
+6410#0	missing VP	VP0
+6412#0	missing VP	VP2
+6412#1	unrecognized TO	make
+6412#2	missing VP	VP0
+6413#0	missing VP	VP3
+6414#1	missing VP	VP0
+6415#0	missing VP	VP0
+6416#0	missing VP	VP0
+6416#1	missing VP	VP0
+6418#3	missing VP	VP0
+6419#0	missing VP	VP1
+6420#0	missing VP	VP1
+6422#0	missing VP	VP0
+6424#0	missing VP	VP0
+6425#0	missing VP	VP0
+6425#1	missing VP	VP0
+6425#2	missing DOBJ	VP1	NP4
+6426#0	missing VP	VP0
+6427#3	missing VP	VP0
+6428#1	missing VP	VP1
+6429#0	missing VP	VP0
+6430#3	missing VP	VP0
+6431#H	missing VP	VP0
+6432#0	missing VP	VP0
+6437#1	missing VP	VP0
+6437#2	missing VP	VP1
+6437#2	missing VP	VP2
+6438#1	missing VP	VP0
+6438#3	missing VP	VP0
+6441#1	missing DOBJ	VP0	NP1
+6441#2	missing VP	VP0
+6442#1	missing VP	VP0
+6444#0	missing VP	VP0
+6447#1	missing VP	VP0
+6448#2	missing DOBJ	VP0	NP1
+6449#0	missing VP	VP0
+6450#1	missing VP	VP0
+6454#0	missing VP	VP0
+6454#1	missing VP	VP0
+6455#1	unrecognized TO	pretend
+6456#0	missing VP	VP0
+6461#0	missing VP	VP1
+6462#1	missing VP	VP0
+6464#0	missing VP	VP0
+6464#1	missing VP	VP0
+6464#2	missing VP	VP0
+6466#0	missing VP	VP0
+6466#0	missing DOBJ	VP1	NP3
+6466#2	missing VP	VP0
+6467#1	missing VP	VP0
+6467#2	missing VP	VP0
+6470#0	missing VP	VP1
+6472#1	missing VP	VP1
+6474#2	missing VP	VP0
+6477#2	missing VP	VP0
+6477#3	missing VP	VP0
+6481#0	missing VP	VP0
+6481#1	missing VP	VP0
+6483#1	missing SUBJ	VP0	NP3
+6483#1	missing SUBJ	VP1	NP3
+6491#2	missing VP	VP0
+6493#1	missing VP	VP0
+6493#2	missing VP	VP0
+6497#2	missing VP	VP0
+6499#0	missing VP	VP1
+6499#0	missing VP	VP2
+6500#0	missing VP	VP0
+6501#0	missing VP	VP0
+6501#H	missing VP	VP1
+6506#3	missing DOBJ	VP0	NP1
+6509#0	missing VP	VP0
+6511#3	missing VP	VP0
+6512#1	missing VP	VP0
+6514#0	missing VP	VP0
+6514#1	missing VP	VP0
+6514#2	missing VP	VP0
+6514#3	missing VP	VP0
+6516#1	missing VP	VP0
+6516#1	missing VP	VP1
+6519#0	missing VP	VP0
+6521#2	missing VP	VP0
+6522#0	missing VP	VP0
+6522#2	missing VP	VP0
+6522#2	missing SUBJ	VP1	NP1
+6523#0	missing VP	VP1
+6525#1	missing DOBJ	VP0	NP1
+6527#0	missing VP	VP2
+6531#0	missing VP	VP1
+6533#0	missing VP	VP0
+6534#0	missing VP	VP0
+6534#1	missing VP	VP1
+6535#0	missing VP	VP0
+6536#0	missing VP	VP1
+6536#1	missing VP	VP0
+6536#2	missing VP	VP0
+6538#1	missing VP	VP0
+6539#0	missing VP	VP1
+6539#2	missing VP	VP0
+6540#0	missing VP	VP0
+6540#0	missing VP	VP3
+6540#0	missing VP	VP6
+6540#1	missing VP	VP0
+6540#1	missing VP	VP3
+6541#0	missing VP	VP0
+6541#1	missing VP	VP0
+6541#2	missing VP	VP0
+6541#3	missing VP	VP1
+6543#1	missing VP	VP1
+6545#2	missing VP	VP0
+6546#0	missing VP	VP0
+6546#1	missing VP	VP0
+6547#0	missing VP	VP0
+6547#0	missing VP	VP1
+6547#2	missing VP	VP0
+6550#0	missing VP	VP0
+6550#1	missing VP	VP0
+6550#2	missing VP	VP0
+6552#1	missing VP	VP0
+6552#H	missing DOBJ	VP0	NP1
+6556#0	missing VP	VP0
+6556#1	missing VP	VP1
+6558#3	missing VP	VP0
+6560#1	missing VP	VP1
+6561#0	missing VP	VP1
+6562#0	unrecognized TO	get ready
+6565#1	missing VP	VP0
+6565#1	missing DOBJ	VP1	NP2
+6566#1	missing VP	VP0
+6567#1	missing VP	VP0
+6568#2	missing VP	VP0
+6568#2	missing VP	VP1
+6570#0	missing VP	VP0
+6570#0	missing DOBJ	VP1	NP2
+6571#1	missing VP	VP0
+6573#0	missing DOBJ	VP0	NP1
+6576#0	missing VP	VP0
+6576#1	missing VP	VP0
+6577#1	missing VP	VP0
+6580#1	missing VP	VP0
+6583#0	missing VP	VP0
+6583#1	missing VP	VP0
+6583#3	missing VP	VP0
+6584#1	missing VP	VP0
+6586#0	missing VP	VP0
+6588#0	missing VP	VP0
+6592#1	missing VP	VP0
+6592#2	missing VP	VP0
+6593#0	missing VP	VP0
+6594#2	missing VP	VP0
+6596#0	missing VP	VP0
+6597#0	missing VP	VP1
+6603#0	missing VP	VP0
+6607#0	missing VP	VP0
+6607#1	missing VP	VP0
+6608#0	missing VP	VP0
+6610#3	unrecognized TO	form
+6613#0	missing VP	VP1
+6614#0	missing VP	VP4
+6614#3	missing VP	VP1
+6616#0	missing VP	VP1
+6616#1	missing VP	VP0
+6624#1	missing DOBJ	VP0	NP2
+6624#H	missing DOBJ	VP0	NP1
+6626#1	unrecognized TO	squat
+6627#0	missing VP	VP1
+6627#2	missing VP	VP0
+6627#2	missing VP	VP2
+6628#1	missing DOBJ	VP0	NP1
+6630#0	missing VP	VP0
+6633#3	missing VP	VP0
+6635#0	missing DOBJ	VP0	NP2
+6637#1	unrecognized TO	prepare
+6638#0	missing VP	VP0
+6639#0	missing VP	VP0
+6639#2	missing VP	VP0
+6640#H	missing DOBJ	VP0	NP1
+6643#0	missing VP	VP1
+6645#2	missing VP	VP0
+6645#2	missing VP	VP1
+6646#2	missing VP	VP0
+6648#0	unrecognized TO	gather ready
+6649#0	missing VP	VP0
+6650#0	missing VP	VP0
+6651#2	missing VP	VP0
+6652#0	missing VP	VP0
+6659#1	missing VP	VP0
+6660#3	missing VP	VP0
+6663#0	missing VP	VP0
+6664#0	missing VP	VP0
+6664#1	missing VP	VP0
+6664#2	missing VP	VP0
+6667#0	missing VP	VP1
+6667#1	missing VP	VP0
+6670#2	missing VP	VP0
+6673#0	missing VP	VP0
+6674#0	missing VP	VP0
+6675#0	missing VP	VP0
+6682#0	missing VP	VP0
+6682#2	missing VP	VP0
+6682#3	missing VP	VP0
+6685#0	missing VP	VP0
+6685#0	missing DOBJ	VP1	NP3
+6685#0	missing VP	VP3
+6685#2	missing DOBJ	VP0	NP1
+6688#0	missing VP	VP0
+6690#0	unrecognized TO	want
+6694#0	missing VP	VP0
+6694#1	missing VP	VP0
+6696#3	unrecognized TO	prepare
+6697#0	missing VP	VP0
+6697#2	unrecognized TO	hope
+6699#3	missing VP	VP0
+6700#1	missing VP	VP0
+6701#1	missing VP	VP0
+6703#0	missing VP	VP1
+6704#2	missing VP	VP1
+6705#0	missing VP	VP0
+6706#0	missing VP	VP0
+6706#1	missing VP	VP0
+6706#3	missing VP	VP0
+6710#0	missing DOBJ	VP0	NP1
+6711#1	missing VP	VP0
+6712#1	missing VP	VP0
+6712#3	missing VP	VP0
+6716#0	missing VP	VP0
+6716#1	missing VP	VP0
+6718#2	missing VP	VP1
+6719#0	missing VP	VP0
+6719#2	missing VP	VP0
+6719#3	unrecognized TO	prepare
+6720#H	missing DOBJ	VP0	NP1
+6721#1	missing VP	VP0
+6721#2	missing VP	VP0
+6722#0	missing VP	VP0
+6724#1	missing SUBJ	VP1	NP3
+6724#1	missing SUBJ	VP2	NP3
+6724#3	missing VP	VP0
+6725#0	missing VP	VP0
+6725#1	missing VP	VP0
+6727#2	missing VP	VP0
+6729#0	missing VP	VP0
+6729#0	missing DOBJ	VP1	NP5
+6729#1	missing VP	VP0
+6731#1	missing VP	VP2
+6732#0	missing VP	VP0
+6738#0	missing VP	VP3
+6738#0	missing SUBJ	VP4	NP7
+6738#1	missing VP	VP1
+6738#2	missing VP	VP0
+6738#3	missing VP	VP0
+6743#0	missing VP	VP0
+6744#1	missing VP	VP0
+6745#0	missing VP	VP0
+6745#3	missing VP	VP1
+6748#0	missing VP	VP0
+6750#1	missing VP	VP0
+6750#2	missing VP	VP0
+6750#3	missing VP	VP0
+6753#2	missing VP	VP0
+6758#0	missing VP	VP0
+6759#0	missing VP	VP0
+6764#2	missing VP	VP0
+6766#2	missing VP	VP0
+6767#0	missing VP	VP0
+6768#1	missing VP	VP0
+6768#2	missing VP	VP0
+6770#H	missing DOBJ	VP0	NP1
+6772#0	missing DOBJ	VP0	NP1
+6773#2	missing VP	VP0
+6777#1	missing VP	VP0
+6779#0	missing VP	VP0
+6781#0	missing VP	VP0
+6784#0	missing VP	VP0
+6787#2	missing VP	VP0
+6788#0	missing VP	VP0
+6788#1	missing VP	VP0
+6789#3	missing VP	VP0
+6790#2	missing VP	VP0
+6791#0	missing VP	VP1
+6791#0	missing VP	VP2
+6793#1	unrecognized TO	prepare
+6793#2	unrecognized TO	prepare
+6795#0	missing VP	VP1
+6797#1	missing VP	VP1
+6798#0	missing VP	VP0
+6799#2	missing VP	VP0
+6800#0	missing SUBJ	VP1	NP3
+6801#3	missing VP	VP0
+6802#0	missing VP	VP0
+6802#2	missing VP	VP0
+6802#3	missing VP	VP0
+6808#2	missing VP	VP0
+6808#2	missing VP	VP1
+6813#1	unrecognized TO	get ready
+6813#3	missing VP	VP0
+6814#0	missing VP	VP0
+6814#2	missing VP	VP0
+6815#0	missing VP	VP1
+6815#0	missing VP	VP3
+6815#2	missing VP	VP0
+6820#0	unrecognized TO	be bent
+6831#1	missing VP	VP0
+6832#0	missing VP	VP0
+6832#0	missing VP	VP1
+6833#0	missing VP	VP1
+6834#0	missing VP	VP1
+6836#0	missing VP	VP0
+6837#2	unrecognized TO	get ready
+6840#3	missing VP	VP0
+6842#0	missing VP	VP0
+6842#1	missing VP	VP0
+6842#3	missing DOBJ	VP0	NP2
+6843#0	unrecognized TO	look
+6850#1	missing VP	VP0
+6852#0	missing VP	VP0
+6854#0	missing VP	VP0
+6855#0	missing VP	VP0
+6855#1	missing VP	VP0
+6855#2	missing VP	VP0
+6855#3	missing VP	VP1
+6857#1	missing VP	VP0
+6858#2	missing VP	VP1
+6860#0	missing VP	VP0
+6860#0	missing VP	VP2
+6861#0	missing VP	VP1
+6862#2	missing VP	VP0
+6867#0	missing VP	VP0
+6867#3	missing VP	VP0
+6868#0	missing VP	VP0
+6876#2	missing VP	VP0
+6882#0	missing DOBJ	VP0	NP1
+6883#0	missing VP	VP0
+6885#1	missing VP	VP1
+6888#0	missing SUBJ	VP1	NP5
+6889#0	missing VP	VP1
+6892#0	missing VP	VP0
+6892#3	missing VP	VP0
+6894#1	missing VP	VP0
+6894#1	missing VP	VP1
+6896#0	missing VP	VP1
+6896#2	missing VP	VP0
+6896#3	missing VP	VP0
+6897#0	missing VP	VP0
+6898#0	missing VP	VP1
+6898#0	missing VP	VP2
+6899#0	missing VP	VP1
+6900#0	missing VP	VP0
+6900#2	unrecognized TO	prepare
+6901#0	missing VP	VP0
+6902#1	missing VP	VP0
+6908#0	missing VP	VP1
+6908#2	missing VP	VP0
+6909#2	missing VP	VP0
+6910#0	missing VP	VP0
+6913#0	missing DOBJ	VP0	NP1
+6913#3	missing DOBJ	VP0	NP1
+6914#0	missing VP	VP0
+6915#0	missing VP	VP0
+6917#0	missing VP	VP0
+6918#0	missing VP	VP0
+6919#1	missing VP	VP0
+6920#1	missing VP	VP1
+6921#0	missing VP	VP1
+6921#1	missing VP	VP0
+6923#0	missing VP	VP1
+6923#2	missing VP	VP0
+6925#0	missing VP	VP2
+6927#3	missing VP	VP0
+6927#3	unrecognized TO	look
+6928#0	missing VP	VP0
+6928#0	missing VP	VP2
+6931#0	missing VP	VP0
+6932#0	missing VP	VP1
+6933#0	missing VP	VP0
+6934#0	missing VP	VP1
+6938#0	missing VP	VP1
+6938#1	missing VP	VP0
+6940#0	missing VP	VP0
+6941#0	missing VP	VP0
+6941#1	missing VP	VP0
+6950#0	missing VP	VP0
+6950#H	missing DOBJ	VP0	NP1
+6952#0	missing VP	VP0
+6952#1	missing VP	VP0
+6955#1	missing VP	VP0
+6959#1	missing VP	VP0
+6960#1	missing VP	VP0
+6960#1	missing SUBJ	VP1	NP1
+6961#0	missing VP	VP1
+6963#3	unrecognized TO	prepare
+6966#3	missing DOBJ	VP0	NP1
+6967#0	unrecognized TO	appear to be prepare
+6967#1	missing VP	VP0
+6968#2	missing VP	VP0
+6968#2	missing SUBJ	VP1	NP1
+6969#1	missing VP	VP0
+6970#0	missing VP	VP0
+6970#1	missing VP	VP0
+6975#0	missing VP	VP1
+6975#0	missing VP	VP2
+6975#0	missing VP	VP3
+6977#1	unrecognized TO	get ready
+6980#1	missing VP	VP0
+6983#H	missing DOBJ	VP0	NP1
+6984#0	missing VP	VP0
+6987#1	missing VP	VP1
+6989#2	missing VP	VP0
+6991#0	missing VP	VP1
+6991#0	missing VP	VP2
+6991#2	missing VP	VP1
+6992#2	missing VP	VP0
+6996#0	missing VP	VP0
+6997#0	unrecognized TO	have
+6997#1	missing VP	VP1
+6998#2	missing VP	VP0
+7002#3	missing VP	VP0
+7006#1	missing VP	VP0
+7008#0	missing VP	VP0
+7008#2	missing DOBJ	VP1	NP3
+7008#3	missing VP	VP0
+7010#3	missing VP	VP0
+7010#3	missing SUBJ	VP1	NP1
+7011#0	missing VP	VP1
+7011#3	missing VP	VP0
+7012#0	missing VP	VP0
+7013#0	missing VP	VP0
+7016#1	missing VP	VP0
+7016#2	missing VP	VP0
+7017#0	missing VP	VP0
+7019#0	unrecognized TO	decide
+7020#0	missing VP	VP0
+7020#1	missing VP	VP0
+7021#2	unrecognized TO	learn
+7022#3	missing VP	VP0
+7024#2	missing VP	VP0
+7026#0	missing VP	VP0
+7029#0	unrecognized TO	get ready
+7032#0	missing VP	VP1
+7032#1	missing VP	VP0
+7033#1	missing VP	VP0
+7033#2	missing VP	VP0
+7035#3	missing VP	VP0
+7035#3	unrecognized TO	look
+7038#2	missing VP	VP0
+7039#2	missing DOBJ	VP0	NP1
+7039#3	missing DOBJ	VP0	NP1
+7041#1	missing VP	VP0
+7044#0	missing VP	VP0
+7045#2	missing VP	VP0
+7046#0	missing VP	VP0
+7046#0	missing VP	VP1
+7046#1	missing VP	VP3
+7047#1	missing VP	VP0
+7048#1	missing VP	VP1
+7048#3	missing DOBJ	VP0	NP1
+7049#1	missing VP	VP0
+7050#0	missing VP	VP0
+7050#1	missing VP	VP0
+7051#2	unrecognized TO	prepare
+7053#1	missing VP	VP0
+7054#1	missing VP	VP1
+7055#1	missing VP	VP0
+7057#0	missing VP	VP0
+7058#1	missing DOBJ	VP0	NP1
+7058#2	missing VP	VP1
+7058#3	missing VP	VP0
+7062#0	missing VP	VP0
+7063#0	missing VP	VP1
+7065#1	missing VP	VP0
+7065#2	missing VP	VP0
+7067#1	missing VP	VP0
+7069#1	missing DOBJ	VP0	NP1
+7072#0	missing VP	VP1
+7072#1	missing VP	VP1
+7072#3	unrecognized TO	set up
+7075#1	missing VP	VP0
+7076#0	missing VP	VP1
+7076#2	missing VP	VP0
+7077#0	missing VP	VP0
+7077#1	missing VP	VP2
+7078#1	missing VP	VP0
+7079#1	missing VP	VP0
+7079#1	missing VP	VP1
+7080#1	missing VP	VP0
+7082#0	missing VP	VP3
+7083#1	missing VP	VP0
+7084#H	unrecognized TO	be
+7085#1	missing DOBJ	VP0	NP1
+7087#0	missing VP	VP0
+7093#1	missing VP	VP0
+7093#2	missing VP	VP1
+7094#0	missing VP	VP1
+7094#1	missing VP	VP0
+7095#0	missing VP	VP2
+7096#3	missing DOBJ	VP0	NP1
+7099#1	missing VP	VP0
+7099#1	missing VP	VP1
+7103#0	missing VP	VP0
+7104#1	missing VP	VP0
+7105#H	missing DOBJ	VP0	NP1
+7106#1	missing DOBJ	VP1	NP2
+7107#3	missing VP	VP0
+7110#0	missing VP	VP1
+7110#1	missing VP	VP0
+7111#0	missing VP	VP0
+7113#1	missing VP	VP0
+7114#2	missing VP	VP0
+7116#0	missing VP	VP0
+7116#2	missing DOBJ	VP0	NP2
+7117#0	missing VP	VP0
+7117#3	missing VP	VP0
+7117#3	missing SUBJ	VP1	NP1
+7120#2	missing VP	VP0
+7121#1	unrecognized TO	prepare
+7122#1	missing VP	VP0
+7123#2	missing VP	VP0
+7123#3	missing VP	VP0
+7128#2	missing VP	VP0
+7134#0	missing VP	VP0
+7134#2	unrecognized TO	prepare
+7135#0	missing VP	VP0
+7135#1	missing DOBJ	VP1	NP3
+7135#2	missing DOBJ	VP0	NP1
+7135#3	missing DOBJ	VP0	NP1
+7136#1	missing VP	VP1
+7136#2	missing VP	VP0
+7138#1	missing VP	VP0
+7139#0	missing DOBJ	VP0	NP1
+7140#0	missing VP	VP0
+7140#1	missing VP	VP0
+7143#1	missing VP	VP0
+7144#1	missing VP	VP0
+7145#3	missing VP	VP0
+7150#0	missing VP	VP0
+7152#0	missing VP	VP0
+7152#3	missing VP	VP0
+7153#0	missing DOBJ	VP0	NP3
+7155#0	unrecognized TO	get ready
+7155#3	unrecognized TO	get ready
+7161#0	missing VP	VP0
+7161#2	missing VP	VP0
+7163#0	missing VP	VP1
+7164#0	missing VP	VP1
+7164#0	missing VP	VP2
+7164#3	missing VP	VP0
+7165#0	missing VP	VP0
+7165#1	missing DOBJ	VP0	NP1
+7169#1	missing VP	VP0
+7170#0	missing VP	VP1
+7171#2	missing VP	VP0
+7174#0	missing VP	VP0
+7174#2	missing VP	VP0
+7180#0	missing VP	VP0
+7180#1	missing VP	VP0
+7182#2	missing VP	VP0
+7184#2	unrecognized TO	get ready
+7187#0	unrecognized TO	turn
+7188#0	missing VP	VP0
+7191#1	missing VP	VP0
+7191#1	unrecognized TO	hang onto
+7194#0	missing VP	VP0
+7195#0	missing VP	VP3
+7196#0	missing VP	VP1
+7198#0	missing VP	VP0
+7200#0	missing VP	VP0
+7200#1	missing VP	VP0
+7201#0	missing VP	VP0
+7201#2	missing VP	VP0
+7202#2	missing VP	VP0
+7202#3	missing VP	VP0
+7202#3	missing VP	VP1
+7203#0	missing DOBJ	VP0	NP3
+7203#1	missing VP	VP0
+7203#1	missing VP	VP2
+7203#2	missing VP	VP2
+7205#0	missing VP	VP0
+7208#0	missing VP	VP2
+7208#0	missing VP	VP4
+7209#1	missing VP	VP0
+7209#3	missing VP	VP0
+7210#3	unrecognized TO	get ready
+7211#0	unrecognized TO	look like
+7213#0	missing VP	VP0
+7213#2	missing VP	VP0
+7224#0	missing VP	VP0
+7228#1	unrecognized TO	get ready
+7229#3	missing VP	VP0
+7229#3	missing VP	VP1
+7231#1	missing VP	VP0
+7231#3	missing VP	VP0
+7232#0	missing VP	VP0
+7232#0	missing SUBJ	VP1	NP3
+7233#0	missing VP	VP0
+7233#3	missing VP	VP0
+7235#0	missing DOBJ	VP0	NP1
+7236#1	missing VP	VP0
+7236#2	missing DOBJ	VP0	NP2
+7236#3	missing DOBJ	VP0	NP1
+7238#0	missing VP	VP0
+7238#2	missing VP	VP0
+7241#0	missing VP	VP0
+7241#2	missing VP	VP0
+7247#3	missing VP	VP0
+7248#1	missing DOBJ	VP0	NP1
+7248#H	missing DOBJ	VP0	NP1
+7254#1	missing VP	VP0
+7254#3	missing VP	VP0
+7257#2	missing VP	VP0
+7261#0	missing VP	VP2
+7265#0	missing VP	VP0
+7265#1	missing VP	VP0
+7270#1	missing VP	VP0
+7271#3	missing DOBJ	VP0	NP1
+7277#0	missing VP	VP0
+7278#1	missing VP	VP0
+7285#2	unrecognized TO	get ready
+7286#1	missing VP	VP0
+7289#0	missing VP	VP0
+7289#1	missing VP	VP0
+7293#0	unrecognized TO	pretend
+7295#0	missing VP	VP0
+7295#2	missing VP	VP0
+7295#2	missing DOBJ	VP2	NP3
+7297#1	missing VP	VP0
+7298#0	missing VP	VP0
+7298#0	missing VP	VP1
+7302#1	missing VP	VP0
+7302#1	missing VP	VP2
+7302#2	missing VP	VP0
+7302#3	missing VP	VP0
+7310#0	missing VP	VP0
+7310#1	missing VP	VP0
+7310#3	missing VP	VP0
+7316#1	missing VP	VP1
+7317#0	missing VP	VP0
+7320#H	missing DOBJ	VP0	NP1
+7322#1	missing VP	VP0
+7323#0	missing VP	VP0
+7323#H	missing DOBJ	VP0	NP1
+7326#0	missing VP	VP1
+7328#0	missing VP	VP0
+7329#1	missing VP	VP0
+7332#3	missing VP	VP0
+7335#1	missing DOBJ	VP0	NP1
+7336#0	missing VP	VP0
+7337#0	missing VP	VP0
+7337#1	missing VP	VP0
+7339#0	missing VP	VP0
+7339#2	missing VP	VP0
+7341#0	missing VP	VP1
+7344#1	missing VP	VP0
+7344#1	missing VP	VP2
+7346#1	missing VP	VP0
+7348#0	missing VP	VP2
+7349#0	missing VP	VP0
+7349#1	missing VP	VP0
+7351#0	missing VP	VP0
+7352#2	missing VP	VP0
+7355#0	missing VP	VP0
+7357#0	missing VP	VP1
+7359#H	missing DOBJ	VP0	NP1
+7360#1	missing VP	VP0
+7360#3	missing VP	VP0
+7360#3	missing SUBJ	VP1	NP1
+7361#0	missing VP	VP0
+7363#1	missing VP	VP0
+7363#3	missing VP	VP0
+7364#0	missing VP	VP0
+7369#1	missing VP	VP0
+7370#0	missing VP	VP2
+7370#0	missing VP	VP3
+7373#0	missing VP	VP0
+7373#3	missing VP	VP0
+7374#0	missing VP	VP1
+7375#1	missing VP	VP0
+7375#2	missing VP	VP0
+7379#0	missing VP	VP0
+7379#2	missing VP	VP0
+7379#3	missing VP	VP0
+7382#0	missing VP	VP0
+7382#0	missing VP	VP3
+7383#0	missing VP	VP0
+7383#1	missing VP	VP0
+7383#1	missing VP	VP1
+7384#1	missing VP	VP0
+7384#3	missing VP	VP0
+7384#3	missing VP	VP1
+7386#0	missing VP	VP0
+7387#0	missing VP	VP0
+7390#0	missing VP	VP0
+7390#1	missing VP	VP0
+7390#2	missing VP	VP0
+7390#3	missing VP	VP0
+7390#H	missing VP	VP0
+7400#0	missing VP	VP0
+7401#2	missing VP	VP0
+7402#2	missing DOBJ	VP0	NP2
+7404#0	missing VP	VP0
+7407#1	missing VP	VP0
+7408#0	missing VP	VP0
+7408#2	missing DOBJ	VP0	NP1
+7408#3	missing DOBJ	VP0	NP2
+7410#0	missing VP	VP0
+7410#2	missing VP	VP1
+7411#0	missing VP	VP0
+7412#0	missing VP	VP0
+7412#1	missing VP	VP0
+7413#2	missing VP	VP1
+7414#0	missing VP	VP1
+7414#0	missing VP	VP2
+7416#0	missing VP	VP0
+7416#1	missing VP	VP0
+7417#0	missing VP	VP3
+7418#0	missing VP	VP0
+7419#1	unrecognized TO	turn
+7419#2	missing VP	VP0
+7420#0	unrecognized TO	turn
+7421#2	missing VP	VP0
+7424#3	unrecognized TO	form
+7426#1	missing VP	VP0
+7426#2	missing VP	VP0
+7429#0	missing DOBJ	VP0	NP1
+7430#0	missing VP	VP0
+7430#1	missing VP	VP0
+7440#0	missing VP	VP0
+7440#0	missing VP	VP1
+7440#1	missing VP	VP0
+7440#2	missing VP	VP0
+7441#1	missing VP	VP0
+7442#0	missing VP	VP0
+7445#0	missing VP	VP0
+7446#0	missing VP	VP1
+7448#2	missing VP	VP0
+7455#0	missing VP	VP0
+7455#0	missing VP	VP1
+7458#2	missing VP	VP0
+7461#0	missing VP	VP0
+7461#1	missing VP	VP0
+7461#2	missing VP	VP0
+7462#0	missing VP	VP1
+7462#1	missing VP	VP0
+7463#0	missing VP	VP0
+7466#0	missing VP	VP0
+7466#1	missing VP	VP2
+7467#3	missing VP	VP0
+7468#0	missing VP	VP0
+7469#0	missing VP	VP0
+7470#0	unrecognized TO	come
+7471#0	missing VP	VP0
+7472#0	missing DOBJ	VP0	NP3
+7472#1	missing VP	VP0
+7472#2	missing VP	VP0
+7472#2	missing DOBJ	VP1	NP2
+7472#3	missing VP	VP0
+7474#0	missing VP	VP1
+7477#1	missing VP	VP1
+7479#0	missing VP	VP0
+7479#1	missing VP	VP0
+7480#0	missing VP	VP0
+7481#0	missing VP	VP1
+7481#1	missing VP	VP0
+7485#0	missing VP	VP1
+7486#0	missing VP	VP0
+7487#3	missing VP	VP0
+7488#0	missing VP	VP0
+7490#0	missing VP	VP1
+7490#2	missing VP	VP0
+7491#0	missing VP	VP1
+7495#0	missing VP	VP0
+7496#0	missing VP	VP0
+7496#2	missing VP	VP0
+7496#3	missing VP	VP0
+7502#1	missing VP	VP0
+7503#0	missing VP	VP0
+7503#1	missing VP	VP0
+7508#0	missing VP	VP0
+7515#0	missing VP	VP0
+7515#0	missing VP	VP1
+7519#0	missing VP	VP0
+7521#2	missing VP	VP0
+7526#3	unrecognized TO	get ready
+7528#1	missing VP	VP0
+7528#1	missing VP	VP1
+7529#1	missing VP	VP0
+7529#2	missing VP	VP0
+7530#0	missing VP	VP1
+7530#1	missing VP	VP0
+7532#2	missing VP	VP0
+7533#2	missing VP	VP0
+7535#0	missing VP	VP1
+7535#1	missing SUBJ	VP1	NP3
+7535#2	missing SUBJ	VP0	NP3
+7540#0	missing VP	VP0
+7541#0	missing VP	VP0
+7542#3	missing VP	VP0
+7543#0	missing VP	VP0
+7543#2	missing VP	VP0
+7548#1	missing VP	VP0
+7548#3	missing VP	VP0
+7549#2	missing VP	VP0
+7551#1	missing VP	VP0
+7551#1	unrecognized TO	
+7551#2	missing VP	VP1
+7552#1	missing VP	VP0
+7554#0	missing VP	VP0
+7554#1	missing VP	VP0
+7554#3	missing VP	VP0
+7556#2	unrecognized TO	help
+7559#0	missing VP	VP0
+7559#0	unrecognized TO	prepare
+7559#1	missing VP	VP0
+7560#0	missing VP	VP0
+7561#0	missing VP	VP1
+7561#0	missing VP	VP2
+7563#0	missing SUBJ	VP1	NP4
+7563#1	missing SUBJ	VP1	NP4
+7565#1	missing VP	VP1
+7565#3	missing VP	VP0
+7568#3	missing VP	VP0
+7570#0	missing VP	VP0
+7570#0	missing VP	VP1
+7572#0	missing VP	VP1
+7575#1	missing VP	VP0
+7576#1	missing VP	VP0
+7577#0	missing VP	VP1
+7577#0	missing VP	VP3
+7578#0	missing VP	VP0
+7578#2	missing VP	VP0
+7588#0	missing VP	VP0
+7590#0	missing VP	VP1
+7590#2	missing VP	VP0
+7592#0	missing VP	VP0
+7596#0	missing VP	VP2
+7601#0	unrecognized TO	prepare
+7601#1	missing VP	VP0
+7602#0	missing VP	VP0
+7602#0	missing VP	VP2
+7603#2	missing VP	VP0
+7605#0	unrecognized TO	prepare
+7606#1	missing VP	VP1
+7606#2	missing VP	VP1
+7608#0	missing VP	VP0
+7608#1	missing VP	VP0
+7608#2	missing VP	VP0
+7608#2	missing VP	VP1
+7610#3	missing VP	VP0
+7612#2	missing VP	VP0
+7613#0	missing DOBJ	VP0	NP5
+7613#2	missing DOBJ	VP0	NP1
+7614#1	missing VP	VP0
+7614#2	unrecognized TO	be ready
+7617#0	missing VP	VP0
+7619#0	missing VP	VP1
+7619#1	missing VP	VP0
+7619#2	missing VP	VP0
+7623#1	missing VP	VP0
+7624#3	missing VP	VP0
+7625#0	missing VP	VP1
+7627#1	missing VP	VP0
+7630#2	missing SUBJ	VP0	NP3
+7630#2	missing SUBJ	VP1	NP3
+7632#0	unrecognized TO	get ready
+7632#1	unrecognized TO	get ready
+7633#0	missing VP	VP0
+7633#0	missing VP	VP3
+7634#0	missing VP	VP0
+7636#0	missing VP	VP0
+7636#1	missing VP	VP0
+7636#2	missing VP	VP0
+7637#0	missing VP	VP0
+7637#2	missing VP	VP0
+7638#0	missing VP	VP1
+7638#1	missing VP	VP0
+7639#0	missing VP	VP0
+7640#1	missing VP	VP0
+7641#3	missing VP	VP0
+7642#1	missing VP	VP0
+7642#2	missing VP	VP0
+7643#0	missing VP	VP1
+7645#1	missing VP	VP1
+7647#2	missing VP	VP0
+7647#H	missing DOBJ	VP0	NP1
+7648#0	missing VP	VP0
+7648#1	missing DOBJ	VP0	NP4
+7648#3	missing VP	VP0
+7649#3	missing VP	VP0
+7653#2	missing DOBJ	VP0	NP2
+7655#0	missing VP	VP0
+7656#0	missing VP	VP0
+7657#0	missing VP	VP1
+7660#1	missing VP	VP0
+7662#0	missing VP	VP0
+7662#3	missing VP	VP0
+7662#3	missing SUBJ	VP1	NP1
+7663#0	missing VP	VP0
+7663#0	missing VP	VP2
+7665#2	missing VP	VP0
+7665#2	missing VP	VP2
+7666#0	missing VP	VP0
+7666#1	missing VP	VP0
+7668#0	missing VP	VP0
+7668#3	missing VP	VP0
+7669#1	missing VP	VP0
+7669#1	missing VP	VP1
+7671#3	missing DOBJ	VP0	NP1
+7672#0	missing SUBJ	VP3	NP8
+7677#0	missing VP	VP1
+7677#1	missing VP	VP0
+7678#0	missing VP	VP2
+7678#1	missing VP	VP0
+7678#1	missing VP	VP2
+7678#3	missing VP	VP1
+7679#1	missing VP	VP0
+7682#1	missing VP	VP0
+7683#0	missing VP	VP0
+7685#0	missing VP	VP0
+7685#0	missing VP	VP1
+7685#0	unrecognized TO	compete
+7686#1	missing VP	VP1
+7689#1	missing VP	VP0
+7689#2	missing VP	VP1
+7691#3	missing DOBJ	VP0	NP1
+7693#1	missing VP	VP0
+7693#2	missing VP	VP0
+7694#3	unrecognized TO	collide try
+7695#1	missing VP	VP1
+7696#0	missing VP	VP0
+7696#0	unrecognized TO	get ready
+7696#0	missing VP	VP2
+7699#0	missing VP	VP0
+7699#2	missing VP	VP0
+7704#0	missing VP	VP0
+7704#0	missing VP	VP2
+7704#0	missing VP	VP3
+7706#1	missing DOBJ	VP2	NP3
+7707#0	missing VP	VP0
+7707#1	missing VP	VP0
+7707#2	missing VP	VP0
+7708#1	missing VP	VP1
+7708#2	missing VP	VP0
+7708#3	missing VP	VP0
+7709#0	missing VP	VP1
+7710#1	missing VP	VP0
+7711#0	missing VP	VP0
+7713#0	missing VP	VP1
+7714#2	missing VP	VP1
+7715#1	missing VP	VP0
+7716#1	missing VP	VP0
+7717#0	missing VP	VP1
+7717#2	missing VP	VP0
+7719#0	missing VP	VP0
+7719#0	unrecognized TO	be ready
+7719#2	missing VP	VP0
+7720#0	missing VP	VP0
+7720#0	missing VP	VP1
+7720#1	missing VP	VP0
+7724#0	missing VP	VP0
+7724#0	missing VP	VP1
+7726#0	missing VP	VP0
+7728#1	missing VP	VP0
+7729#1	missing VP	VP0
+7729#3	unrecognized TO	come
+7731#0	missing VP	VP0
+7734#0	missing VP	VP0
+7734#1	unrecognized TO	ca wait
+7734#2	unrecognized TO	be ready
+7735#0	missing VP	VP0
+7735#0	missing VP	VP1
+7735#2	missing VP	VP0
+7735#2	missing VP	VP1
+7736#0	missing VP	VP0
+7736#1	missing VP	VP0
+7736#2	missing VP	VP0
+7738#0	missing VP	VP0
+7738#1	missing VP	VP0
+7738#2	missing VP	VP0
+7738#3	missing VP	VP0
+7742#0	missing VP	VP2
+7742#2	unrecognized TO	get ready
+7743#0	missing VP	VP0
+7743#2	missing VP	VP0
+7745#0	missing VP	VP1
+7745#1	missing VP	VP1
+7745#2	unrecognized TO	look
+7749#1	missing VP	VP0
+7750#1	missing VP	VP0
+7751#0	missing VP	VP0
+7754#0	missing VP	VP0
+7754#0	missing DOBJ	VP1	NP3
+7754#1	missing VP	VP0
+7754#2	missing DOBJ	VP0	NP1
+7755#0	missing VP	VP0
+7762#1	missing VP	VP0
+7768#3	missing VP	VP0
+7770#0	missing DOBJ	VP0	NP1
+7770#1	missing VP	VP0
+7773#0	missing VP	VP0
+7778#0	missing VP	VP0
+7778#3	missing VP	VP0
+7780#0	missing VP	VP0
+7781#0	missing VP	VP0
+7782#2	missing VP	VP0
+7782#3	missing DOBJ	VP0	NP1
+7783#0	missing VP	VP0
+7787#1	missing VP	VP1
+7789#1	missing VP	VP0
+7791#1	missing VP	VP2
+7792#0	missing VP	VP0
+7792#2	missing VP	VP0
+7794#2	missing VP	VP0
+7797#3	missing VP	VP0
+7801#0	unrecognized TO	look
+7801#0	missing VP	VP2
+7801#1	missing VP	VP0
+7802#1	missing VP	VP0
+7804#1	missing VP	VP0
+7808#1	missing VP	VP1
+7808#1	missing SUBJ	VP2	NP3
+7808#1	missing SUBJ	VP3	NP3
+7808#2	missing VP	VP0
+7808#3	missing VP	VP0
+7809#0	missing VP	VP0
+7810#2	missing VP	VP1
+7811#0	missing VP	VP0
+7811#2	missing VP	VP0
+7812#3	missing VP	VP0
+7813#3	missing VP	VP0
+7815#1	missing VP	VP0
+7817#1	missing VP	VP1
+7818#1	missing VP	VP0
+7821#3	unrecognized TO	be about to attempt
+7822#1	missing VP	VP0
+7822#3	missing VP	VP0
+7824#0	missing VP	VP1
+7825#0	missing VP	VP0
+7825#0	missing SUBJ	VP1	NP1
+7825#0	missing SUBJ	VP2	NP1
+7826#0	missing VP	VP0
+7827#0	missing VP	VP0
+7827#1	missing VP	VP0
+7827#2	missing VP	VP0
+7827#3	missing VP	VP0
+7830#0	missing VP	VP1
+7834#0	missing VP	VP0
+7834#1	missing VP	VP0
+7836#1	unrecognized TO	compete
+7837#2	missing VP	VP0
+7839#1	missing VP	VP2
+7839#1	missing VP	VP3
+7843#1	missing VP	VP0
+7846#1	missing VP	VP0
+7847#1	missing VP	VP0
+7850#0	missing VP	VP0
+7850#1	missing VP	VP0
+7852#0	missing VP	VP0
+7856#2	missing VP	VP0
+7859#1	missing VP	VP0
+7859#1	missing VP	VP1
+7860#0	missing VP	VP0
+7861#0	missing VP	VP1
+7861#2	missing VP	VP0
+7861#3	missing VP	VP0
+7863#0	missing VP	VP1
+7866#0	missing VP	VP0
+7866#0	missing VP	VP2
+7867#0	missing VP	VP0
+7868#0	missing VP	VP0
+7869#1	missing VP	VP0
+7870#3	missing VP	VP0
+7871#H	missing DOBJ	VP0	NP1
+7873#2	missing VP	VP0
+7878#2	missing VP	VP0
+7879#0	missing VP	VP1
+7880#0	missing VP	VP0
+7881#0	missing VP	VP1
+7882#2	missing DOBJ	VP0	NP1
+7883#1	missing VP	VP0
+7885#0	missing VP	VP0
+7885#0	missing VP	VP1
+7885#1	missing VP	VP0
+7886#1	missing VP	VP1
+7887#0	missing VP	VP0
+7887#2	missing VP	VP0
+7891#2	missing VP	VP0
+7893#0	missing VP	VP0
+7893#1	missing VP	VP0
+7893#2	missing VP	VP0
+7893#2	unrecognized TO	get ready
+7894#0	missing VP	VP0
+7894#2	missing VP	VP0
+7898#0	missing VP	VP0
+7901#3	missing VP	VP0
+7908#0	missing VP	VP1
+7911#1	missing VP	VP0
+7912#2	missing VP	VP0
+7912#2	missing SUBJ	VP1	NP1
+7912#3	missing VP	VP0
+7920#2	missing VP	VP0
+7921#0	missing DOBJ	VP0	NP2
+7921#1	missing VP	VP0
+7922#1	missing VP	VP0
+7924#0	missing VP	VP0
+7924#3	missing VP	VP0
+7925#2	missing VP	VP0
+7928#1	missing VP	VP0
+7932#1	missing SUBJ	VP1	NP1
+7934#0	missing VP	VP0
+7934#1	missing VP	VP0
+7934#2	missing VP	VP0
+7935#0	missing VP	VP1
+7937#0	missing DOBJ	VP0	NP2
+7942#2	missing VP	VP0
+7946#1	missing VP	VP0
+7946#1	missing VP	VP1
+7948#0	missing VP	VP0
+7948#1	missing VP	VP1
+7948#3	unrecognized TO	huddle
+7949#0	missing VP	VP0
+7949#1	missing VP	VP0
+7952#0	missing VP	VP0
+7954#0	missing VP	VP0
+7955#1	missing VP	VP0
+7955#2	missing VP	VP0
+7956#1	missing VP	VP0
+7963#3	missing VP	VP0
+7966#0	missing VP	VP1
+7969#0	missing VP	VP0
+7973#3	missing VP	VP0
+7975#0	missing VP	VP0
+7977#1	missing VP	VP1
+7978#0	missing VP	VP0
+7980#0	missing VP	VP1
+7980#1	missing VP	VP0
+7981#0	missing VP	VP2
+7983#0	missing VP	VP0
+7984#1	missing VP	VP0
+7984#3	missing DOBJ	VP0	NP1
+7987#0	missing VP	VP0
+7987#1	missing VP	VP1
+7987#2	missing VP	VP0
+7988#1	missing VP	VP0
+7988#2	missing VP	VP0
+7990#0	missing VP	VP0
+7990#1	missing VP	VP0
+7993#0	missing VP	VP0
+7993#1	missing VP	VP0
+7994#0	unrecognized TO	have
+7998#0	missing VP	VP0
+7999#0	missing VP	VP0
+8004#1	missing VP	VP1
+8006#0	missing VP	VP0
+8006#0	missing VP	VP2
+8006#1	missing VP	VP0
+8006#1	missing VP	VP1
+8006#3	missing VP	VP0
+8008#0	missing VP	VP1
+8008#0	missing VP	VP2
+8012#1	missing VP	VP0
+8016#2	missing VP	VP0
+8017#0	missing VP	VP0
+8020#0	missing VP	VP0
+8020#1	missing VP	VP0
+8022#0	missing VP	VP1
+8022#0	missing VP	VP2
+8023#3	missing VP	VP0
+8024#0	missing VP	VP0
+8024#2	missing VP	VP0
+8027#0	missing VP	VP2
+8027#0	missing VP	VP3
+8027#1	missing VP	VP1
+8027#3	missing VP	VP0
+8035#1	missing VP	VP1
+8035#1	missing VP	VP2
+8035#2	missing VP	VP2
+8036#0	missing VP	VP1
+8037#0	missing VP	VP0
+8040#0	missing VP	VP3
+8040#1	missing VP	VP1
+8041#3	missing VP	VP0
+8045#1	missing VP	VP0
+8045#2	missing VP	VP0
+8049#3	missing VP	VP0
+8050#1	missing VP	VP0
+8051#0	unrecognized TO	'm ready
+8051#2	missing VP	VP0
+8053#1	missing VP	VP1
+8054#0	missing VP	VP1
+8055#0	missing VP	VP0
+8055#1	missing VP	VP0
+8055#2	missing VP	VP0
+8056#1	unrecognized TO	prepare
+8058#1	missing VP	VP0
+8058#1	missing VP	VP1
+8059#0	missing VP	VP1
+8059#0	missing VP	VP3
+8062#2	missing VP	VP0
+8066#0	missing VP	VP0
+8069#0	missing VP	VP2
+8069#0	missing VP	VP3
+8069#2	unrecognized TO	motion
+8074#0	missing VP	VP0
+8074#3	missing VP	VP0
+8075#1	missing VP	VP0
+8075#2	missing VP	VP0
+8076#0	missing VP	VP0
+8077#0	missing VP	VP0
+8078#0	missing DOBJ	VP0	NP3
+8081#0	missing VP	VP1
+8081#2	missing VP	VP0
+8082#0	missing VP	VP0
+8084#1	missing VP	VP2
+8084#2	missing VP	VP0
+8085#0	missing VP	VP0
+8085#0	missing VP	VP1
+8091#1	missing VP	VP1
+8094#2	missing VP	VP0
+8095#0	missing VP	VP0
+8096#0	missing VP	VP0
+8096#1	missing VP	VP0
+8096#2	missing VP	VP0
+8097#0	missing VP	VP0
+8097#0	missing SUBJ	VP2	NP6
+8097#1	missing VP	VP0
+8098#0	missing VP	VP0
+8098#2	missing VP	VP0
+8099#3	unrecognized TO	get ready
+8100#0	missing VP	VP0
+8100#0	missing DOBJ	VP1	NP3
+8100#1	missing VP	VP0
+8102#0	missing VP	VP0
+8102#2	unrecognized TO	look
+8104#0	missing VP	VP0
+8107#0	missing VP	VP0
+8108#0	missing VP	VP0
+8108#0	missing VP	VP2
+8108#2	missing VP	VP0
+8108#2	missing VP	VP1
+8108#2	missing VP	VP2
+8108#2	missing VP	VP3
+8109#0	missing VP	VP0
+8112#1	missing VP	VP0
+8113#0	missing VP	VP0
+8115#2	unrecognized TO	be happy
+8115#3	missing DOBJ	VP0	NP1
+8116#0	missing VP	VP0
+8117#1	missing VP	VP0
+8118#0	missing VP	VP0
+8118#0	missing VP	VP1
+8118#1	missing VP	VP0
+8120#1	missing VP	VP0
+8126#1	missing VP	VP0
+8127#1	missing VP	VP0
+8128#0	missing VP	VP0
+8128#0	unrecognized TO	make
+8128#1	missing VP	VP0
+8133#0	missing VP	VP0
+8134#1	missing VP	VP0
+8136#3	missing DOBJ	VP0	NP1
+8138#1	missing VP	VP0
+8141#2	missing VP	VP0
+8144#1	missing VP	VP0
+8144#2	missing VP	VP0
+8148#0	missing VP	VP0
+8151#3	missing VP	VP0
+8157#0	missing VP	VP0
+8159#1	missing VP	VP0
+8159#2	missing VP	VP0
+8163#1	missing VP	VP0
+8164#0	missing VP	VP1
+8165#0	missing VP	VP0
+8169#1	missing DOBJ	VP0	NP1
+8172#0	missing VP	VP0
+8172#3	missing VP	VP0
+8173#2	missing VP	VP0
+8174#0	missing VP	VP0
+8174#3	missing VP	VP0
+8177#1	missing VP	VP0
+8177#2	missing VP	VP0
+8179#0	missing VP	VP0
+8180#0	unrecognized TO	be
+8180#1	missing VP	VP1
+8181#2	missing VP	VP0
+8184#3	missing VP	VP0
+8185#1	missing VP	VP0
+8185#3	missing VP	VP0
+8186#0	missing VP	VP0
+8186#0	missing VP	VP2
+8187#3	missing SUBJ	VP1	NP2
+8195#2	missing VP	VP0
+8198#0	missing VP	VP0
+8201#0	missing VP	VP0
+8206#0	missing SUBJ	VP1	NP4
+8206#0	missing SUBJ	VP2	NP4
+8206#1	missing VP	VP0
+8209#0	missing DOBJ	VP0	NP3
+8213#0	missing VP	VP0
+8215#1	missing VP	VP0
+8215#3	missing VP	VP0
+8217#1	missing VP	VP0
+8221#0	missing VP	VP0
+8223#1	missing VP	VP0
+8225#0	missing VP	VP0
+8227#3	missing VP	VP0
+8234#2	missing VP	VP1
+8234#3	missing VP	VP0
+8235#2	missing VP	VP0
+8235#2	missing VP	VP1
+8235#3	missing DOBJ	VP0	NP1
+8235#3	missing VP	VP3
+8239#2	missing VP	VP0
+8240#0	missing VP	VP1
+8241#0	missing VP	VP0
+8242#1	missing VP	VP0
+8245#2	unrecognized TO	go out
+8246#1	missing VP	VP0
+8246#H	unrecognized TO	get ready
+8247#2	missing VP	VP0
+8247#3	missing DOBJ	VP0	NP1
+8249#0	missing DOBJ	VP0	NP1
+8249#1	missing DOBJ	VP0	NP1
+8249#2	missing DOBJ	VP0	NP1
+8249#3	missing DOBJ	VP0	NP1
+8250#0	missing VP	VP1
+8253#0	missing VP	VP0
+8256#1	missing VP	VP0
+8256#1	missing VP	VP3
+8257#2	unrecognized TO	get ready
+8260#0	missing VP	VP0
+8261#0	missing VP	VP0
+8266#2	missing VP	VP1
+8268#0	missing VP	VP0
+8268#1	missing VP	VP0
+8274#0	unrecognized TO	be ready
+8274#0	unrecognized TO	look
+8275#0	missing VP	VP0
+8275#0	missing VP	VP2
+8280#2	unrecognized TO	want
+8281#2	missing VP	VP0
+8283#H	unrecognized TO	get ready
+8284#2	missing VP	VP0
+8285#2	missing VP	VP0
+8288#0	missing VP	VP0
+8290#0	missing VP	VP1
+8294#1	unrecognized TO	be
+8296#0	missing VP	VP0
+8297#1	unrecognized TO	prepare
+8299#1	unrecognized TO	make
+8300#0	missing VP	VP0
+8302#2	unrecognized TO	push hard
+8305#2	missing VP	VP0
+8307#1	missing VP	VP0
+8310#0	missing VP	VP0
+8310#1	missing VP	VP0
+8312#0	missing VP	VP0
+8312#2	missing VP	VP0
+8313#0	missing VP	VP1
+8313#1	missing VP	VP0
+8313#3	missing VP	VP0
+8315#2	unrecognized TO	race
+8317#1	missing VP	VP1
+8318#3	missing VP	VP0
+8319#1	missing VP	VP0
+8321#2	missing VP	VP0
+8322#0	missing VP	VP0
+8322#0	missing VP	VP1
+8322#1	missing VP	VP0
+8326#0	missing VP	VP0
+8331#1	unrecognized TO	want
+8332#0	missing VP	VP0
+8334#0	missing VP	VP0
+8334#3	missing VP	VP0
+8335#0	unrecognized TO	prepare
+8338#1	missing VP	VP0
+8340#1	missing VP	VP1
+8340#2	missing VP	VP0
+8340#3	missing VP	VP0
+8342#3	missing VP	VP0
+8344#0	missing VP	VP0
+8349#1	missing VP	VP1
+8350#0	missing VP	VP0
+8350#1	missing VP	VP0
+8352#0	missing VP	VP0
+8354#H	missing DOBJ	VP0	NP1
+8355#1	missing VP	VP0
+8356#1	unrecognized TO	get ready
+8357#0	missing VP	VP2
+8358#0	missing VP	VP0
+8358#1	missing VP	VP0
+8358#1	missing VP	VP3
+8365#0	missing SUBJ	VP0	NP2
+8368#0	missing VP	VP1
+8368#1	missing VP	VP0
+8369#0	missing VP	VP1
+8369#2	unrecognized TO	get ready
+8369#3	missing SUBJ	VP0	NP1
+8374#3	missing VP	VP0
+8376#0	missing VP	VP0
+8377#0	missing VP	VP0
+8377#0	missing VP	VP1
+8378#0	missing VP	VP1
+8379#2	missing VP	VP0
+8380#3	missing VP	VP0
+8381#0	missing VP	VP0
+8381#1	missing VP	VP1
+8384#1	missing VP	VP1
+8385#0	missing VP	VP0
+8388#2	missing VP	VP0
+8391#2	missing VP	VP0
+8392#1	missing VP	VP0
+8392#1	missing VP	VP3
+8395#2	unrecognized TO	help
+8396#1	missing VP	VP0
+8397#0	missing VP	VP0
+8397#1	missing VP	VP1
+8397#1	missing VP	VP2
+8400#0	missing VP	VP0
+8401#1	missing VP	VP0
+8404#0	missing VP	VP0
+8405#0	missing VP	VP0
+8405#1	missing VP	VP0
+8406#1	missing VP	VP0
+8406#2	missing VP	VP0
+8409#1	missing VP	VP1
+8411#3	missing VP	VP0
+8412#0	missing VP	VP1
+8413#0	missing VP	VP0
+8413#1	missing VP	VP1
+8413#1	missing VP	VP2
+8414#1	missing VP	VP0
+8417#0	missing VP	VP0
+8417#3	missing VP	VP0
+8420#0	missing VP	VP0
+8420#0	missing VP	VP1
+8420#1	missing VP	VP3
+8421#0	missing VP	VP1
+8421#1	missing VP	VP0
+8422#1	unrecognized TO	get ready
+8423#0	missing VP	VP1
+8432#0	missing VP	VP0
+8432#1	missing VP	VP0
+8432#2	missing VP	VP0
+8433#1	missing VP	VP0
+8435#2	missing VP	VP0
+8437#0	missing VP	VP1
+8437#1	missing VP	VP0
+8438#2	missing VP	VP0
+8442#1	missing VP	VP0
+8445#2	missing VP	VP0
+8447#0	missing VP	VP0
+8448#0	missing VP	VP2
+8448#3	missing VP	VP0
+8451#1	unrecognized TO	be
+8452#1	unrecognized TO	decide
+8455#0	missing VP	VP0
+8457#0	missing VP	VP1
+8457#1	missing VP	VP0
+8457#1	unrecognized TO	prepare
+8457#2	missing VP	VP0
+8457#2	unrecognized TO	prepare
+8458#0	missing VP	VP1
+8459#0	missing DOBJ	VP0	NP2
+8461#0	missing VP	VP0
+8464#2	missing VP	VP1
+8465#1	missing VP	VP0
+8466#0	missing VP	VP0
+8468#3	missing VP	VP0
+8469#1	missing VP	VP1
+8470#0	missing VP	VP0
+8471#H	missing DOBJ	VP0	NP1
+8472#3	missing VP	VP0
+8473#2	missing DOBJ	VP0	NP1
+8475#0	missing VP	VP0
+8475#1	missing VP	VP0
+8477#0	missing VP	VP0
+8478#0	missing VP	VP0
+8479#0	missing VP	VP1
+8480#1	missing VP	VP0
+8481#2	unrecognized TO	prepare
+8486#0	missing VP	VP1
+8486#1	missing VP	VP0
+8487#0	missing VP	VP0
+8487#2	missing VP	VP0
+8487#2	missing VP	VP1
+8490#2	missing VP	VP0
+8490#3	missing VP	VP0
+8491#0	missing VP	VP0
+8492#3	missing VP	VP0
+8493#0	missing VP	VP1
+8494#0	missing SUBJ	VP0	NP3
+8495#0	missing VP	VP0
+8495#0	missing SUBJ	VP3	NP1
+8497#1	missing VP	VP0
+8498#0	missing VP	VP0
+8499#0	missing DOBJ	VP2	NP3
+8499#3	missing VP	VP0
+8501#0	missing VP	VP0
+8505#2	missing VP	VP0
+8510#0	missing VP	VP0
+8514#0	missing VP	VP1
+8516#3	missing VP	VP0
+8517#3	missing VP	VP0
+8519#0	missing VP	VP0
+8519#0	missing VP	VP1
+8521#2	missing VP	VP0
+8523#2	missing VP	VP0
+8524#0	missing VP	VP0
+8525#0	missing VP	VP0
+8525#0	missing VP	VP2
+8525#1	missing VP	VP0
+8529#1	missing VP	VP0
+8530#0	missing VP	VP0
+8530#2	missing VP	VP0
+8535#1	missing VP	VP0
+8535#1	missing VP	VP1
+8538#0	missing VP	VP1
+8538#1	missing VP	VP0
+8539#0	missing VP	VP0
+8539#1	missing VP	VP0
+8539#2	unrecognized TO	prepare
+8541#1	missing VP	VP0
+8541#2	missing VP	VP0
+8545#0	missing VP	VP0
+8545#2	missing VP	VP0
+8545#2	missing DOBJ	VP2	NP5
+8547#0	missing VP	VP0
+8547#1	missing VP	VP0
+8548#2	missing VP	VP0
+8550#0	missing VP	VP0
+8551#0	missing VP	VP0
+8555#1	missing VP	VP1
+8557#1	missing VP	VP0
+8559#1	missing VP	VP1
+8559#2	missing VP	VP0
+8559#2	missing VP	VP3
+8564#2	missing VP	VP0
+8564#2	missing VP	VP1
+8568#0	unrecognized TO	use
+8568#2	missing VP	VP0
+8570#0	missing VP	VP1
+8573#3	missing VP	VP1
+8577#0	missing VP	VP0
+8577#1	missing VP	VP0
+8578#2	missing VP	VP0
+8580#1	missing VP	VP0
+8581#1	missing VP	VP0
+8581#2	missing VP	VP0
+8583#2	missing DOBJ	VP0	NP2
+8583#3	missing VP	VP0
+8584#0	missing VP	VP1
+8585#2	missing SUBJ	VP1	NP3
+8587#0	missing VP	VP0
+8587#2	missing VP	VP0
+8588#1	missing VP	VP0
+8588#2	missing VP	VP0
+8590#1	missing VP	VP0
+8590#3	missing VP	VP0
+8594#0	missing VP	VP0
+8596#0	missing VP	VP0
+8598#2	missing VP	VP0
+8599#0	missing VP	VP0
+8599#0	missing VP	VP1
+8599#1	missing VP	VP2
+8600#2	missing VP	VP0
+8603#0	missing VP	VP0
+8604#H	missing VP	VP0
+8605#0	missing VP	VP1
+8605#1	missing VP	VP0
+8606#1	missing VP	VP0
+8609#0	missing VP	VP0
+8610#0	missing VP	VP0
+8616#0	missing VP	VP0
+8616#2	missing VP	VP0
+8616#2	missing DOBJ	VP1	NP2
+8618#0	missing VP	VP0
+8619#1	unrecognized TO	get ready
+8619#2	unrecognized TO	be
+8622#0	missing VP	VP1
+8624#2	missing VP	VP0
+8628#0	unrecognized TO	prepare
+8628#1	missing VP	VP0
+8630#0	missing VP	VP0
+8634#1	missing VP	VP0
+8634#2	missing VP	VP0
+8635#0	missing VP	VP0
+8636#1	missing VP	VP0
+8636#2	missing VP	VP0
+8636#3	missing VP	VP0
+8637#0	missing VP	VP0
+8645#3	missing VP	VP0
+8646#0	missing VP	VP0
+8646#1	missing VP	VP0
+8649#0	missing VP	VP0
+8649#2	missing VP	VP0
+8652#0	missing VP	VP0
+8655#3	missing VP	VP0
+8659#0	missing VP	VP0
+8662#0	missing VP	VP1
+8663#2	unrecognized TO	set up
+8664#0	missing VP	VP0
+8664#1	missing VP	VP0
+8664#1	missing VP	VP1
+8669#H	missing DOBJ	VP0	NP1
+8670#1	unrecognized TO	pretend
+8672#0	missing VP	VP0
+8673#0	missing VP	VP0
+8675#0	missing VP	VP0
+8676#2	missing VP	VP0
+8679#0	missing VP	VP0
+8681#2	missing VP	VP0
+8682#1	missing VP	VP0
+8683#2	missing VP	VP1
+8687#0	missing VP	VP0
+8688#0	missing VP	VP0
+8689#0	missing VP	VP2
+8689#0	missing VP	VP3
+8689#1	missing VP	VP1
+8689#3	missing VP	VP0
+8690#0	missing VP	VP0
+8690#3	missing VP	VP0
+8691#0	missing VP	VP0
+8691#3	missing VP	VP0
+8692#0	missing VP	VP0
+8692#3	missing VP	VP0
+8693#0	missing VP	VP0
+8693#H	missing VP	VP0
+8698#0	missing VP	VP0
+8699#0	missing VP	VP0
+8702#0	missing VP	VP0
+8702#1	missing VP	VP0
+8703#1	missing VP	VP0
+8706#0	missing VP	VP0
+8708#1	missing VP	VP0
+8709#3	unrecognized TO	form
+8712#0	missing VP	VP0
+8712#1	missing VP	VP0
+8717#0	missing VP	VP0
+8718#1	missing VP	VP0
+8718#3	missing VP	VP0
+8719#0	missing VP	VP0
+8721#3	missing VP	VP0
+8724#0	missing VP	VP0
+8724#0	missing VP	VP1
+8725#0	missing VP	VP0
+8725#0	missing VP	VP2
+8725#2	missing VP	VP0
+8727#0	unrecognized TO	prepare
+8728#1	missing VP	VP0
+8729#0	missing VP	VP2
+8729#1	missing VP	VP0
+8732#0	unrecognized TO	look
+8732#0	missing VP	VP2
+8732#1	missing VP	VP0
+8733#0	missing VP	VP0
+8734#0	missing VP	VP0
+8737#3	missing VP	VP0
+8740#2	missing VP	VP0
+8740#2	missing SUBJ	VP1	NP2
+8743#0	missing VP	VP0
+8743#1	missing VP	VP0
+8744#0	missing VP	VP0
+8745#0	missing VP	VP1
+8746#0	missing VP	VP0
+8747#0	missing VP	VP0
+8747#0	missing VP	VP1
+8747#2	missing VP	VP0
+8747#3	missing VP	VP0
+8749#2	unrecognized TO	stoop
+8750#0	missing VP	VP3
+8750#1	missing VP	VP0
+8751#0	missing VP	VP0
+8752#0	missing VP	VP0
+8752#1	missing VP	VP0
+8753#1	missing VP	VP0
+8754#0	missing VP	VP0
+8756#0	missing VP	VP0
+8759#0	missing VP	VP0
+8761#0	missing VP	VP0
+8761#1	missing DOBJ	VP1	NP2
+8761#2	missing VP	VP0
+8762#1	missing VP	VP0
+8764#0	missing VP	VP0
+8765#2	missing VP	VP0
+8767#0	unrecognized TO	prepare
+8768#0	missing VP	VP0
+8768#0	missing VP	VP1
+8768#1	missing VP	VP0
+8770#3	missing VP	VP0
+8774#2	missing VP	VP0
+8774#2	missing SUBJ	VP1	NP1
+8775#0	missing VP	VP1
+8776#0	missing VP	VP0
+8776#1	missing VP	VP0
+8776#2	missing VP	VP0
+8777#0	missing VP	VP2
+8777#0	missing SUBJ	VP3	NP3
+8777#1	missing VP	VP1
+8777#1	missing VP	VP2
+8782#0	missing VP	VP0
+8784#0	missing VP	VP0
+8784#3	missing VP	VP0
+8787#1	unrecognized TO	play
+8788#1	missing VP	VP1
+8788#2	missing VP	VP0
+8792#0	missing VP	VP0
+8792#1	missing VP	VP0
+8793#2	missing VP	VP0
+8796#0	missing VP	VP0
+8798#0	missing VP	VP0
+8798#1	unrecognized TO	have
+8798#2	missing VP	VP1
+8798#3	missing VP	VP0
+8800#0	missing VP	VP0
+8802#2	missing DOBJ	VP0	NP2
+8803#0	missing VP	VP0
+8804#2	missing VP	VP0
+8805#0	missing VP	VP0
+8805#1	missing VP	VP0
+8808#0	missing VP	VP1
+8809#0	missing VP	VP0
+8811#0	missing VP	VP1
+8811#1	missing VP	VP1
+8811#2	unrecognized TO	get ready
+8815#0	missing VP	VP0
+8815#1	missing VP	VP0
+8817#0	missing VP	VP0
+8822#3	missing VP	VP0
+8823#0	missing VP	VP0
+8824#0	missing VP	VP0
+8825#1	missing DOBJ	VP1	NP2
+8828#2	missing VP	VP0
+8831#1	missing VP	VP0
+8831#2	missing VP	VP0
+8832#0	missing VP	VP1
+8832#1	missing VP	VP0
+8835#2	missing VP	VP0
+8837#0	missing VP	VP0
+8837#0	missing DOBJ	VP1	NP4
+8837#2	missing VP	VP0
+8838#0	missing VP	VP1
+8838#1	missing VP	VP0
+8839#0	missing VP	VP0
+8842#2	missing VP	VP1
+8844#0	missing VP	VP0
+8844#0	missing VP	VP2
+8846#1	missing VP	VP0
+8849#2	missing VP	VP0
+8854#1	missing VP	VP0
+8856#1	unrecognized TO	prepare
+8859#0	missing VP	VP0
+8859#2	missing VP	VP0
+8860#2	unrecognized TO	stick
+8863#0	missing VP	VP2
+8863#1	missing VP	VP0
+8864#0	missing VP	VP1
+8865#0	missing VP	VP0
+8865#1	missing VP	VP0
+8865#1	missing VP	VP1
+8865#2	missing VP	VP0
+8868#3	missing VP	VP0
+8869#0	missing VP	VP0
+8870#2	missing VP	VP1
+8870#3	missing VP	VP0
+8871#0	missing VP	VP1
+8874#0	missing SUBJ	VP2	NP6
+8874#1	missing VP	VP1
+8876#1	missing VP	VP0
+8877#0	missing VP	VP0
+8880#0	missing VP	VP0
+8880#3	unrecognized TO	get ready
+8882#2	missing VP	VP0
+8885#0	missing VP	VP0
+8886#1	missing VP	VP0
+8890#0	missing VP	VP0
+8892#1	missing VP	VP0
+8893#0	missing VP	VP2
+8894#0	unrecognized TO	open ready
+8896#0	unrecognized TO	prepare
+8897#H	missing DOBJ	VP0	NP1
+8900#2	missing VP	VP0
+8901#1	missing VP	VP0
+8903#0	missing VP	VP0
+8903#0	missing VP	VP2
+8904#0	missing VP	VP0
+8905#0	missing VP	VP0
+8907#3	missing VP	VP0
+8909#0	missing VP	VP0
+8909#1	missing VP	VP0
+8909#1	missing VP	VP1
+8909#1	missing SUBJ	VP2	NP1
+8909#2	missing VP	VP0
+8909#2	missing SUBJ	VP1	NP1
+8909#3	unrecognized TO	pretend
+8913#0	missing VP	VP0
+8913#2	missing VP	VP0
+8915#0	missing VP	VP0
+8915#3	missing VP	VP0
+8916#0	missing VP	VP0
+8918#0	missing VP	VP0
+8920#0	missing VP	VP0
+8923#0	missing VP	VP0
+8923#1	missing VP	VP0
+8923#1	missing DOBJ	VP1	NP2
+8924#2	missing DOBJ	VP0	NP1
+8927#H	missing DOBJ	VP0	NP1
+8928#2	missing VP	VP0
+8933#0	missing VP	VP0
+8934#0	missing VP	VP0
+8934#0	missing VP	VP2
+8934#1	missing VP	VP0
+8934#3	missing VP	VP0
+8934#3	missing SUBJ	VP1	NP1
+8936#0	missing VP	VP0
+8936#0	missing VP	VP1
+8938#3	missing VP	VP0
+8941#1	missing VP	VP0
+8943#1	missing VP	VP0
+8943#2	missing VP	VP0
+8944#0	missing VP	VP0
+8946#0	missing DOBJ	VP0	NP1
+8947#2	missing VP	VP1
+8947#3	missing VP	VP0
+8948#3	missing VP	VP1
+8950#1	missing VP	VP0
+8952#0	missing VP	VP0
+8952#1	missing VP	VP0
+8952#2	missing VP	VP0
+8953#1	missing VP	VP1
+8954#2	missing DOBJ	VP0	NP1
+8955#0	missing VP	VP0
+8955#1	missing VP	VP0
+8956#0	missing VP	VP0
+8960#1	missing VP	VP0
+8961#0	missing VP	VP0
+8961#1	missing VP	VP0
+8962#0	missing VP	VP0
+8962#1	missing VP	VP0
+8967#2	missing VP	VP0
+8969#2	missing VP	VP0
+8971#0	missing VP	VP1
+8971#0	missing SUBJ	VP2	NP3
+8974#0	missing VP	VP0
+8975#2	missing VP	VP0
+8978#1	missing VP	VP0
+8980#3	missing VP	VP0
+8981#0	missing DOBJ	VP0	NP2
+8982#0	missing VP	VP0
+8982#1	missing VP	VP0
+8983#3	missing VP	VP0
+8985#3	missing VP	VP0
+8986#2	missing DOBJ	VP0	NP2
+8987#1	missing VP	VP0
+8993#0	missing VP	VP1
+8994#3	missing VP	VP0
+8996#3	missing VP	VP0
+8998#0	missing VP	VP1
+8998#0	missing VP	VP2
+8998#0	missing VP	VP3

@@ -1,0 +1,130 @@
+I. Producing an Image Caption Corpus
+
+This will not cover actually creating CrowdFlower jobs, but will
+assume that you have CrowdFlower results.  The basic cycle is, process
+CrowdFlower results, identify bad workers in the latest set of
+CrowdFlower results, drop bad workers, determine which images need
+more captions, start a new CrowdFlower job to get those captions.  In
+general, once you get down to the point where every (or almost every)
+image needs at most one more caption, I'd run a job that gets two
+captions per image.  That way you don't have to continually cycle,
+fixing a smaller and smaller number of captions/images.
+
+Once you have a good set, you will need to spelling correct it, and
+then produce the new image caption corpus.
+
+scripts/CSVtoTSV.pl
+Input: CSV file
+Output: TSV file
+CrowdFlower should have an option to download results as a comma
+separated value (CSV) file.  Since we're dealing with sentences,
+commas are not a good delimiter, and there does not appear to be an
+option to download tab separated value (TSV) files, so this will
+convert CSV to TSV.  Should also handle &<marker>; cases: &gt; (>) or
+&lt; (<), and &amp; (&).
+
+scripts/checkout.pl
+Input: TSV file:
+Output: check file
+Performs a number of checks to find bad workers.  The format of the
+check file is image file name, caption, worker ID, seconds taken,
+length of caption, number of words in the caption, and then a space
+separated list of misspelled words.  We've been working with the
+assumption that there are three types of bad workers:
+
+1. Sloppy/lazy - They should write short sentences, take less time,
+   write sentences with more words.
+2. Non-proficient speaker - They will probably write shorter
+   sentences, and we expect there to be more misspelled words.
+3. Cheating - We expect them to take far too little time to actually
+   write five captions.  Typically they paste some sort of text over
+   and over again, or just keyboard mash.
+
+scripts/htmlCheck.pl
+scripts/htmlWorker.pl
+Input: check file
+Output: HTML file
+Organizes the results of the check file either by worker or image.  By
+image is not terribly useful, unless you suspect there's a difficult
+image.  By worker should allow you to identify bad workers.  Each
+caption will be flagged if too little time was taken (< 60 seconds),
+it was too short (< 20 characters, < 5 words), or there were
+misspelled words.  Workers will be sorted based on the percentage of
+their captions that were flagged.  The HTML file is laid out as:
+
+Worker ID (# of flagged captions / # of captions written)
+<caption> (reasons for flagging)
+
+Reasons for flagging will either be number of characters, number of
+words, or time taken.  Flagged captions will be highlighted in red,
+and misspelled words will be bolded.
+
+In general, look for a lot of red underneath a worker ID.  You
+probably can start skimming after the flagging rate goes under 1 in 5
+(one mistake if a worker only did one job).  Record any worker IDs
+that you wish to drop, and write them to a drop file (NAME.drop),
+where NAME is the name of the CSV and TSV files.  One worker ID per
+line.
+
+
+scripts/dropWorker.pl
+Input: TSV file* (+ drop files)
+Output: TSV file
+Takes one or more TSV files, and drops the workers in their associated
+drop files, and also drops captions that contain "no image", "no
+picture", "image is broken", or "link is broken", and produces a new
+TSV file which contains all of the results of the non-dropped workers.
+Note: worker IDs in drop files will only be applied to the job which
+the drop file is associated with (keep it in the same directory as the
+TSV file).  Run "scripts/checkout.pl" on the new TSV file, and
+determine if you have enough captions per image.  If you do not - if
+images are missing at most one caption, consider getting two captions
+per image missing a caption.  It'll probably save you time.  Also, on
+MechanicalTurk smaller jobs tend to be more ignored.  After you get
+your new images, process the results of that new job, and remember to
+include the new job when running "scripts/dropWorker.pl" again.
+
+Otherwise - consider running "scripts/htmlWorker.pl" on the new check
+file.  Worker IDs do not appear to be refer to the same person across
+jobs - I saw one worker ID that was dropped in three jobs move from
+Atlanta, GA to Richmond, VA.  May or may not have been the same
+person.  Still, it might prove to be worth checking the remaining
+workers in the combined jobs, just to see if any worker IDs stand out
+as being especially bad.  If so, add them to drop files, get new
+captions, etc.
+
+scripts/getFive.pl
+Input: check file
+Output: unspellchecked (raw) corpus
+Takes a check file, and gets the five longest captions for each image.
+This will give you the unspellchecked version of the corpus.
+
+scripts/spelling.pl
+Input: raw file, dictionary file
+Output: spellchecked (spell) corpus - eventually
+
+The dictionary file is contained in "data/dict.spell".  The format of
+the dictionary is corrected word, incorrect word.  The incorrect word
+is case sensitive and pays attention to punctuation marks.  The
+incorrect word will be replaced by the corrected word exactly - no
+upper/lowercase will be preserved nor punctuation.
+
+Running "scripts/spelling.pl <raw corpus> data/dict.spell" will output
+three columns: corrected word, misspelled word, caption.  The
+misspellings in "data/dict.spell" will already have been corrected.  A
+"###" as the corrected word means that no correct spelling could be
+found.  If no correct spelling is found, or the corrected word is
+wrong, you will have to add an entry to "data/dict.spell".  Keep
+running "scripts/spelling.pl" until you are satisified with the
+corrected words and all of the misspelled words with no corrected word
+are already correctly spelled.
+
+Running "scripts/spelling.pl <raw corpus> data/dict.spell -" will
+perform spelling correction on the raw corpus, using
+"data/dict.spell".  First "data/dict.spell" will be used to correct
+words in the raw corpus.  Any word that is not a corrected word in
+"data/dict.spell" will be spelling checked - it will use the corrected
+word is one is found, or leave the misspelled word alone if no
+corrected word is found.  The output of this will be a spelling
+checked (spell) corpus file.  Save this to
+"../corpora/NAME/NAME.spell".

@@ -1,0 +1,2 @@
+"scripts/run.sh" runs the OpenNLP tokenizer, and produces
+"../corpora/NAME/NAME.pretoken" from "../corpora/NAME/NAME.spell"

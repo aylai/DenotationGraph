@@ -1,0 +1,94 @@
+scripts/run.sh NAME
+Input: pretoken file (tokenizer output)
+Output: token file (tokenized output)
+These scripts handle four things: 
+  1. They normalize a number of compound nouns and verbs,
+  2. They clean up the output of the tokenizer.
+  3. They fix a number of common spelling mistakes.
+  4. They remove a number of characters that later scripts will have
+     trouble with: [, ], /, and some spaces (leading, trailing, double)
+
+
+data/nouns.txt
+Contains compound nouns that should be one token.  Compound terms are
+written with a space between words.  Only the singular form needs to
+be written.  "bull dog" means that both "bull dog" and "bull-dog" will
+be rewritten as "bulldog".  Also, it handles the "bull dogs" case as
+well.
+
+data/verbs.txt
+Contains compound verbs that should be one token.  Compound terms are
+written with a space between words, with the second word just being
+the prefix.  For example, "break danc" matches "break dancing", "break
+dances", "break-dance", etc.  The space or hyphen will be removed,
+joining the two words.  This will also be likely to fix the "-er" and
+"-ers" cases as well ("break dancers", etc.)
+
+data/split.txt
+Contains compound words that should be split up.  For example, "hard
+hats" will turn instances of "hardhats" into "hard hats".  Unlike
+"data/nouns.txt" and "data/verbs.txt", these are (ignoring case) exact
+matches only.
+
+data/hyphen.txt
+Contains hyphenated terms that should be hyphenated.  For example,
+"flip-flop" means that "flip flop" will be turned into "flip-flop".
+Again, is an exact match (ignoring case), so make sure you
+pluralize/conjugate if needed.
+
+
+The following list of scripts are presented in the order
+"scripts/run.sh" runs them.
+
+scripts/fixPunct.pl
+Fixes tokenization errors with punctuation.  Leading and trailing "
+and , are tokenized, and ending periods are tokenized if the
+non-period version of the last token has been seen before.  I.e.,
+should tokenize "river." -> "river .", since we've seen "river", but
+not "Dr.", because we probably haven't seen "Dr".
+
+scripts/fixNouns.pl
+Join together nouns in "data/noun.txt" if they show up separated by a
+space or a hyphen.
+
+scripts/fixVerbs.pl
+Join together verbs in "data/verb.txt" if they show up separated by a
+space or a hyphen.
+
+scripts/fixAwomen.pl
+Replace "women" and "men" with their singular forms when they show up
+as "a women" or "a men", and are not part of "a women 's X" or "a men
+'s X".
+
+scripts/fixSplit.pl
+Split up compound terms in "data/split.txt".  Uses exact (although
+case-ignoring) matches.
+
+scripts/fixTshirt.pl
+Replace "t/tee shirt/shirts" with "t-shirt(s)".
+
+scripts/addHyphen.pl
+Hyphenate compound terms in "data/hyphen.txt".
+
+scripts/fixInFromOf.pl
+"in from of" -> "in front of".
+
+scripts/dropHyphen.pl
+Turn "ice-cream" into "ice cream", and drop the hyphen in "-sail"
+("wind-sail", etc.) and "-board" ("surf-board", etc.)
+
+scripts/replaceBrackets.pl
+Replace square brackets ('[' and ']') with parentheses ('(' and ')').
+
+scripts/stripSlash.pl
+Remove '/' from the captions - we will be using that as a separator
+later on.  Print out a warning if any captions have a '/'.
+
+scripts/fixWhitespace.pl
+Remove leading, trailing, and double whitespaces.
+
+scripts/checkHash.pl
+Check for hashes that are part of another token.  This may be overly
+conservative, but hashes in tokens ("#8") tend to give WordNet
+problems.  Hashes by themselves ("#"), do not.  Fix them if you can,
+the part of speech tagger will also get more of them fixed.

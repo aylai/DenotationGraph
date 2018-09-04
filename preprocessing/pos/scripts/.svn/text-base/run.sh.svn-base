@@ -1,0 +1,153 @@
+#!/bin/bash
+
+# run.sh <corpus name>
+
+# check the number of lines in the output, in case script failed
+function check {
+	if [ `wc -l ../tmp/$1/$2 | awk '{print $1}'` -ne `wc -l ../../corpora/$1/$1.token | awk '{print $1}'` ]
+	then
+		echo "Truncated file - $3 failed." 
+		popd > /dev/null
+		exit
+	fi
+}
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+mkdir ../tmp/$1
+./fixHyphen.pl ../../corpora/$1/$1.token > ../tmp/$1/hyphen.txt
+check $1 "hyphen.txt" "fixHyphen.pl"
+./fixThough.pl ../tmp/$1/hyphen.txt > ../tmp/$1/though.txt
+check $1 "though.txt" "fixThough.pl"
+awk -F'\t' '{print $1}' ../tmp/$1/though.txt > ../tmp/$1/url.txt
+awk -F'\t' '{print $2}' ../tmp/$1/though.txt > ../tmp/$1/sent.txt
+./fixPunct.pl ../tmp/$1/sent.txt > ../tmp/$1/punct.txt
+check $1 "punct.txt" "fixPunct.pl"
+./fixNumbers.pl ../tmp/$1/punct.txt > ../tmp/$1/numbers.txt
+check $1 "numbers.txt" "fixNumbers.pl"
+./postag.sh ../tmp/$1/numbers.txt > ../tmp/$1/pos.txt
+check $1 "pos.txt" "Tagger"
+./fixWatch.pl ../tmp/$1/pos.txt > ../tmp/$1/watch.txt
+check $1 "watch.txt" "fixWatch.pl"
+./fixUH.pl ../tmp/$1/watch.txt > ../tmp/$1/UH.txt
+check $1 "UH.txt" "fixUH.pl"
+./fixing.pl ../tmp/$1/UH.txt > ../tmp/$1/ing.txt
+check $1 "ing.txt" "fixing.pl"
+./fixPPngram.pl ../tmp/$1/ing.txt > ../tmp/$1/ngram.txt
+check $1 "ngram.txt" "fixPPngram.pl"
+./fixStandNN.pl ../tmp/$1/ngram.txt 1> ../tmp/$1/stand.txt 2> ../tmp/$1/stand.log
+check $1 "stand.txt" "fixStandNN.pl"
+./fixIs.pl ../tmp/$1/stand.txt 1> ../tmp/$1/is.txt 2> ../tmp/$1/is.log
+check $1 "is.txt" "fixIs.pl"
+./forcePOS.pl ../tmp/$1/is.txt > ../tmp/$1/force.txt
+check $1 "force.txt" "forcePOS.pl"
+./fixNotDT-V.pl ../tmp/$1/force.txt > ../tmp/$1/notdt.txt
+check $1 "notdt.txt" "fixNotDT-V.pl"
+./fixBuilding.pl ../tmp/$1/notdt.txt > ../tmp/$1/building.txt
+check $1 "building.txt" "fixBuilding.pl"
+./fixTO-VBX.pl ../tmp/$1/building.txt > ../tmp/$1/to-vbx.txt
+check $1 "to-vbx.txt" "fixTO-VBX.pl"
+./fixV-TO.pl ../tmp/$1/to-vbx.txt > ../tmp/$1/v-to.txt
+check $1 "v-to.txt" "fixV-TO.pl"
+./fixTO-VB.pl ../tmp/$1/v-to.txt > ../tmp/$1/to-vb.txt
+check $1 "to-vb.txt" "fixTO-VB.pl"
+./fixAttempt.pl ../tmp/$1/to-vb.txt > ../tmp/$1/attempt.txt
+check $1 "attempt.txt" "fixAttempt.pl"
+./fixVerbPP.pl ../tmp/$1/attempt.txt > ../tmp/$1/vpp.txt
+check $1 "vpp.txt" "fixVerbPP.pl"
+./fixConverse.pl ../tmp/$1/vpp.txt > ../tmp/$1/cnv.txt
+check $1 "cnv.txt" "fixConverse.pl"
+./fixWearing.pl ../tmp/$1/cnv.txt > ../tmp/$1/wear.txt
+check $1 "wear.txt" "fixWearing.pl"
+./fixSled.pl ../tmp/$1/wear.txt 1> ../tmp/$1/sled.txt 2> ../tmp/$1/sled.log
+check $1 "sled.txt" "fixSled.pl"
+./fixSign.pl ../tmp/$1/sled.txt > ../tmp/$1/sign.txt
+check $1 "sign.txt" "fixSign.pl"
+./fixDown.pl ../tmp/$1/sign.txt > ../tmp/$1/down.txt
+check $1 "down.txt" "fixDown.pl"
+./joinCompoundNouns.pl ../tmp/$1/down.txt > ../tmp/$1/njoin.txt
+check $1 "njoin.txt" "joinCompoundNouns.pl"
+./fixLeft.pl ../tmp/$1/njoin.txt > ../tmp/$1/left.txt
+check $1 "left.txt" "fixLeft.pl"
+./joinCompoundVerbs.pl ../tmp/$1/left.txt > ../tmp/$1/vjoin.txt
+check $1 "vjoin.txt" "joinCompoundVerbs.pl"
+./chunker.sh ../tmp/$1/vjoin.txt > ../tmp/$1/chunk.txt
+check $1 "chunk.txt" "chunker.sh"
+./splitCompoundVerbs.pl ../tmp/$1/left.txt ../tmp/$1/chunk.txt > ../tmp/$1/vsplit.txt
+check $1 "vsplit.txt" "splitCompoundVerbs.pl"
+./splitCompoundNouns.pl ../tmp/$1/vsplit.txt > ../tmp/$1/nsplit.txt
+check $1 "nsplit.txt" "splitCompoundNouns.pl"
+./makePPngram.pl ../tmp/$1/nsplit.txt > ../tmp/$1/tried.txt
+check $1 "tried.txt" "makePPngram.pl"
+./fixInOrderTo.pl ../tmp/$1/tried.txt > ../tmp/$1/inorder.txt
+check $1 "inorder.txt" "fixInOrderTo.pl"
+./fixSbar.pl ../tmp/$1/inorder.txt > ../tmp/$1/sbar.txt
+check $1 "sbar.txt" "fixSbar.pl"
+./fixNPHeadNouns.pl ../tmp/$1/sbar.txt 1> ../tmp/$1/hnoun.txt 2> ../tmp/$1/hnoun.log
+check $1 "hnoun.txt" "fixNPHeadNouns.pl"
+./fixNPHeadNouns2.pl ../tmp/$1/hnoun.txt 1> ../tmp/$1/hnoun2.txt 2> ../tmp/$1/hnoun2.log
+check $1 "hnoun2.txt" "fixNPHeadNouns2.pl"
+./fixDressed.pl ../tmp/$1/hnoun2.txt 1> ../tmp/$1/dress.txt 2> ../tmp/$1/dress.log
+check $1 "dress.txt" "fixDressed.pl"
+./fixCooks.pl ../tmp/$1/dress.txt > ../tmp/$1/cooks.txt
+check $1 "cooks.txt" "fixCooks.pl"
+./fixShop.pl ../tmp/$1/cooks.txt > ../tmp/$1/shop.txt
+check $1 "shop.txt" "fixShop.pl"
+./fixVPaux.pl ../tmp/$1/shop.txt > ../tmp/$1/vpaux.txt
+check $1 "vpaux.txt" "fixVPaux.pl"
+./fixTO.pl ../tmp/$1/vpaux.txt > ../tmp/$1/to.txt
+check $1 "to.txt" "fixTO.pl"
+./normDobj.pl ../tmp/$1/to.txt > ../tmp/$1/dobj.txt
+check $1 "dobj.txt" "normDobj.pl"
+./fixWearingChunk.pl ../tmp/$1/dobj.txt 1> ../tmp/$1/wearchunk.txt 2> ../tmp/$1/wearchunk.log
+check $1 "wearchunk.txt" "fixWearingChunk.pl"
+./fixDetHead.pl ../tmp/$1/wearchunk.txt > ../tmp/$1/dthead.txt
+check $1 "dthead.txt" "fixDetHead.pl"
+./fixToPerform.pl ../tmp/$1/dthead.txt > ../tmp/$1/perform.txt
+check $1 "perform.txt" "fixToPerform.pl"
+./fixLay.pl ../tmp/$1/perform.txt > ../tmp/$1/lay.txt
+check $1 "lay.txt" "fixLay.pl"
+./breakCC-NPs.pl ../tmp/$1/lay.txt > ../tmp/$1/break.txt
+check $1 "break.txt" "breakCC-NPs.pl"
+./fixRefVerbs.pl ../tmp/$1/break.txt > ../tmp/$1/ref1.txt
+check $1 "ref1.txt" "fixRefVerbs.pl"
+./fixRefVerbs.pl ../tmp/$1/ref1.txt > ../tmp/$1/ref2.txt
+check $1 "ref2.txt" "fixRefVerbs.pl"
+./fixVerbs.pl ../tmp/$1/ref2.txt > ../tmp/$1/verbs1.txt
+check $1 "verbs1.txt" "fixVerbs.pl"
+./fixPlay.pl ../tmp/$1/verbs1.txt > ../tmp/$1/play.txt
+check $1 "play.txt" "fixPlay.pl"
+./fixVerbs.pl ../tmp/$1/play.txt > ../tmp/$1/verbs2.txt
+check $1 "verbs2.txt" "fixVerbs.pl"
+./fixWhile.pl ../tmp/$1/verbs2.txt > ../tmp/$1/while.txt
+check $1 "while.txt" "fixWhile.pl"
+./fixQuotes.pl ../tmp/$1/while.txt > ../tmp/$1/quote.txt
+check $1 "quote.txt" "fixQuotes.pl"
+./fixVP-RB.pl ../tmp/$1/quote.txt > ../tmp/$1/vp-rb.txt
+check $1 "vp-rb.txt" "fixVP-RB.pl"
+./fixPRP-VP.pl ../tmp/$1/vp-rb.txt > ../tmp/$1/vp-prp.txt
+check $1 "vp-prp.txt" "fixPRP-VP.pl"
+./fixPrt.pl ../tmp/$1/vp-prp.txt > ../tmp/$1/prt.txt
+check $1 "prt.txt" "fixPrt.pl"
+./fixPP-Prt.pl ../tmp/$1/prt.txt > ../tmp/$1/pp-prt.txt
+check $1 "pp-prt.txt" "fixPP-Prt.pl"
+./fixDetHead.pl ../tmp/$1/pp-prt.txt > ../tmp/$1/dthead2.txt
+check $1 "dthead2.txt" "fixDetHead.pl"
+./fixSomeX.pl ../tmp/$1/dthead2.txt > ../tmp/$1/some.txt
+check $1 "some.txt" "fixSomeX.pl"
+./breakVPs.pl ../tmp/$1/some.txt > ../tmp/$1/breakVP.txt
+check $1 "breakVP.txt" "breakVPs.pl"
+./fixTO-end.pl ../tmp/$1/breakVP.txt > ../tmp/$1/to-end.txt
+check $1 "to-end.txt" "fixTO-end.pl"
+./fixVPVP-TO.pl ../tmp/$1/to-end.txt > ../tmp/$1/vpvp-to.txt
+check $1 "vpvp-to.txt" "fixVPVP-TO.pl"
+./fixFunction.pl ../tmp/$1/vpvp-to.txt > ../tmp/$1/function.txt
+check $1 "function.txt" "fixFunction.pl"
+./fixPP-CC.pl ../tmp/$1/function.txt > ../tmp/$1/pp-cc.txt
+check $1 "pp-cc.txt" "fixPP-CC.pl"
+./checkPunctTag.pl ../tmp/$1/pp-cc.txt > ../tmp/$1/punct.check
+../../misc/splice.pl ../tmp/$1/url.txt ../tmp/$1/pp-cc.txt > ../../corpora/$1/$1.pos
+#./makeChunk.pl ../../tmp/$1.pos > ../../tmp/$1.chunk
+
+popd > /dev/null

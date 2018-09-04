@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# ./run.sh <corpus name>
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+mkdir ../tmp/$1
+./getVPs.pl ../../corpora/$1/$1.coref > ../tmp/$1/vp.txt
+./getSubj.pl ../../corpora/$1/$1-malt-poly.conll > ../tmp/$1/presubj.txt
+./getDobj.pl ../../corpora/$1/$1.coref ../../corpora/$1/$1.np ../../corpora/$1/$1-malt-poly.conll > ../tmp/$1/dobj.txt
+rm ../tmp/$1/*.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/agentref.txt > ../tmp/$1/agentref.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/animal.txt > ../tmp/$1/animal.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/clothing.txt > ../tmp/$1/clothing.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/person.txt > ../tmp/$1/person.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/vehicle.txt > ../tmp/$1/vehicle.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/who.txt > ../tmp/$1/who.np
+./getNPtype.pl ../../corpora/$1/$1.np ../data/that-which.txt > ../tmp/$1/that-which.np
+sort -u ../tmp/$1/*.np > ../tmp/$1/all.np
+sort -u ../tmp/$1/agentref.np ../tmp/$1/animal.np ../tmp/$1/person.np > ../tmp/$1/agent.np
+./getSubjNP.pl ../tmp/$1/presubj.txt ../tmp/$1/clothing.np > ../tmp/$1/clothing.subj
+./getSubjNP.pl ../tmp/$1/presubj.txt ../tmp/$1/vehicle.np > ../tmp/$1/vehicle.subj
+./getSubjNP.pl ../tmp/$1/presubj.txt ../tmp/$1/all.np > ../tmp/$1/all.subj
+../../misc/gimme.pl ../tmp/$1/presubj.txt -../tmp/$1/all.subj > ../tmp/$1/not.subj
+../../misc/gimme.pl ../tmp/$1/vp.txt -../tmp/$1/presubj.txt 1 | awk '{print $1}' > ../tmp/$1/nosubj.vp
+./findNewSubj.pl ../tmp/$1/clothing.subj ../tmp/$1/agent.np ../tmp/$1/vp.txt ../../corpora/$1/$1.coref ../data/exclverb-clothing.txt > ../tmp/$1/clothing-agent.subj
+./findNewSubj.pl ../tmp/$1/vehicle.subj ../tmp/$1/agent.np ../tmp/$1/vp.txt ../../corpora/$1/$1.coref ../data/exclverb-vehicle.txt > ../tmp/$1/vehicle-agent.subj
+./findNewSubj.pl ../tmp/$1/not.subj ../tmp/$1/agent.np ../tmp/$1/vp.txt ../../corpora/$1/$1.coref ../data/exclverb-not.txt > ../tmp/$1/not-agent.subj
+./findNewSubj2.pl ../tmp/$1/nosubj.vp ../tmp/$1/agent.np ../tmp/$1/vp.txt ../../corpora/$1/$1.coref ../data/exclverb-not.txt ../tmp/$1/presubj.txt > ../tmp/$1/nosubj-agent.subj
+./replaceSubj.pl ../tmp/$1/presubj.txt ../tmp/$1/clothing-agent.subj ../tmp/$1/vehicle-agent.subj ../tmp/$1/not-agent.subj | sort -u > ../tmp/$1/presubj2.txt
+#./replaceSubj.pl ../tmp/$1/presubj.txt ../tmp/$1/clothing-agent.subj ../tmp/$1/vehicle-agent.subj ../tmp/$1/not-agent.subj ../tmp/$1/nosubj-agent.subj | sort -u > ../tmp/$1/presubj2.txt
+./getSubjNP.pl ../tmp/$1/presubj2.txt ../tmp/$1/who.np > ../tmp/$1/who.subj
+./findNewSubj3.pl ../tmp/$1/who.subj ../tmp/$1/person.np ../../corpora/$1/$1.coref > ../tmp/$1/who-person.subj
+./replaceSubj.pl ../tmp/$1/presubj2.txt ../tmp/$1/who-person.subj | sort -u > ../tmp/$1/subj.txt
+./getNPs.pl ../../corpora/$1/$1.np > ../tmp/$1/np.txt
+./getSVO.pl ../tmp/$1/np.txt ../tmp/$1/vp.txt ../tmp/$1/subj.txt ../tmp/$1/dobj.txt > ../tmp/$1/svo.txt
+
+cp ../tmp/$1/vp.txt ../../corpora/$1/$1.vp
+cp ../tmp/$1/subj.txt ../../corpora/$1/$1.subj
+cp ../tmp/$1/dobj.txt ../../corpora/$1/$1.dobj
+cp ../tmp/$1/svo.txt ../../corpora/$1/$1.svo
+
+popd > /dev/null

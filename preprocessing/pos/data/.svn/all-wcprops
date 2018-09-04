@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dikduk/!svn/ver/989/DenotationGraph/pos/data
+END
+ngram.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/ngram.txt
+END
+prt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/prt.txt
+END
+person.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/person.txt
+END
+compoundNouns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/compoundNouns.txt
+END
+actor.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/989/DenotationGraph/pos/data/actor.txt
+END
+split.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/split.txt
+END
+color.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/data/color.txt
+END
+forcePOS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/989/DenotationGraph/pos/data/forcePOS.txt
+END

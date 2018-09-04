@@ -1,0 +1,15 @@
+I'm not sure if this will really be useful/used by anyone, but I'm
+going to keep a version log.  Basically, if you use a version of the
+denotation graph whose results you want to be able to reproduce, note
+done in this file: what the results were used for, which revision
+should be used to get those results, and the commands used to produce
+the results.
+
+TACL 2013 - Revision 846
+pos/scripts/run.sh results_20130124
+entity/scripts/run.sh results_20130124
+parser/scripts/run.sh results_20130124 10
+event/scripts/run.sh results_20130124
+graph/scripts/runPre.sh results_20130124
+graph/scripts/runNew.sh results_20130124
+

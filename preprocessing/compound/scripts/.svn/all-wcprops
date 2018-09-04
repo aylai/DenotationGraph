@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/844/DenotationGraph/compound/scripts
+END
+fixNouns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixNouns.pl
+END
+findDouble.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/836/DenotationGraph/compound/scripts/findDouble.pl
+END
+dropHyphen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/dropHyphen.pl
+END
+checkHash.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/844/DenotationGraph/compound/scripts/checkHash.pl
+END
+fixTshirt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixTshirt.pl
+END
+findCompound.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/836/DenotationGraph/compound/scripts/findCompound.pl
+END
+fixInFromOf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixInFromOf.pl
+END
+fixVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixVerbs.pl
+END
+replaceBrackets.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dikduk/!svn/ver/838/DenotationGraph/compound/scripts/replaceBrackets.pl
+END
+stripSlash.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/838/DenotationGraph/compound/scripts/stripSlash.pl
+END
+fixAwomen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixAwomen.pl
+END
+fixPunct.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixPunct.pl
+END
+diffCompounds.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/compound/scripts/diffCompounds.pl
+END
+fixSplit.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/fixSplit.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/842/DenotationGraph/compound/scripts/run.sh
+END
+fixWhitespace.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/838/DenotationGraph/compound/scripts/fixWhitespace.pl
+END
+addHyphen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/840/DenotationGraph/compound/scripts/addHyphen.pl
+END

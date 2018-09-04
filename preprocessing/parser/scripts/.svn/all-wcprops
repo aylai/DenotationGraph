@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts
+END
+conllMalt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/conllMalt.pl
+END
+runStanford.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runStanford.pl
+END
+runlin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runlin.sh
+END
+renumberConll.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/renumberConll.pl
+END
+runpoly.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runpoly.sh
+END
+spliceConll.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/spliceConll.pl
+END
+conllStanford.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/conllStanford.pl
+END
+runpoly.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runpoly.pl
+END
+tokenize.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/tokenize.pl
+END
+findDiff.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/findDiff.pl
+END
+runLimited.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runLimited.sh
+END
+conllize.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/conllize.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/run.sh
+END
+runStanford.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/parser/scripts/runStanford.sh
+END

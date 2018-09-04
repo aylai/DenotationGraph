@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dikduk/!svn/ver/860/DenotationGraph/graph/data
+END
+lexicon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/lexicon.txt
+END
+ccGroup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/ccGroup.txt
+END
+ent-mod.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/ent-mod.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/stopwords.txt
+END
+entmod.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/entmod.txt
+END
+light-verbs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/light-verbs.txt
+END
+person.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/860/DenotationGraph/graph/data/person.txt
+END
+count.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/count.txt
+END
+player.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/data/player.txt
+END

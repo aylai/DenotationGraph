@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts
+END
+checkout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/checkout.pl
+END
+getFive.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/getFive.pl
+END
+CSVtoTSV.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/CSVtoTSV.pl
+END
+spelling.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/spelling.pl
+END
+dropWorker.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/dropWorker.pl
+END
+htmlWorker.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/htmlWorker.pl
+END
+htmlCheck.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/836/DenotationGraph/crowdflower/scripts/htmlCheck.pl
+END

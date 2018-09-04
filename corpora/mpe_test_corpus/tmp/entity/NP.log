@@ -1,0 +1,409 @@
+CHECK: [NP someone/NN ] else/RB
+[NP one/CD serious/JJ ,/, one/CD ] [VP frowning/VBG ]
+[NP A/DT religious/JJ ] [VP gathering/VBG ]
+[NP a/DT redhead/NN ] [VP covering/VBG ]
+[NP blue/JJ and/CC green/JJ ] )/-RRB-
+[NP A/DT performer/JJ ] [VP sings/VBZ ]
+[NP ponytail/JJ ] [VP jogging/VBG ]
+CHECK: [NP white/JJ ] and/CC not/RB
+CHECK: [NP Baby/NNP ] not/RB
+CHECK: [NP a/DT flower/NN ] boutonniere/FW
+[NP all/DT white/JJ ] ,/,
+CHECK: [NP one/CD ] incredibly/RB happy/JJ
+[NP outside/JJ ] [VP jumping/VBG ]
+[NP a/DT "/'' telephone/NN booth/NN ] "/''
+CHECK: [NP his/PRP$ hand/NN ] outstretched/JJ
+CHECK: [NP Baby/NNP ] not/RB
+[NP green/JJ ] [VP lighting/VBG ]
+[NP outside/JJ ] [VP jumping/VBG ]
+CHECK: [NP the/DT air/NN and/CC ball/NN ] airborne/JJ
+CHECK: [NP a/DT flower/NN ] boutonniere/FW
+[NP crosscountry/NN ] [VP skiing/VBG ]
+CHECK: [NP two/CD ] other/JJ
+[NP A/DT retriever/JJ ] [VP jumps/VBZ ]
+CHECK: [NP a/DT shed/JJ ] overwhelmed/JJ
+[NP many/JJ audience/NN members/NNS ] [VP watch/VBP ]
+[NP An/DT Asian/JJ woman/NN ] [VP mountain/VBP ] [VP climbing/VBG ]
+[NP bike/JJ ] [VP riding/VBG ]
+CHECK: [NP a/DT shed/JJ ] overwhelmed/JJ
+[NP Performer/JJ ] [VP singing/VBG ]
+[NP all/DT white/JJ ] ,/,
+CHECK: [NP one/CD ] incredibly/RB happy/JJ
+[NP A/DT religious/JJ ] [VP gathering/VBG ]
+[NP text/JJ ] [VP messaging/VBG ]
+[NP two/CD ] (/-LRB-
+[NP two/CD ] (/-LRB-
+CHECK: [NP a/DT flower/NN ] boutonniere/FW
+CHECK: [NP a/DT table/NN ] laden/JJ
+[NP A/DT performer/JJ ] [VP sits/VBZ ]
+[NP a/DT lower/JJR ] [VP ranked/VBD ]
+[NP Greyhounds/NNP ] [VP racing/VBG ]
+CHECK: [NP one/CD ] incredibly/RB happy/JJ
+[NP a/DT brownish/JJ green/JJ ] [VP shirting/VBG ]
+[NP A/DT native/JJ american/JJ ] [VP sitting/VBG ]
+CHECK: [NP another/DT ] each/DT
+[NP Some/DT expats/NNS ] [VP celebrate/VBP ]
+CHECK: [NP pink/JJ ] tutu/FW
+[NP my/PRP$ rat/NN tail/NN ] )/-RRB-
+[NP A/DT gymnast/JJ ] [VP jumps/VBZ ]
+CHECK: [NP one/CD ] younger/JJR
+[NP two/CD sitting/VBG and/CC two/CD ] [VP standing/VBG ]
+[NP two/CD sitting/VBG and/CC two/CD ] [VP standing/VBG ]
+[NP A/DT couple/NN ] [VP sitting/VBG ]
+CHECK: [NP a/DT flower/NN ] lei/FW
+CHECK: [NP a/DT camera/NN ] slung/JJ
+[NP Women/NNS young/JJ and/CC old/JJ ] [VP are/VBP ]
+[NP net/JJ ] [VP fishing/VBG ]
+[NP a/DT brownish/JJ green/JJ ] [VP shirting/VBG ]
+[NP a/DT brownish/JJ green/JJ ] [VP shirting/VBG ]
+[NP A/DT teen/JJ ] [VP standing/VBG ]
+[NP a/DT kiosk/NN labeled/VBN "/'' PAY/NN HERE/RB ] "/''
+[NP blue/JJ and/CC red/JJ ] [VP backlighting/VBG ]
+CHECK: [NP someone/NN ] else/RB
+CHECK: [NP one/CD ] older/JJR
+CHECK: [NP one/CD ] younger/JJR
+CHECK: [NP one/CD much/RB ] smaller/JJR
+[NP his/PRP$ arm/NN ] [PRT out/RP ]
+[NP a/DT brownish/JJ green/JJ ] [VP shirting/VBG ]
+[NP Women/NNS young/JJ and/CC old/JJ ] [VP are/VBP ]
+CHECK: [NP another/DT ] each/DT
+[NP color/NN ] ,/, [VP reading/VBG ] or/CC [VP singing/VBG ]
+CHECK: [NP another/DT ] each/DT
+[NP a/DT restaurant/NN ] [VP setting/VBG ]
+[NP her/PRP$ hair/NN ] [PRT up/RP ]
+[NP the/DT Chinese/JJ ] [PP as/IN ]
+[NP A/DT referee/JJ ] [VP standing/VBG ]
+[NP his/PRP$ or/CC her/PRP$ arms/NNS ] [PRT out/RP ]
+[NP all/PDT the/DT pigeons/NNS ] [VP are/VBP ]
+[NP the/DT street/NN ] [VP dancing/VBG ]
+[NP A/DT teen/JJ ] [VP jumping/VBG ]
+[NP nice/JJ ] [VP lighting/VBG ]
+[NP a/DT museum/NN ] [VP setting/VBG ]
+CHECK: [NP two/CD ] just/RB
+[NP the/DT word/NN ] "/'' [VP KRUNCH/VB ] "/''
+[NP "/'' R/NN ] "/''
+[NP N/NNP ] "/''
+[NP "/'' C/LS ] "/''
+[NP Christ/NNP ] "/''
+[NP site/NN ] [VP seeing/VBG ]
+[NP helmets/NN ] [VP riding/VBG ]
+[NP referee/JJ ] [VP observe/VBP ]
+CHECK: [NP someone/NN ] else/RB
+[NP his/PRP$ left/JJ leg/NN ] [PRT up/RP ]
+[NP A/DT female/JJ performer/JJ ] [VP sings/VBZ ]
+[NP A/DT performer/JJ ] [VP singing/VBG ]
+CHECK: [NP McDonald/NNP ] 's/POS
+[NP A/DT clown/JJ ] [VP runs/VBZ ]
+[NP full/JJ ] [VP padding/VBG ]
+[NP something/NN ] [PRT off/RP ]
+[NP A/DT muzzled/JJ greyhound/JJ ] [VP leaps/VBZ ]
+[NP A/DT large/JJ ] [VP gathering/VBG ]
+[NP a/DT fence/NN ] [VP watch/VBP ]
+CHECK: [NP Four/CD ] warmly/RB
+CHECK: [NP one/CD ] to/TO
+CHECK: [NP A/DT newlywed/JJ ] and/CC partner/RBR stand/VB
+[NP A/DT female/JJ performer/JJ ] [VP singing/VBG ]
+[NP a/DT dimly/RB lit/JJ ] [VP setting/VBG ]
+[NP the/DT table/NN ] [PRT out/RP ]
+[NP clean/JJ ] [PRT up/RP ]
+[NP tire/NN ] [VP swing/VBG ]
+[NP a/DT museum/NN ] [VP setting/VBG ]
+CHECK: [NP two/CD more/JJR ] almost/RB
+[NP one/CD foot/NN ] [PRT up/RP ]
+[NP "/'' 50/CD %/NN ] "/''
+[NP one/CD foot/NN ] [PRT up/RP ]
+[NP a/DT factory/NN type/NN ] [VP building/VBG ]
+[NP "/'' 53/CD :11/CD ] "/''
+[NP A/DT doggy/JJ ] [VP runs/VBZ ]
+CHECK: [NP the/DT 1800/CD ] 's/POS
+[NP A/DT boxer/JJ ] [VP leaps/VBZ ]
+[NP a/DT four-wheeler/JJ ] [VP jumps/VBZ ]
+[NP a/DT green/JJ bad/JJ ] [VP taking/VBG ]
+[NP light/JJ ] [VP shining/VBG ]
+[NP outside/JJ ] [VP working/VBG ]
+[NP A/DT large/JJ ] [VP gathering/VBG ]
+[NP A/DT seagull/JJ ] [VP flies/VBZ ]
+[NP light/JJ ] [VP shining/VBG ]
+[NP Blond/NNP three/CD year/NN old/JJ ] [VP standing/VBG ]
+CHECK: [NP low/RB ] almost/RB
+CHECK: [NP A/DT musical/JJ ] trio/SYM
+CHECK: [NP red/JJ ] and/CC some/DT
+[NP her/PRP$ face/NN ] [VP painted/VBN ]
+[NP more/JJR than/IN 8/CD ] [VP is/VBZ ]
+[NP one/CD leg/NN ] [PRT up/RP ]
+[NP 2/LS ] [VP standing/VBG ]
+[NP CD/NNP ] 's/#
+[NP A/DT teen/JJ ] [VP jumps/VBZ ]
+[NP clothes/NNS ] )/-RRB-
+[NP bright/JJ pink/JJ ] [PP on/IN ]
+[NP An/DT animal/JJ ] [VP jumps/VBZ ]
+[NP Animal/JJ ] [VP bucking/VBG ]
+[NP 2/LS ] [VP standing/VBG ]
+[NP "/'' 50/CD %/NN ] "/''
+CHECK: [NP A/DT crowd/NN ] excited/VBN and/CC happy/JJ
+[NP A/DT teen/JJ ] [VP skateboarding/VBG ]
+CHECK: [NP blue/JJ ] and/CC other/JJ
+[NP an/DT African/JJ American/JJ ] [VP appear/VBP ]
+[NP white/JJ water/NN ] [VP rafting/VBG ]
+[NP friends/NNS white/JJ water/NN ] [VP rafting/VBG ]
+[NP white/JJ water/NN ] [VP rafting/VBG ]
+[NP ice/NN ] [VP skating/VBG ]
+[NP a/DT silver/NN ] [PRT can/RP ]
+[NP Team/NNP ] [VP skating/VBG ]
+[NP An/DT American/JJ ] [VP sitting/VBG ]
+CHECK: [NP Surfer/JJ ] partially/RB visible/JJ
+[NP a/DT literary/JJ classic/JJ ] "/''
+[NP a/DT mockingbird/NN ] "/''
+[NP KILL/NNP A/DT Mockingbird/NNP ] "/''
+[NP a/DT writing/VBG "/'' Sex/NN ] "/''
+[NP Ice/NN ] [VP skiing/VBG ]
+[NP sword/NN ] [VP fighting/VBG ]
+CHECK: [NP his/PRP$ right/JJ hand/NN ] outstretched/JJ
+[NP mature/JJ and/CC young/JJ ] [VP sitting/VBG ]
+[NP American/JJ ] [VP standing/VBG ]
+[NP clowns/NNS one/CD ] [VP singing/VBG ]
+[NP his/PRP$ face/NN ] [PRT up/RP ]
+CHECK: [NP someone/NN ] else/RB
+[NP CD/NNP ] 's/#
+[NP "/'' 50/CD %/NN ] "/''
+[NP a/DT dimly/RB lit/JJ ] [VP setting/VBG ]
+[NP a/DT museum/NN ] [VP setting/VBG ]
+[NP A/DT small/JJ ] [VP gathering/VBG ]
+CHECK: [NP a/DT table/NN ] laden/JJ
+[NP light/NN ] [PRT brown/RP ]
+[NP her/PRP$ face/NN ] [VP painted/VBN ]
+CHECK: [NP a/DT younger/JJR relative/JJ ] nearby/RB
+[NP A/DT performer/JJ ] [VP singing/VBG ]
+CHECK: [NP a/DT camera/NN ] slung/JJ
+CHECK: [NP a/DT high/JJ ] ,/, cavernous/JJ ,/, arching/VBG ceiling/VBG
+[NP A/DT large/JJ ] [VP gathering/VBG ]
+[NP purple/JJ drapery/JJ ] [VP hanging/VBG ]
+[NP more/JJR than/IN 8/CD ] [VP is/VBZ ]
+[NP a/DT bar/NN ] [VP setting/VBG ]
+[NP swimwear/NN ] [VP rafting/VBG ]
+CHECK: [NP tennis/NN ] or/CC bad-mitten/JJ
+[NP the/DT Chinese/JJ ] [PP as/IN ]
+[NP A/DT greyhound/JJ ] [VP racing/VBG ]
+CHECK: [NP his/PRP$ right/JJ hand/NN ] outstretched/JJ
+[NP ball/NN ] [PRT out/RP ]
+[NP Team/NNP ] [VP skating/VBG ]
+[NP A/DT performer/JJ ] [VP waits/VBZ ]
+CHECK: [NP one/CD ] younger/JJR
+[NP one/CD sitting/VBG and/CC one/CD ] [VP standing/VBG ]
+[NP Performer/JJ ] [VP performing/VBG ]
+[NP a/DT large/JJ ] ,/,
+[NP a/DT flip/RB on/RB blue/JJ ] [VP flooring/VBG ]
+[NP a/DT third/JJ ] ,/,
+CHECK: [NP someone/NN ] else/RB
+CHECK: [NP the/DT 1800/CD ] 's/POS
+[NP ME/NNP WHY/NNP MY/NNP MUSIC/NNP SUCKS/NNP ] "/''
+[NP a/DT relaxed/JJ office/NN ] [VP setting/VBG ]
+[NP A/DT green/JJ pastoral/JJ ] [VP setting/VBG ]
+[NP Skaters/NNP ] [VP racing/VBG ]
+[NP a/DT yellow/JJ ] ,/,
+CHECK: [NP something/NN ] else/RB
+CHECK: [NP her/PRP$ mouth/NN open/JJ ] wide/JJ
+[NP a/DT Safe/NNP NY/NNP ] "/''
+[NP a/DT red/JJ ring/NN ] [PRT out/RP ]
+[NP A/DT teen/JJ ] [VP singing/VBG ]
+[NP A/DT blond/JJ ] [VP sitting/VBG ]
+CHECK: [NP A/DT BMX/NNP rider/NN ] airborne/JJ
+[NP white/JJ ] "/''
+[NP a/DT natural/JJ lake/NN ] [VP setting/VBG ]
+[NP A/DT performer/JJ ] [VP walks/VBZ ]
+[NP outside/JJ ] [VP relaxing/VBG ]
+CHECK: [NP someone/NN ] else/RB
+[NP mature/JJ and/CC young/JJ ] [VP sitting/VBG ]
+[NP ice/NN ] [VP skating/VBG ]
+CHECK: [NP someone/NN ] else/RB
+[NP one/CD purple/NN ] (/-LRB-
+[NP front/NN ] )/-RRB-
+[NP a/DT museum/NN ] [VP setting/VBG ]
+[NP a/DT coat/NN and/CC hat/NN ] [PRT on/RP ]
+CHECK: [NP a/DT concert/NN or/CC fair/JJ ] all/DT looking/VBG
+CHECK: [NP A/DT male/JJ ] airborne/JJ
+[NP pink/JJ ] [VP lighting/VBG ]
+[NP back/RB jumpsuits/NNS ] [VP sing/VBP ]
+[NP its/PRP$ arm/NN ] [PRT up/RP ]
+[NP A/DT performer/JJ ] [VP singing/VBG ]
+[NP mature/JJ and/CC young/JJ ] [VP sitting/VBG ]
+[NP a/DT third/JJ ] ,/,
+CHECK: [NP McDonald/NNP ] 's/POS
+[NP a/DT steal/JJ ] "/''
+[NP large/JJ ] [VP gathering/VBG ]
+[NP Sports/NNP team/NN members/NNS ] [VP practice/VBP ]
+CHECK: [NP something/NN ] not/RB
+[NP a/DT church/NN ] [VP setting/VBG ]
+CHECK: [NP A/DT BMX/NNP rider/NN ] airborne/JJ
+[NP Animal/JJ ] [VP drives/VBZ ]
+CHECK: [NP one/CD ] larger/JJR
+[NP a/DT flip/RB on/RB blue/JJ ] [VP flooring/VBG ]
+[NP a/DT beach/NN ] ,/, [VP writing/VBG ] or/CC [VP drawing/VBG ]
+[NP clowns/NNS one/CD ] [VP singing/VBG ]
+[NP pink/JJ ] [VP lighting/VBG ]
+[NP a/DT rural/JJ ,/, farm/NN ] [VP setting/VBG ]
+[NP Our/PRP$ Future/JJ ] "/''
+[NP a/DT rodeo/NN ] [VP setting/VBG ]
+[NP "/'' MANCHESTER/NNP ] "/''
+[NP his/PRP$ leg/NN ] [PRT up/RP ]
+[NP fishnet/JJ ] [VP stocking/VBG ]
+CHECK: [NP A/DT musical/JJ ] trio/SYM
+[NP beret/JJ ] [VP driving/VBG ]
+[NP Boy/NN ] [VP rock/NN climbing/VBG ]
+[NP many/JJ onlookers/NNS ] [VP watch/VBP ]
+[NP his/PRP$ arms/NNS ] [PRT out/RP ]
+[NP red/JJ and/CC black/JJ ] [PP about/IN ]
+[NP some/DT food/NN ] [PRT up/RP ]
+[NP his/PRP$ glove/NN ] [PRT out/RP ]
+CHECK: [NP one/CD arm/NN ] outstretched/JJ as/IN if/IN
+[NP extreme/JJ ] [VP bicycling/VBG ]
+[NP miniature/JJ ] [VP golfing/VBG ]
+[NP A/DT referee/JJ ] [VP points/VBZ ]
+[NP focus/NN ] )/-RRB-
+CHECK: [NP A/DT helmeted/JJ male/JJ ] airborne/JJ
+CHECK: [NP uniform/NN ] other/JJ
+[NP 1/CD foot/NN ] [PRT up/RP ]
+CHECK: [NP A/DT cyclist/NN ] airborne/JJ
+[NP A/DT social/JJ ] [VP gathering/VBG ]
+[NP "/'' Crooked/JJ Run/JJ ] "/''
+CHECK: [NP A/DT BMX/NNP rider/NN ] airborne/JJ
+[NP Skaters/NNP ] [VP racing/VBG ]
+[NP paper/NN ] [PRT up/RP ]
+[NP high/JJ fitting/JJ hats/NNS ] ,/, [VP marching/VBG ]
+[NP a/DT steal/JJ ] "/''
+[NP Sebastian/NNP ] "/''
+[NP his/PRP$ thumb/NN ] [PRT out/RP ]
+[NP his/PRP$ mitt/NN ] [PRT out/RP ]
+[NP two/CD ] [VP are/VBP ] [VP sitting/VBG ]
+[NP duet/JJ ] [VP performing/VBG ]
+[NP the/DT "/'' Hartman/NNP Prehistoric/NNP Garden/NNP ] "/''
+[NP black/JJ and/CC white/JJ ] [VP lighting/VBG ]
+[NP the/DT name/NN "/'' JANE/NNP ] "/''
+CHECK: [NP candles/NNS ] all/DT
+[NP money/NN ] [PRT out/RP ]
+[NP back/RB jumpsuits/NNS ] [VP sing/VBP ]
+[NP a/DT little/JJ ] ,/,
+[NP one/CD black/JJ and/CC one/CD white/JJ ] ,/,
+CHECK: [NP 2/CD ] o'clock/RB
+CHECK: [NP one/CD ] older/JJR
+CHECK: [NP one/CD ] younger/JJR
+CHECK: [NP a/DT concert/NN or/CC fair/JJ ] all/DT looking/VBG
+[NP the/DT street/NN ] [VP dancing/VBG ]
+CHECK: [NP diving/JJ ] underwater/JJ
+[NP Animal/JJ ] [VP standing/VBG ]
+[NP jet/NN ] [VP skiing/VBG ]
+CHECK: [NP top/NN one/CD ] another/PDT
+CHECK: [NP their/PRP$ School/NNP ] ,/, or/CC maybe/RB
+[NP "/'' Zune/NNP ] "/''
+CHECK: [NP two/CD ] just/RB
+[NP a/DT train/NN ] [VP crossing/VBG ]
+[NP a/DT train/NN ] [VP crossing/VBG ]
+[NP Horseback/NNP ] [VP riding/VBG ]
+[NP his/PRP$ opponent/NN ] [PRT out/RP ]
+[NP technical/JJ ] [VP rock/NN climbing/VBG ]
+[NP tan/JJ ] [VP standing/VBG ]
+[NP poor/JJ ] [VP parking/VBG ]
+[NP "/'' TRIPE/NNP ] "/''
+[NP a/DT dry/JJ dessert/NN ] [VP setting/VBG ]
+[NP their/PRP$ hair/NN ] [PRT up/RP ]
+[NP a/DT restaurant/NN ] [VP setting/VBG ]
+[NP "/'' London/NNP 2012/CD ] "/''
+[NP his/PRP$ husky/JJ ] [VP sitting/VBG ]
+[NP one/CD foot/NN ] [PRT up/RP ]
+[NP road/NN ] [VP crossing/VBG ]
+[NP one/CD foot/NN ] [PRT up/RP ]
+[NP "/'' MANCHESTER/NNP ] "/''
+CHECK: [NP their/PRP$ eyes/NNS ] big/JJ and/CC wide/JJ
+[NP A/DT performer/JJ ] [VP sits/VBZ ]
+CHECK: [NP A/DT BMX/NNP rider/NN ] airborne/JJ
+[NP A/DT senior/JJ ] [VP is/VBZ ]
+CHECK: [NP a/DT wall/NN ] nearby/JJ
+[NP black/JJ ] [PP about/IN ]
+CHECK: [NP one/CD more/JJR ] standing/VBG near/IN
+[NP his/PRP$ left/JJ leg/NN ] [PRT up/RP ]
+[NP The/DT performer/JJ ] [VP sings/VBZ ]
+[NP referee/JJ ] [VP observe/VBP ]
+[NP her/PRP$ face/NN ] [VP painted/VBD ]
+CHECK: [NP their/PRP$ School/NNP ] ,/, or/CC maybe/RB
+[NP Men/NN ] [VP sitting/VBG ]
+[NP a/DT green/JJ bad/JJ ] [VP taking/VBG ]
+[NP A/DT green/JJ pastoral/JJ ] [VP setting/VBG ]
+[NP A/DT small/JJ ] [VP gathering/VBG ]
+[NP a/DT green/JJ bad/JJ ] [VP taking/VBG ]
+[NP his/PRP$ hand/NN ] [PRT out/RP ]
+[NP Meat/JJ ] [VP cooking/VBG ]
+[NP outside/JJ ] [VP listening/VBG ]
+[NP An/DT animal/JJ ] [VP jumps/VBZ ]
+[NP Motorcyclists/NNPS ] [VP racing/VBG ]
+[NP A/DT retriever/JJ ] [VP jumps/VBZ ]
+[NP an/DT African/JJ American/JJ ] [VP appear/VBP ]
+[NP number/NN seven/CD ] [VP watches/VBZ ]
+[NP all/DT ages/NNS ] [VP sit/VBP ]
+[NP A/DT seagull/JJ ] [VP flies/VBZ ]
+[NP a/DT factory/NN type/NN ] [VP building/VBG ]
+[NP a/DT book/NN ] [VP signing/VBG ]
+[NP a/DT coat/NN and/CC hat/NN ] [PRT on/RP ]
+[NP helmet/NN ] [VP rock/NN climbing/VBG ]
+[NP A/DT performer/JJ ] [VP jumping/VBG ]
+[NP fly/JJ ] [VP fishing/VBG ]
+[NP bungee/JJ ] [VP jumping/VBG ]
+CHECK: [NP its/PRP$ mouth/NN ] wide/JJ
+CHECK: [NP a/DT store/NN ] entitled/VBN "/'' De/FW Credito/FW
+[NP her/PRP$ hand/NN ] [PRT out/RP ]
+CHECK: [NP Two/CD ] US/PRP
+[NP a/DT winter/NN ] [VP setting/VBG ]
+[NP all/DT girls/NNS ] )/-RRB-
+[NP one/CD kneeling/VBG and/CC one/CD ] [VP squatting/VBG ]
+[NP bungee/JJ ] [VP jumping/VBG ]
+[NP greenery/JJ ] [VP working/VBG ]
+[NP 1/CD foot/NN ] [PRT up/RP ]
+[NP A/DT puppy/JJ ] [VP chewing/VBG ]
+[NP one/CD foot/NN ] [PRT down/RP ]
+CHECK: [NP white/JJ ] the/DT other/JJ
+[NP red/JJ ] [PRT out/RP ]
+CHECK: [NP a/DT younger/JJR relative/JJ ] nearby/RB
+[NP Lady/NNP ] [PRT out/RP ]
+[NP Christ/NNP ] "/''
+[NP A/DT clown/JJ ] [VP sits/VBZ ]
+CHECK: [NP one/CD ] not/RB
+[NP A/DT surfer/JJ ] [VP jumps/VBZ ]
+[NP not/RB much/RB ] [PP around/IN ]
+[NP water/NN ] [VP fighting/VBG ]
+[NP fun/NN ] [VP climbing/VBG ]
+CHECK: [NP his/PRP$ arm/NN ] outstretched/JJ
+CHECK: [NP two/CD more/JJR ] almost/RB
+[NP his/PRP$ shirt/NN ] [PRT off/RP ]
+[NP her/PRP$ face/NN ] [VP painted/VBN ]
+CHECK: [NP young/JJ ] and/CC older/JJR
+[NP a/DT forest/NN ] [VP setting/VBG ]
+[NP blue/JJ ] [VP icing/VBG ]
+[NP A/DT performer/JJ ] [VP sings/VBZ ]
+[NP one/CD Asian/JJ and/CC one/CD white/JJ ] ,/,
+CHECK: [NP open/JJ ] wide/JJ
+[NP A/DT green/JJ pastoral/JJ ] [VP setting/VBG ]
+[NP a/DT wooden/JJ bear/NN ] [VP carving/VBG ]
+[NP black/JJ and/CC white/JJ ] [VP lighting/VBG ]
+CHECK: [NP Two/CD ] US/PRP
+[NP a/DT bar/NN ] [VP setting/VBG ]
+[NP a/DT carriage/NN ] [PRT together/RP ]
+CHECK: [NP one/CD younger/JJR one/CD ] older/JJR
+[NP A/DT performer/JJ ] [VP kneeling/VBG ]
+[NP a/DT red/JJ ring/NN ] [PRT out/RP ]
+[NP a/DT baby/NN ] [VP swing/VBG ]
+[NP '/'' Melanie/NNP ] '/''
+[NP Ouvert/NNP ] "/''
+[NP metal/JJ ] [VP detecting/VBG ]
+[NP Performer/JJ ] [VP performing/VBG ]
+CHECK: [NP something/NN ] else/RB
+[NP A/DT performer/JJ ] [VP leaps/VBZ ]
+[NP A/DT performer/JJ ] [VP singing/VBG ]
+[NP nice/JJ ] [VP lighting/VBG ]
+[NP A/DT male/JJ performer/JJ ] [VP sings/VBZ ]
+[NP a/DT fairy/JJ ] ,/,
+[NP a/DT hat/NN ] [PRT on/RP ]
+[NP a/DT conversation/NN worth/JJ ] [VP having/VBG ]
+[NP Peace/NNP Knits/NNP ] "/''
+[NP bike/NN ] [VP racing/VBG ]
+[NP an/DT orange/NN ,/, gray/JJ and/CC bluejacket/JJ ] [VP pulling/VBG ]
+[NP symphony/JJ ] [VP practicing/VBG ]
+[NP An/DT animal/JJ ] [VP jumps/VBZ ]

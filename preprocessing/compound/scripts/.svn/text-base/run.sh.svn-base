@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# ./run.sh <corpus name>
+
+# this'll run all of the fixups in the correct order.  Technically it
+# shouldn't matter which order you run the noun and verb fixups (and
+# in fact, if it does, then something's probably wrong), but we do
+# noun fixups first arbitrarily.
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+mkdir ../tmp/$1
+./fixPunct.pl ../../corpora/$1/$1.pretoken > ../tmp/$1/punct.txt
+./fixNouns.pl ../tmp/$1/punct.txt > ../tmp/$1/noun.txt
+./fixVerbs.pl ../tmp/$1/noun.txt > ../tmp/$1/nv.txt
+./fixAwomen.pl ../tmp/$1/nv.txt > ../tmp/$1/women.txt
+./fixSplit.pl ../tmp/$1/women.txt > ../tmp/$1/split.txt
+./fixTshirt.pl ../tmp/$1/split.txt > ../tmp/$1/tshirt.txt
+./addHyphen.pl ../tmp/$1/tshirt.txt > ../tmp/$1/hyphen.txt
+./fixInFromOf.pl ../tmp/$1/hyphen.txt > ../tmp/$1/fromof.txt
+./dropHyphen.pl ../tmp/$1/fromof.txt > ../tmp/$1/drophyph.txt
+./replaceBrackets.pl ../tmp/$1/drophyph.txt > ../tmp/$1/brackets.txt
+./stripSlash.pl ../tmp/$1/brackets.txt > ../tmp/$1/slash.txt
+./fixWhitespace.pl ../tmp/$1/slash.txt > ../tmp/$1/whitespace.txt
+./checkHash.pl ../tmp/$1/whitespace.txt
+cp ../tmp/$1/whitespace.txt ../../corpora/$1/$1.token
+
+popd > /dev/null

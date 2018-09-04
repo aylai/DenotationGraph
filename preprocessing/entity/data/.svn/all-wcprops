@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data
+END
+synset-lexicon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/synset-lexicon.txt
+END
+notcnouns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/notcnouns.txt
+END
+person.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/person.txt
+END
+notperson.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/notperson.txt
+END
+definites.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/definites.txt
+END
+verbing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/verbing.txt
+END
+groups.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/data/groups.txt
+END

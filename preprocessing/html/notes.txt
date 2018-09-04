@@ -1,0 +1,102 @@
+I. Types of HTML pages
+
+The scripts will generate three types of HTML pages and an index.
+
+"node" HTML pages display a portion of the graph mapped into a tree
+structure.  For example, say we had the node "man", "two man", "large
+man", and "two large man".  There are two paths to get from "man" to
+"two large man" (either through "two man" or "large man"), so when we
+map the four nodes into a tree structure, we end up duplicating the
+"two large man" node, as such:
+
+man
+|
++--- two man
+|    |
+|    +--------- two large man
+|
++--- large man
+     |
+     +--------- two large man
+
+In order to avoid massive duplication of nodes, we put some fairly
+strict controls on the total number of instances of nodes that can
+show up in a "node" HTML page.  Past a certain depth, nodes will
+simply link to their own "node" page.
+
+"pmi" pages display the co-occurrence counts, pointwise mutual
+information, and conditional probabilities of pairs of nodes.
+
+"image" pages display the image, its five captions, and the set of
+nodes with "node" pages that were produced by the caption.
+
+
+II. Generating the HTML pages
+
+scripts/run.sh NAME <max size> <min size> <image URL>
+This generates all three pages, along with an index that has entry for
+every single node with a "node" or a "pmi" page.  The "max size" and
+"min size" arguments are used to determine how large the tree
+structure in a "node" page can be.  They are used to control the
+number of "node" pages and their size.  Currently, I use 10,000 as a
+maximum size, and 10 as a minimum size.  The image URL is simply a URL
+to a directory containing all of the images in the corpus.
+
+
+scripts/untokenize.pl
+Removes the additional spaces added during tokenization, to produce
+nicer looking captions.
+
+scripts/pickNodes.pl
+Picks which nodes will have "node" pages generated for them.  All
+pages with co-occurrence counts will have "node" and "pmi" pages
+generated for them.  Any node which is produced by only one image, and
+all of whose parents are produced by one image will be ignored.
+Finally, we will consider each node to potentially have a "node" page,
+and calculate their size.  We then consider removing the smallest
+potential "node" page, and adding its tree structure to its parents.
+If the smallest potential "node" page is smaller than the minimum
+size, or none of the resulting parent pages is larger than the maximum
+size, we remove the smallest potential "node" page.  We continue
+removing potential "node" pages until we have considered each one.
+The remaining potential "node" pages will also be generated.
+
+Output is a two column file, consisting of a node ID and flags,
+"../corpora/NAME/html/node.type".
+
+45   3
+
+Indicates that node 45 will have a "node" page generated for it (first
+bit is set), and a "pmi" page generated for it (second bit is set).
+Nodes with no bits set will be used in the "node" pages, but will not
+produce a "node" page rooted at them.  Nodes that do not appear in the
+file will be ignored.
+
+
+scripts/makeIndex.pl
+Generates an index using "../corpora/NAME/html/node.type".
+
+
+scripts/htmlNode.pl
+Generates the "node" pages using "../corpora/NAME/html/node.type".
+
+
+scripts/htmlImage.pl
+Generates the "image" pages.
+
+
+scripts/htmlPMI.pl
+Generates the "pmi" pages.
+
+
+III. Javascript and CSS
+
+data/collapsetree.css
+CSS that makes collapsible trees.  Used by the "node" pages.  Modified
+version of the collapsible tree code from
+http://www.thecssninja.com/css/css-tree-menu
+
+
+data/sorttable.js
+Javascript that makes sortable tables.  From
+http://www.kryogenix.org/code/browser/sorttable/

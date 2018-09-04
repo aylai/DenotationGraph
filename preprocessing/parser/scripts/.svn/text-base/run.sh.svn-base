@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# run.sh <corpus name> <# threads>
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+mkdir ../tmp/$1
+./tokenize.pl ../../corpora/$1/$1.coref > ../tmp/$1/token.txt
+awk -F'\t' '{print $2}' ../tmp/$1/token.txt > ../tmp/$1/sent.txt
+./conllize.pl ../../corpora/$1/$1.coref > ../tmp/$1/conll.txt
+./runlin.sh ../tmp/$1/conll.txt ../tmp/$1/malt-lin.out 2> ../tmp/$1/malt-lin.log
+./conllMalt.pl ../../corpora/$1/$1.coref ../tmp/$1/malt-lin.out > ../tmp/$1/malt-lin.conll
+./renumberConll.pl ../../corpora/$1/$1.coref ../tmp/$1/malt-lin.conll > ../../corpora/$1/$1-malt-lin.conll
+./runpoly.pl ../tmp/$1/conll.txt ../tmp/$1/malt-poly.out $2
+./conllMalt.pl ../../corpora/$1/$1.coref ../tmp/$1/malt-poly.out > ../tmp/$1/malt-poly.conll
+./renumberConll.pl ../../corpora/$1/$1.coref ../tmp/$1/malt-poly.conll > ../../corpora/$1/$1-malt-poly.conll
+./runStanford.pl ../tmp/$1/sent.txt ../tmp/$1/stanford.out $2
+./conllStanford.pl ../tmp/$1/token.txt ../tmp/$1/stanford.out > ../tmp/$1/stanford.conll
+./renumberConll.pl ../../corpora/$1/$1.coref ../tmp/$1/stanford.conll > ../../corpora/$1/$1-stanford.conll
+
+popd > /dev/null

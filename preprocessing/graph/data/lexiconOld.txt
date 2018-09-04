@@ -1,0 +1,3576 @@
+4-wheeler	car
+a battery	battery
+abdomen	belly
+accordion	instrument
+accordion player	musician
+acorn squash	squash
+acoustic guitar	guitar
+acrobat	athlete
+acrobatic stunt	stunt
+activist	protester
+actor	performer
+actress	actor
+actress	woman
+administrator	adult
+adobe house	house
+adolescent	teen
+adult ballerina	ballerina
+adult female	adult
+adult female	woman
+adult male	adult
+adult male	man
+adult	person
+adventurer	person
+advocate	person
+aerobic exercise	exercise
+aerobics	gymnastics
+aerosol can	can
+african-american	african american
+african american	american
+african country	country
+african	person
+aide	military personnel
+air bag	bag
+air bubble	bubble
+air compressor	compressor
+aircraft engine	engine
+airfield	field
+air gun	gun
+air hammer	hammer
+air horn	horn
+airliner	plane
+air mattress	mattress
+airplane	plane
+airplane propeller	propeller
+airport terminal	terminal
+airwoman	aviator
+airwoman	woman
+ak-47	gun
+albert einstein	man
+alcohol addiction	addiction
+alcohol	beverage
+alcoholic beverage	beverage
+alcoholic drink	beverage
+alligator clip	clip
+alligator	reptile
+alpaca	animal
+aluminum foil	foil
+american eagle	eagle
+american football	football
+american football game	football game
+american indian	indian
+american nation	nation
+american	person
+american revolutionary war	revolutionary war
+american revolution	revolution
+amputee	person
+amusement arcade	arcade
+amusement park	park
+analyst	person
+anchor rope	rope
+anesthesiologist	doctor
+animal skin	skin
+anorak	jacket
+apartment building	building
+apparel	clothing
+applaud	clap
+apple juice	juice
+apple orchard	orchard
+apple pie	pie
+apple tree	tree
+apprentice	person
+aquatic bird	bird
+arabic language	language
+arab	person
+arborist	person
+archaeologist	archeologist
+archeologist	adult
+architect	adult
+arm band	clothing
+armchair	chair
+armed forces	soldier
+arm guard	clothing
+armored vehicle	vehicle
+army officer	military personnel
+army officer	officer
+army tank	tank
+art class	class
+art deco	deco
+art exhibition	exhibition
+art gallery	gallery
+artisan	adult
+artist	person
+art school	school
+art student	student
+art teacher	teacher
+ash tree	tree
+ash wednesday	wednesday
+asian country	country
+asian	person
+asparagus	vegetable
+assault rifle	rifle
+assembly line	line
+assistant	adult
+association	group
+athlete	person
+athletic competition	competition
+athletic field	field
+athletic wear	wear
+attache	person
+attack dog	dog
+attendant	assistant
+attendee	participant
+attender	listener
+atvs	atv
+author	adult
+authority figure	person
+automatic teller machine	atm
+automatic weapon	weapon
+automobile	car
+automobiles race	race
+automobile tire	tire
+automobile traffic	traffic
+aviator	adult
+baby buggy	buggy
+baby carriage	carriage
+baby talk	talk
+bachelor party	party
+back end	end
+backhoe	excavator
+backpacker	hiker
+back porch	porch
+back room	room
+backseat	seat
+back street	street
+badger	animal
+badminton court	court
+badminton player	athlete
+badminton racket	racket
+bad weather	weather
+bagel	bread
+baggage	luggage
+bag lady	lady
+bagpipe player	bagpiper
+bagpipe players	musician
+bagpiper	musician
+bagpipe	wind instrument
+baked goods	goods
+baker	adult
+balance beam	beam
+bald eagle	eagle
+bale	pile
+ball boy	man
+ball carrier	carrier
+ballerina	ballet dancer
+ballet company	company
+ballet dancer	dancer
+ball field	field
+ballgame	game
+ball gown	gown
+ballplayer	baseball player
+baltimore oriole	oriole
+bamboo shoot	shoot
+band aid	bandage
+banjo player	musician
+banjo	stringed instrument
+bank account	account
+barbecue pit	pit
+barbed wire	wire
+barbeque	barbecue
+barber	adult
+barber chair	chair
+bar-b-que	barbecue
+bar code	code
+bargeman	seaman
+barista	adult
+barker	person
+barmaid	bartender
+barmaid	woman
+barrier island	island
+bartender	adult
+baseball bat	bat
+baseball cap	cap
+baseball coaches	coach
+baseball diamond	diamond
+baseball field	field
+baseball game	game
+baseball glove	glove
+baseball mitt	mitt
+baseball player	athlete
+baseball play	play
+baseball swing	swing
+baseball team	team
+baseman	baseball player
+baseman	man
+base runner	runner
+basketball court	court
+basketball game	game
+basketball hoop	hoop
+basketball player	athlete
+basketball play	play
+basketball shot	shot
+basketball team	team
+bass drum	drum
+basset horn	horn
+basset hound	dog
+basset hound	hound
+bass guitar	guitar
+bassist	musician
+bass player	bassist
+bass players	musician
+bass	stringed instrument
+bathing cap	cap
+bathing costume	costume
+bathing suit	suit
+bathing trunks	trunks
+bathrobe	robe
+batman	person
+batsman	batter
+batter	baseball player
+batting cage	cage
+batting helmet	helmet
+battle dress	uniform
+battleship	ship
+bayonet	spear
+bay window	window
+bazaar	market
+bb gun	gun
+bbq	barbecue
+beach ball	ball
+beach chair	chair
+beachfront	beach
+beach-goers	person
+beachgoers	person
+beach house	house
+beach towel	towel
+beagle	dog
+beauty parlor	parlor
+beauty parlour	parlor
+beauty salon	salon
+beauty shop	shop
+bed cover	cover
+bedroom	room
+bed sheet	sheet
+beef patties	patties
+beer	beverage
+beer bottle	bottle
+beer can	can
+beer glasses	glasses
+beer mug	mug
+beggar	person
+bellbottoms	pants
+belle	girl
+bell pepper	pepper
+belly button	button
+belly dance	dance
+belly dancer	dancer
+belt buckle	buckle
+benefactor	person
+benefit concert	concert
+bermuda shorts	shorts
+best friend	friend
+best man	man
+bible	book
+bicycle	bike
+bicycle chain	chain
+bicycle pump	pump
+bicycle race	race
+bicycle rack	rack
+bicycler	cyclist
+bicycle seat	seat
+bicycle wheel	wheel
+bicyclist	cyclist
+big board	board
+big brother	brother
+big brother	person
+big fish	fish
+big game	game
+big gun	gun
+big hand	hand
+big sister	sister
+big toe	toe
+big tree	tree
+biker	cyclist
+bill clinton	man
+bill gates	man
+billiard ball	ball
+billiards hall	hall
+billiards player	player
+billiards room	room
+billiard table	table
+billy goat	goat
+bingo	game
+biohazard suit	suit
+biology lab	lab
+biplane	plain
+bi-plane	plane
+birch tree	tree
+bird	animal
+bird dog	dog
+bird food	food
+birthday cake	cake
+birthday card	card
+birthday gift	gift
+birthday party	party
+birthday present	present
+biscuit	food
+bishop	priest
+bistro	cafe
+bker	person
+black bear	bear
+black death	disease
+black duck	duck
+black hills	hills
+blackjack	game
+black man	man
+black person	person
+black sheep	sheep
+blacksmith	adult
+black tie	tie
+blacktop	asphalt
+black woman	woman
+blind date	companion
+blind date	date
+blizzard	storm
+blond	person
+blood cell	cell
+blood money	money
+blood pressure	pressure
+blossom	flower
+blouse	shirt
+blow dryer	dryer
+blue angel	angel
+blueberry pie	pie
+blue crab	crab
+blue jean	jean
+blue sky	sky
+bmxer	biker
+boarder	person
+board game	game
+boardwalk	street
+boat deck	deck
+boater	person
+boatman	man
+boat paddle	paddle
+boat race	race
+bob dylan	man
+bocce ball	ball
+bock beer	beer
+body armor	armor
+bodyboard	surfboard
+body weight	weight
+bonfire	fire
+bongo	drum
+bongo drum	drum
+bongo player	musician
+boogie	dance
+bookbag	bag
+bookbags	bag
+book fair	fair
+booklet	magazine
+bookshelf	shelf
+bookstore	store
+boom box	box
+border collie	collie
+bore	person
+boss	supervisor
+boston terrier	terrier
+bottled water	water
+bouncer	guard
+boutique	store
+bow and arrow	arrow
+bow and arrow	bow
+bowler	cricketer
+bowler hat	hat
+bowling alley	building
+bowling ball	ball
+bowling pin	pin
+bowling shoe	shoe
+boxer	fighter
+boxing glove	glove
+boxing match	match
+boxing ring	arena
+box office	office
+boyfriend	man
+boy scout	scout
+brand name	brand
+brass band	band
+brass instrument	instrument
+brass ring	ring
+brass section	section
+bratwurst	sausage
+bread	food
+breakdancer	dancer
+breakfast food	food
+breakfast	meal
+breast cancer	cancer
+breast drill	drill
+brewer	person
+bricklayer	adult
+bridal gown	gown
+bride	newlywed
+bridesmaid	woman
+brochure	pamphlet
+bronco	horse
+brooklyn bridge	bridge
+brown bat	bat
+brown bear	bear
+brownie	cake
+brunette	person
+brush fire	fire
+brush-land	brushland
+bubble bath	bath
+bubble gum	gum
+bucking bronco	bronco
+buddhist	person
+buddy	friend
+buff	person
+buggy	vehicle
+building block	block
+building complex	complex
+building material	material
+building site	site
+bull	animal
+bulldog	dog
+bulletin board	board
+bulletproof vest	vest
+bullfighter	person
+bull terrier	terrier
+bum	adult
+bumper car	car
+bumper guard	guard
+bungee cord	cord
+bunk bed	bed
+bunny	rabbit
+bunny rabbit	rabbit
+burger	hamburger
+burka	burqa
+burlap bag	bag
+burning bush	bush
+burqa	headscarf
+burrito	food
+busboy	man
+bus depot	depot
+bus driver	driver
+business district	district
+business establishment	store
+businessman	man
+businessman	person
+business office	office
+business people	people
+business suit	suit
+businesswoman	person
+businesswoman	woman
+busker	entertainer
+bus lane	lane
+bus line	line
+bus station	station
+bus stop	stop
+bus terminal	terminal
+butcher	adult
+butcher block	block
+butcher knife	knife
+butcher shop	shop
+butterfly stroke	stroke
+butter knife	knife
+buyer	customer
+bystander	spectator
+cabbage	vegtable
+cable car	car
+cadet	person
+cadillac	car
+cafe	restaurant
+cake	food
+calico cat	cat
+calla lilies	lilies
+camera angle	angle
+camera lens	lens
+cameraman	man
+cameraman	photographer
+camera operator	operator
+camera tripod	tripod
+camp chair	chair
+camper	person
+campfire	fire
+camping area	area
+canadian geese	geese
+canadian goose	goose
+canadian	person
+candidate	adult
+candied apple	apple
+candle flame	flame
+candle holder	holder
+candy apple	apple
+candy bar	candy
+candy cane	cane
+candy store	store
+canned food	food
+canned goods	goods
+cannon ball	ball
+canoe	boat
+capitol building	building
+cappuccino	coffee
+capri	pant
+captain	officer
+carcature	drawing
+card game	game
+cardigan	sweater
+car door	door
+card table	table
+care center	center
+caregiver	health care provider
+caretaker	custodian
+cargo ship	ship
+carnation	flower
+carousal	caroussel
+car part	part
+carpenter	woodworker
+car race	race
+car seat	seat
+cars park	park
+car wheel	wheel
+car window	window
+cashier	adult
+cash machine	atm
+cash register	register
+casserole	dish
+catamaran	boat
+cat	animal
+catcher	baseball player
+caterer	adult
+cat food	food
+cathedral	church
+catholic church	church
+cattle	cow
+cattle drive	drive
+caucasian	person
+celebrities	famous person
+celery	vegetable
+cellist	musician
+cello player	cellist
+cello	stringed instrument
+cellphone	phone
+cellular phone	phone
+cement mixer	mixer
+center field	field
+center line	line
+center stage	stage
+central american nation	american nation
+central park	park
+centrifugal force	force
+cereal	food
+ceremonial dance	dance
+chain mail	mail
+chair lift	lift
+chairman	man
+champagne flute	glass
+champagne	wine
+chapel	church
+chaperone	adult
+checker	adult
+checkers board	board
+checkout counter	counter
+checkout line	line
+cheerio	cereal
+cheerleader	athlete
+cheese	food
+chef	cook
+chemical reaction	reaction
+chemistry lab	lab
+chemist	scientist
+cherry tomatoes	tomato
+cherry tree	tree
+chess game	game
+chess match	match
+chess piece	piece
+chess player	player
+chewing gum	gum
+chicken coop	coop
+chicken leg	leg
+chicken wing	wing
+chief executive officer	executive
+chief executive officer	executive officer
+chief justice	justice
+chief	leader
+chihuahua	dog
+chilean	south american
+chili dog	hotdog
+china cabinet	cabinet
+chinese checkers	game
+chinese lantern	lantern
+chin strap	strap
+chip cookie	cookie
+chocolate bar	chocolate
+chocolate cake	cake
+chocolate	candy
+chocolate chip cookie	cookie
+chocolate ice cream	ice cream
+chocolate milk	milk
+chocolate pudding	pudding
+choir	musician
+chopping board	board
+chorus	choir
+christian church	church
+christian dior	company
+christian	person
+christmas carol	carol
+christmas day	day
+christmas eve	holiday
+christmas gift	gift
+christmas present	present
+christmas stocking	stocking
+christmas tree	tree
+church benches	bench
+church member	member
+church service	service
+cinder block	block
+cinderella	woman
+cinder track	track
+cinnamon bun	bun
+circuit board	board
+circular saw	saw
+circus tent	tent
+citizen	person
+citroen	car
+citrus fruit	fruit
+city block	block
+city center	center
+city district	district
+city line	line
+civilian	citizen
+civilian clothing	clothing
+civil war	war
+clarinet players	musician
+clarinet	reed instrument
+clarinet section	musician
+classical music	music
+classmate	person
+class war	protest
+claw hammer	hammer
+clay sculpture	sculpture
+cleaner	adult
+cleaning equipment	equipment
+cleaning lady	cleaner
+cleaning lady	lady
+cleaning woman	cleaning lady
+cleaning woman	woman
+clenched fist	fist
+clergyman	cleric
+clergyman	man
+clerk	adult
+client	customer
+climber	athlete
+climbing frame	frame
+clock tower	tower
+clothes basket	basket
+clothes	clothing
+clothes dryer	dryer
+clothes hanger	hanger
+clothesline	rope
+clothing store	store
+clowds	crowds
+clown	comedian
+clydesdale	horse
+coach	trainer
+coal car	car
+coastline	shoreline
+coat	clothing
+coat rack	rack
+coca cola	cola
+coca-cola	soda
+cocker spaniel	spaniel
+cocktail	beverage
+cocktail dress	dress
+coconut tree	tree
+coconut water	water
+coeds	girls
+coffee bar	restaurant
+coffee bean	bean
+coffee	beverage
+coffee cup	cup
+coffee maker	appliance
+coffee mug	mug
+coffee shop	shop
+coffee table	table
+coffee urn	urn
+coin slot	slot
+coke	soda
+cola	beverage
+cold weather	weather
+colleague	co-worker
+college boy	man
+college girl	girl
+college man	man
+college man	person
+college student	college man
+college student	student
+college	university
+collie	dog
+color guard	guard
+coloring book	book
+color spectrum	spectrum
+combat boot	boot
+combat fatigue	uniform
+comedian	performer
+comforter	blanket
+comic book	book
+commander	military personnel
+commando	military personnel
+command post	post
+common room	room
+communications equipment	equipment
+communist china	china
+community center	center
+community college	college
+commuter	passenger
+commuter train	train
+compact car	car
+compact disc	disc
+companion	friend
+company	visitor
+competiton	competition
+competitor	athlete
+computer code	code
+computer game	game
+computer keyboard	keyboard
+computer mice	mouse
+computer monitor	monitor
+computer mouse	mouse
+computer screen	screen
+computer system	system
+concert band	band
+concert dance	dance
+concert hall	hall
+condominium	apartment
+conductor	artist
+coney island	island
+confederate soldier	soldier
+conference center	center
+conference room	room
+conference table	table
+conga line	line
+congregation	group
+congregation	person
+coniferous tree	tree
+conifer	tree
+construction industry	industry
+construction paper	paper
+construction worker	adult
+consumer	person
+container ship	ship
+contestant	athlete
+contortionist	acrobat
+contractor	adult
+control board	board
+control panel	panel
+control room	room
+control tower	tower
+convenience store	store
+convention	meeting
+conveyor belt	belt
+conveyor	conveyor belt
+cook	adult
+cookbook	book
+cookie sheet	sheet
+cooking	cook
+cooking oil	oil
+cooking utensil	utensil
+cookout	barbecue
+cooper union	union
+copilot	pilot
+cop	officer
+coral reef	reef
+corgi	dog
+corndogs	food
+corner kick	kick
+corn field	field
+cornfield	field
+corn stalk	stalk
+corona	beer
+corridor	hallway
+cosplayers	pesron
+costumer	fashion designer
+cotton candy	candy
+counselor	adult
+countertop	counter
+country people	people
+courthouse	court
+covered bridge	bridge
+covered wagon	wagon
+cow	animal
+cowboy boot	boot
+cowboy hat	hat
+cowboy	man
+cowgirl	girl
+co-worker	adult
+coworker	person
+coworkers	coworker
+craft fair	fair
+craftsman	man
+cranberries	berry
+crash helmet	helmet
+credit card	card
+creek bed	bed
+creek	stream
+creme brulee	creme
+crevasse	crack
+crevice	crack
+crew cut	haircut
+crewman	man
+crew member	adult
+cricket ball	ball
+cricket bat	bat
+cricketer	athlete
+cricket player	cricketer
+criminal	person
+crocodile	reptile
+crocs	shoe
+croquet equipment	equipment
+croquet mallet	mallet
+cross-dresser	transvestite
+crossing guard	guard
+crossing guard	traffic cop
+crossword puzzle	puzzle
+crowd	group
+crucifix	cross
+cruise liner	ship
+cruise ship	ship
+crusader	person
+crystal ball	ball
+cub scout	scout
+cue ball	ball
+cup and saucer	cup
+cup and saucer	saucer
+cupcake	food
+curling iron	iron
+curve ball	ball
+custodian	adult
+customer	person
+cutting board	board
+cycle rickshaw	rickshaw
+cyclist	rider
+cylinder block	block
+cymbal	percussion instrument
+dachshund	dog
+daddy	dad
+dad	father
+daffodil	flower
+daisy	flower
+dalmatian	dog
+dalmation	dalmatian
+dance-floor	dance floor
+dance floor	floor
+dance hall	hall
+dance lesson	lesson
+dancer	performer
+dance step	step
+dancing	dance
+dancing partner	partner
+dandelion	flower
+daredevil	person
+dark blue	blue
+dark glasses	glasses
+dark horse	horse
+dark red	red
+darts board	board
+daschund	dig
+daughter	child
+daughter	girl
+day care center	building
+dealer	merchant
+deck chair	chair
+deep kiss	kiss
+deep-sea diver	diver
+defender	person
+defending team	team
+defenseman	man
+delicacies	food
+delicatessen	shop
+deli	store
+delivery boy	man
+delivery truck	truck
+demonstrator	protester
+denim	jean
+dental assistant	assistant
+dental care	care
+dental practitioner	adult
+dental procedure	procedure
+dental technician	technician
+dentist	doctor
+department store	store
+derby hat	hat
+designer	person
+desktop computer	computer
+dessert	food
+developing country	country
+dialogue	discussion
+dial phone	phone
+diamond	jewelry
+didgeridoo	wind instrument
+digger	adult
+digital camera	camera
+digital watch	watch
+diner	person
+dining area	area
+dining room	room
+dining table	table
+dinner jacket	jacket
+dinner	meal
+dinner party	party
+dinner plate	plate
+dinner service	service
+dinner table	table
+director	adult
+dirt bike	bicycle
+dirt biker	cyclist
+dirt track	track
+dirty laundry	laundry
+dirty pool	pool
+disaster area	area
+disc jockey	dj
+dish towel	towel
+disk	disc
+disk jockey	dj
+display board	board
+display case	case
+display window	window
+diving board	board
+diving suit	suit
+dj	person
+dobberman	doberman
+doberman	dog
+doberman pinscher	pinscher
+doc	doctor
+dock worker	adult
+doctor	adult
+dog food	food
+dog house	house
+dog show	show
+dogsled	sled
+dog tag	tag
+dogwood tree	tree
+dollar bill	dollar
+dollar sign	sign
+dolphin	fish
+dominican republic	republic
+donkey cart	cart
+donut	pastry
+dorm	room
+dorm room	room
+double bass	bass
+double chin	chin
+double door	door
+double play	play
+downpour	rain
+draft beer	beer
+draft horse	horse
+drafting table	table
+drainage area	area
+drainage ditch	ditch
+drainpipe	pipe
+dress	clothing
+dressing room	room
+dressing table	table
+dressmaker	seamstress
+dress shirt	shirt
+dress shop	shop
+dress suit	suit
+dress uniform	uniform
+drift net	net
+drill press	press
+drinking fountain	fountain
+drinking glasses	glass
+drinking glass	glass
+drinking water	water
+driver	person
+driving range	range
+drop cloth	cloth
+drop-cloth	cloth
+drum majorette	performer
+drum major	performer
+drummer	percussionist
+drum	percussion instrument
+dry cleaner	cleaner
+dry dock	dock
+dry land	land
+duck	bird
+duct tape	tape
+dude	man
+duffel bag	bag
+dugout canoe	canoe
+dump truck	truck
+dune buggy	buggy
+dust cloud	cloud
+dust storm	storm
+dusty miller	miller
+dweller	person
+eagle	bird
+eagle scout	scout
+earbud	headphone
+earbuds	earphone
+earphone	headphone
+easter bunny	bunny
+easter egg	egg
+east indian	asian
+east indian	indian
+east side	side
+easy chair	chair
+eatery	restaurant
+eating place	restaurant
+edifice	building
+editor	adult
+eggplant	vegetable
+egg roll	food
+egg yolk	yolk
+egret	bird
+eiffel tower	tower
+eight ball	ball
+elastic band	band
+elbow pad	pad
+elder	adult
+electrical circuit	circuit
+electrical plant	plant
+electrical switch	switch
+electrical work	work
+electric circuit	circuit
+electric drill	drill
+electric guitar	guitar
+electrician	adult
+electric mixer	mixer
+electric razor	razor
+electric sander	sander
+electric shaver	shaver
+electric toothbrush	toothbrush
+electronic device	device
+electronic equipment	equipment
+electronic instrument	instrument
+elementary school	school
+elevator shaft	shaft
+elizabethan	person
+embrace	hug
+empire state building	state building
+employee	adult
+employer	adult
+enclosed space	space
+engineer	person
+enlisted man	man
+entertainer	person
+enthusiast	supporter
+entrepreneur	adult
+espresso	coffee
+ethnic group	group
+european country	country
+european	person
+evening dress	dress
+evening gown	gown
+evening shift	shift
+evil eye	expression
+executive	administrator
+executive officer	officer
+exercise bike	bike
+exhaust pipe	pipe
+exhibition hall	hall
+exotic dancer	dancer
+experimenter	scientist
+explorer	person
+extension cord	cord
+extra	actor
+eye clinic	clinic
+eye contact	contact
+eyeglasses	glasses
+eyeglass	glasses
+eyeliner	makeup
+eye mask	mask
+eyeshadow	makeup
+fabricator	person
+face guard	clothing
+face mask	mask
+facial expression	expression
+facial hair	hair
+facial tissue	tissue
+factory worker	adult
+family	group
+family room	room
+family unit	family
+famous person	adult
+famous person	person
+fancy dress	dress
+fan dance	dance
+fan	enthusiast
+fanny pack	pack
+farm animal	animal
+farmer	person
+farmhand	worker
+farm machine	machine
+farm worker	adult
+fashion designer	designer
+fashion designer	person
+fashion model	model
+fast break	break
+fast food	food
+father	man
+father	parent
+feast	meal
+feather boa	clothing
+fellow	dude
+fellow member	member
+female child	child
+female child	little girl
+female	person
+female	woman
+fencer	athlete
+ferris wheel	wheel
+ferry	boat
+fiancee	lover
+fiddle	violin
+fidel castro	man
+field day	day
+fielder	athlete
+field event	event
+field goal	goal
+field hockey	hockey
+field hospital	hospital
+field sport	sport
+field trip	trip
+fighter	person
+fig tree	tree
+file cabinet	cabinet
+file folder	folder
+filing cabinet	cabinet
+fine arts	art
+fine print	print
+finger food	food
+finger paint	paint
+finishing touches	touches
+finish line	line
+fireball	fire
+fire-dancer	dancer
+fire department	department
+fire engine	vehicle
+fire escape	escape
+fire extinguisher	extinguisher
+firefighter	adult
+fire hose	hose
+firehose	hose
+fire hydrant	hydrant
+fireman	firefighter
+fireman	man
+fire pit	pit
+fire station	station
+firetruck	truck
+firewood	wood
+firing range	range
+first base	base
+first baseman	baseman
+first floor	floor
+first strike	strike
+fir tree	tree
+fish and chips	chips
+fish and chips	fish
+fishemen	fisherman
+fisher	fisherman
+fisherman	man
+fisheye lens	lens
+fishing boat	boat
+fishing gear	gear
+fishing line	line
+fishing net	net
+fishing pole	pole
+fishing rod	rod
+fishing vessel	vessel
+fish tank	tank
+flag day	day
+flash bulb	bulb
+flash card	card
+flat cap	cap
+flat tire	tire
+flautist	flute player
+flea market	market
+flight attendant	attendant
+flip chart	chart
+flip-flop	sandal
+floating dock	dock
+floaty	floatie
+flock	group
+floor lamp	lamp
+floral arrangement	arrangement
+florist	shopkeeper
+florist shop	shop
+flotation device	device
+flower arrangement	arrangement
+flower bed	bed
+flower garden	garden
+flower girl	girl
+flower girl	little girl
+flowering plant	plant
+flowering tree	tree
+flower petal	petal
+flower store	store
+fluglehorn	instrument
+flute glass	glass
+flute player	musician
+flute	wind instrument
+flutist	flautist
+fly ball	ball
+flying bird	bird
+foal	horse
+focal point	point
+foilage	leaf
+folding chair	chair
+folic acid	acid
+folk dancer	dancer
+folk music	music
+folk singer	singer
+food bank	bank
+food court	court
+food market	market
+food processor	processor
+food product	product
+food shop	shop
+football coach	coach
+footballer	football player
+football field	field
+football game	game
+football player	athlete
+football play	play
+football stadium	stadium
+football team	team
+footbridge	bridge
+foot race	race
+forehand shot	shot
+foreign country	country
+foreigner	person
+foul line	line
+foul shot	shot
+four-wheeler	car
+fox terrier	terrier
+free fall	fall
+free spirit	person
+free throw	throw
+free time	time
+freeway	road
+freight car	car
+freight train	train
+french bread	bread
+french door	door
+french fries	fries
+french horn	horn
+french kiss	kiss
+fresh fish	fish
+fresh food	food
+fridge	refrigerator
+friend	person
+front door	door
+front end	end
+front line	line
+front man	man
+front porch	porch
+front teeth	teeth
+front tooth	tooth
+front yard	yard
+fruit drink	beverage
+fruit juice	juice
+fruit tree	tree
+fry cook	cook
+frying pan	pan
+full dress	dress
+fundraiser	solicitor
+fur coat	coat
+fur hat	hat
+futon	bed
+gambling game	game
+gang fight	fight
+gangster	criminal
+garage sale	sale
+garbage can	can
+garbage collector	garbage man
+garbage man	adult
+garbage man	man
+garbage	trash
+garbage truck	truck
+garb	clothing
+gardener	adult
+garden hose	hose
+garden party	party
+garden spade	spade
+garden tool	tool
+garter belt	belt
+gas mileage	mileage
+gas oven	oven
+gas pump	pump
+gas station	station
+gas stove	stove
+gas tank	tank
+gate bridge	bridge
+gay man	man
+gazebo	pavilion
+gear wheel	wheel
+geese	bird
+geisha	woman
+gelateria	cafe
+general store	store
+gent	gentleman
+gentle breeze	breeze
+gentleman	man
+geological formation	formation
+george bush	man
+george washington	man
+german shepherd	dog
+german shepherd dog	dog
+german short-haired pointer	short-haired pointer
+giant	adult
+giant lizard	lizard
+giant sunflower	sunflower
+gift shop	shop
+girl	child
+girlfriend	woman
+girl_woman	woman
+gladiator	fighter
+goalie	player
+goalkeeper	goalie
+goal line	line
+goatee	beard
+golden gate bridge	bridge
+golden retriever	retriever
+gold medal	medal
+gold plate	plate
+golf bag	bag
+golf ball	ball
+golf cap	cap
+golf cart	cart
+golf club	club
+golf course	course
+golfer	athlete
+golf hole	hole
+golf range	range
+golf shot	shot
+golf stroke	stroke
+gondola	boat
+gondolier	boatman
+good form	form
+good humor	humor
+good samaritan	benefactor
+good time	time
+goose	bird
+gorge	ravine
+gorilla	monkey
+government building	building
+governor	politician
+gown	robe
+grab bar	bar
+grader	person
+grade-schooler	child
+grade school	school
+graduate	student
+graduate student	student
+graham cracker	cracker
+grammar school	school
+grand canyon	canyon
+grandchild	child
+granddaughter	grandchild
+grandfather	grandparent
+grandfather	man
+grandkids	grandchildren
+grandma	grandmother
+grandmother	grandparent
+grandmother	woman
+grandpa	grandfather
+grandparent	adult
+grand piano	piano
+grandson	grandchild
+graphic artist	artist
+graphic design	design
+graphics designer	designer
+grassland	grass
+grass skirt	skirt
+gravestone	stone
+great britain	britain
+great dane	dane
+great dane	dog
+great grandchild	grandchild
+great wall	wall
+green bay	bay
+green bean	bean
+green frog	frog
+green onion	onion
+green pepper	pepper
+greeting card	card
+greyhound	dog
+grim reaper	reaper
+grinding wheel	wheel
+grocer	merchant
+grocery bag	bag
+grocery list	list
+grocery store	store
+groom	newlywed
+groomsman	man
+ground ball	ball
+ground floor	floor
+ground level	level
+grounds crew	crew
+groundskeeper	adult
+group meeting	meeting
+grownup	adult
+guest	person
+guide	attendant
+guidebook	book
+guitarist	musician
+guitar pick	pick
+guitar player	guitarist
+guitar	stringed instrument
+gum boot	boot
+gun barrel	barrel
+gunslinger	person
+guy	man
+gym mat	mat
+gymnasium	gym
+gymnast	athlete
+gymnastics exercise	exercise
+haircut	hair
+hairdo	haircut
+hair dryer	dryer
+half mask	mask
+hamburger	food
+hammer	tool
+handbag	purse
+handball player	athlete
+handbook	book
+handgun	gun
+handicapped person	person
+handler	trainer
+hand mower	mower
+hand puppet	puppet
+hand tool	tool
+hand truck	truck
+handyman	repairman
+hang glider	glider
+hang glider	rider
+hard hat	hat
+hard-hat	hat
+hard-hats	hat
+hard time	time
+harmonica	instrument
+harnesses race	race
+harp player	musician
+harpsichord	piano
+harp	stringed instrument
+hat shop	shop
+hay bale	bale
+haystack	hay
+head covering	covering
+headlamp	lamp
+headscarves	headscarf
+headwrap	headscarf
+health care provider	adult
+health club	club
+health food	food
+health professional	doctor
+heart attack	disease
+heart valve	valve
+heat lamp	lamp
+heineken	beer
+help desk	desk
+helper	assistant
+helping hand	hand
+herald	messenger
+herbal medicine	medicine
+herb garden	garden
+hero	leader
+hershey	chocolate
+hi-chair	chair
+highball glass	glass
+high bar	bar
+high ground	ground
+high priest	priest
+highschoolers	teen
+high school	school
+highway	street
+high wire	wire
+hijab	headscarf
+hiker	person
+hillside	hill
+hind end	end
+hind leg	leg
+hindu	person
+hip boot	boot
+hippie	person
+hipster	person
+hire	adult
+historian	adult
+history lesson	lesson
+hockey game	game
+hockey player	athlete
+hockey puck	puck
+hockey stick	stick
+hockey team	team
+hoddie	hoodie
+holiday season	holiday
+holy man	man
+hombre	guy
+home base	base
+homeless	homeless person
+homeless person	person
+home movie	movie
+home office	office
+home plate	plate
+homosexual	person
+honor guard	guard
+hooded cloak	cloak
+hooded coat	coat
+hoodies	sweatshirt
+hoodie	sweatshirt
+hood ornament	ornament
+hooker	prostitute
+hook shot	shot
+horizontal bar	bar
+horn player	musician
+hors d'oeuvre	food
+horseback rider	rider
+horse cart	cart
+horseman	rider
+horse race	race
+horse-rider	person
+horseshoe crab	crab
+hospital bed	bed
+hospital room	room
+host	adult
+hostess	host
+hot air	air
+hot-air balloon	balloon
+hot chocolate	beverage
+hotel room	room
+hot pad	pad
+hot pepper	pepper
+hot plate	plate
+hot rod	car
+hot tub	tub
+hot weather	weather
+hound dog	dog
+houseboat	boat
+house cat	cat
+house painter	painter
+house party	party
+houseplant	plant
+housewives	wife
+housing development	development
+hugging	hug
+hula-hoop	hula hoop
+hulk	large person
+human foot	foot
+human	person
+hummer	car
+hummingbird	bird
+humvee	jeep
+hunter	adult
+hunting dog	dog
+hurdle race	race
+husband	man
+husband	partner
+husky	dog
+ice axes	axes
+ice chest	chest
+ice-cream cone	cone
+ice cream	food
+ice-cream	ice cream
+iced coffee	coffee
+iced tea	tea
+ice field	field
+ice hockey	hockey
+ice pick	pick
+ice rink	rink
+ice skate	skate
+ice tongs	tongs
+idiot	person
+imac	computer
+imam	leader
+impersonator	person
+index finger	finger
+indian chief	chief
+indian club	club
+individual	person
+indoor garden	garden
+industrial plant	plant
+infant	baby
+inline-skates	rollerblade
+inner city	city
+inspector	officer
+instructor	teacher
+instrumentalist	musician
+insurance company	company
+international flight	flight
+interpretative dance	dance
+interpretive dance	dance
+inventor	person
+ipad	tablet
+iphone	phone
+irish setter	setter
+ironing board	board
+jacket	clothing
+jacuzzi	spa
+jade green	green
+jam session	performance
+janitor	custodian
+japanese	asian
+jaywalker	pedestrian
+jazz band	band
+jazz festival	festival
+jazz musician	musician
+jean	pants
+jeep	car
+jenga	block
+jersey	clothing
+jester	clown
+jesus christ	christ
+jet plane	plane
+jetty	pier
+jewelery	jewelry
+jewelry maker	maker
+jewelry store	store
+jew	person
+jimi hendrix	man
+jockey	horseman
+jogger	person
+jogging	run
+jog	run
+joshua tree	tree
+journalist	writer
+judge	official
+judo player	athlete
+juggler	performer
+juice	beverage
+jump rope	rope
+jump shot	shot
+jungle-gym	jungle gym
+junk food	food
+kayak	boat
+kayaker	person
+kayakers	person
+kazoo	wind instrument
+kebab	meat
+keeper	person
+kelp	seaweed
+keyboardist	musician
+keyboard player	keyboardist
+keynote address	address
+key ring	ring
+keytar player	musician
+kicker	football player
+kid	child
+killer whale	whale
+kilt	skirt
+kitchen appliance	appliance
+kitchen cabinet	cabinet
+kitchen island	counter
+kitchen sink	sink
+kitchen stove	stove
+kitchen table	table
+kitchen utensil	utensil
+kitten	cat
+knapsack	backpack
+knee brace	brace
+knee breeches	breeches
+knee pad	pad
+knife	tool
+knife	weapon
+knight	leader
+komodo dragon	dragon
+korean	asian
+korn	food
+lab coat	coat
+laboratory coat	coat
+labor day	holiday
+laborer	adult
+labrador	dog
+labrador retriever	retriever
+lacrosse ball	ball
+lacrosse player	athlete
+lacross player	athlete
+ladder truck	truck
+ladle	spoon
+lady friend	friend
+lady friend	woman
+lady	woman
+lake bed	ground
+lama	leader
+landing strip	strip
+landscape painting	painting
+landscaper	person
+laptop	computer
+laptop computer	laptop
+large number	number
+large person	person
+large poodle	poodle
+lassie	dog
+lasso	rope
+las vegas	vegas
+latin america	america
+latino	person
+latte	coffee
+laughing	laugh
+laundry basket	basket
+laundry detergent	detergent
+law enforcement	police
+lawn bowling	bowling
+lawn chair	chair
+lawn	grass
+lawn mower	mower
+lawn tool	tool
+leader	person
+leafy vegetable	vegetable
+leaning tower	tower
+lecturer	speaker
+left field	field
+left-handed pitcher	pitcher
+left hand	hand
+lego	block
+leisure time	time
+lemonade	beverage
+lens cap	cap
+lens cover	cover
+lesbian	homosexual
+lesbian	woman
+lettuce	salda
+librarian	adult
+license plate	plate
+lifeguard	attendant
+life jacket	jacket
+life raft	raft
+life-vests	vest
+life vest	vest
+lifter	athlete
+light brown	brown
+light bulb	bulb
+lighting fixture	fixture
+light microscope	microscope
+lightsaber	stick
+light show	show
+light source	light
+lily pad	plant
+limo	car
+limousine	car
+lincoln memorial	memorial
+line judge	judge
+line worker	adult
+lingerie	underwear
+lioness	lion
+lip balm	balm
+lipstick	makeup
+liquid detergent	detergent
+liquor	beverage
+liquor store	store
+listener	observer
+litter	trash
+little boy	boy
+little boy	child
+little brother	brother
+little girl	child
+little girl	girl
+little hand	hand
+little red riding hood	girl
+little rock	rock
+little sister	sister
+livestock	animal
+living room	room
+loader	adult
+loading dock	dock
+loading zone	zone
+loafer	shoe
+loan shark	adult
+local street	street
+locker room	room
+locksmith	adult
+locomotive	train
+log cabin	cabin
+logger	adult
+lollipop	candy
+long chain	chain
+long-distance runner	runner
+long jump	jump
+long pants	pants
+long sleeve	sleeve
+long suit	suit
+looker	spectator
+lookout	security guard
+lotus position	position
+lounge chair	chair
+loved one	one
+loved one	person
+lover	person
+love seat	sofa
+love story	story
+luggage carousel	carousel
+luncheon	meal
+lunch	food
+lunch meeting	meeting
+macaroni and cheese	pasta
+macaroni	pasta
+macbook	laptop
+machine gun	gun
+machine shop	shop
+machinist	mechanic
+maestro	conductor
+magazine article	article
+magazine rack	rack
+magician	performer
+magic marker	marker
+magic trick	trick
+magnifying glasses	glasses
+magnifying glass	glass
+mahjong	game
+maid	woman
+mail carrier	carrier
+mail carrier	mailman
+mailman	man
+main road	road
+main street	street
+majorette	performer
+male child	child
+male	man
+male	person
+mallet	hammer
+mambo	dance
+mammal	animal
+ma	mom
+man	adult
+manager	coach
+man and wife	man
+man and wife	wife
+manhole cover	cover
+manikin	mannequin
+manual labor	labor
+maple syrup	syrup
+maraca	percussion instrument
+marathon runner	runner
+marcher	protester
+marching band	band
+mardi gras	parade
+margarita	drink
+mariache	mariachi
+mariachi player	musician
+marine animal	animal
+marine	soldier
+market day	day
+market town	town
+marriage ceremony	wedding
+marriage license	license
+married couple	couple
+married man	husband
+married man	man
+married woman	wife
+married woman	woman
+martial art	art
+martial artist	fighter
+martini	beverage
+mascara	makeup
+mason	adult
+mason jar	jar
+masquerade party	party
+master	artist
+matador	bullfighter
+mate	seaman
+mazda	car
+meadow	grass
+measuring cup	cup
+measuring stick	stick
+meat counter	counter
+meat hooks	hooks
+meat market	market
+mechanic	adult
+mechanical device	device
+medalist	winner
+medical care	care
+medical center	center
+medical instrument	instrument
+medical procedure	procedure
+medical student	student
+medicine ball	ball
+meet	competition
+member	person
+memorial park	park
+mercedes	car
+merchant	person
+mess hall	hall
+metal bar	bar
+metal detector	detector
+metal drum	drum
+mexican hat	hat
+mexican	person
+miami beach	beach
+michael jackson	man
+mickey mouse	mascot
+microscope slide	slide
+microwave oven	oven
+middle-aged man	man
+middle finger	finger
+midget	small person
+midriff	belly
+mike	microphone
+mike tyson	tyson
+military band	band
+military ceremony	ceremony
+military force	soldier
+military group	soldier
+military man	man
+military man	military personnel
+military officer	officer
+military personnel	personnel
+military personnel	soldier
+military plane	plane
+military service	service
+military uniform	uniform
+military unit	soldier
+military vehicle	vehicle
+milk chocolate	chocolate
+milk powder	powder
+milkshake	beverage
+mime	actor
+miner	adult
+miniature golf	golf
+mini-skirt	skirt
+miniskirt	skirt
+minister	pastor
+minnie mouse	mascot
+minuteman	soldier
+missionary	teacher
+mitten	gloven
+mitt	glove
+mixed drink	beverage
+mixing bowl	bowl
+mobile home	home
+mobile phone	phone
+moccasin	shoe
+mockingbird	bird
+model	adult
+modern dance	dance
+mohawk haircut	haircut
+mo-hawk	mohawk
+mommy	mom
+mom	parent
+mom	woman
+monarch butterfly	butterfly
+monk	person
+moped	bike
+mosquito net	net
+mother	mom
+motion picture	picture
+motocycle	motorbike
+motorbike	bike
+motorboat	boat
+motorcycle	motorbike
+motorcycle cop	cop
+motorcycle cop	officer
+motorcycle policeman	motorcycle cop
+motorcycle policeman	policeman
+motorcyle	motorbike
+motor home	home
+motorhome	trailer
+motorist	driver
+motorized wheelchair	wheelchair
+motor scooter	scooter
+motor vehicle	vehicle
+mountain bike	bicycle
+mountain biker	cyclist
+mountain climber	climber
+mountaineer	mountain climber
+mountain lion	lion
+mountain pass	pass
+mountain peak	peak
+mountain range	range
+mountaintops	mountain
+mountain trail	trail
+mountian	mountain
+mouse ear	ear
+mover	adult
+movie camera	camera
+movie maker	adult
+movie star	actor
+movie star	star
+movie theater	theater
+moving van	van
+mow-hawk	mohawk
+mud flat	flat
+mud puddle	puddle
+mulch	dirt
+murderer	criminal
+musical group	group
+musical instrument	instrument
+musical note	note
+musical performance	performance
+music hall	hall
+musician	performer
+music stand	stand
+music teacher	teacher
+muslim	person
+nail polish	polish
+name tag	tag
+nanny	nurse
+narrow boat	boat
+national anthem	anthem
+national	person
+nationals park	park
+native american	american
+native american	person
+native land	land
+native	person
+natural spring	spring
+naval officer	military personnel
+naval officer	officer
+navel orange	orange
+navigator	seaman
+navy blue	blue
+navy man	man
+necktie	tie
+neighbor	person
+nerd	person
+newborn baby	baby
+newborn baby	infant
+newborn infant	infant
+newborn infant	newborn baby
+newborn	newborn baby
+new flower	flower
+newlywed	partner
+new mexico	state
+news article	article
+newscaster	person
+news event	event
+newspaper article	article
+newspaper headline	headline
+newsstand	kiosk
+newswoman	reporter
+new testament	testament
+new year	year
+new york city	city
+new yorker	person
+new york state	state
+nigerian	african
+night game	game
+night life	life
+night shift	shift
+ninja	person
+nintendo	video game
+nobody	person
+noodle	food
+north pole	pole
+nose ring	ring
+notebook computer	computer
+novelty shop	shop
+nude painting	painting
+nude sculpture	sculpture
+nude statue	statue
+nun	person
+nurse	woman
+nursing home	home
+oak tree	tree
+oboe	wind instrument
+observer	person
+occupant	resident
+ocean floor	floor
+oceanside	shore
+odd fish	fish
+office building	building
+officer	adult
+official	adult
+oil painting	painting
+oil pipeline	pipeline
+oil pump	pump
+oil rig	rig
+oil well	well
+old boy	boy
+old country	country
+old hand	hand
+old man	man
+old person	person
+old person	senior citizen
+old school	school
+old woman	woman
+olive tree	tree
+ollie	trick
+olympian	athlete
+olympic games	game
+omelet	food
+onlooker	observer
+open air	air
+open-air market	market
+operating room	room
+opponent	athlete
+oral presentation	presentation
+orange juice	juice
+orchestra	musician
+oreo cookie	cookie
+organic chemistry	chemistry
+organ	instrument
+organizer	person
+organ pipe	pipe
+organ player	musician
+oriental	asian
+oriental person	person
+orphan	child
+orthodox jew	jew
+ostrich	person
+ottoman	asian
+outboard motorboat	motorboat
+outboard motor	motor
+outdoor game	game
+outdoorsman	person
+outdoors men	man
+outdoor sport	sport
+outdoor stage	stage
+outer garment	garment
+outfielder	athlete
+outfit	clothing
+outfut	outfit
+outside door	door
+overcoat	coat
+overhead projector	projector
+overnight bag	bag
+overpass	bridge
+overshirt	shirt
+overstuffed chair	chair
+owl	bird
+owner	businessman
+ox	cattle
+oxygen mask	mask
+pace car	car
+packing boxes	box
+paddler	boatman
+paddy field	field
+paintball gun	gun
+paintbrush	brush
+painter	adult
+paint roller	roller
+palestinian	arab
+palm tree	tree
+pancake	food
+panda bear	bear
+panelist	person
+pant leg	clothing
+pants leg	clothing
+pants suit	suit
+paparazzi	photographer
+paperback book	book
+paper bag	bag
+paper cup	cup
+paper doll	doll
+paper flower	flower
+paper plate	plate
+paper towel	towel
+parachuter	person
+parachutist	person
+parade	crowd
+parallel bars	bars
+paralympics	competition
+paramedic	assistant
+parasailer	athlete
+parasol	umbrella
+parent	adult
+parishioner	person
+parka	coat
+park bench	bench
+parking area	area
+parking lot	lot
+parking meter	meter
+parking space	space
+parking ticket	ticket
+parking zone	zone
+parrot	bird
+participant	person
+party favor	gift
+party game	game
+passenger car	car
+passenger train	train
+passenger vehicle	vehicle
+passerby	passer-by
+passer-by	pedestrian
+passer	passer-by
+passersby	person
+passifier	pacifier
+pasta	food
+pastor	clergyman
+pastry	food
+pasture	field
+pathway	path
+patient	person
+patrol car	car
+patroller	security guard
+patrolman	man
+patron	customer
+paved surface	surface
+pavillion	pavilion
+paving stone	stone
+paying attention	attention
+pda	phone
+peach tree	tree
+peanut butter	food
+pea shooter	shooter
+pectoral muscle	muscle
+pedal pusher	clothing
+peddler	vendor
+pedestrian bridge	bridge
+pedestrian crossing	crossing
+pedestrian	person
+pedestrian traffic	traffic
+pedicab	rickshaw
+peeler	performer
+peer	person
+penguin	bird
+pepperoni pizza	pizza
+pepper shaker	shaker
+pep rally	rally
+pepsi	soda
+pep talk	talk
+percussion instrument	instrument
+percussionist	musician
+performer	adult
+performer	entertainer
+performing artist	artist
+period piece	piece
+pet	animal
+petri dish	dish
+petting zoo	zoo
+pharaoh	person
+pharmacist	health care provider
+pharmacy	store
+pheasant	bird
+phone booth	booth
+phone call	call
+phone card	card
+phone line	line
+phone message	message
+photographer	artist
+photographic equipment	equipment
+photograph	photo
+photo op	photo opporunity
+physical contact	contact
+pianist	musician
+piano	instrument
+piano player	pianist
+picketer	protester
+picket fence	fence
+picket line	line
+picket	protester
+pickup truck	truck
+picnic area	area
+picnic	meal
+picture book	book
+picture frame	frame
+picture window	window
+pie	food
+pigeon	bird
+pilgrim	person
+pill bottle	bottle
+pillow fight	fight
+pilot	aviator
+pilot boat	boat
+pinball game	game
+pine tree	tree
+ping-pong ball	ball
+ping-pong table	table
+pinscher	dog
+pipe fitting	fitting
+pipe organ	organ
+pirate ship	ship
+pirate	thief
+pistol	gun
+pitbull	dog
+pitcher	baseball player
+pizza parlor	parlor
+pizza shop	shop
+pizzeria	restaurant
+plain clothes	clothing
+planter	farmer
+plant life	plant
+plant material	material
+plant product	product
+plastic bag	bag
+plastic wrap	wrap
+platter	plate
+playboy	person
+player	person
+playground ball	ball
+playground slide	slide
+playing area	area
+playing card	card
+playing field	field
+playroom	room
+plumber	adult
+plumbing fixture	fixture
+plumb line	line
+plum tree	tree
+poet	writer
+pogo stick	stick
+poker chip	chip
+poker	game
+poker game	game
+polar bear	bear
+polaroid camera	camera
+pole vaulter	vaulter
+pole vaulting	vaulting
+pole vault	vault
+police academy	academy
+police	adult
+police boat	boat
+police car	car
+police cruiser	car
+police dog	dog
+police force	police
+policeman	officer
+police officer	officer
+police squad	police
+police station	station
+police van	van
+policewoman	officer
+politician	leader
+polka dot	dot
+polo ball	ball
+polo player	athlete
+polo players	athlete
+polo shirt	shirt
+polo stick	stick
+pomeranian	dog
+pommel horse	horse
+pontiac	car
+pony	horse
+ponytail	haircut
+poodle	dog
+poodle dog	dog
+pool ball	ball
+pool cue	cue
+pool player	player
+pool stick	stick
+pool table	table
+poor people	people
+pop art	art
+pope	leader
+populated area	area
+pork	meat
+portable computer	computer
+poster board	board
+post hole	hole
+postman	mailman
+potato chip	chip
+potluck	meal
+potter	adult
+potty chair	chair
+powdered sugar	sugar
+power cable	cable
+power drill	drill
+power line	line
+power outage	outage
+power plant	plant
+power saw	saw
+power tool	tool
+power worker	adult
+practitioner	person
+pram	stroller
+prayer mat	mat
+prayer rug	rug
+prayer shawl	shawl
+praying mantis	mantis
+preacher	clergyman
+predator	person
+premier	treater
+presenter	person
+president bush	man
+president	executive
+press box	box
+press conference	conference
+preteen	child
+prey	victim
+price tag	tag
+priest	clergyman
+primary school	school
+princess	leader
+prisoner	person
+private	military personnel
+production line	line
+professional	adult
+professional golfer	golfer
+professional tennis player	tennis player
+professional tennis	tennis
+professor	professional
+projection screen	screen
+promenade	street
+prostitute	woman
+protective cover	cover
+protective covering	covering
+protector	person
+protest march	march
+provider	person
+pub	bar
+public figure	adult
+public library	library
+public servant	adult
+public speaker	speaker
+public square	square
+public toilet	toilet
+public transit	transit
+public transport	transport
+pug	dog
+pullover	sweater
+pumpkin pie	pie
+pump room	room
+punch bag	bag
+punching bag	bag
+punk rocker	rocker
+pup	bird
+puppeteer	person
+puppet show	show
+puppy	dog
+purse	bag
+push broom	broom
+push-brooms	broom
+putting green	green
+pyrex	glass
+quad	field
+quarterback	football player
+quarterpipe	pipe
+quartet	musician
+queen	leader
+quick fixes	fixes
+quintet	musician
+rabbi	leader
+rabbit ears	gesture
+race car	car
+race-cars	car
+race driver	driver
+race horse	horse
+racer	driver
+race runner	runner
+racing boat	boat
+racing car	car
+racing circuit	circuit
+racquet	racket
+radio announcer	announcer
+radio announcer	person
+radio signal	signal
+radio station	station
+rag doll	doll
+rail line	line
+railroad car	car
+railroad engineer	engineer
+railroad engineer	person
+railroad line	line
+railroad station	station
+railroad track	track
+railway car	car
+railway line	line
+railway station	station
+railway	train
+rainbow lorikeet	lorikeet
+raincoat	coat
+rain forest	forest
+rain shower	rain
+rainstorm	storm
+rancher	farmer
+range finder	finder
+ranger	adult
+rapid transit	transit
+ravine	canyon
+ravioli	pasta
+raw meat	meat
+reader	student
+reading material	material
+reading program	program
+reading room	room
+realtor	person
+rear end	end
+rearview mirror	mirror
+receiver	football player
+reception desk	desk
+receptionist	assistant
+reception room	room
+recipient	person
+recital	concert
+recliner	chair
+reclining chair	chair
+recorder	wind instrument
+recording equipment	equipment
+recording studio	studio
+recreational vehicle	vehicle
+recycling bin	bin
+red blood cell	blood cell
+redbull	beverage
+red carpet	carpet
+red drum	drum
+redhead	person
+red meat	meat
+red shift	shift
+red squirrel	squirrel
+red wine	wine
+reed instrument	instrument
+referee	person
+reference book	book
+reflector-vest	vest
+reform movement	movement
+ref	referee
+refugee camp	camp
+refugee	person
+registered nurse	nurse
+reindeer	animal
+reinforced concrete	concrete
+relative	person
+relay race	race
+religious belief	belief
+religious ceremony	ceremony
+religious leader	leader
+religious sect	sect
+religious service	service
+remote control	control
+repairman	man
+repair shop	shop
+reporter	person
+representative	politician
+resaurant	restaurant
+rescuer	benefactor
+researcher	adult
+residential area	area
+resident	person
+resort area	area
+responder	person
+rest area	area
+restaurant chain	restaurant
+restroom	bathroom
+rest stop	stop
+retail store	store
+retaining wall	wall
+retirement community	community
+retreiver	retriever
+retriever	dog
+reunion	meeting
+reveler	person
+revolutionary war	war
+rice paddy	paddy
+riding boot	boot
+riding horse	horse
+riding mower	mower
+rifle	gun
+rifleman	person
+right field	field
+right-handed pitcher	pitcher
+right hand	hand
+ring finger	finger
+riser	person
+ritual dance	dance
+rival	competitor
+river boat	boat
+riverfront	river
+riverside	river
+riverwater	water
+road construction	construction
+road roller	roller
+road runner	runner
+road	street
+road surface	surface
+roadway	road
+robin hood	man
+rock band	band
+rock climber	climber
+rock-climbers	climber
+rock climbing	climbing
+rock concert	concert
+rocker	musician
+rocket launcher	launcher
+rock garden	garden
+rock group	group
+rocking chair	chair
+rocking horse	toy
+rock music	music
+rock outcrop	outcrop
+rockstar	musician
+rock star	singer
+rock star	star
+rocky mountains	mountains
+rodeo rider	rider
+rollerblader	roller-skater
+roller-blades	rollerskate
+rollerblading	rollerskating
+roller coaster	coaster
+rollerskater	person
+roller-skater	skater
+rollerskaters	person
+rollerskates	skates
+rollerskating	skating
+rollers skate	skate
+rolling pin	pin
+rolling wave	wave
+roman candle	firework
+romper	person
+roommate	friend
+rooster	bird
+root crop	crop
+root vegetable	vegetable
+rope bridge	bridge
+rope ladder	ladder
+rotisserie	grill
+rottweiler	dog
+rough water	water
+roulette wheel	wheel
+round window	window
+rowboat	boat
+rower	boatman
+row house	house
+royal air force	air force
+rubber boot	boot
+rubber tire	tire
+rubbish	trash
+rucksack	backpack
+rugby ball	ball
+rugby football	football
+rugby player	athlete
+rummage sale	sale
+runner	athlete
+running mate	candidate
+running play	play
+running shoe	shoe
+running suit	suit
+rural area	area
+rush hour	event
+rv	trailer
+sack race	race
+saeside	shore
+safety device	device
+safety glasses	glasses
+safety harness	harness
+safety hat	hat
+safety rail	rail
+sailboat	boat
+sailing boat	boat
+sailing ship	ship
+sailing vessel	vessel
+sailor	adult
+sailor cap	cap
+sailor suit	suit
+salad bar	bar
+salad dressing	dressing
+salad	food
+salesman	man
+salesman	salesperson
+salesperson	adult
+salvation army	organization
+samba	dance
+samurai	warrior
+sand dune	dune
+sand painting	painting
+sandpit	sand
+sand trap	trap
+sandwich board	board
+sapling	tree
+saree	sari
+saucer	plate
+sausage	food
+saxophone player	saxophonist
+saxophone players	saxophonist
+saxophone	reed instrument
+saxophonist	musician
+sax	saxophone
+scarf	clothing
+schoolboy	male child
+school bus	bus
+schoolgirl	little girl
+school teacher	teacher
+school year	year
+science lab	lab
+science laboratory	laboratory
+science museum	museum
+scientific instrument	instrument
+scientific research	research
+scientist	person
+scotsman	european
+scottish terrier	terrier
+scout	male child
+scout troop	troop
+scrap metal	metal
+screen door	door
+scribe	journalist
+scrimmage line	line
+scrubbing brush	brush
+scrub brush	brush
+scuba diver	diver
+scuba diving	diving
+sculptor	artist
+sea animal	animal
+sea captain	captain
+sea creature	creature
+seafood	food
+seagull	bird
+seaguls	seagull
+seahawkss	seahawks
+seaman	man
+seaman	sailor
+seamstress	woman
+sea	ocean
+seascape	shore
+seashell	shell
+seashore	shore
+seat belt	belt
+seating area	area
+sea turtle	turtle
+seawall	wall
+second base	base
+security force	guard
+security guard	guard
+sedan	car
+seer	person
+self	person
+self-portrait	portrait
+seller	vendor
+seminar	lecture
+senior	adult
+senior citizen	adult
+septic tank	tank
+sergeant	military personnel
+server	waiter
+service area	area
+service department	department
+serviceman	soldier
+serving dish	dish
+sewer line	line
+sewing kit	kit
+sewing machine	machine
+sewing room	room
+shade tree	tree
+shamrock	clover
+sharpie	pen
+shaving cream	foam
+shaving foam	foam
+sheep dog	dog
+sheepdog	dog
+sheet metal	metal
+sheet music	music
+shell corporation	corporation
+sheltie	dog
+shepard	shepherd
+shephard	shepherd
+shepherd	dog
+shepherd dog	dog
+sheriff	adult
+shetland sheepdog	dog
+shetland sheepdog	sheepdog
+shin guard	clothing
+shire horse	horse
+shirt	clothing
+shirts button	button
+shock wave	wave
+shoe lace	string
+shoe shop	shop
+shoe store	store
+shooting range	range
+shop class	class
+shopkeeper	merchant
+shopper	customer
+shoppe	shop
+shopping bag	bag
+shopping basket	basket
+shopping cart	cart
+shopping center	mall
+shopping list	list
+shopping mall	mall
+shop	store
+shop window	window
+shoreline	shore
+short-haired pointer	dog
+short pants	pants
+short sleeve	sleeve
+shot glasses	glass
+shot glass	glass
+shoulder bag	bag
+shoulderbag	bag
+shoulder pad	pad
+shoulder strap	strap
+shower curtain	curtain
+shower stall	stall
+showgirl	dancer
+showgirl	woman
+showman	man
+showroom	store
+shrubbery	shrub
+siberian husky	dog
+siberian husky	husky
+sibling	child
+side door	door
+side road	road
+side street	street
+side view	view
+sidewalk	street
+sightseer	tourist
+significant other	partner
+significant other	person
+sign language	language
+silver medal	medal
+silversmith	adult
+singer	musician
+singing	sing
+single bed	bed
+single file	file
+sister	woman
+sitar player	musician
+sitar	stringed instrument
+six pack	pack
+skateboarder	skater
+skateboarding	skateboard
+skate-boarding	skateboarding
+skatepark	park
+skater	athlete
+skating rink	rink
+sketch pad	pad
+ski boot	boot
+ski cap	cap
+skier	athlete
+skiiers	skier
+ski jacket	jacket
+ski jumper	athlete
+ski jump	jump
+ski lift	lift
+skilled worker	worker
+skillet	pan
+ski lodge	lodge
+ski mask	mask
+skimmer	person
+ski pole	pole
+skipping rope	rope
+ski resort	resort
+ski run	trail
+skislope	ski slope
+ski slope	slope
+ski trail	trail
+skunk	animal
+skydiver	parachutist
+skyscraper	building
+sledder	person
+sled dog	dog
+sleeping	sleep
+slider	person
+sliding board	board
+sliding door	door
+slipper	shoe
+slot machine	machine
+slumber party	party
+small boat	boat
+small boy	boy
+small boy	child
+small girl	child
+small girl	girl
+small person	person
+small print	print
+small talk	talk
+smartphone	phone
+smock	robe
+smoke bomb	bomb
+smoked herring	herring
+smoking car	car
+smoothie	milkshake
+snack bar	bar
+snack food	food
+snake charmer	adult
+snare drum	drum
+sneaker	shoe
+snokel	snorkel
+snorkeler	diver
+snow blower	blower
+snowboarder	athlete
+snow-boarder	snowboader
+snow flurry	snow
+snowmobiler	person
+snowmobile	vehicle
+snow pea	pea
+snowshoers	person
+snowshovel	snow shovel
+snowstorm	storm
+soap bubble	bubble
+soccer ball	ball
+soccer player	athlete
+social event	event
+social function	event
+social gathering	gathering
+social science	science
+social service	service
+soda	beverage
+soda bottle	bottle
+soda can	can
+soda fountain	fountain
+soda pop	soda
+sofa bed	bed
+sofa	couch
+softball game	game
+softball player	athlete
+soft drink	beverage
+softdrinks	soda
+soft pretzel	pretzel
+solar eclipse	eclipse
+solar panel	panel
+solar telescope	telescope
+soldering iron	iron
+soldier	person
+solicitor	person
+solider	soldier
+soloist	musician
+sombrero	hat
+somebody	person
+someone	person
+son	boy
+son	child
+song and dance	dance
+song and dance	song
+sound effect	effect
+sound system	system
+soup	food
+soup kitchen	kitchen
+soup ladle	ladle
+south africa	africa
+south america	america
+south american	american
+south american	person
+southeast asia	asia
+south pacific	pacific
+south pole	pole
+space helmet	helmet
+space needle	tower
+space walk	walk
+spaghetti	pasta
+spanish people	people
+sparkling water	water
+sparring match	match
+sparring partner	partner
+speaker	person
+special effect	effect
+special olympics	olympics
+spectator	observer
+speculator	person
+speedboat	boat
+speedos	swimming trunks
+speedo	swimming trunks
+speed skater	skater
+spider web	web
+sponge mop	mop
+sport coat	coat
+sport jacket	jacket
+sports arena	arena
+sports car	car
+sports equipment	equipment
+sports fan	fan
+sports-field	field
+sport shirt	shirt
+sports page	page
+sports player	athlete
+sports players	athlete
+sports section	section
+sports shirt	shirt
+sports stadium	stadium
+sportswoman	athlete
+sport utility vehicle	van
+spotter	adult
+spot welding	welding
+spouse	partner
+spray can	can
+sprayer	adult
+spray painting	painting
+spray paint	paint
+springer spaniel	spaniel
+sprinkler system	system
+sprinter	runner
+spyder	spider
+squad	team
+square dancer	dancer
+squash player	athlete
+squirt gun	gun
+staff member	member
+staffordshire terrier	terrier
+stage set	set
+stainless steel	steel
+staircase	stair
+stairway	stair
+stairwell	stairway
+standard poodle	dog
+standard poodle	poodle
+standing ovation	ovation
+standing wave	wave
+starbuck	coffee shop
+starfish	fish
+stargazer	person
+starlet	actress
+starting block	block
+starting gate	gate
+starting line	line
+state building	building
+states government	government
+station house	house
+station wagon	wagon
+st bernard	dog
+steakhouse	restaurant
+steam engine	engine
+steam locomotive	locomotive
+steel drum	drum
+steering wheel	wheel
+stein	mug
+step ladder	ladder
+stepping stone	stone
+step stool	stool
+stevedore	loader
+still life	painting
+stock car	car
+stocking cap	cap
+stock room	room
+stomach exercise	exercise
+stone wall	wall
+storage area	area
+storage room	room
+storefront	store
+storm cloud	cloud
+storm trooper	adult
+storm trooper	trooper
+straight man	man
+straight razor	razor
+stranger	person
+straw hat	hat
+streetcar	car
+street clothes	clothing
+street corner	corner
+street lamp	lamp
+street person	drifter
+street person	person
+street sign	sign
+stretch pants	pants
+string bass	bass
+stringed instrument	instrument
+string line	line
+string orchestra	orchestra
+string quartet	quartet
+strip mall	mall
+student	person
+stunt man	man
+stuntman	man
+stylist	adult
+subcompact car	car
+suburban area	area
+subway station	station
+subway system	subway
+subway train	train
+sugar cane	cane
+suitcase	luggage
+suit	clothing
+summer camp	camp
+summer school	school
+summertime	summer
+sumo wrestler	wrestler
+sunbather	person
+sundress	dress
+sunflower	flower
+sunflower seed	seed
+sunglasses	glasses
+sunhat	hat
+sunrise	sunset
+sunshine	sun
+sun visor	visor
+superior	leader
+supermarket	store
+supervisor	superior
+supper	dinner
+support column	column
+supporter	person
+support system	system
+surfboarder	surfer
+surfer	athlete
+surgeon	doctor
+surgical gown	gown
+surgical procedure	procedure
+sushi bar	restaurant
+sushi	food
+suspect	person
+suspension bridge	bridge
+swan dive	dive
+swat team	team
+sweater	clothing
+sweatshift	clothing
+sweat suit	suit
+swim meet	meet
+swimmer	athlete
+swimming cap	cap
+swimming event	event
+swimming hole	pool
+swimming pool	pool
+swimming trunks	trunks
+swinging door	door
+swing-set	swing
+swiss people	people
+swordfish	fish
+swordsman	man
+sword	weapon
+symphony orchestra	orchestra
+synagogue	temple
+tabby cat	cat
+table mat	mat
+table tennis	ping-pong
+tabloid	newspaper
+tackle	football player
+tackler	athlete
+tail end	end
+tailor	adult
+taker	customer
+talkie	phone
+talk show	show
+tambourine	percussion instrument
+tandem bicycle	bicycle
+tango	dance
+tank engine	engine
+tankini	swimsuit
+tank top	shirt
+tank-top	top
+tap dance	dance
+tap dancer	dancer
+tape measure	measure
+target practice	practice
+target range	range
+tarmac	asphalt
+tarot card	card
+tar paper	paper
+tarpaulin	tarp
+tavern	restaurant
+taxi	car
+teacher	adult
+teammate	person
+team sport	sport
+tea party	party
+technician	adult
+teddy bear	toy
+teenager	teen
+teenage	teen
+teen	person
+teepee	tent
+tee-shirts	t-shirt
+tee-shirt	t-shirt
+teeshirt	t-shirt
+teething ring	ring
+telegraph pole	pole
+telephone booth	booth
+telephone box	box
+telephone call	call
+telephone line	line
+telephone	phone
+telephone pole	pole
+telephone wire	wire
+telephoto lens	lens
+television camera	camera
+television program	program
+television set	set
+television show	show
+television	tv
+teller machine	machine
+tennis ball	ball
+tennis court	court
+tennis match	match
+tennis player	athlete
+tennis racket	racket
+tennis racquet	racquet
+tennis shoe	shoe
+tennis shot	shot
+terrier	dog
+terrior	terrier
+terrorist	person
+test drive	drive
+test tube	tube
+textbook	book
+textile machine	machine
+thatched roof	roof
+theatre	theater
+theatrical performance	performance
+the boot	boot
+theme park	park
+the netherlands	netherlands
+thermos	bottle
+the states	states
+they	person
+thief	criminal
+thin person	person
+third base	base
+third baseman	baseman
+threshing machine	machine
+thrower	person
+ticket booth	booth
+tiger	animal
+tightrope	rope
+tightrope walker	acrobat
+tightrope walker	walker
+tile roof	roof
+tilled land	land
+timber	wood
+time exposure	exposure
+times square	square
+tin can	can
+tissue paper	paper
+toaster	supporter
+tobaggons	slide
+toboggan	sled
+toddler	child
+toilet paper	paper
+toilet roll	toilet paper
+toilet seat	seat
+toll bridge	bridge
+tomato plant	plant
+tombstone	stone
+tom hanks	man
+tool bag	bag
+tool chest	chest
+top boot	boot
+top hat	hat
+top side	side
+tornado	storm
+tortilla chip	chip
+tote	bag
+tote bag	bag
+totem pole	pole
+touch football	football
+tough	fighter
+tour guide	guide
+tour guide	leader
+tourist attraction	attraction
+tourist	person
+town hall	hall
+townspeople	people
+tow truck	truck
+tow-truck	truck
+toy box	box
+toy dog	toy
+toy soldier	toy
+track event	event
+track meet	event
+track star	runner
+tractor trailer	trailer
+trafalgar square	square
+traffic circle	circle
+traffic cop	cop
+traffic cop	officer
+traffic jam	jam
+traffic signal	signal
+trail bike	bicycle
+trailer park	park
+trail head	trail
+train depot	depot
+trainer	leader
+train set	set
+train station	station
+transportation system	system
+transvestite	person
+trap door	door
+trash barrel	barrel
+trash bin	bin
+trash pile	pile
+travel agency	agency
+traveler	person
+treater	person
+tree branch	branch
+tree farm	farm
+tree house	house
+tree	plant
+tree stump	stump
+tree surgeon	arborist
+tree surgery	surgery
+tree trunk	trunk
+trench coat	coat
+trench-coat	coat
+trestle table	table
+triathlon	competition
+tribesman	man
+trike	tricycle
+trimmer	tool
+trio	musician
+triumphal arch	arch
+trolley car	car
+trombone	instrment
+trombone player	musician
+trombonist	trombone player
+troupe	group
+trouser	pant
+truck driver	driver
+truck stop	stop
+trumpet	brass instrument
+trumpeter	musician
+trumpet player	musician
+t-shirt	clothing
+t-shit	t-shirt
+tuba	brass instrument
+tuba player	musician
+tuba players	musician
+tug-of-war	game
+tulip	flower
+tumbler	gymnast
+tummy	belly
+tunic	robe
+turtleneck	sweater
+tuxedo	suit
+tux	tuxedo
+tv monitor	monitor
+tv show	show
+two dollar bill	dollar bill
+ukulele	stringed instrument
+ultimate frisbee	frisbee
+umpire	person
+undergarment	underwear
+uneven bars	bars
+uniform	clothing
+unitard	leotard
+united kingdom	kingdom
+united states government	government
+united states	states
+university student	student
+upper deck	deck
+upper hand	hand
+upright piano	piano
+urban area	area
+us air force	air force
+us army	army
+user	person
+utility vehicle	vehicle
+vacant lot	lot
+vacuum cleaner	cleaner
+vagabond	drifter
+valentine	lover
+vanilla ice cream	ice cream
+vantage point	point
+vaulting horse	horse
+veggie	vegetable
+vehicle traffic	traffic
+vending machine	machine
+vendor	merchant
+ventilation shaft	shaft
+ventriloquist	performer
+vespa	scooter
+vest	clothing
+veteran	military personnel
+veterinarian	doctor
+vial	glass
+victim	person
+victory lap	lap
+video equipment	equipment
+video game	game
+video recording	recording
+viewer	spectator
+villager	person
+vincent van gogh	man
+violin bow	bow
+violinist	musician
+violin player	violinist
+violin	stringed instrument
+violist	musician
+violoncelli	cello
+virgin mary	woman
+visitor	person
+vista	view
+vocal cord	cord
+vocalist	singer
+volcanic rock	rock
+volkswagen	car
+volleyball court	court
+volleyball game	game
+volleyball net	net
+volleyball player	athlete
+volunteer	person
+voter	citizen
+voting booth	booth
+v sign	sign
+wading bird	bird
+wading pool	pool
+wading-pool	pool
+wagon wheel	wheel
+waistcoat	coat
+waiter	adult
+waiting area	area
+waiting room	room
+waitress	waiter
+wakeboarder	athlete
+walgreen	pharmacy
+walgreens	pharmacy
+walking stick	stick
+walking	walk
+walkng	walking
+walkway	path
+wall painting	painting
+wall panel	panel
+walmart	store
+wanker	person
+ward	person
+warning device	device
+warrant officer	military personnel
+warrant officer	officer
+warrior	person
+washer	adult
+washing machine	machine
+washington monument	monument
+wasp	insect
+waste basket	basket
+watcher	spectator
+water bird	bird
+water bottle	bottle
+water buffalo	buffalo
+water cannon	cannon
+water chute	chute
+watercolor	painting
+watercraft	boat
+water faucet	faucet
+water fountain	fountain
+waterfowl	bird
+water glasses	glass
+water gun	gun
+water hazard	hazard
+water hole	hole
+water ice	ice
+watering can	can
+watering hole	restaurant
+water jug	jug
+water lilies	lilies
+water line	line
+water pipe	pipe
+water pistol	pistol
+water polo	polo
+water right	right
+waterskier	person
+waterskis	waterski
+waters plants	plant
+water sport	sport
+waterspout	spout
+water tank	tank
+water tap	faucet
+water tower	tower
+water wings	floaties
+water-wings	floaties
+wax figure	figure
+w. bush	man
+weasel	person
+weather vane	vane
+wedding band	ring
+wedding cake	cake
+wedding ceremony	ceremony
+wedding day	day
+wedding dress	dress
+wedding gown	gown
+wedding guest	guest
+wedding night	night
+wedding party	party
+wedding picture	picture
+wedding reception	reception
+wedding ring	ring
+wedge heel	heel
+weimaraner	dog
+welder	adult
+western sahara	sahara
+wheat field	field
+wheeled vehicle	vehicle
+wheel spoke	spoke
+whipped cream	cream
+white book	book
+white daisies	daisies
+white elephant	elephant
+white feather	feather
+white leather	leather
+white man	man
+white pelican	pelican
+white people	people
+white person	person
+white sheep	sheep
+white tie	tie
+white water	rapid
+white wine	wine
+white woman	woman
+wicker basket	basket
+wiener	sausage
+wife	woman
+wiffle ball	ball
+wii	video game
+wild dog	dog
+wildfire	fire
+wild flower	flower
+wildflower	flower
+wild horse	horse
+willow tree	tree
+windbreaker	jacket
+wind chime	chime
+wind instrument	instrument
+window blind	blind
+window box	box
+window cleaner	cleaner
+window frame	frame
+window glass	glass
+window pane	pane
+window screen	screen
+window seat	seat
+window shade	shade
+window-washers	adult
+window washer	washer
+windshield	window
+wind sock	sock
+windsurfer	athlete
+windsurfers	windsurfer
+wind turbine	turbine
+wine bar	restaurant
+wine	beverage
+wine bottle	bottle
+wineglasses	glass
+wineglass	glass
+winner	athlete
+winter olympics	olympics
+wire cutter	tool
+witches	woman
+witness	observer
+wizard	person
+wok	pan
+woman	adult
+wood block	block
+wooded area	forest
+wooden horse	toy
+wooden leg	leg
+wooden spoon	spoon
+wood grain	grain
+woodland	wood
+woods	forest
+woodworker	adult
+word game	game
+workbench	table
+worker	adult
+worker	person
+working girl	girl
+working man	man
+working person	person
+workman	man
+workout	exercise
+workout suit	suit
+work-shirt	shirt
+work surface	surface
+work table	table
+world affairs	event
+world record	record
+world series	series
+worshiper	person
+wrapping paper	paper
+wrestler	fighter
+wrestling match	match
+wrestling mat	mat
+wrestling ring	arena
+wristwatch	watch
+writer	person
+x-ray machine	machine
+xylophone	instrument
+yacht	boat
+yale university	university
+yankee	american
+yard line	line
+yard sale	sale
+yarmulke	cap
+yellow spot	spot
+york city	city
+yorkie	dog
+yorkshire terrier	terrier
+young boy	boy
+young boy	child
+young girl	child
+young girl	girl
+young lady	girl
+young lady	lady
+young man	man
+young person	person
+young person	youth
+youngster	child
+young woman	girl
+young woman	woman
+youth	person
+zip-line	line
+zombie	person
+zoom lens	lens

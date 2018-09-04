@@ -1,0 +1,420 @@
+scripts/run.sh
+Input: token file
+Output: POS file
+This script tags and chunks the tokenized corpus, and applies assorted
+fixes to the tagging and chunking.
+
+
+The primary means of fixing errors in the tagging and chunking process
+are "data/forcePOS.txt" and "data/ngram.txt".
+
+
+data/actor.txt
+Column: noun
+Contains a list of nouns that are likely to be the head noun of an NP,
+due to the fact that they are actors - entities that are likely to be
+doing something.  This should be a list of person and animal nouns, as
+well as clothing nouns (so we cover "man in hat Xing", as well as "man
+Xing").
+
+
+data/color.txt
+Column: color word
+Contains a list of color words.  Useful to have, as color words can
+often be the heads of noun phrases, but will often be treated as
+modifiers.
+
+
+data/compoundNouns.txt
+Columns: hyphenated compound noun, hyphenated set of POS tags
+Contains a list of hyphenated compound nouns.  These nouns should all
+be joined into a single token prior to chunking, in order to ensure
+they all end up in the same chunk.  The hyphenated POS tags indicate
+the tag to be used for all of the words in the compound noun, except
+for the last one.  For example:
+
+smiling-little-blond-girl   JJ-JJ-JJ
+
+"smiling little blond girl" should all be combined into a single token
+before chunking.  After chunking, "smiling", "little", and "blond"
+should all be tagged as adjectives (JJ).
+
+
+data/forcePOS.txt
+Columns: word, tag*
+Contains a set of tag overrides.  Any word in "data/forcePOS.txt" will
+always be tagged with whatever tag it is assigned in this file.  Words
+will be lowercased before they are looked up in this file.  Used by
+"scripts/forcePOS.pl"  Use this to fix easy-to-fix tagger errors.
+
+Can contain multiple possible tags, in which case, the first tag will
+be used, as long as it is not replacing one of the other tags.  Can
+also contain previous words that indicate that the word is actually
+part of a compound, and should not be retagged.
+
+rides  VBZ  -amusement  -carriage  -elephant  -piggyback  -train
+
+Retags "rides" with "VBZ", unless it is "amusement rides", "carriage
+rides", "elephant rides", "piggyback rides", or "train rides".
+
+
+data/ngram.txt
+Columns: hyphenated ngram, combined tag, hyphenated tags
+Contains a set of terms that need to be in the same chunk.  For
+example:
+
+in-front-of   IN    IN-NN-IN
+
+Before being chunked, any instance of "in front of" will be turned
+into the single token "in-front-of" with the tag IN.  Once the chunker
+is done chunking, any instance of "in-front-of" will be broken up into
+"in/IN front/NN of/IN".  Those hyphenated terms will be broken up even
+if they were originally hyphenated, and not just joined together for
+the chunking.
+
+"data/ngram.txt" is used by "scripts/fixPPngram.pl" and
+"scripts/makePPngram.pl"
+
+Both scripts/files are fairly brute force approaches, and should only
+be used when the tag or chunking override is always the correct thing
+to do, regardless of the context in which the words appear.  If you
+need a more targeted fix, you'll probably want to write a script for
+it.
+
+
+data/person.txt
+Column: person term
+List of person terms.  Used by "scripts/breakCC-NPs.pl" to determine
+when an "NP CC NP" should be broken up ("<non-person> CC <person>"
+should be, due to "man in red and woman Xing" - "red and woman" should
+not be a single NP).  Also used by "scripts/fixStandNN.pl" to
+determine if "stand" is actual a verb, because it is preceded by a
+person term.
+
+
+data/prt.txt
+Column: first token, possible compounds
+List of particles.  The token in the first column is a particle that
+could show up in the beginning of an NP, while the remaining columns
+are a list of completions that indicate the particle should stay in
+the NP.  Used by "scripts/fixPrt.pl".  For example:
+
+as   many   much
+
+"as" in the front of an NP chunk is potentially a particle of the verb
+preceding it, however "as many" and "as much" should remain as NPs.
+
+
+data/split.txt
+Column: verb
+List of verbs that can be split off at the beginning.  Mostly general,
+long term actions that can be paired with a more specific verb.
+Includes things like "walk" and "stand".  For example, "person stands
+talking on the phone", "stands talking" will usually be chunked as a
+single VP, but can be broken up into "stands" and "talking".
+
+
+The following list of scripts will be presented in the order that
+"scripts/run.sh" runs them.
+
+scripts/fixHyphen.pl
+This script replaces all instance of two or more hyphens with a single
+hyphen.  Some annotators used double hyphens instead of single hyphens
+when writing parentheticals.  This normalizes those cases.
+
+scripts/fixThough.pl
+Replace instances of "though" with "through", unless part of "even
+though", "as though", or ", though".
+
+scripts/fixPunct.pl
+Fix errors with tokenizing punctuation.  Tokenize commas that are not
+part of number (1,234), tokenize parentheses, semi-colons and hashes
+that are at the beginning or end of a token.  Replace multiple spaces
+with a single space.
+
+scripts/fixNumbers.pl
+Replaces numbers as numerals with words.  Only does so for 0 - 12.
+Primarily intended to handle counts - the number must occur directly
+after "of" (group of 3 people), or before some sort of actor (for the
+most part - "2 dogs", "2 of them", etc.)  In cases where a word
+indicates that an actual number is being used ("labeled 3", or "# 3"),
+no change is made.
+
+scripts/postag.sh
+Runs the OpenNLP part of speech tagger.
+scripts/fixWatch.pl Change instances of "watch" to a verb, unless it's
+clearly a noun (i.e., find some sort of determiner
+("a"/"the"/"his"/"her", etc.) that is only separated from "watch" by
+adjectives and "gold" or "silver").
+
+scripts/fixUH.pl
+Retag UH as NN.  (For "Boy doing something", boy is tagged as an
+interjection.)
+
+scripts/fixing.pl
+Retag words ending in -ing with VBG, except for a list of nouns ending
+in -ing.
+
+scripts/fixPPngram.pl
+Hyphenate any n-grams in "data/ngram.txt", and apply the listed tag to
+the hyphenated token.  This prevents the chunker from splitting the
+n-gram among multiple chunks.
+
+scripts/fixStandNN.pl
+Retag "stand/NN" as "stand/VBP".  Tries to form an NP out of
+"stand/NN" by searching for the start of the NP.  If it fails to find
+it (or find evidence that "stand" is being used a verb" - such as a
+person term preceeding "stand"), it retags "stand" as a verb.
+
+scripts/fixIs.pl
+Replace and re-tag "is/VBZ" with "his/PRP$" if followed by a noun,
+unless the noun is part of a compound verb, such as "rock climbing",
+etc.  (Only actually checks for "climbing" compound verbs.)
+
+scripts/forcePOS.pl
+Retag words according to "data/forcePOS.txt".  Will also retag verbs
+joined by "and" - i.e., "listen and talk" - listen will be retagged as
+a verb, and talk will also be retagged as a verb, since it is joined
+to to "listen" with "and".
+
+scripts/fixNotDT-V.pl
+Retags instances of "try" and "struggle" with "VBP" if they are not
+preceded by a DT.  ("a try" or "a struggle")
+
+scripts/fixBuilding.pl
+Retags instances of "building" with NN, if it is preceded by a DT ("a
+building") or an IN that is not temporal ("in building" vs. "after
+building").
+
+scripts/fixTO-VBX.pl
+Retag non-VBG verbs that are preceded with a TO as VB.
+
+scripts/fixV-TO.pl
+Retag "diving" and "turns" as verbs, if they are followed by "to"
+("diving to" or "turns to").  (Also, if they are at the end of a
+caption, but that's unlikely to be the case.)
+
+scripts/fixTO-VB.pl
+Retag "herd" as a verb if it is preceded by a TO.
+
+scripts/fixAttempt.pl
+Retag "attempt" as a verb, if it is followed by a TO ("attempt to"),
+and not preceded by an IN ("in attempt") or DT ("an attempt").
+
+scripts/fixVerbPP.pl
+Retags the verbs "looks", "poses", and "stands", if they are succeeded
+by a preposition, conjunction or adverb (which is not "of"), and are
+not preceded by a determiner.
+
+scripts/fixConverse.pl
+Retag "converse" as a VBP, unless it is "converse shoes" or "converse
+sneakers".
+
+scripts/fixWearing.pl
+Retag verbs after "wearing" as JJs - "wearing swimming trunks",
+"wearing bicycling helmets", etc.
+
+scripts/fixSled.pl
+Retags instances of "sled" from verb to noun, depending on the
+previous token's tag.
+
+scripts/fixSign.pl
+Retag instances of "sign" as a noun if preceded by a double-quote.
+
+scripts/fixDown.pl
+Retag instances of "down" (LS -> JJ, V* -> IN).
+
+scripts/joinCompoundNouns.pl
+Hyphenate compound nouns in "data/compoundNouns.txt"
+
+A line in "data/compoundNouns.txt" is the hyphenated compound noun,
+and the POS tags of the first (n - 1) tokens.  For example:
+
+smiling-little-blond-girl   JJ-JJ-JJ
+
+Any instance of "smiling little blond girl" will be hyphenated, if
+"girl" is a noun.  When "smiling-little-blond-girl" is broken up,
+"smiling", "little", and "blond" will be tagged JJ, and "girl" will be
+tagged with whatever tag "smiling-little-blond-girl" had, which will
+be the tag that "girl" had originally.
+
+scripts/fixLeft.pl
+Retag "left" as JJ (from a verb), if the previous token is a
+possessive pronoun ("her left"), or determined ("the left arm"), "in"
+or "on" ("in left field"), a noun-auxillary verb ("looks left"), or
+"to" ("to left" - in which case "to" is retagged as a preposition).
+Also, if it is followed by "of", or a body part.
+
+scripts/joinCompoundVerbs.pl
+Similar "scripts/joinCompoundNouns.pl" except with verbs.  Also, the
+compound verbs are stored in the script (%compound), so unhyphenating
+the compound verbs is harder.  Will only work properly with two token
+compound verbs, due to "scripts/splitCompoundVerbs.pl"
+
+scripts/chunker.sh
+Runs the OpenNLP chunker.
+
+scripts/splitCompoundVerbs.pl
+Use the version of the captions with the unhyphenated compound verbs
+to determine how to split up and retag the hyphenated compound verbs.
+This script and "scripts/joinCompoundVerbs.pl" are extremely brittle,
+and must be run directly before and directly after the chunker.  May
+want to rewrite this to use a "data/compoundVerbs.txt", like the
+scripts handling compound nouns does.
+
+scripts/splitCompoundNouns.pl
+Split up the hyphenated compound nouns.  Uses "data/compoundNouns.txt"
+to detect compound nouns and assign tags to the first (n - 1) tokens
+in the compound noun.  The last token gets the same tag as the
+hyphenated version.  (See "scripts/joinCompoundNouns.pl")
+
+scripts/makePPngram.pl
+Break up instances of hyphenated terms in "data/ngram.txt".  Just like
+"scripts/splitCompoundNouns.pl", except this time we have all of the
+POS tags for the tokens in the hyphenated term.  Also ensures that
+hyphenated prepositions are in PP chunks.
+([NP x-y-z/IN ... ] -> [PP x y z ] [NP ... ])
+([NP x-y-z/IN ] -> [PP x y z ])
+
+scripts/fixInOrderTo.pl
+Find instances of "in order to", and put them in SBAR chunks.
+
+scripts/fixSbar.pl
+Retag SBAR chunks as PP or PRT chunks if they are not a recognized
+SBAR.
+
+scripts/fixNPHeadNouns.pl
+Rechunk NPs that are actually NP VPs or NP VP NPs.  This should handle
+cases where an NP is something like "[NP dog runs]", and turn it into
+"[NP dog] [VP runs]".  Does not deal with cases where the VP would be
+a VBD or a VBN, because the chunker tends to get those correct.  Uses
+"data/actor.txt" to detect cases where the new NP would be an actor
+(and thus the proposed rechunking is correct).
+
+scripts/fixNPHeadNouns2.pl
+Rechunk NPs that are actually NP VPs - handles cases where the verb
+may be mistagged.  Uses "data/actor.txt" to determine if the head of
+the new NP will be an actor - if it is, the NP is rechunked.
+Otherwise, no rechunking occurs.
+
+scripts/fixDressed.pl
+Rechunk ADVP [VP dressed/VBN ] NP into a single NP chunk.  Handles
+cases like "well dressed person".
+
+scripts/fixCooks.pl
+Rechunk [NP .../NN cooks ... ] to [NP .../NN ] [VP cook/VBZ ] [NP ... ]
+
+scripts/fixShop.pl
+Rechunk instances of [NP .../NN shops ] and [NP .../NNS shop ] so that
+"shop"/"shops" are in their own VP chunk.  (Only applies to the first
+NP chunk of the caption.)
+
+scripts/fixVPaux.pl
+Rechunk [VP is/are ] [VP ... ] into [VP is/are ... ], and
+[VP has/had ] [VP ... ] into [VP ... ].
+
+scripts/fixTO.pl
+Rechunk [VP to/TO ] as [PP to/IN ].
+
+scripts/normDobj.pl
+Split up NPs that are of the form [NP <verb> <direct object> ], where
+the verb is either "hold" or "play".
+
+scripts/fixWearingChunk.pl
+Break up NP chunks with "wearing" in the middle.  Turns [NP <x> wearing <y> ]
+into [NP <x> ] [VP wearing ] [NP <y> ], or [VP 's wearing ] [NP <y> ]
+if <x> is "'s"
+
+scripts/fixDetHead.pl
+If we have an NP chunk consisting of only a determiner, attempt to
+generate a new NP chunk by combining the succeeding chunks.  Handles
+cases, such as "[NP a ] [VP washed ] [PRT out ] [NP bridge ]".
+
+scripts/fixToPerform.pl
+Rechunk "[PP to/TO ] [ perform ... ]" as "[VP to/TO perform ... ]".
+
+scripts/fixLay.pl
+Change instances of "lay" to "lie", if they are of the form
+"lay ] [PP/PRT down ]", and not followed by an NP chunk.
+
+scripts/breakCC-NPs.pl
+Break up NP chunks of the form [NP <not person> and <person> ] - 
+this is intended to handle cases like:
+[NP man ] [VP wearing ] [NP sweater and woman ] which should be
+[NP man ] [VP wearing ] [NP sweater ] and [NP woman ]
+
+scripts/fixRefVerbs.pl
+Break up NPs that end with a verb, if the remaining tokens can form
+their own NP chunk, and it is likely that the new head would be
+mistaken as a modifier or determiner.  Handles cases like:
+[NP a girl ] [PP in ] [NP pink climbs ] -> [NP a girl ] [PP in ] [NP pink ] [VP climbs ]
+
+scripts/fixVerbs.pl
+More breaking up NPs that end with a verb.  Has a specific verb list
+(see the script), unless the remaining tokens are incapable of forming
+an NP chunk (or the verb is actually part of a compound noun).
+
+srcipts/fixPlay.pl
+Break up NP chunks with "play" in them.  In this case, the direct
+object may have been attached, as well.  So we must deal with "[NP
+children playing ]" and "[NP person playing violin ]".
+
+scripts/fixWhile.pl
+Change [NP while ] and [PP while ] to [SBAR while ].
+
+scripts/fixQuotes.pl
+Try to ensure that opening and closing double quotes are either both
+in the same chunk, or both outside of chunks.  Will try to retag
+everything between the double quotes as NNP, and place them in NP
+chunks.
+
+scripts/fixVP-RB.pl
+Rechunk cases where a VP chunk consists of only adverbs.  Special
+handling for "back" (often mistagged as an adverb) - tries to detect a
+possessive before turning it into an NP chunk.  Otherwise, combines it
+with an appropriate succeeding chunk or turns it into a PP chunk.
+
+scripts/fixPRP-VP.pl
+Rechunk VP chunks that consist of only a PRP as an NP.  Previous chunk
+(if an NP) may contain a verb, which will be rechunked into its own VP
+chunk.
+
+scripts/fixPrt.pl
+In cases where the first token in an NP chunk could be a particle, and
+the preceding chunk was a VP, rechunk the first token as a PRT or
+SBAR, as appropriate.  Uses "data/prt.txt"
+
+scripts/fixPP-Prt.pl
+Rechunk cases where the first token in an NP chunk is a preposition,
+and the preceding chunk was a PRT.  The token should either be in an
+SBAR (while/as) or a PP (everything else) chunk.
+
+scripts/fixSomeX.pl
+In cases where "someone" or "something" is the head of an NP chunk,
+attempt to rechunk it, as both words are usually their own NP chunk,
+and the chunker has done something strange.
+
+scripts/breakVPs.pl
+Break up VPs that contain multiple events.  For example,
+[NP person ] [VP sits talking ] should be [NP person ] [VP sits ] [VP talking ].
+
+scripts/fixTO-end.pl
+Remove TOs at the end of VP chunks and place them in a new PP chunk.
+
+scripts/fixVPVP-TO.pl
+Combine VP chunks that are next to each other (or only separated by
+ADVP, ADJP, or PRTs), where the second one starts with a TO.  Handles
+cases like "[VP jump ] [VP to catch ]", which should be
+"[VP jump to catch ]".
+
+scripts/fixFunction.pl
+Fix cases where "while" has ended up in a chunk with other words, and
+where "and" and "or" have ended up as the last token in an NP chunk.
+
+scripts/fixPP-CC.pl
+If a PP chunk consists of a conjunction, remove the chunk and just
+leave the conjunction bare.
+
+scripts/chunkPunctTag.pl
+Check if any of the word tokens (composed only of letters) has a
+punctuation tag (starts with a non-letter).

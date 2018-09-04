@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts
+END
+getSVO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getSVO.pl
+END
+getVPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getVPs.pl
+END
+findNewSubj.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/findNewSubj.pl
+END
+getDobj.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getDobj.pl
+END
+getNPtype.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getNPtype.pl
+END
+replaceSubj.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/replaceSubj.pl
+END
+findNewSubj2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/findNewSubj2.pl
+END
+getNPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getNPs.pl
+END
+findNewSubj3.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/findNewSubj3.pl
+END
+getSubjNP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getSubjNP.pl
+END
+getSubj.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/getSubj.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/scripts/run.sh
+END

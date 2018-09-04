@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dikduk/!svn/ver/836/DenotationGraph/opennlp/models
+END
+tag.bin.gz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/opennlp/models/tag.bin.gz
+END
+EnglishChunk.bin.gz
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dikduk/!svn/ver/836/DenotationGraph/opennlp/models/EnglishChunk.bin.gz
+END
+EnglishTok.bin.gz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/836/DenotationGraph/opennlp/models/EnglishTok.bin.gz
+END

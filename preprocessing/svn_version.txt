@@ -1,0 +1,11 @@
+    Path: .
+    URL: https://subversion.engr.illinois.edu/svn/dikduk/DenotationGraph
+    Repository Root: https://subversion.engr.illinois.edu/svn/dikduk
+    Repository UUID: 601cc28c-de35-4978-9d8a-041d62d89978
+    Revision: 1137
+    Node Kind: directory
+    Schedule: normal
+    Last Changed Author: pyoung2
+    Last Changed Rev: 1047
+    Last Changed Date: 2014-11-30 16:06:44 -0600 (Sun, 30 Nov 2014)
+

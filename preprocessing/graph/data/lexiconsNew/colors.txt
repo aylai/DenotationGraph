@@ -1,0 +1,25 @@
+black
+blue
+brown
+camouflage
+gold
+golden
+gray
+green
+grey
+lavender
+mainly blue
+mainly red
+navy
+orange
+pink
+purple
+red
+ruby
+sliver
+stripes
+tan
+teal
+turquoise
+white
+yellow

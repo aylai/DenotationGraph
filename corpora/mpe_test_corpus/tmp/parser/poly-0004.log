@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------
+                          MaltParser 1.5.1                             
+-----------------------------------------------------------------------------
+         MALT (Models and Algorithms for Language Technology) Group          
+             Vaxjo University and Uppsala University                         
+                             Sweden                                          
+-----------------------------------------------------------------------------
+
+Started: Fri Aug 03 17:50:17 CDT 2018
+  Transition system    : Projective
+  Parser configuration : Stack
+  Feature model        : eng-libsvm.xml
+  Classifier           : libsvm
+  Data Format          : /engmalt.poly/conllx.xml
+.          	      1	     13s	    426MB
+.          	     10	     17s	    505MB
+.          	    100	     42s	    549MB
+..........	   1000	    290s	    405MB
+..........	   2000	    558s	    403MB
+..........	   3000	    833s	    388MB
+..........	   4000	   1107s	    422MB
+.          	   4167	   1154s	    411MB
+Parsing time: 00:19:13 (1153825 ms)
+Finished: Fri Aug 03 18:09:31 CDT 2018

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet
+END
+index.adv
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/index.adv
+END
+data.adv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/data.adv
+END
+index.adj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/index.adj
+END
+index.verb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/index.verb
+END
+index.noun
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/index.noun
+END
+data.adj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/data.adj
+END
+data.verb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/data.verb
+END
+data.noun
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/data.noun
+END
+adv.exc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/adv.exc
+END
+QueryData.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/QueryData.pm
+END
+cntlist.rev
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/cntlist.rev
+END
+adj.exc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/adj.exc
+END
+verb.exc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/verb.exc
+END
+noun.exc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dikduk/!svn/ver/836/DenotationGraph/WordNet/noun.exc
+END

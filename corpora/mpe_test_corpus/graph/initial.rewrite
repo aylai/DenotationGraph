@@ -1,0 +1,2325 @@
+0	35 39	35 36/[ADVP 37/outside/IN 38/] 39	+ADVP/outside
+1	58 59 60 4 61	58 3/little/JJ 59 60 4 61	+NPMOD/little
+2	62 63	62 13/white/JJ 63	+NPMOD/white
+3	68 69	68 32/wooden/JJ 69	+NPMOD/wooden
+4	60 76 61	60 4/boy/NN 61	+NPHEAD/boy
+5	60 77 61	60 4/boy/NN 61	+NPHEAD/boy
+6	60 76 61	60 77/child/NN 61	+NPHEAD/child
+7	64 78 65	64 14/shirt/NN 65	+NPHEAD/shirt
+8	66 79 67	66 20/jean/NNS 67	+NPHEAD/jean
+9	74 80 75	74 54/woods/NNS 75	+NPHEAD/woods
+10	B 39 42 48 51 E	B 29/[EN/NP3 30/[NP 68/[NPM 69/] 70/[NPH 33/bench/NN 71/] 34/] 39 42 48 51 35/] E	+PP-SENT
+11	34 35	34 39/[PP 40/in/IN 41/] 42/[EN/NP4 43/[NP 72/[NPH 45/middle/NN 73/] 46/] 47/] 48/[PP 49/of/IN 50/] 51/[EN/NP5 52/[NP 74/[NPH 80/forest/NN 75/] 55/] 56/] 35	+PP/in/middle of forest
+12	B 26 29 E	B 23/[VP/VP0 24/balance/VBG 26 29 25/] E	+PP-SENT
+13	24 25	24 26/[PP 27/on/IN 28/] 29/[EN/NP3 30/[NP 68/[NPM 69/] 70/[NPH 33/bench/NN 71/] 34/] 35/] 25	+PP/on/bench
+14	B 0 7 10 17 18 E	B 0 7 10 17 18 23/[VP/VP0 24/balance/VBG 25/] E	+VERB
+15	7 10 E	7 10 17/and/CC 18/[EN/NP2 19/[NP 66/[NPH 79/pants/NN 67/] 21/] 22/] E	+CC-WEAR
+16	7 18 E	7 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 78/clothing/NN 65/] 15/] 16/] 17/and/CC 18 E	+CC-WEAR
+17	B 0 23 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 78/clothing/NN 65/] 15/] 16/] 17/and/CC 18/[EN/NP2 19/[NP 66/[NPH 79/pants/NN 67/] 21/] 22/] 23 E	+VERB
+18	B 0 23 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 78/clothing/NN 65/] 15/] 16/] 17/and/CC 18/[EN/NP2 19/[NP 66/[NPH 20/jean/NNS 67/] 21/] 22/] 23 E	+VERB
+19	B 0 23 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 14/shirt/NN 65/] 15/] 16/] 17/and/CC 18/[EN/NP2 19/[NP 66/[NPH 79/pants/NN 67/] 21/] 22/] 23 E	+VERB
+20	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+21	B 7	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 76/person/NN 61/] 5/] 6/] 7	+SUBJ
+22	B 7	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 77/child/NN 61/] 5/] 6/] 7	+SUBJ
+23	B 7	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 4/boy/NN 61/] 5/] 6/] 7	+SUBJ
+24	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+25	7 E	7 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 78/clothing/NN 65/] 15/] 16/] E	+DOBJ
+26	7 E	7 10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 14/shirt/NN 65/] 15/] 16/] E	+DOBJ
+27	B 18 19 22 E	B 7/[VP/VPwear0 8/wear/VB 9/] 18 19 22 E	+TVERB
+28	7 E	7 18/[EN/NP2 19/[NP 66/[NPH 79/pants/NN 67/] 21/] 22/] E	+DOBJ
+29	7 E	7 18/[EN/NP2 19/[NP 66/[NPH 20/jean/NNS 67/] 21/] 22/] E	+DOBJ
+30	B 0 E	B 0 23/[VP/VP0 24/balance/VBG 25/] E	+VERB
+31	B 23	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 76/person/NN 61/] 5/] 6/] 23	+SUBJ
+32	B 23	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 77/child/NN 61/] 5/] 6/] 23	+SUBJ
+33	B 23	B 0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 4/boy/NN 61/] 5/] 6/] 23	+SUBJ
+34	B 42 E	B 39/[PP 40/in/IN 41/] 42 48/[PP 49/of/IN 50/] 51/[EN/NP5 52/[NP 74/[NPH 80/forest/NN 75/] 55/] 56/] E	+SENT
+35	B 51 E	B 39/[PP 40/in/IN 41/] 42/[EN/NP4 43/[NP 72/[NPH 45/middle/NN 73/] 46/] 47/] 48/[PP 49/of/IN 50/] 51 E	+SENT
+36	B 29 E	B 26/[PP 27/on/IN 28/] 29 E	+SENT
+9001#0	81	0/[EN/NP0 1/[NP 58/[NPM 59/] 60/[NPH 76/person/NN 61/] 5/] 6/]
+9001#0	81	10/[EN/NP1 11/[NP 62/[NPM 63/] 64/[NPH 78/clothing/NN 65/] 15/] 16/]
+9001#0	81	7/[VP/VPwear0 8/wear/VB 9/]
+9001#0	81	18/[EN/NP2 19/[NP 66/[NPH 79/pants/NN 67/] 21/] 22/]
+9001#0	81	23/[VP/VP0 24/balance/VBG 25/]
+9001#0	81	42/[EN/NP4 43/[NP 72/[NPH 45/middle/NN 73/] 46/] 47/]
+9001#0	81	51/[EN/NP5 52/[NP 74/[NPH 80/forest/NN 75/] 55/] 56/]
+9001#0	81	29/[EN/NP3 30/[NP 68/[NPM 69/] 70/[NPH 33/bench/NN 71/] 34/] 35/]
+0	32 33 34 4 35	32 3/young/JJ 33 34 4 35	+NPMOD/young
+1	34 40 35	34 4/child/NN 35	+NPHEAD/child
+2	B 22 25 E	B 16/[EN/NP1 17/[NP 36/[NPH 19/bench/NN 37/] 20/] 22 25 21/] E	+PP-SENT
+3	20 21	20 22/[PP 23/in/IN 24/] 25/[EN/NP2 26/[NP 38/[NPH 28/park/NN 39/] 29/] 30/] 21	+PP/in/park
+4	B 13 16 E	B 7/[VP/VP0 9/try/VBG 10/to/TO 11/balance/VB 13 16 12/] E	+PP-SENT
+5	11 12	11 13/[PP 14/on/IN 15/] 16/[EN/NP1 17/[NP 36/[NPH 19/bench/NN 37/] 20/] 21/] 12	+PP/on/bench
+6	B 0 E	B 0 7/[VP/VP0 9/try/VBG 10/to/TO 11/balance/VB 12/] E	+VERB
+7	B 7	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 40/person/NN 35/] 5/] 6/] 7	+SUBJ
+8	B 7	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 4/child/NN 35/] 5/] 6/] 7	+SUBJ
+9	7 11 12	7 9/try/VBG 10/to/TO 11 12	+Xto
+10	B 25 E	B 22/[PP 23/in/IN 24/] 25 E	+SENT
+11	B 16 E	B 13/[PP 14/on/IN 15/] 16 E	+SENT
+9001#1	41	0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 40/person/NN 35/] 5/] 6/]
+9001#1	41	7/[VP/VP0 11/balance/VB 12/]
+9001#1	41	25/[EN/NP2 26/[NP 38/[NPH 28/park/NN 39/] 29/] 30/]
+9001#1	41	16/[EN/NP1 17/[NP 36/[NPH 19/bench/NN 37/] 20/] 21/]
+0	27 28 29 3 30	27 2/young/JJ 28 29 3 30	+NPMOD/young
+1	33 34	33 22/picnic/NN 34	+NPMOD/picnic
+2	29 37 30	29 3/child/NN 30	+NPHEAD/child
+3	B 16 19 E	B 11/[EN/NP1 12/[NP 31/[NPH 13/himself/PRP 32/] 14/] 16 19 15/] E	+PP-SENT
+4	14 15	14 16/[PP 17/on/IN 18/] 19/[EN/NP2 20/[NP 33/[NPM 34/] 35/[NPH 23/table/NN 36/] 24/] 25/] 15	+PP/on/table
+5	B 0 E	B 0 6/[VP/VP0 7/try/VBG 8/to/TO 9/balance/VB 10/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 37/person/NN 30/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/child/NN 30/] 4/] 5/] 6	+SUBJ
+8	B 11 12 15 E	B 6/[VP/VP0 7/try/VBG 8/to/TO 9/balance/VB 10/] 11 12 15 E	+TVERB
+9	6 E	6 11/[EN/NP1 12/[NP 31/[NPH 13/himself/PRP 32/] 14/] 15/] E	+DOBJ
+10	6 9 10	6 7/try/VBG 8/to/TO 9 10	+Xto
+11	B 19 E	B 16/[PP 17/on/IN 18/] 19 E	+SENT
+9001#2	38	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 37/person/NN 30/] 4/] 5/]
+9001#2	38	11/[EN/NP1 12/[NP 31/[NPH 13/himself/PRP 32/] 14/] 15/]
+9001#2	38	6/[VP/VP0 9/balance/VB 10/]
+9001#2	38	19/[EN/NP2 20/[NP 33/[NPM 34/] 35/[NPH 23/table/NN 36/] 24/] 25/]
+0	31 39 32	31 2/boy/NN 32	+NPHEAD/boy
+1	31 40 32	31 2/boy/NN 32	+NPHEAD/boy
+2	31 39 32	31 40/child/NN 32	+NPHEAD/child
+3	B 8 11 16 19 E	B 5/[VP/VP0 6/engage/VBD 8 11 16 19 7/] E	+PP-SENT
+4	6 7	6 8/[PP 9/in/IN 10/] 11/[EN/NP1 12/[NP 33/[NPH 13/game/NN 34/] 14/] 15/] 16/[PP 17/of/IN 18/] 19/[EN/NP2 20/[NP 35/[NPH 21/courage/NN 36/] 22/] 23/] 7	+PP/in/game of courage
+5	B 0 5 E	B 0 5 24/and/CC 25/[EN/NP3 26/[NP 37/[NPH 27/dare/JJ 38/] 28/] 29/] E	+COMPLEX
+6	B 25 E	B 0/[EN/NP0 1/[NP 31/[NPH 39/person/NN 32/] 3/] 4/] 5/[VP/VP0 6/engage/VBD 7/] 24/and/CC 25 E	+SENT
+7	B 0 E	B 0 5/[VP/VP0 6/engage/VBD 7/] E	+VERB
+8	B 5	B 0/[EN/NP0 1/[NP 31/[NPH 39/person/NN 32/] 3/] 4/] 5	+SUBJ
+9	B 5	B 0/[EN/NP0 1/[NP 31/[NPH 2/boy/NN 32/] 3/] 4/] 5	+SUBJ
+10	B 5	B 0/[EN/NP0 1/[NP 31/[NPH 40/child/NN 32/] 3/] 4/] 5	+SUBJ
+11	B 11 E	B 8/[PP 9/in/IN 10/] 11 16/[PP 17/of/IN 18/] 19/[EN/NP2 20/[NP 35/[NPH 21/courage/NN 36/] 22/] 23/] E	+SENT
+12	B 19 E	B 8/[PP 9/in/IN 10/] 11/[EN/NP1 12/[NP 33/[NPH 13/game/NN 34/] 14/] 15/] 16/[PP 17/of/IN 18/] 19 E	+SENT
+9001#3	41	25/[EN/NP3 26/[NP 37/[NPH 27/dare/JJ 38/] 28/] 29/]
+9001#3	41	0/[EN/NP0 1/[NP 31/[NPH 39/person/NN 32/] 3/] 4/]
+9001#3	41	5/[VP/VP0 6/engage/VBD 7/]
+9001#3	41	11/[EN/NP1 12/[NP 33/[NPH 13/game/NN 34/] 14/] 15/]
+9001#3	41	19/[EN/NP2 20/[NP 35/[NPH 21/courage/NN 36/] 22/] 23/]
+0	9 11 10	9 2/child/NN 10	+NPHEAD/child
+1	B 0 E	B 0 5/[VP/VP0 6/standing/VBZ 7/] E	+VERB
+2	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 11/person/NN 10/] 3/] 4/] 5	+SUBJ
+3	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 2/child/NN 10/] 3/] 4/] 5	+SUBJ
+9001#H	12	0/[EN/NP0 1/[NP 9/[NPH 11/person/NN 10/] 3/] 4/]
+9001#H	12	5/[VP/VP0 6/standing/VBZ 7/]
+0	44 45	44 2/two/DT 45	+NPART/two
+1	46 56 47	46 3/man/NNS 47	+NPHEAD/man
+2	46 57 47	46 56/adult/NN 47	+NPHEAD/adult
+3	50 58 51	50 21/man/NN 51	+NPHEAD/man
+4	50 59 51	50 58/adult/NN 51	+NPHEAD/adult
+5	B 6 9 E	B 0/[EN/NP0 1/[NP 44/[NPD 45/] 46/[NPH 57/person/NN 47/] 4/] 6 9 5/] E	+PP-SENT
+6	4 5	4 6/[PP 7/on/IN 8/] 9/[EN/NP1 10/[NP 48/[NPH 12/rooftop/NN 49/] 13/] 14/] 5	+PP/on/rooftop
+7	B 18 E	B 18 24/[VP/VP0 25/standing/VBZ 26/] E	+VERB
+8	B 24	B 18/[EN/NP2 19/[NP 50/[NPH 59/person/NN 51/] 22/] 23/] 24	+SUBJ
+9	B 24	B 18/[EN/NP2 19/[NP 50/[NPH 58/adult/NN 51/] 22/] 23/] 24	+SUBJ
+10	B 24	B 18/[EN/NP2 19/[NP 50/[NPH 21/man/NN 51/] 22/] 23/] 24	+SUBJ
+11	B 18 36 39 E	B 0/[EN/NP0 1/[NP 44/[NPD 45/] 46/[NPH 57/person/NN 47/] 4/] 5/] 15/[SBAR 16/while/IN 17/] 18 24/[VP/VP0 25/standing/VBZ 26/] 27/[PP 28/atop/IN 29/] 30/[EN/NP3 31/[NP 52/[NPH 33/ladder/NN 53/] 34/] 35/] 36 39 E	+COMPLEX
+12	B 18 E	B 18 36/[VP/VP1 37/watch/VBG 38/] E	+VERB
+13	B 36	B 18/[EN/NP2 19/[NP 50/[NPH 59/person/NN 51/] 22/] 23/] 36	+SUBJ
+14	B 36	B 18/[EN/NP2 19/[NP 50/[NPH 58/adult/NN 51/] 22/] 23/] 36	+SUBJ
+15	B 36	B 18/[EN/NP2 19/[NP 50/[NPH 21/man/NN 51/] 22/] 23/] 36	+SUBJ
+16	B 39 40 43 E	B 36/[VP/VP1 37/watch/VBG 38/] 39 40 43 E	+TVERB
+17	36 E	36 39/[EN/NP4 40/[NP 54/[NPH 41/them/PRP 55/] 42/] 43/] E	+DOBJ
+18	B 9 E	B 6/[PP 7/on/IN 8/] 9 E	+SENT
+19	B 18 E	B 18 36/[VP/VP1 37/watch/VBG 38/] 39/[EN/NP4 40/[NP 54/[NPH 41/them/PRP 55/] 42/] 43/] E	+SENT
+20	B 39 E	B 18/[EN/NP2 19/[NP 50/[NPH 59/person/NN 51/] 22/] 23/] 36/[VP/VP1 37/watch/VBG 38/] 39 E	+SENT
+9002#0	60	24/[VP/VP0 25/standing/VBZ 26/]
+9002#0	60	18/[EN/NP2 19/[NP 50/[NPH 59/person/NN 51/] 22/] 23/]
+9002#0	60	39/[EN/NP4 40/[NP 54/[NPH 41/them/PRP 55/] 42/] 43/]
+9002#0	60	36/[VP/VP1 37/watch/VBG 38/]
+9002#0	60	9/[EN/NP1 10/[NP 48/[NPH 12/rooftop/NN 49/] 13/] 14/]
+0	37 38	37 2/three/DT 38	+NPART/three
+1	39 49 40	39 3/man/NNS 40	+NPHEAD/man
+2	39 50 40	39 49/adult/NN 40	+NPHEAD/adult
+3	B 27 30 E	B 22/[EN/NP3 23/[NP 45/[NPH 24/work/NN 46/] 25/] 27 30 26/] E	+PP-SENT
+4	25 26	25 27/[PP 28/on/IN 29/] 30/[EN/NP4 31/[NP 47/[NPH 33/roof/NN 48/] 34/] 35/] 26	+PP/on/roof
+5	B 12 15 E	B 7/[EN/NP1 8/[NP 41/[NPH 9/one/CD 42/] 10/] 12 15 11/] E	+PP-SENT
+6	10 11	10 12/[PP 13/on/IN 14/] 15/[EN/NP2 16/[NP 43/[NPH 18/ladder/NN 44/] 19/] 20/] 11	+PP/on/ladder
+7	B 0 E	B 0 7/[EN/NP1 8/[NP 41/[NPH 9/one/CD 42/] 10/] 11/] 22/[EN/NP3 23/[NP 45/[NPH 24/work/NN 46/] 25/] 26/] E	+SENT
+8	B 7 E	B 0/[EN/NP0 1/[NP 37/[NPD 38/] 39/[NPH 50/person/NN 40/] 4/] 5/] 7 22/[EN/NP3 23/[NP 45/[NPH 24/work/NN 46/] 25/] 26/] E	+SENT
+9	B 22 E	B 0/[EN/NP0 1/[NP 37/[NPD 38/] 39/[NPH 50/person/NN 40/] 4/] 5/] 7/[EN/NP1 8/[NP 41/[NPH 9/one/CD 42/] 10/] 11/] 22 E	+SENT
+10	B 30 E	B 27/[PP 28/on/IN 29/] 30 E	+SENT
+11	B 15 E	B 12/[PP 13/on/IN 14/] 15 E	+SENT
+9002#1	51	0/[EN/NP0 1/[NP 37/[NPD 38/] 39/[NPH 50/person/NN 40/] 4/] 5/]
+9002#1	51	7/[EN/NP1 8/[NP 41/[NPH 9/one/CD 42/] 10/] 11/]
+9002#1	51	22/[EN/NP3 23/[NP 45/[NPH 24/work/NN 46/] 25/] 26/]
+9002#1	51	30/[EN/NP4 31/[NP 47/[NPH 33/roof/NN 48/] 34/] 35/]
+9002#1	51	15/[EN/NP2 16/[NP 43/[NPH 18/ladder/NN 44/] 19/] 20/]
+0	B 0 5 9 E	B 0 5 9 15/[PP 16/of/IN 17/] 18/[EN/NP2 19/[NP 29/[NPH 21/house/NN 30/] 22/] 23/] E	+COMPLEX
+1	B 18 E	B 0/[EN/NP0 1/[NP 25/[NPH 2/person/NNS 26/] 3/] 4/] 5/[VP/VP0 7/fix/VBG 8/] 9/[EN/NP1 10/[NP 27/[NPH 12/roof/NN 28/] 13/] 14/] 15/[PP 16/of/IN 17/] 18 E	+SENT
+2	B 0 E	B 0 5/[VP/VP0 7/fix/VBG 8/] E	+VERB
+3	B 5	B 0/[EN/NP0 1/[NP 25/[NPH 2/person/NNS 26/] 3/] 4/] 5	+SUBJ
+4	B 9 10 14 E	B 5/[VP/VP0 7/fix/VBG 8/] 9 10 14 E	+TVERB
+5	5 E	5 9/[EN/NP1 10/[NP 27/[NPH 12/roof/NN 28/] 13/] 14/] E	+DOBJ
+6	B 0 E	B 0 5/[VP/VP0 7/fix/VBG 8/] 9/[EN/NP1 10/[NP 27/[NPH 12/roof/NN 28/] 13/] 14/] E	+SENT
+7	B 9 E	B 0/[EN/NP0 1/[NP 25/[NPH 2/person/NNS 26/] 3/] 4/] 5/[VP/VP0 7/fix/VBG 8/] 9 E	+SENT
+9002#2	31	18/[EN/NP2 19/[NP 29/[NPH 21/house/NN 30/] 22/] 23/]
+9002#2	31	0/[EN/NP0 1/[NP 25/[NPH 2/person/NNS 26/] 3/] 4/]
+9002#2	31	9/[EN/NP1 10/[NP 27/[NPH 12/roof/NN 28/] 13/] 14/]
+9002#2	31	5/[VP/VP0 7/fix/VBG 8/]
+0	20 21	20 2/three/DT 21	+NPART/three
+1	22 26 23	22 3/man/NNS 23	+NPHEAD/man
+2	22 27 23	22 26/adult/NN 23	+NPHEAD/adult
+3	B 10 13 E	B 6/[VP/VP0 8/work/VBG 10 13 9/] E	+PP-SENT
+4	8 9	8 10/[PP 11/on/IN 12/] 13/[EN/NP1 14/[NP 24/[NPH 16/roof/NN 25/] 17/] 18/] 9	+PP/on/roof
+5	B 0 E	B 0 6/[VP/VP0 8/work/VBG 9/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 27/person/NN 23/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 3/man/NNS 23/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 26/adult/NN 23/] 4/] 5/] 6	+SUBJ
+9	B 13 E	B 10/[PP 11/on/IN 12/] 13 E	+SENT
+9002#3	28	0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 27/person/NN 23/] 4/] 5/]
+9002#3	28	6/[VP/VP0 8/work/VBG 9/]
+9002#3	28	13/[EN/NP1 14/[NP 24/[NPH 16/roof/NN 25/] 17/] 18/]
+0	9 11 10	9 2/man/NN 10	+NPHEAD/man
+1	9 12 10	9 11/adult/NN 10	+NPHEAD/adult
+2	B 0 E	B 0 5/[VP/VP0 6/sit/VBG 7/] E	+VERB
+3	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 12/person/NN 10/] 3/] 4/] 5	+SUBJ
+4	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 11/adult/NN 10/] 3/] 4/] 5	+SUBJ
+5	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 2/man/NN 10/] 3/] 4/] 5	+SUBJ
+9002#H	13	0/[EN/NP0 1/[NP 9/[NPH 12/person/NN 10/] 3/] 4/]
+9002#H	13	5/[VP/VP0 6/sit/VBG 7/]
+0	123 127	123 124/[ADVP 125/artfully/RB 126/] 127	+ADVP/artfully
+1	145 146	145 24/most/RBS 146	+NPMOD/most
+2	153 154	153 51/middle/NN 154	+NPMOD/middle
+3	157 158	157 61/only/RB 158	+NPMOD/only
+4	169 170	169 102/most/RBS 170	+NPMOD/most
+5	137 138	137 2/three/DT 138	+NPART/three
+6	139 179 140	139 3/chef/NNS 140	+NPHEAD/chef
+7	139 180 140	139 179/cook/NN 140	+NPHEAD/cook
+8	139 181 140	139 180/adult/NN 140	+NPHEAD/adult
+9	147 182 148	147 25/chef/NN 148	+NPHEAD/chef
+10	147 183 148	147 182/cook/NN 148	+NPHEAD/cook
+11	147 184 148	147 183/adult/NN 148	+NPHEAD/adult
+12	155 185 156	155 52/chef/NN 156	+NPHEAD/chef
+13	155 186 156	155 185/cook/NN 156	+NPHEAD/cook
+14	155 187 156	155 186/adult/NN 156	+NPHEAD/adult
+15	171 188 172	171 103/chef/NN 172	+NPHEAD/chef
+16	171 189 172	171 188/cook/NN 172	+NPHEAD/cook
+17	171 190 172	171 189/adult/NN 172	+NPHEAD/adult
+18	B 127 130 E	B 119/[EN/NP14 120/[NP 175/[NPH 121/food/NN 176/] 122/] 127 130 123/] E	+PP-SENT
+19	122 123	122 127/[PP 128/on/IN 129/] 130/[EN/NP15 131/[NP 177/[NPH 133/plate/NN 178/] 134/] 135/] 123	+PP/on/plate
+20	B 85 88 E	B 81/[VP/VP2 83/blur/VBN 85 88 84/] E	+PP-SENT
+21	83 84	83 85/[PP 86/from/IN 87/] 88/[EN/NP10 89/[NP 165/[NPH 90/movement/NN 166/] 91/] 92/] 84	+PP/from/movement
+22	B 37 40 E	B 32/[EN/NP4 33/[NP 149/[NPH 34/something/NN 150/] 35/] 37 40 36/] E	+PP-SENT
+23	35 36	35 37/[PP 38/in/IN 39/] 40/[EN/NP5 41/[NP 151/[NPH 43/fry/JJ 44/pan/NN 152/] 45/] 46/] 36	+PP/in/fry pan
+24	B 6 9 E	B 0/[EN/NP0 1/[NP 137/[NPD 138/] 139/[NPH 181/person/NN 140/] 4/] 6 9 5/] E	+PP-SENT
+25	4 5	4 6/[PP 7/in/IN 8/] 9/[EN/NP1 10/[NP 141/[NPH 12/kitchen/NN 142/] 13/] 14/] 5	+PP/in/kitchen
+26	B 0 16 22 28 32 48 55 58 65 68 75 81 94 100 115 116 119 E	B 0 16 22 28 32 48 55 58 65 68 75 81 94 100 106/[VP/VP3 108/wear/VBG 109/] 110/[EN/NP13 111/[NP 173/[NPH 112/glasses/NNS 174/] 113/] 114/] 115 116 119 E	+VERB
+27	B 100 E	B 100 106/[VP/VP3 108/wear/VBG 109/] E	+VERB
+28	B 106	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 190/person/NN 172/] 104/] 105/] 106	+SUBJ
+29	B 106	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 188/cook/NN 172/] 104/] 105/] 106	+SUBJ
+30	B 106	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 189/adult/NN 172/] 104/] 105/] 106	+SUBJ
+31	B 106	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 103/chef/NN 172/] 104/] 105/] 106	+SUBJ
+32	B 110 111 114 E	B 106/[VP/VP3 108/wear/VBG 109/] 110 111 114 E	+TVERB
+33	106 E	106 110/[EN/NP13 111/[NP 173/[NPH 112/glasses/NNS 174/] 113/] 114/] E	+DOBJ
+34	B 22 E	B 22 28/[VP/VP0 30/flip/VBG 31/] E	+VERB
+35	B 28	B 22/[EN/NP3 23/[NP 145/[NPM 146/] 147/[NPH 184/person/NN 148/] 26/] 27/] 28	+SUBJ
+36	B 28	B 22/[EN/NP3 23/[NP 145/[NPM 146/] 147/[NPH 182/cook/NN 148/] 26/] 27/] 28	+SUBJ
+37	B 28	B 22/[EN/NP3 23/[NP 145/[NPM 146/] 147/[NPH 183/adult/NN 148/] 26/] 27/] 28	+SUBJ
+38	B 28	B 22/[EN/NP3 23/[NP 145/[NPM 146/] 147/[NPH 25/chef/NN 148/] 26/] 27/] 28	+SUBJ
+39	B 32 33 36 E	B 28/[VP/VP0 30/flip/VBG 31/] 32 33 36 E	+TVERB
+40	28 E	28 32/[EN/NP4 33/[NP 149/[NPH 34/something/NN 150/] 35/] 36/] E	+DOBJ
+41	B 58 59 64 E	B 55/[VP/VP1 56/be/VBZ 57/] 58 59 64 E	+TVERB
+42	B 100 E	B 100 116/[VP/VP4 117/arrange/VBG 118/] E	+VERB
+43	B 116	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 190/person/NN 172/] 104/] 105/] 116	+SUBJ
+44	B 116	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 188/cook/NN 172/] 104/] 105/] 116	+SUBJ
+45	B 116	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 189/adult/NN 172/] 104/] 105/] 116	+SUBJ
+46	B 116	B 100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 103/chef/NN 172/] 104/] 105/] 116	+SUBJ
+47	B 119 120 123 E	B 116/[VP/VP4 117/arrange/VBG 118/] 119 120 123 E	+TVERB
+48	116 E	116 119/[EN/NP14 120/[NP 175/[NPH 121/food/NN 176/] 122/] 123/] E	+DOBJ
+49	B 130 E	B 127/[PP 128/on/IN 129/] 130 E	+SENT
+50	B 88 E	B 85/[PP 86/from/IN 87/] 88 E	+SENT
+51	B 40 E	B 37/[PP 38/in/IN 39/] 40 E	+SENT
+52	B 9 E	B 6/[PP 7/in/IN 8/] 9 E	+SENT
+9003#0	191	100/[EN/NP12 101/[NP 169/[NPM 170/] 171/[NPH 190/person/NN 172/] 104/] 105/]
+9003#0	191	110/[EN/NP13 111/[NP 173/[NPH 112/glasses/NNS 174/] 113/] 114/]
+9003#0	191	106/[VP/VP3 108/wear/VBG 109/]
+9003#0	191	22/[EN/NP3 23/[NP 145/[NPM 146/] 147/[NPH 184/person/NN 148/] 26/] 27/]
+9003#0	191	32/[EN/NP4 33/[NP 149/[NPH 34/something/NN 150/] 35/] 36/]
+9003#0	191	28/[VP/VP0 30/flip/VBG 31/]
+9003#0	191	58/[EN/NP7 59/[NP 157/[NPM 158/] 159/[NPH 62/one/CD 160/] 63/] 64/]
+9003#0	191	119/[EN/NP14 120/[NP 175/[NPH 121/food/NN 176/] 122/] 123/]
+9003#0	191	116/[VP/VP4 117/arrange/VBG 118/]
+9003#0	191	130/[EN/NP15 131/[NP 177/[NPH 133/plate/NN 178/] 134/] 135/]
+9003#0	191	88/[EN/NP10 89/[NP 165/[NPH 90/movement/NN 166/] 91/] 92/]
+9003#0	191	40/[EN/NP5 41/[NP 151/[NPH 43/fry/JJ 44/pan/NN 152/] 45/] 46/]
+9003#0	191	9/[EN/NP1 10/[NP 141/[NPH 12/kitchen/NN 142/] 13/] 14/]
+0	29 30	29 3/male/JJ 4/culinary/JJ 30	+NPMOD/male culinary
+1	35 36	35 22/commercial/JJ 36	+NPMOD/commercial
+2	27 28	27 2/three/DT 28	+NPART/three
+3	31 39 32	31 5/worker/NNS 32	+NPHEAD/worker
+4	31 40 32	31 5/worker/NNS 32	+NPHEAD/worker
+5	31 40 32	31 39/adult/NN 32	+NPHEAD/adult
+6	B 16 19 E	B 11/[EN/NP1 12/[NP 33/[NPH 13/meal/NNS 34/] 14/] 16 19 15/] E	+PP-SENT
+7	14 15	14 16/[PP 17/in/IN 18/] 19/[EN/NP2 20/[NP 35/[NPM 36/] 37/[NPH 23/kitchen/NN 38/] 24/] 25/] 15	+PP/in/kitchen
+8	B 0 E	B 0 8/[VP/VP0 9/prepare/VBG 10/] E	+VERB
+9	B 8	B 0/[EN/NP0 1/[NP 27/[NPD 28/] 29/[NPM 30/] 31/[NPH 40/person/NN 32/] 6/] 7/] 8	+SUBJ
+10	B 8	B 0/[EN/NP0 1/[NP 27/[NPD 28/] 29/[NPM 30/] 31/[NPH 5/worker/NNS 32/] 6/] 7/] 8	+SUBJ
+11	B 8	B 0/[EN/NP0 1/[NP 27/[NPD 28/] 29/[NPM 30/] 31/[NPH 39/adult/NN 32/] 6/] 7/] 8	+SUBJ
+12	B 11 12 15 E	B 8/[VP/VP0 9/prepare/VBG 10/] 11 12 15 E	+TVERB
+13	8 E	8 11/[EN/NP1 12/[NP 33/[NPH 13/meal/NNS 34/] 14/] 15/] E	+DOBJ
+14	B 19 E	B 16/[PP 17/in/IN 18/] 19 E	+SENT
+9003#1	41	0/[EN/NP0 1/[NP 27/[NPD 28/] 29/[NPM 30/] 31/[NPH 40/person/NN 32/] 6/] 7/]
+9003#1	41	11/[EN/NP1 12/[NP 33/[NPH 13/meal/NNS 34/] 14/] 15/]
+9003#1	41	8/[VP/VP0 9/prepare/VBG 10/]
+9003#1	41	19/[EN/NP2 20/[NP 35/[NPM 36/] 37/[NPH 23/kitchen/NN 38/] 24/] 25/]
+0	36 37	36 10/two/CD 11/sous/JJ 37	+NPMOD/two sous
+1	34 44 35	34 3/chef/NN 35	+NPHEAD/chef
+2	34 45 35	34 44/cook/NN 35	+NPHEAD/cook
+3	34 46 35	34 45/adult/NN 35	+NPHEAD/adult
+4	38 47 39	38 12/chef/NNS 39	+NPHEAD/chef
+5	38 48 39	38 47/cook/NN 39	+NPHEAD/cook
+6	38 49 39	38 48/adult/NN 39	+NPHEAD/adult
+7	B 24 27 E	B 18/[EN/NP2 19/[NP 40/[NPH 21/dish/NN 41/] 22/] 24 27 23/] E	+PP-SENT
+8	22 23	22 24/[PP 25/in/IN 26/] 27/[EN/NP3 28/[NP 42/[NPH 30/restaurant/NN 43/] 31/] 32/] 23	+PP/in/restaurant
+9	B 0 15 18 E	B 0 6/and/CC 7/[EN/NP1 8/[NP 36/[NPM 37/] 38/[NPH 49/person/NN 39/] 13/] 14/] 15 18 E	+COMPLEX
+10	B 7 E	B 0/[EN/NP0 1/[NP 34/[NPH 46/person/NN 35/] 4/] 5/] 6/and/CC 7 15/[VP/VP0 16/prepare/VBP 17/] 18/[EN/NP2 19/[NP 40/[NPH 21/dish/NN 41/] 22/] 23/] E	+SENT
+11	B 0 E	B 0 15/[VP/VP0 16/prepare/VBP 17/] E	+VERB
+12	B 15	B 0/[EN/NP0 1/[NP 34/[NPH 46/person/NN 35/] 4/] 5/] 15	+SUBJ
+13	B 15	B 0/[EN/NP0 1/[NP 34/[NPH 45/adult/NN 35/] 4/] 5/] 15	+SUBJ
+14	B 15	B 0/[EN/NP0 1/[NP 34/[NPH 3/chef/NN 35/] 4/] 5/] 15	+SUBJ
+15	B 15	B 0/[EN/NP0 1/[NP 34/[NPH 44/cook/NN 35/] 4/] 5/] 15	+SUBJ
+16	B 18 19 23 E	B 15/[VP/VP0 16/prepare/VBP 17/] 18 19 23 E	+TVERB
+17	15 E	15 18/[EN/NP2 19/[NP 40/[NPH 21/dish/NN 41/] 22/] 23/] E	+DOBJ
+18	B 27 E	B 24/[PP 25/in/IN 26/] 27 E	+SENT
+19	B 0 E	B 0 15/[VP/VP0 16/prepare/VBP 17/] 18/[EN/NP2 19/[NP 40/[NPH 21/dish/NN 41/] 22/] 23/] E	+SENT
+20	B 18 E	B 0/[EN/NP0 1/[NP 34/[NPH 46/person/NN 35/] 4/] 5/] 15/[VP/VP0 16/prepare/VBP 17/] 18 E	+SENT
+9003#2	50	7/[EN/NP1 8/[NP 36/[NPM 37/] 38/[NPH 49/person/NN 39/] 13/] 14/]
+9003#2	50	0/[EN/NP0 1/[NP 34/[NPH 46/person/NN 35/] 4/] 5/]
+9003#2	50	18/[EN/NP2 19/[NP 40/[NPH 21/dish/NN 41/] 22/] 23/]
+9003#2	50	15/[VP/VP0 16/prepare/VBP 17/]
+9003#2	50	27/[EN/NP3 28/[NP 42/[NPH 30/restaurant/NN 43/] 31/] 32/]
+0	31 32	31 2/three/DT 32	+NPART/three
+1	33 41 34	33 3/chef/NN 34	+NPHEAD/chef
+2	33 42 34	33 41/cook/NN 34	+NPHEAD/cook
+3	33 43 34	33 42/adult/NN 34	+NPHEAD/adult
+4	35 44 36	35 9/dress/VBN 36	+NPHEAD/dress
+5	B 6 12 15 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/person/NN 34/] 4/] 5/] 6 12 15 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+VERB
+6	B 6 12 15 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 3/chef/NN 34/] 4/] 5/] 6 12 15 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+VERB
+7	B 6 12 15 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 42/adult/NN 34/] 4/] 5/] 6 12 15 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+VERB
+8	B 6 12 15 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 41/cook/NN 34/] 4/] 5/] 6 12 15 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+VERB
+9	B 0 6 20 24 E	B 0 6 12/[VP/VPwear0 13/wear/VB 14/] 15/[EN/NP2 16/[NP 37/[NPH 17/white/JJ 38/] 18/] 19/] 20 24 E	+VERB
+10	B 6 E	B 6 12/[VP/VPwear0 13/wear/VB 14/] E	+VERB
+11	B 12	B 6/[EN/NP1 7/[NP 35/[NPH 44/clothing/NN 36/] 10/] 11/] 12	+SUBJ
+12	B 12	B 6/[EN/NP1 7/[NP 35/[NPH 9/dress/VBN 36/] 10/] 11/] 12	+SUBJ
+13	B 15 16 19 E	B 12/[VP/VPwear0 13/wear/VB 14/] 15 16 19 E	+TVERB
+14	12 E	12 15/[EN/NP2 16/[NP 37/[NPH 17/white/JJ 38/] 18/] 19/] E	+DOBJ
+15	B 0 20 24 E	B 0 6/[EN/NP1 7/[NP 35/[NPH 44/clothing/NN 36/] 10/] 11/] 20 24 E	+COMPLEX
+16	B 6 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/person/NN 34/] 4/] 5/] 6 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+SENT
+17	B 0 E	B 0 20/[VP/VP0 22/prepare/VBG 23/] E	+VERB
+18	B 20	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/person/NN 34/] 4/] 5/] 20	+SUBJ
+19	B 20	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 3/chef/NN 34/] 4/] 5/] 20	+SUBJ
+20	B 20	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 42/adult/NN 34/] 4/] 5/] 20	+SUBJ
+21	B 20	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 41/cook/NN 34/] 4/] 5/] 20	+SUBJ
+22	B 24 25 29 E	B 20/[VP/VP0 22/prepare/VBG 23/] 24 25 29 E	+TVERB
+23	20 E	20 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+DOBJ
+24	B 0 E	B 0 20/[VP/VP0 22/prepare/VBG 23/] 24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/] E	+SENT
+25	B 24 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/person/NN 34/] 4/] 5/] 20/[VP/VP0 22/prepare/VBG 23/] 24 E	+SENT
+9003#3	45	6/[EN/NP1 7/[NP 35/[NPH 44/clothing/NN 36/] 10/] 11/]
+9003#3	45	15/[EN/NP2 16/[NP 37/[NPH 17/white/JJ 38/] 18/] 19/]
+9003#3	45	12/[VP/VPwear0 13/wear/VB 14/]
+9003#3	45	0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/person/NN 34/] 4/] 5/]
+9003#3	45	24/[EN/NP3 25/[NP 39/[NPH 27/meal/NN 40/] 28/] 29/]
+9003#3	45	20/[VP/VP0 22/prepare/VBG 23/]
+0	19 20	19 2/three/DT 20	+NPART/three
+1	21 25 22	21 3/man/NNS 22	+NPHEAD/man
+2	21 26 22	21 25/adult/NN 22	+NPHEAD/adult
+3	B 9 12 E	B 6/[VP/VP0 7/cook/VBP 9 12 8/] E	+PP-SENT
+4	7 8	7 9/[PP 10/in/IN 11/] 12/[EN/NP1 13/[NP 23/[NPH 15/kitchen/NN 24/] 16/] 17/] 8	+PP/in/kitchen
+5	B 0 E	B 0 6/[VP/VP0 7/cook/VBP 8/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 19/[NPD 20/] 21/[NPH 26/person/NN 22/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 19/[NPD 20/] 21/[NPH 25/adult/NN 22/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 19/[NPD 20/] 21/[NPH 3/man/NNS 22/] 4/] 5/] 6	+SUBJ
+9	B 12 E	B 9/[PP 10/in/IN 11/] 12 E	+SENT
+9003#H	27	0/[EN/NP0 1/[NP 19/[NPD 20/] 21/[NPH 26/person/NN 22/] 4/] 5/]
+9003#H	27	6/[VP/VP0 7/cook/VBP 8/]
+9003#H	27	12/[EN/NP1 13/[NP 23/[NPH 15/kitchen/NN 24/] 16/] 17/]
+0	48 49	48 3/female/JJ 49	+NPMOD/female
+1	52 53	52 13/blue/JJ 53	+NPMOD/blue
+2	58 59	58 36/blue/JJ 59	+NPMOD/blue
+3	62 63	62 43/black/JJ 63	+NPMOD/black
+4	50 66 51	50 4/gymnasium/NN 51	+NPHEAD/gymnasium
+5	56 67 57	56 26/someone/NN 57	+NPHEAD/someone
+6	60 68 61	60 37/jacket/NN 61	+NPHEAD/jacket
+7	B 21 24 E	B 17/[VP/VP0 18/get/VBG 19/hug/VBN 21 24 20/] E	+PP-SENT
+8	19 20	19 21/[PP 22/by/IN 23/] 24/[EN/NP2 25/[NP 56/[NPH 67/person/NN 57/] 27/] 28/] 20	+PP/by/person
+9	B 0 17 29 30 33 40 41 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] 17 29 30 33 40 41 E	+VERB
+10	B 30 33 40 41 E	B 0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 66/gym/NN 51/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] 17/[VP/VP0 18/get/VBG 19/hug/VBN 20/] 29/else/RB 30 33 40 41 E	+VERB
+11	B 30 33 40 41 E	B 0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 4/gymnasium/NN 51/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] 17/[VP/VP0 18/get/VBG 19/hug/VBN 20/] 29/else/RB 30 33 40 41 E	+VERB
+12	30 33 E	30 33 40/and/CC 41/[EN/NP4 42/[NP 62/[NPM 63/] 64/[NPH 44/pant/NNS 65/] 45/] 46/] E	+CC-WEAR
+13	30 41 E	30 33/[EN/NP3 34/[NP 58/[NPM 59/] 60/[NPH 68/clothing/NN 61/] 38/] 39/] 40/and/CC 41 E	+CC-WEAR
+14	B 0 7 10 17 29 E	B 0 7 10 17 29 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 58/[NPM 59/] 60/[NPH 68/clothing/NN 61/] 38/] 39/] 40/and/CC 41/[EN/NP4 42/[NP 62/[NPM 63/] 64/[NPH 44/pant/NNS 65/] 45/] 46/] E	+VERB
+15	B 0 7 10 17 29 E	B 0 7 10 17 29 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 58/[NPM 59/] 60/[NPH 37/jacket/NN 61/] 38/] 39/] 40/and/CC 41/[EN/NP4 42/[NP 62/[NPM 63/] 64/[NPH 44/pant/NNS 65/] 45/] 46/] E	+VERB
+16	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+17	B 7	B 0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 66/gym/NN 51/] 5/] 6/] 7	+SUBJ
+18	B 7	B 0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 4/gymnasium/NN 51/] 5/] 6/] 7	+SUBJ
+19	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+20	7 E	7 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] E	+DOBJ
+21	B 10 17 E	B 0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 66/gym/NN 51/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10 17 29/else/RB E	+COMPLEX
+22	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] 17/[VP/VP0 18/get/VBG 19/hug/VBN 20/] 29/else/RB E	+SENT
+23	B 10 E	B 10 17/[VP/VP0 18/get/VBG 19/hug/VBN 20/] E	+VERB
+24	B 17	B 10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/] 17	+SUBJ
+25	B 0 7 10 E	B 0 7 10 17/[VP/VP0 18/get/VBG 19/hug/VBN 20/] 29/else/RB E	+COMPLEX
+26	B 24 E	B 21/[PP 22/by/IN 23/] 24 E	+SENT
+27	B 33 E	B 30/[VP/VPwear1 31/wear/VB 32/] 33 E	+SENT
+28	B 41 E	B 30/[VP/VPwear1 31/wear/VB 32/] 41 E	+SENT
+9004#0	69	0/[EN/NP0 1/[NP 48/[NPM 49/] 50/[NPH 66/gym/NN 51/] 5/] 6/]
+9004#0	69	10/[EN/NP1 11/[NP 52/[NPM 53/] 54/[NPH 14/leotard/NN 55/] 15/] 16/]
+9004#0	69	7/[VP/VPwear0 8/wear/VB 9/]
+9004#0	69	17/[VP/VP0 18/get/VBG 19/hug/VBN 20/]
+9004#0	69	24/[EN/NP2 25/[NP 56/[NPH 67/person/NN 57/] 27/] 28/]
+9004#0	69	33/[EN/NP3 34/[NP 58/[NPM 59/] 60/[NPH 68/clothing/NN 61/] 38/] 39/]
+9004#0	69	41/[EN/NP4 42/[NP 62/[NPM 63/] 64/[NPH 44/pant/NNS 65/] 45/] 46/]
+0	45 46	45 12/purple/JJ 46	+NPMOD/purple
+1	51 52	51 36/blue/JJ 37/and/CC 38/purple/JJ 52	+NPMOD/blue and purple
+2	43 55 44	43 3/girl_woman/NN 44	+NPHEAD/girl_woman
+3	43 56 44	43 55/woman/NN 44	+NPHEAD/woman
+4	43 57 44	43 56/adult/NN 44	+NPHEAD/adult
+5	49 58 50	49 27/girl_woman/NN 50	+NPHEAD/girl_woman
+6	49 59 50	49 58/woman/NN 50	+NPHEAD/woman
+7	49 60 50	49 59/adult/NN 50	+NPHEAD/adult
+8	53 61 54	53 39/outfit/NN 54	+NPHEAD/outfit
+9	B 21 24 E	B 16/[VP/VP0 19/hug/VBN 21 24 20/] E	+PP-SENT
+10	19 20	19 21/[PP 22/by/IN 23/] 24/[EN/NP2 25/[NP 49/[NPH 60/person/NN 50/] 28/] 29/] 20	+PP/by/person
+11	B 0 6 9 E	B 0 6 9 16/[VP/VP0 19/hug/VBN 20/] 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 61/clothing/NN 54/] 40/] 41/] E	+VERB
+12	B 0 6 9 E	B 0 6 9 16/[VP/VP0 19/hug/VBN 20/] 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 39/outfit/NN 54/] 40/] 41/] E	+VERB
+13	B 0 16 30 33 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16 30 33 E	+VERB
+14	B 30 33 E	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16/[VP/VP0 19/hug/VBN 20/] 30 33 E	+VERB
+15	B 30 33 E	B 0/[EN/NP0 1/[NP 43/[NPH 55/woman/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16/[VP/VP0 19/hug/VBN 20/] 30 33 E	+VERB
+16	B 30 33 E	B 0/[EN/NP0 1/[NP 43/[NPH 56/adult/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16/[VP/VP0 19/hug/VBN 20/] 30 33 E	+VERB
+17	B 30 33 E	B 0/[EN/NP0 1/[NP 43/[NPH 3/girl_woman/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16/[VP/VP0 19/hug/VBN 20/] 30 33 E	+VERB
+18	B 0 6 9 16 E	B 0 6 9 16 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 61/clothing/NN 54/] 40/] 41/] E	+VERB
+19	B 0 6 9 16 E	B 0 6 9 16 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 39/outfit/NN 54/] 40/] 41/] E	+VERB
+20	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+21	B 6	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 6	+SUBJ
+22	B 6	B 0/[EN/NP0 1/[NP 43/[NPH 55/woman/NN 44/] 4/] 5/] 6	+SUBJ
+23	B 6	B 0/[EN/NP0 1/[NP 43/[NPH 56/adult/NN 44/] 4/] 5/] 6	+SUBJ
+24	B 6	B 0/[EN/NP0 1/[NP 43/[NPH 3/girl_woman/NN 44/] 4/] 5/] 6	+SUBJ
+25	B 9 10 15 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 15 E	+TVERB
+26	6 E	6 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] E	+DOBJ
+27	B 16 E	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 16 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 61/clothing/NN 54/] 40/] 41/] E	+COMPLEX-VERB
+28	B 0 E	B 0 16/[VP/VP0 19/hug/VBN 20/] 30/[VP/VPwear1 31/wear/VB 32/] 33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 61/clothing/NN 54/] 40/] 41/] E	+SENT
+29	B 33 E	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 16/[VP/VP0 19/hug/VBN 20/] 30/[VP/VPwear1 31/wear/VB 32/] 33 E	+SENT
+30	B 16 E	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16 E	+COMPLEX-VERB
+31	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/] 16/[VP/VP0 19/hug/VBN 20/] E	+SENT
+32	B 9 E	B 0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/] 6/[VP/VPwear0 7/wear/VB 8/] 9 16/[VP/VP0 19/hug/VBN 20/] E	+SENT
+33	B 0 6 9 E	B 0 6 9 16/[VP/VP0 19/hug/VBN 20/] E	+COMPLEX
+34	B 24 E	B 21/[PP 22/by/IN 23/] 24 E	+SENT
+35	B 33 E	B 30/[VP/VPwear1 31/wear/VB 32/] 33 E	+SENT
+9004#1	62	0/[EN/NP0 1/[NP 43/[NPH 57/person/NN 44/] 4/] 5/]
+9004#1	62	9/[EN/NP1 10/[NP 45/[NPM 46/] 47/[NPH 13/leotard/NN 48/] 14/] 15/]
+9004#1	62	6/[VP/VPwear0 7/wear/VB 8/]
+9004#1	62	16/[VP/VP0 19/hug/VBN 20/]
+9004#1	62	33/[EN/NP3 34/[NP 51/[NPM 52/] 53/[NPH 61/clothing/NN 54/] 40/] 41/]
+9004#1	62	24/[EN/NP2 25/[NP 49/[NPH 60/person/NN 50/] 28/] 29/]
+0	38 39	38 3/brown-haired/JJ 39	+NPMOD/brown-haired
+1	42 43	42 13/blue/JJ 43	+NPMOD/blue
+2	48 49	48 33/track/NN 49	+NPMOD/track
+3	40 52 41	40 4/girl_woman/NN 41	+NPHEAD/girl_woman
+4	40 53 41	40 52/woman/NN 41	+NPHEAD/woman
+5	40 54 41	40 53/adult/NN 41	+NPHEAD/adult
+6	46 55 47	46 24/girl_woman/NN 47	+NPHEAD/girl_woman
+7	46 56 47	46 55/woman/NN 47	+NPHEAD/woman
+8	46 57 47	46 56/adult/NN 47	+NPHEAD/adult
+9	50 58 51	50 34/outfit/NN 51	+NPHEAD/outfit
+10	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+VERB
+11	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 55/woman/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+VERB
+12	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 56/adult/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+VERB
+13	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 24/girl_woman/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+VERB
+14	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 34/outfit/NN 51/] 35/] 36/] E	+VERB
+15	B 0 17 21 27 30 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17 21 27 30 E	+VERB
+16	B 21 27 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17/[VP/VP0 19/hug/VBG 20/] 21 27 30 E	+VERB
+17	B 21 27 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 52/woman/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17/[VP/VP0 19/hug/VBG 20/] 21 27 30 E	+VERB
+18	B 21 27 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 53/adult/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17/[VP/VP0 19/hug/VBG 20/] 21 27 30 E	+VERB
+19	B 21 27 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 4/girl_woman/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17/[VP/VP0 19/hug/VBG 20/] 21 27 30 E	+VERB
+20	B 0 7 10 17 21 E	B 0 7 10 17 21 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+VERB
+21	B 0 7 10 17 21 E	B 0 7 10 17 21 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 34/outfit/NN 51/] 35/] 36/] E	+VERB
+22	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+23	B 7	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 7	+SUBJ
+24	B 7	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 52/woman/NN 41/] 5/] 6/] 7	+SUBJ
+25	B 7	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 53/adult/NN 41/] 5/] 6/] 7	+SUBJ
+26	B 7	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 4/girl_woman/NN 41/] 5/] 6/] 7	+SUBJ
+27	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+28	7 E	7 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] E	+DOBJ
+29	B 0 17 21 E	B 0 17 21 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+COMPLEX
+30	B 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30 E	+SENT
+31	B 0 E	B 0 17/[VP/VP0 19/hug/VBG 20/] E	+VERB
+32	B 17	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 17	+SUBJ
+33	B 17	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 52/woman/NN 41/] 5/] 6/] 17	+SUBJ
+34	B 17	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 53/adult/NN 41/] 5/] 6/] 17	+SUBJ
+35	B 17	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 4/girl_woman/NN 41/] 5/] 6/] 17	+SUBJ
+36	B 21 22 26 E	B 17/[VP/VP0 19/hug/VBG 20/] 21 22 26 E	+TVERB
+37	17 E	17 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] E	+DOBJ
+38	17 E	17 21/[EN/NP2 22/[NP 46/[NPH 55/woman/NN 47/] 25/] 26/] E	+DOBJ
+39	17 E	17 21/[EN/NP2 22/[NP 46/[NPH 56/adult/NN 47/] 25/] 26/] E	+DOBJ
+40	17 E	17 21/[EN/NP2 22/[NP 46/[NPH 24/girl_woman/NN 47/] 25/] 26/] E	+DOBJ
+41	B 21 27 30 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 17/[VP/VP0 19/hug/VBG 20/] 21 27 30 E	+COMPLEX
+42	B 0 E	B 0 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] 27/[VP/VPwear1 28/wear/VB 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+SENT
+43	B 21 E	B 21 27/[VP/VPwear1 28/wear/VB 29/] E	+VERB
+44	B 27	B 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] 27	+SUBJ
+45	B 27	B 21/[EN/NP2 22/[NP 46/[NPH 55/woman/NN 47/] 25/] 26/] 27	+SUBJ
+46	B 27	B 21/[EN/NP2 22/[NP 46/[NPH 56/adult/NN 47/] 25/] 26/] 27	+SUBJ
+47	B 27	B 21/[EN/NP2 22/[NP 46/[NPH 24/girl_woman/NN 47/] 25/] 26/] 27	+SUBJ
+48	B 30 31 36 E	B 27/[VP/VPwear1 28/wear/VB 29/] 30 31 36 E	+TVERB
+49	27 E	27 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/] E	+DOBJ
+50	27 E	27 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 34/outfit/NN 51/] 35/] 36/] E	+DOBJ
+51	B 0 17 21 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17 21 E	+COMPLEX
+52	B 10 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] E	+SENT
+53	B 0 7 10 E	B 0 7 10 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] E	+COMPLEX
+54	B 21 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/] 17/[VP/VP0 19/hug/VBG 20/] 21 E	+SENT
+55	B 0 E	B 0 17/[VP/VP0 19/hug/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/] E	+SENT
+56	B 21 E	B 0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/] 17/[VP/VP0 19/hug/VBG 20/] 21 E	+SENT
+9004#2	59	0/[EN/NP0 1/[NP 38/[NPM 39/] 40/[NPH 54/person/NN 41/] 5/] 6/]
+9004#2	59	10/[EN/NP1 11/[NP 42/[NPM 43/] 44/[NPH 14/leotard/NN 45/] 15/] 16/]
+9004#2	59	7/[VP/VPwear0 8/wear/VB 9/]
+9004#2	59	17/[VP/VP0 19/hug/VBG 20/]
+9004#2	59	21/[EN/NP2 22/[NP 46/[NPH 57/person/NN 47/] 25/] 26/]
+9004#2	59	30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 58/clothing/NN 51/] 35/] 36/]
+9004#2	59	27/[VP/VPwear1 28/wear/VB 29/]
+0	42 43	42 10/blue/JJ 43	+NPMOD/blue
+1	54 55	54 35/sport/JJ 55	+NPMOD/sport
+2	50 51	50 28/some/DT 51	+NPART/some
+3	40 58 41	40 2/woman/NNS 41	+NPHEAD/woman
+4	40 59 41	40 58/adult/NN 41	+NPHEAD/adult
+5	26 34 38	26 27/[NP 50/[NPD 51/] 52/[NPH 29/sort/NN 53/] 30/] 31/[PP 32/of/IN 33/] 34 38	+Xof
+6	B 0 5 8 E	B 0 5 8 14/[VP/VP0 15/hug/VBG 16/] 17/[EN/NP2 18/[NP 46/[NPD 19/each/DT 47/] 48/[NPH 20/other/JJ 49/] 21/] 22/] 23/[PP 24/during/IN 25/] 26/[EN/NP3 34/[NP 54/[NPM 55/] 56/[NPH 36/event/NN 57/] 37/] 38/] E	+VERB
+7	B 0 14 17 23 26 E	B 0 5/[VP/VPwear0 6/wear/VB 7/] 8/[EN/NP1 9/[NP 42/[NPM 43/] 44/[NPH 11/leotard/NNS 45/] 12/] 13/] 14 17 23 26 E	+VERB
+8	B 0 E	B 0 5/[VP/VPwear0 6/wear/VB 7/] E	+VERB
+9	B 5	B 0/[EN/NP0 1/[NP 40/[NPH 59/person/NN 41/] 3/] 4/] 5	+SUBJ
+10	B 5	B 0/[EN/NP0 1/[NP 40/[NPH 2/woman/NNS 41/] 3/] 4/] 5	+SUBJ
+11	B 5	B 0/[EN/NP0 1/[NP 40/[NPH 58/adult/NN 41/] 3/] 4/] 5	+SUBJ
+12	B 8 9 13 E	B 5/[VP/VPwear0 6/wear/VB 7/] 8 9 13 E	+TVERB
+13	5 E	5 8/[EN/NP1 9/[NP 42/[NPM 43/] 44/[NPH 11/leotard/NNS 45/] 12/] 13/] E	+DOBJ
+14	B 0 14 17 E	B 0 14 17 23/[PP 24/during/IN 25/] 26/[EN/NP3 34/[NP 54/[NPM 55/] 56/[NPH 36/event/NN 57/] 37/] 38/] E	+COMPLEX
+15	B 26 E	B 0/[EN/NP0 1/[NP 40/[NPH 59/person/NN 41/] 3/] 4/] 14/[VP/VP0 15/hug/VBG 16/] 17/[EN/NP2 18/[NP 46/[NPD 19/each/DT 47/] 48/[NPH 20/other/JJ 49/] 21/] 22/] 23/[PP 24/during/IN 25/] 26 E	+SENT
+16	B 0 E	B 0 14/[VP/VP0 15/hug/VBG 16/] E	+VERB
+17	B 14	B 0/[EN/NP0 1/[NP 40/[NPH 59/person/NN 41/] 3/] 4/] 14	+SUBJ
+18	B 14	B 0/[EN/NP0 1/[NP 40/[NPH 2/woman/NNS 41/] 3/] 4/] 14	+SUBJ
+19	B 14	B 0/[EN/NP0 1/[NP 40/[NPH 58/adult/NN 41/] 3/] 4/] 14	+SUBJ
+20	B 17 18 22 E	B 14/[VP/VP0 15/hug/VBG 16/] 17 18 22 E	+TVERB
+21	14 E	14 17/[EN/NP2 18/[NP 46/[NPD 19/each/DT 47/] 48/[NPH 20/other/JJ 49/] 21/] 22/] E	+DOBJ
+22	B 0 E	B 0 14/[VP/VP0 15/hug/VBG 16/] 17/[EN/NP2 18/[NP 46/[NPD 19/each/DT 47/] 48/[NPH 20/other/JJ 49/] 21/] 22/] E	+SENT
+23	B 17 E	B 0/[EN/NP0 1/[NP 40/[NPH 59/person/NN 41/] 3/] 4/] 14/[VP/VP0 15/hug/VBG 16/] 17 E	+SENT
+9004#3	60	0/[EN/NP0 1/[NP 40/[NPH 59/person/NN 41/] 3/] 4/]
+9004#3	60	8/[EN/NP1 9/[NP 42/[NPM 43/] 44/[NPH 11/leotard/NNS 45/] 12/] 13/]
+9004#3	60	5/[VP/VPwear0 6/wear/VB 7/]
+9004#3	60	26/[EN/NP3 34/[NP 54/[NPM 55/] 56/[NPH 36/event/NN 57/] 37/] 38/]
+9004#3	60	17/[EN/NP2 18/[NP 46/[NPD 19/each/DT 47/] 48/[NPH 20/other/JJ 49/] 21/] 22/]
+9004#3	60	14/[VP/VP0 15/hug/VBG 16/]
+0	B 0 E	B 0 6/[VP/VP0 7/sit/VBZ 8/] E	+VERB
+1	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 3/audience/NN 11/] 4/] 5/] 6	+SUBJ
+9004#H	12	0/[EN/NP0 1/[NP 10/[NPH 3/audience/NN 11/] 4/] 5/]
+9004#H	12	6/[VP/VP0 7/sit/VBZ 8/]
+0	32 33	32 2/street/NNP 33	+NPMOD/street
+1	36 37	36 11/some/DT 37	+NPART/some
+2	34 44 35	34 3/vendor/NNS 35	+NPHEAD/vendor
+3	34 45 35	34 44/merchant/NN 35	+NPHEAD/merchant
+4	34 46 35	34 45/adult/NN 35	+NPHEAD/adult
+5	38 47 39	38 12/ward/NNS 39	+NPHEAD/ward
+6	42 48 43	42 27/soccer/NN 28/ball/NNS 43	+NPHEAD/soccer ball
+7	B 0 6 9 E	B 0 6 9 16/[PP 17/include/VBG 18/] 19/[EN/NP2 20/[NP 40/[NPH 21/pineapple/NNS 41/] 22/] 23/] 24/and/CC 25/[EN/NP3 26/[NP 42/[NPH 48/ball/NN 43/] 29/] 30/] E	+COMPLEX
+8	B 0 E	B 0 6/[VP/VP0 7/sell/VBP 8/] E	+VERB
+9	B 6	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 46/person/NN 35/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 45/adult/NN 35/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 3/vendor/NNS 35/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 44/merchant/NN 35/] 4/] 5/] 6	+SUBJ
+13	B 9 10 14 E	B 6/[VP/VP0 7/sell/VBP 8/] 9 10 14 E	+TVERB
+14	6 E	6 9/[EN/NP1 10/[NP 36/[NPD 37/] 38/[NPH 47/person/NN 39/] 13/] 14/] E	+DOBJ
+15	6 E	6 9/[EN/NP1 10/[NP 36/[NPD 37/] 38/[NPH 12/ward/NNS 39/] 13/] 14/] E	+DOBJ
+16	B 0 E	B 0 6/[VP/VP0 7/sell/VBP 8/] 9/[EN/NP1 10/[NP 36/[NPD 37/] 38/[NPH 47/person/NN 39/] 13/] 14/] E	+SENT
+17	B 9 E	B 0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 46/person/NN 35/] 4/] 5/] 6/[VP/VP0 7/sell/VBP 8/] 9 E	+SENT
+9005#0	49	0/[EN/NP0 1/[NP 32/[NPM 33/] 34/[NPH 46/person/NN 35/] 4/] 5/]
+9005#0	49	9/[EN/NP1 10/[NP 36/[NPD 37/] 38/[NPH 47/person/NN 39/] 13/] 14/]
+9005#0	49	6/[VP/VP0 7/sell/VBP 8/]
+0	33 34 35 4 36	33 3/young/JJ 34 35 4 36	+NPMOD/young
+1	37 38	37 13/odd/JJ 38	+NPMOD/odd
+2	35 45 36	35 4/woman/NN 36	+NPHEAD/woman
+3	35 46 36	35 45/adult/NN 36	+NPHEAD/adult
+4	B 0 7 11 E	B 0 7 11 17/and/CC 18/[EN/NP2 19/[NP 41/[NPH 20/fruit/NN 42/] 21/] 22/] 23/[PP 24/alongside/IN 25/] 26/[EN/NP3 27/[NP 43/[NPH 29/street/NN 44/] 30/] 31/] E	+COMPLEX
+5	B 0 E	B 0 7/[VP/VP0 9/sell/VBG 10/] E	+VERB
+6	B 7	B 0/[EN/NP0 1/[NP 33/[NPM 34/] 35/[NPH 46/person/NN 36/] 5/] 6/] 7	+SUBJ
+7	B 7	B 0/[EN/NP0 1/[NP 33/[NPM 34/] 35/[NPH 4/woman/NN 36/] 5/] 6/] 7	+SUBJ
+8	B 7	B 0/[EN/NP0 1/[NP 33/[NPM 34/] 35/[NPH 45/adult/NN 36/] 5/] 6/] 7	+SUBJ
+9	B 11 12 16 E	B 7/[VP/VP0 9/sell/VBG 10/] 11 12 16 E	+TVERB
+10	7 E	7 11/[EN/NP1 12/[NP 37/[NPM 38/] 39/[NPH 14/toy/NNS 40/] 15/] 16/] E	+DOBJ
+11	B 0 E	B 0 7/[VP/VP0 9/sell/VBG 10/] 11/[EN/NP1 12/[NP 37/[NPM 38/] 39/[NPH 14/toy/NNS 40/] 15/] 16/] E	+SENT
+12	B 11 E	B 0/[EN/NP0 1/[NP 33/[NPM 34/] 35/[NPH 46/person/NN 36/] 5/] 6/] 7/[VP/VP0 9/sell/VBG 10/] 11 E	+SENT
+9005#1	47	0/[EN/NP0 1/[NP 33/[NPM 34/] 35/[NPH 46/person/NN 36/] 5/] 6/]
+9005#1	47	11/[EN/NP1 12/[NP 37/[NPM 38/] 39/[NPH 14/toy/NNS 40/] 15/] 16/]
+9005#1	47	7/[VP/VP0 9/sell/VBG 10/]
+0	33 39 34	33 3/vendor/NN 34	+NPHEAD/vendor
+1	33 40 34	33 39/merchant/NN 34	+NPHEAD/merchant
+2	33 41 34	33 40/adult/NN 34	+NPHEAD/adult
+3	B 23 26 E	B 17/[VP/VP0 18/set/VBN 19/] 20/[PRT 21/up/RP 23 26 22/] E	+PP-SENT
+4	21 22	21 23/[PP 24/on/IN 25/] 26/[EN/NP2 27/[NP 37/[NPH 29/street/NN 38/] 30/] 31/] 22	+PP/on/street
+5	B 7 10 E	B 0/[EN/NP0 1/[NP 33/[NPH 41/person/NN 34/] 4/] 7 10 5/] E	+PP-SENT
+6	4 5	4 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 35/[NPH 13/ware/NNS 36/] 14/] 15/] 5	+PP/with/ware
+7	B 17 E	B 0/[EN/NP0 1/[NP 33/[NPH 41/person/NN 34/] 4/] 5/] 17 20/[PRT 21/up/RP 22/] E	+COMPLEX-VERB
+8	B 0 E	B 0 17/[VP/VP0 18/set/VBN 19/] 20/[PRT 21/up/RP 22/] E	+SENT
+9	B 26 E	B 23/[PP 24/on/IN 25/] 26 E	+SENT
+10	B 10 E	B 7/[PP 8/with/IN 9/] 10 E	+SENT
+9005#2	42	17/[VP/VP0 18/set/VBN 19/]
+9005#2	42	0/[EN/NP0 1/[NP 33/[NPH 41/person/NN 34/] 4/] 5/]
+9005#2	42	26/[EN/NP2 27/[NP 37/[NPH 29/street/NN 38/] 30/] 31/]
+9005#2	42	10/[EN/NP1 11/[NP 35/[NPH 13/ware/NNS 36/] 14/] 15/]
+0	9 10	9 3/middle/JJ 4/eastern/JJ 10	+NPMOD/middle eastern
+9005#3	13	0/[EN/NP0 1/[NP 9/[NPM 10/] 11/[NPH 5/marketplace/NN 12/] 6/] 7/]
+0	28 34 29	28 3/man/NN 29	+NPHEAD/man
+1	28 35 29	28 34/adult/NN 29	+NPHEAD/adult
+2	B 9 12 18 21 E	B 6/[VP/VP0 7/sit/VBZ 9 12 18 21 8/] E	+PP-SENT
+3	7 8	7 9/[PP 10/on/IN 11/] 12/[EN/NP1 13/[NP 30/[NPH 15/side/NN 31/] 16/] 17/] 18/[PP 19/of/IN 20/] 21/[EN/NP2 22/[NP 32/[NPH 24/street/NN 33/] 25/] 26/] 8	+PP/on/side of street
+4	B 0 E	B 0 6/[VP/VP0 7/sit/VBZ 8/] E	+VERB
+5	B 6	B 0/[EN/NP0 1/[NP 28/[NPH 35/person/NN 29/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 28/[NPH 34/adult/NN 29/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 28/[NPH 3/man/NN 29/] 4/] 5/] 6	+SUBJ
+8	B 12 E	B 9/[PP 10/on/IN 11/] 12 18/[PP 19/of/IN 20/] 21/[EN/NP2 22/[NP 32/[NPH 24/street/NN 33/] 25/] 26/] E	+SENT
+9	B 21 E	B 9/[PP 10/on/IN 11/] 12/[EN/NP1 13/[NP 30/[NPH 15/side/NN 31/] 16/] 17/] 18/[PP 19/of/IN 20/] 21 E	+SENT
+9005#H	36	0/[EN/NP0 1/[NP 28/[NPH 35/person/NN 29/] 4/] 5/]
+9005#H	36	6/[VP/VP0 7/sit/VBZ 8/]
+9005#H	36	12/[EN/NP1 13/[NP 30/[NPH 15/side/NN 31/] 16/] 17/]
+9005#H	36	21/[EN/NP2 22/[NP 32/[NPH 24/street/NN 33/] 25/] 26/]
+0	50 62 51	50 3/musician/NN 51	+NPHEAD/musician
+1	50 63 51	50 62/performer/NN 51	+NPHEAD/performer
+2	50 64 51	50 62/performer/NN 51	+NPHEAD/performer
+3	50 65 51	50 63/adult/NN 51	+NPHEAD/adult
+4	50 63 51	50 64/entertainer/NN 51	+NPHEAD/entertainer
+5	52 66 67 53	52 12/drum/NN 53	+NPHEAD/drum
+6	52 68 53	52 66/percussion/NN 67/instrument/NN 53	+NPHEAD/percussion instrument
+7	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] E	+VERB
+8	B 6	B 0/[EN/NP0 1/[NP 50/[NPH 65/person/NN 51/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 50/[NPH 62/performer/NN 51/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 50/[NPH 63/adult/NN 51/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 50/[NPH 64/entertainer/NN 51/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 50/[NPH 3/musician/NN 51/] 4/] 5/] 6	+SUBJ
+13	B 9 10 14 E	B 6/[VP/VP0 7/play/VBZ 8/] 9 10 14 E	+TVERB
+14	6 E	6 9/[EN/NP1 10/[NP 52/[NPH 68/instrument/NN 53/] 13/] 14/] E	+DOBJ
+15	6 E	6 9/[EN/NP1 10/[NP 52/[NPH 66/percussion/NN 67/instrument/NN 53/] 13/] 14/] E	+DOBJ
+16	6 E	6 9/[EN/NP1 10/[NP 52/[NPH 12/drum/NN 53/] 13/] 14/] E	+DOBJ
+17	B 18 E	B 18 24/[VP/VP1 25/cover/VBZ 26/] E	+VERB
+18	B 24	B 18/[EN/NP2 19/[NP 54/[NPH 21/hair/NN 55/] 22/] 23/] 24	+SUBJ
+19	B 27 28 32 E	B 24/[VP/VP1 25/cover/VBZ 26/] 27 28 32 E	+TVERB
+20	24 E	24 27/[EN/NP3 28/[NP 56/[NPH 30/face/NN 57/] 31/] 32/] E	+DOBJ
+21	B 35 E	B 35 40/[VP/VP2 41/dot/VBP 42/] E	+VERB
+22	B 40	B 35/[EN/NP4 36/[NP 58/[NPH 37/tattoo/NNS 59/] 38/] 39/] 40	+SUBJ
+23	B 43 44 48 E	B 40/[VP/VP2 41/dot/VBP 42/] 43 44 48 E	+TVERB
+24	40 E	40 43/[EN/NP5 44/[NP 60/[NPH 46/arm/NNS 61/] 47/] 48/] E	+DOBJ
+9006#0	69	0/[EN/NP0 1/[NP 50/[NPH 65/person/NN 51/] 4/] 5/]
+9006#0	69	9/[EN/NP1 10/[NP 52/[NPH 68/instrument/NN 53/] 13/] 14/]
+9006#0	69	6/[VP/VP0 7/play/VBZ 8/]
+9006#0	69	18/[EN/NP2 19/[NP 54/[NPH 21/hair/NN 55/] 22/] 23/]
+9006#0	69	27/[EN/NP3 28/[NP 56/[NPH 30/face/NN 57/] 31/] 32/]
+9006#0	69	24/[VP/VP1 25/cover/VBZ 26/]
+9006#0	69	35/[EN/NP4 36/[NP 58/[NPH 37/tattoo/NNS 59/] 38/] 39/]
+9006#0	69	43/[EN/NP5 44/[NP 60/[NPH 46/arm/NNS 61/] 47/] 48/]
+9006#0	69	40/[VP/VP2 41/dot/VBP 42/]
+0	36 48 37	36 3/man/NN 37	+NPHEAD/man
+1	36 49 37	36 48/adult/NN 37	+NPHEAD/adult
+2	44 50 51 45	44 27/drum/NN 45	+NPHEAD/drum
+3	44 52 45	44 50/percussion/NN 51/instrument/NN 45	+NPHEAD/percussion instrument
+4	B 6 9 15 16 E	B 0/[EN/NP0 1/[NP 36/[NPH 49/person/NN 37/] 4/] 6 9 15 16 5/] E	+PP-SENT
+5	4 5	4 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 38/[NPM 11/long/JJ 39/] 40/[NPH 12/hair/NN 41/] 13/] 14/] 15/and/CC 16/[EN/NP2 17/[NP 42/[NPH 18/tattoo/NN 43/] 19/] 20/] 5	+PP/with/long hair and tattoo
+6	B 0 21 24 E	B 0 21 24 30/[EN/NP4 31/[NP 46/[NPH 32/outdoors/NNS 47/] 33/] 34/] E	+COMPLEX
+7	B 30 E	B 0/[EN/NP0 1/[NP 36/[NPH 49/person/NN 37/] 4/] 5/] 21/[VP/VP0 22/play/VBZ 23/] 24/[EN/NP3 25/[NP 44/[NPH 52/instrument/NN 45/] 28/] 29/] 30 E	+SENT
+8	B 0 E	B 0 21/[VP/VP0 22/play/VBZ 23/] E	+VERB
+9	B 21	B 0/[EN/NP0 1/[NP 36/[NPH 49/person/NN 37/] 4/] 5/] 21	+SUBJ
+10	B 21	B 0/[EN/NP0 1/[NP 36/[NPH 48/adult/NN 37/] 4/] 5/] 21	+SUBJ
+11	B 21	B 0/[EN/NP0 1/[NP 36/[NPH 3/man/NN 37/] 4/] 5/] 21	+SUBJ
+12	B 24 25 29 E	B 21/[VP/VP0 22/play/VBZ 23/] 24 25 29 E	+TVERB
+13	21 E	21 24/[EN/NP3 25/[NP 44/[NPH 52/instrument/NN 45/] 28/] 29/] E	+DOBJ
+14	21 E	21 24/[EN/NP3 25/[NP 44/[NPH 27/drum/NN 45/] 28/] 29/] E	+DOBJ
+15	21 E	21 24/[EN/NP3 25/[NP 44/[NPH 50/percussion/NN 51/instrument/NN 45/] 28/] 29/] E	+DOBJ
+16	B 9 E	B 6/[PP 7/with/IN 8/] 9 15/and/CC 16/[EN/NP2 17/[NP 42/[NPH 18/tattoo/NN 43/] 19/] 20/] E	+SENT
+17	B 16 E	B 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 38/[NPM 11/long/JJ 39/] 40/[NPH 12/hair/NN 41/] 13/] 14/] 15/and/CC 16 E	+SENT
+18	B 0 E	B 0 21/[VP/VP0 22/play/VBZ 23/] 24/[EN/NP3 25/[NP 44/[NPH 52/instrument/NN 45/] 28/] 29/] E	+SENT
+19	B 24 E	B 0/[EN/NP0 1/[NP 36/[NPH 49/person/NN 37/] 4/] 5/] 21/[VP/VP0 22/play/VBZ 23/] 24 E	+SENT
+9006#1	53	30/[EN/NP4 31/[NP 46/[NPH 32/outdoors/NNS 47/] 33/] 34/]
+9006#1	53	0/[EN/NP0 1/[NP 36/[NPH 49/person/NN 37/] 4/] 5/]
+9006#1	53	24/[EN/NP3 25/[NP 44/[NPH 52/instrument/NN 45/] 28/] 29/]
+9006#1	53	21/[VP/VP0 22/play/VBZ 23/]
+9006#1	53	9/[EN/NP1 10/[NP 38/[NPM 11/long/JJ 39/] 40/[NPH 12/hair/NN 41/] 13/] 14/]
+9006#1	53	16/[EN/NP2 17/[NP 42/[NPH 18/tattoo/NN 43/] 19/] 20/]
+0	27 28	27 3/tattoo/JJ 28	+NPMOD/tattoo
+1	33 35 36 34	33 23/drum/NN 34	+NPHEAD/drum
+2	33 37 34	33 35/percussion/NN 36/instrument/NN 34	+NPHEAD/percussion instrument
+3	B 0 7 10 E	B 0 7 10 16/and/CC 17/[VP/VP1 18/beat/VBZ 19/] 20/[EN/NP2 21/[NP 33/[NPH 37/instrument/NN 34/] 24/] 25/] E	+COMPLEX
+4	B 20 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 7/[VP/VP0 8/shake/VBZ 9/] 10/[EN/NP1 11/[NP 31/[NPH 13/hair/NN 32/] 14/] 15/] 16/and/CC 17/[VP/VP1 18/beat/VBZ 19/] 20 E	+SENT
+5	B 0 E	B 0 7/[VP/VP0 8/shake/VBZ 9/] E	+VERB
+6	B 7	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 7	+SUBJ
+7	B 10 11 15 E	B 7/[VP/VP0 8/shake/VBZ 9/] 10 11 15 E	+TVERB
+8	7 E	7 10/[EN/NP1 11/[NP 31/[NPH 13/hair/NN 32/] 14/] 15/] E	+DOBJ
+9	B 0 17 20 E	B 0 7/[VP/VP0 8/shake/VBZ 9/] 10/[EN/NP1 11/[NP 31/[NPH 13/hair/NN 32/] 14/] 15/] 16/and/CC 17 20 E	+COMPLEX
+10	B 10 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 7/[VP/VP0 8/shake/VBZ 9/] 10 16/and/CC 17/[VP/VP1 18/beat/VBZ 19/] 20/[EN/NP2 21/[NP 33/[NPH 37/instrument/NN 34/] 24/] 25/] E	+SENT
+11	B 0 E	B 0 17/[VP/VP1 18/beat/VBZ 19/] E	+VERB
+12	B 17	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 17	+SUBJ
+13	B 20 21 25 E	B 17/[VP/VP1 18/beat/VBZ 19/] 20 21 25 E	+TVERB
+14	17 E	17 20/[EN/NP2 21/[NP 33/[NPH 37/instrument/NN 34/] 24/] 25/] E	+DOBJ
+15	17 E	17 20/[EN/NP2 21/[NP 33/[NPH 23/drum/NN 34/] 24/] 25/] E	+DOBJ
+16	17 E	17 20/[EN/NP2 21/[NP 33/[NPH 35/percussion/NN 36/instrument/NN 34/] 24/] 25/] E	+DOBJ
+17	B 0 E	B 0 7/[VP/VP0 8/shake/VBZ 9/] 10/[EN/NP1 11/[NP 31/[NPH 13/hair/NN 32/] 14/] 15/] E	+SENT
+18	B 10 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 7/[VP/VP0 8/shake/VBZ 9/] 10 E	+SENT
+19	B 0 E	B 0 17/[VP/VP1 18/beat/VBZ 19/] 20/[EN/NP2 21/[NP 33/[NPH 37/instrument/NN 34/] 24/] 25/] E	+SENT
+20	B 20 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/] 17/[VP/VP1 18/beat/VBZ 19/] 20 E	+SENT
+9006#2	38	7/[VP/VP0 8/shake/VBZ 9/]
+9006#2	38	10/[EN/NP1 11/[NP 31/[NPH 13/hair/NN 32/] 14/] 15/]
+9006#2	38	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/person/NN 30/] 5/] 6/]
+9006#2	38	20/[EN/NP2 21/[NP 33/[NPH 37/instrument/NN 34/] 24/] 25/]
+9006#2	38	17/[VP/VP1 18/beat/VBZ 19/]
+0	17 18	17 3/long-haired/JJ 18	+NPMOD/long-haired
+1	21 22	21 12/music/NN 22	+NPMOD/music
+2	19 25 20	19 4/drummer/NN 20	+NPHEAD/drummer
+3	19 26 20	19 25/percussionist/NN 20	+NPHEAD/percussionist
+4	19 27 20	19 26/musician/NN 20	+NPHEAD/musician
+5	19 28 20	19 27/performer/NN 20	+NPHEAD/performer
+6	19 29 20	19 27/performer/NN 20	+NPHEAD/performer
+7	19 30 20	19 28/adult/NN 20	+NPHEAD/adult
+8	19 28 20	19 29/entertainer/NN 20	+NPHEAD/entertainer
+9	B 0 E	B 0 7/[VP/VP0 8/play/VBZ 9/] E	+VERB
+10	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 30/person/NN 20/] 5/] 6/] 7	+SUBJ
+11	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 29/entertainer/NN 20/] 5/] 6/] 7	+SUBJ
+12	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 28/adult/NN 20/] 5/] 6/] 7	+SUBJ
+13	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 4/drummer/NN 20/] 5/] 6/] 7	+SUBJ
+14	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 27/performer/NN 20/] 5/] 6/] 7	+SUBJ
+15	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 26/musician/NN 20/] 5/] 6/] 7	+SUBJ
+16	B 7	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 25/percussionist/NN 20/] 5/] 6/] 7	+SUBJ
+17	B 10 11 15 E	B 7/[VP/VP0 8/play/VBZ 9/] 10 11 15 E	+TVERB
+18	7 E	7 10/[EN/NP1 11/[NP 21/[NPM 22/] 23/[NPH 13/outdoors/NNS 24/] 14/] 15/] E	+DOBJ
+9006#3	31	0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 30/person/NN 20/] 5/] 6/]
+9006#3	31	10/[EN/NP1 11/[NP 21/[NPM 22/] 23/[NPH 13/outdoors/NNS 24/] 14/] 15/]
+9006#3	31	7/[VP/VP0 8/play/VBZ 9/]
+0	16 20 17	16 3/performer/NN 17	+NPHEAD/performer
+1	16 21 17	16 3/performer/NN 17	+NPHEAD/performer
+2	16 22 17	16 20/adult/NN 17	+NPHEAD/adult
+3	16 20 17	16 21/entertainer/NN 17	+NPHEAD/entertainer
+4	B 0 E	B 0 6/[VP/VP0 7/beat/VBZ 8/] E	+VERB
+5	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 22/person/NN 17/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 20/adult/NN 17/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 21/entertainer/NN 17/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 3/performer/NN 17/] 4/] 5/] 6	+SUBJ
+9	B 9 10 14 E	B 6/[VP/VP0 7/beat/VBZ 8/] 9 10 14 E	+TVERB
+10	6 E	6 9/[EN/NP1 10/[NP 18/[NPH 12/instrument/NNS 19/] 13/] 14/] E	+DOBJ
+9006#H	23	0/[EN/NP0 1/[NP 16/[NPH 22/person/NN 17/] 4/] 5/]
+9006#H	23	9/[EN/NP1 10/[NP 18/[NPH 12/instrument/NNS 19/] 13/] 14/]
+9006#H	23	6/[VP/VP0 7/beat/VBZ 8/]
+0	14 18	14 15/[ADVP 16/upward/RB 17/] 18	+ADVP/upward
+1	40 41	40 29/white/JJ 30/gloved/JJ 41	+NPMOD/white gloved
+2	34 44 35	34 3/woman/NN 35	+NPHEAD/woman
+3	34 45 35	34 44/adult/NN 35	+NPHEAD/adult
+4	B 0 6 9 E	B 0 6 9 18/and/CC 19/[VP/VP1 20/lift/VBZ 21/] 22/[EN/NP2 23/[NP 38/[NPH 24/her/PRP 39/] 25/] 26/] 27/[EN/NP3 28/[NP 40/[NPM 41/] 42/[NPH 31/hand/NN 43/] 32/] 33/] E	+COMPLEX
+5	B 0 E	B 0 6/[VP/VP0 7/tilt/VBZ 8/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 3/woman/NN 35/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 44/adult/NN 35/] 4/] 5/] 6	+SUBJ
+9	B 9 10 14 E	B 6/[VP/VP0 7/tilt/VBZ 8/] 9 10 14 E	+TVERB
+10	6 E	6 9/[EN/NP1 10/[NP 36/[NPH 12/face/NN 37/] 13/] 14/] E	+DOBJ
+11	B 0 19 22 E	B 0 6/[VP/VP0 7/tilt/VBZ 8/] 9/[EN/NP1 10/[NP 36/[NPH 12/face/NN 37/] 13/] 14/] 18/and/CC 19 22 27/[EN/NP3 28/[NP 40/[NPM 41/] 42/[NPH 31/hand/NN 43/] 32/] 33/] E	+COMPLEX
+12	B 0 E	B 0 19/[VP/VP1 20/lift/VBZ 21/] E	+VERB
+13	B 19	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 19	+SUBJ
+14	B 19	B 0/[EN/NP0 1/[NP 34/[NPH 3/woman/NN 35/] 4/] 5/] 19	+SUBJ
+15	B 19	B 0/[EN/NP0 1/[NP 34/[NPH 44/adult/NN 35/] 4/] 5/] 19	+SUBJ
+16	B 22 23 26 E	B 19/[VP/VP1 20/lift/VBZ 21/] 22 23 26 E	+TVERB
+17	19 E	19 22/[EN/NP2 23/[NP 38/[NPH 24/her/PRP 39/] 25/] 26/] E	+DOBJ
+18	B 0 E	B 0 6/[VP/VP0 7/tilt/VBZ 8/] 9/[EN/NP1 10/[NP 36/[NPH 12/face/NN 37/] 13/] 14/] E	+SENT
+19	B 9 E	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 6/[VP/VP0 7/tilt/VBZ 8/] 9 E	+SENT
+20	B 0 E	B 0 19/[VP/VP1 20/lift/VBZ 21/] 22/[EN/NP2 23/[NP 38/[NPH 24/her/PRP 39/] 25/] 26/] E	+SENT
+21	B 22 E	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 19/[VP/VP1 20/lift/VBZ 21/] 22 E	+SENT
+9007#0	46	9/[EN/NP1 10/[NP 36/[NPH 12/face/NN 37/] 13/] 14/]
+9007#0	46	6/[VP/VP0 7/tilt/VBZ 8/]
+9007#0	46	0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/]
+9007#0	46	22/[EN/NP2 23/[NP 38/[NPH 24/her/PRP 39/] 25/] 26/]
+9007#0	46	19/[VP/VP1 20/lift/VBZ 21/]
+0	31 32	31 12/white/JJ 32	+NPMOD/white
+1	29 37 30	29 3/woman/NN 30	+NPHEAD/woman
+2	29 38 30	29 37/adult/NN 30	+NPHEAD/adult
+3	35 39 36	35 25/crowd/NN 36	+NPHEAD/crowd
+4	B 19 22 E	B 16/[VP/VP1 17/peer/VBZ 19 22 18/] E	+PP-SENT
+5	17 18	17 19/[PP 20/over/IN 21/] 22/[EN/NP2 23/[NP 35/[NPH 39/group/NN 36/] 26/] 27/] 18	+PP/over/group
+6	B 0 6 9 E	B 0 6 9 16/[VP/VP1 17/peer/VBZ 18/] E	+VERB
+7	B 0 16 E	B 0 6/[VP/VP0 7/wear/VBG 8/] 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 13/glove/NN 34/] 14/] 15/] 16 E	+VERB
+8	B 0 E	B 0 6/[VP/VP0 7/wear/VBG 8/] E	+VERB
+9	B 6	B 0/[EN/NP0 1/[NP 29/[NPH 38/person/NN 30/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 29/[NPH 3/woman/NN 30/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 29/[NPH 37/adult/NN 30/] 4/] 5/] 6	+SUBJ
+12	B 9 10 15 E	B 6/[VP/VP0 7/wear/VBG 8/] 9 10 15 E	+TVERB
+13	6 E	6 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 13/glove/NN 34/] 14/] 15/] E	+DOBJ
+14	B 0 E	B 0 16/[VP/VP1 17/peer/VBZ 18/] E	+VERB
+15	B 16	B 0/[EN/NP0 1/[NP 29/[NPH 38/person/NN 30/] 4/] 5/] 16	+SUBJ
+16	B 16	B 0/[EN/NP0 1/[NP 29/[NPH 3/woman/NN 30/] 4/] 5/] 16	+SUBJ
+17	B 16	B 0/[EN/NP0 1/[NP 29/[NPH 37/adult/NN 30/] 4/] 5/] 16	+SUBJ
+18	B 22 E	B 19/[PP 20/over/IN 21/] 22 E	+SENT
+9007#1	40	0/[EN/NP0 1/[NP 29/[NPH 38/person/NN 30/] 4/] 5/]
+9007#1	40	9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 13/glove/NN 34/] 14/] 15/]
+9007#1	40	6/[VP/VP0 7/wear/VBG 8/]
+9007#1	40	16/[VP/VP1 17/peer/VBZ 18/]
+9007#1	40	22/[EN/NP2 23/[NP 35/[NPH 39/group/NN 36/] 26/] 27/]
+0	26 27	26 12/white/JJ 27	+NPMOD/white
+1	30 31	30 19/some/DT 31	+NPART/some
+2	24 34 25	24 3/woman/NN 25	+NPHEAD/woman
+3	24 35 25	24 34/adult/NN 25	+NPHEAD/adult
+4	B 6 9 E	B 0/[EN/NP0 1/[NP 24/[NPH 35/person/NN 25/] 4/] 6 9 5/] E	+PP-SENT
+5	4 5	4 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 26/[NPM 27/] 28/[NPH 13/glove/NN 29/] 14/] 15/] 5	+PP/with/glove
+6	B 0 E	B 0 16/and/CC 17/[EN/NP2 18/[NP 30/[NPD 31/] 32/[NPH 20/other/NNS 33/] 21/] 22/] E	+SENT
+7	B 17 E	B 0/[EN/NP0 1/[NP 24/[NPH 35/person/NN 25/] 4/] 5/] 16/and/CC 17 E	+SENT
+8	B 9 E	B 6/[PP 7/with/IN 8/] 9 E	+SENT
+9007#2	36	0/[EN/NP0 1/[NP 24/[NPH 35/person/NN 25/] 4/] 5/]
+9007#2	36	17/[EN/NP2 18/[NP 30/[NPD 31/] 32/[NPH 20/other/NNS 33/] 21/] 22/]
+9007#2	36	9/[EN/NP1 10/[NP 26/[NPM 27/] 28/[NPH 13/glove/NN 29/] 14/] 15/]
+0	31 32	31 20/white/JJ 32	+NPMOD/white
+1	25 35 26	25 3/woman/NN 26	+NPHEAD/woman
+2	25 36 26	25 35/adult/NN 26	+NPHEAD/adult
+3	B 6 9 E	B 0/[EN/NP0 1/[NP 25/[NPH 36/person/NN 26/] 4/] 6 9 5/] E	+PP-SENT
+4	4 5	4 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 27/[NPM 11/brown/JJ 28/] 29/[NPH 12/hair/NN 30/] 13/] 14/] 5	+PP/with/brown hair
+5	B 0 E	B 0 15/[VP/VP0 16/wear/VBG 17/] E	+VERB
+6	B 15	B 0/[EN/NP0 1/[NP 25/[NPH 36/person/NN 26/] 4/] 5/] 15	+SUBJ
+7	B 15	B 0/[EN/NP0 1/[NP 25/[NPH 3/woman/NN 26/] 4/] 5/] 15	+SUBJ
+8	B 15	B 0/[EN/NP0 1/[NP 25/[NPH 35/adult/NN 26/] 4/] 5/] 15	+SUBJ
+9	B 18 19 23 E	B 15/[VP/VP0 16/wear/VBG 17/] 18 19 23 E	+TVERB
+10	15 E	15 18/[EN/NP2 19/[NP 31/[NPM 32/] 33/[NPH 21/glove/NNS 34/] 22/] 23/] E	+DOBJ
+11	B 9 E	B 6/[PP 7/with/IN 8/] 9 E	+SENT
+9007#3	37	0/[EN/NP0 1/[NP 25/[NPH 36/person/NN 26/] 4/] 5/]
+9007#3	37	18/[EN/NP2 19/[NP 31/[NPM 32/] 33/[NPH 21/glove/NNS 34/] 22/] 23/]
+9007#3	37	15/[VP/VP0 16/wear/VBG 17/]
+9007#3	37	9/[EN/NP1 10/[NP 27/[NPM 11/brown/JJ 28/] 29/[NPH 12/hair/NN 30/] 13/] 14/]
+0	10 12 11	10 3/lady/NN 11	+NPHEAD/lady
+1	10 13 11	10 12/woman/NN 11	+NPHEAD/woman
+2	10 14 11	10 13/adult/NN 11	+NPHEAD/adult
+3	B 0 E	B 0 6/[VP/VP0 7/standing/VBZ 8/] E	+VERB
+4	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 14/person/NN 11/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 3/lady/NN 11/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 12/woman/NN 11/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 13/adult/NN 11/] 4/] 5/] 6	+SUBJ
+9007#H	15	0/[EN/NP0 1/[NP 10/[NPH 14/person/NN 11/] 4/] 5/]
+9007#H	15	6/[VP/VP0 7/standing/VBZ 8/]
+0	45 46	45 13/close/JJ 46	+NPMOD/close
+1	43 53 44	43 3/young/JJ 4/man/NN 44	+NPHEAD/young man
+2	43 54 44	43 53/man/NN 44	+NPHEAD/man
+3	43 55 44	43 54/adult/NN 44	+NPHEAD/adult
+4	47 56 48	47 14/haircut/NN 48	+NPHEAD/haircut
+5	49 57 50	49 24/sport/NN 25/coat/NN 50	+NPHEAD/sport coat
+6	49 58 50	49 57/coat/NN 50	+NPHEAD/coat
+7	B 33 36 E	B 29/[VP/VP1 31/talk/VBG 33 36 32/] E	+PP-SENT
+8	31 32	31 33/[PP 34/on/IN 35/] 36/[EN/NP3 37/[NP 51/[NPH 39/phone/NN 52/] 40/] 41/] 32	+PP/on/phone
+9	B 7 10 E	B 0/[EN/NP0 1/[NP 43/[NPH 55/person/NN 44/] 5/] 7 10 6/] E	+PP-SENT
+10	5 6	5 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 45/[NPM 46/] 47/[NPH 56/hair/NN 48/] 15/] 16/] 6	+PP/with/hair
+11	B 18 21 E	B 0/[EN/NP0 1/[NP 43/[NPH 55/person/NN 44/] 5/] 6/] 17/and/CC 18 21 29/[VP/VP1 31/talk/VBG 32/] E	+VERB
+12	B 18 21 E	B 0/[EN/NP0 1/[NP 43/[NPH 54/adult/NN 44/] 5/] 6/] 17/and/CC 18 21 29/[VP/VP1 31/talk/VBG 32/] E	+VERB
+13	B 18 21 E	B 0/[EN/NP0 1/[NP 43/[NPH 3/young/JJ 4/man/NN 44/] 5/] 6/] 17/and/CC 18 21 29/[VP/VP1 31/talk/VBG 32/] E	+VERB
+14	B 18 21 E	B 0/[EN/NP0 1/[NP 43/[NPH 53/man/NN 44/] 5/] 6/] 17/and/CC 18 21 29/[VP/VP1 31/talk/VBG 32/] E	+VERB
+15	B 0 17 E	B 0 17 18/[VP/VP0 19/wear/VBG 20/] 21/[EN/NP2 22/[NP 49/[NPH 58/clothing/NN 50/] 26/] 27/] 29 E	+VERB
+16	B 0 17 E	B 0 17 18/[VP/VP0 19/wear/VBG 20/] 21/[EN/NP2 22/[NP 49/[NPH 57/coat/NN 50/] 26/] 27/] 29 E	+VERB
+17	B 0 17 E	B 0 17 18/[VP/VP0 19/wear/VBG 20/] 21/[EN/NP2 22/[NP 49/[NPH 24/sport/NN 25/coat/NN 50/] 26/] 27/] 29 E	+VERB
+18	B 0 29 E	B 0 17/and/CC 29 E	+COMPLEX
+19	B 0 E	B 0 29/[VP/VP1 31/talk/VBG 32/] E	+VERB
+20	B 29	B 0/[EN/NP0 1/[NP 43/[NPH 55/person/NN 44/] 5/] 6/] 29	+SUBJ
+21	B 29	B 0/[EN/NP0 1/[NP 43/[NPH 54/adult/NN 44/] 5/] 6/] 29	+SUBJ
+22	B 29	B 0/[EN/NP0 1/[NP 43/[NPH 3/young/JJ 4/man/NN 44/] 5/] 6/] 29	+SUBJ
+23	B 29	B 0/[EN/NP0 1/[NP 43/[NPH 53/man/NN 44/] 5/] 6/] 29	+SUBJ
+24	B 36 E	B 33/[PP 34/on/IN 35/] 36 E	+SENT
+25	B 10 E	B 7/[PP 8/with/IN 9/] 10 E	+SENT
+26	B 21 E	B 18/[VP/VP0 19/wear/VBG 20/] 21 E	+SENT
+9008#0	59	0/[EN/NP0 1/[NP 43/[NPH 55/person/NN 44/] 5/] 6/]
+9008#0	59	29/[VP/VP1 31/talk/VBG 32/]
+9008#0	59	36/[EN/NP3 37/[NP 51/[NPH 39/phone/NN 52/] 40/] 41/]
+9008#0	59	10/[EN/NP1 11/[NP 45/[NPM 46/] 47/[NPH 56/hair/NN 48/] 15/] 16/]
+9008#0	59	21/[EN/NP2 22/[NP 49/[NPH 58/clothing/NN 50/] 26/] 27/]
+0	40 41	40 12/black/JJ 41	+NPMOD/black
+1	44 45	44 19/blue/JJ 45	+NPMOD/blue
+2	48 49	48 33/phone/NN 49	+NPMOD/phone
+3	38 52 39	38 3/man/NN 39	+NPHEAD/man
+4	38 53 39	38 52/adult/NN 39	+NPHEAD/adult
+5	42 54 43	42 13/coat/NN 43	+NPHEAD/coat
+6	46 55 47	46 20/shirt/NN 47	+NPHEAD/shirt
+7	B 27 30 E	B 23/[VP/VP0 25/talk/VBG 27 30 26/] E	+PP-SENT
+8	25 26	25 27/[PP 28/on/IN 29/] 30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 34/indoor/NNS 51/] 35/] 36/] 26	+PP/on/indoor
+9	B 0 6 9 16 17 E	B 0 6 9 16 17 23/[VP/VP0 25/talk/VBG 26/] E	+VERB
+10	6 9 E	6 9 16/and/CC 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 55/clothing/NN 47/] 21/] 22/] E	+CC-WEAR
+11	6 17 E	6 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 54/clothing/NN 43/] 14/] 15/] 16/and/CC 17 E	+CC-WEAR
+12	B 0 23 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 54/clothing/NN 43/] 14/] 15/] 16/and/CC 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 55/clothing/NN 47/] 21/] 22/] 23 E	+VERB
+13	B 0 23 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 54/clothing/NN 43/] 14/] 15/] 16/and/CC 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 20/shirt/NN 47/] 21/] 22/] 23 E	+VERB
+14	B 0 23 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 13/coat/NN 43/] 14/] 15/] 16/and/CC 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 55/clothing/NN 47/] 21/] 22/] 23 E	+VERB
+15	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+16	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 53/person/NN 39/] 4/] 5/] 6	+SUBJ
+17	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 52/adult/NN 39/] 4/] 5/] 6	+SUBJ
+18	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 3/man/NN 39/] 4/] 5/] 6	+SUBJ
+19	B 9 10 15 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 15 E	+TVERB
+20	6 E	6 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 54/clothing/NN 43/] 14/] 15/] E	+DOBJ
+21	6 E	6 9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 13/coat/NN 43/] 14/] 15/] E	+DOBJ
+22	B 17 18 22 E	B 6/[VP/VPwear0 7/wear/VB 8/] 17 18 22 E	+TVERB
+23	6 E	6 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 55/clothing/NN 47/] 21/] 22/] E	+DOBJ
+24	6 E	6 17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 20/shirt/NN 47/] 21/] 22/] E	+DOBJ
+25	B 0 E	B 0 23/[VP/VP0 25/talk/VBG 26/] E	+VERB
+26	B 23	B 0/[EN/NP0 1/[NP 38/[NPH 53/person/NN 39/] 4/] 5/] 23	+SUBJ
+27	B 23	B 0/[EN/NP0 1/[NP 38/[NPH 52/adult/NN 39/] 4/] 5/] 23	+SUBJ
+28	B 23	B 0/[EN/NP0 1/[NP 38/[NPH 3/man/NN 39/] 4/] 5/] 23	+SUBJ
+29	B 30 E	B 27/[PP 28/on/IN 29/] 30 E	+SENT
+9008#1	56	0/[EN/NP0 1/[NP 38/[NPH 53/person/NN 39/] 4/] 5/]
+9008#1	56	9/[EN/NP1 10/[NP 40/[NPM 41/] 42/[NPH 54/clothing/NN 43/] 14/] 15/]
+9008#1	56	6/[VP/VPwear0 7/wear/VB 8/]
+9008#1	56	17/[EN/NP2 18/[NP 44/[NPM 45/] 46/[NPH 55/clothing/NN 47/] 21/] 22/]
+9008#1	56	23/[VP/VP0 25/talk/VBG 26/]
+9008#1	56	30/[EN/NP3 31/[NP 48/[NPM 49/] 50/[NPH 34/indoor/NNS 51/] 35/] 36/]
+0	41 42	41 12/black/JJ 42	+NPMOD/black
+1	39 49 40	39 3/man/NN 40	+NPHEAD/man
+2	39 50 40	39 49/adult/NN 40	+NPHEAD/adult
+3	43 51 44	43 13/suit/NN 44	+NPHEAD/suit
+4	B 29 32 E	B 23/[EN/NP2 24/[NP 45/[NPH 26/phone/NN 46/] 27/] 29 32 28/] E	+PP-SENT
+5	27 28	27 29/[PP 30/in/IN 31/] 32/[EN/NP3 33/[NP 47/[NPH 35/room/NN 48/] 36/] 37/] 28	+PP/in/room
+6	B 20 23 E	B 16/[VP/VP1 18/talk/VBG 20 23 19/] E	+PP-SENT
+7	18 19	18 20/[PP 21/on/IN 22/] 23/[EN/NP2 24/[NP 45/[NPH 26/phone/NN 46/] 27/] 28/] 19	+PP/on/phone
+8	B 9 10 15 E	B 6/[VP/VP0 7/be/VBZ 8/] 9 10 15 E	+TVERB
+9	B 0 16 E	B 0 6/[VP/VP0 7/be/VBZ 8/] 9/[EN/NP1 10/[NP 41/[NPM 42/] 43/[NPH 51/clothing/NN 44/] 14/] 15/] 16 E	+COMPLEX
+10	B 9 E	B 0/[EN/NP0 1/[NP 39/[NPH 50/person/NN 40/] 4/] 5/] 6/[VP/VP0 7/be/VBZ 8/] 9 16/[VP/VP1 18/talk/VBG 19/] E	+SENT
+11	B 0 E	B 0 16/[VP/VP1 18/talk/VBG 19/] E	+VERB
+12	B 16	B 0/[EN/NP0 1/[NP 39/[NPH 50/person/NN 40/] 4/] 5/] 16	+SUBJ
+13	B 16	B 0/[EN/NP0 1/[NP 39/[NPH 49/adult/NN 40/] 4/] 5/] 16	+SUBJ
+14	B 16	B 0/[EN/NP0 1/[NP 39/[NPH 3/man/NN 40/] 4/] 5/] 16	+SUBJ
+15	B 32 E	B 29/[PP 30/in/IN 31/] 32 E	+SENT
+16	B 23 E	B 20/[PP 21/on/IN 22/] 23 E	+SENT
+9008#2	52	9/[EN/NP1 10/[NP 41/[NPM 42/] 43/[NPH 51/clothing/NN 44/] 14/] 15/]
+9008#2	52	0/[EN/NP0 1/[NP 39/[NPH 50/person/NN 40/] 4/] 5/]
+9008#2	52	16/[VP/VP1 18/talk/VBG 19/]
+9008#2	52	32/[EN/NP3 33/[NP 47/[NPH 35/room/NN 48/] 36/] 37/]
+9008#2	52	23/[EN/NP2 24/[NP 45/[NPH 26/phone/NN 46/] 27/] 28/]
+0	32 33	32 12/dark/JJ 33	+NPMOD/dark
+1	30 38 31	30 3/businessman/NN 31	+NPHEAD/businessman
+2	30 39 31	30 3/businessman/NN 31	+NPHEAD/businessman
+3	30 39 31	30 38/man/NN 31	+NPHEAD/man
+4	30 40 31	30 39/adult/NN 31	+NPHEAD/adult
+5	34 41 35	34 13/suit/NN 35	+NPHEAD/suit
+6	36 42 37	36 26/cellphone/NN 37	+NPHEAD/cellphone
+7	B 20 23 E	B 16/[VP/VP0 18/talk/VBG 20 23 19/] E	+PP-SENT
+8	18 19	18 20/[PP 21/on/IN 22/] 23/[EN/NP2 24/[NP 36/[NPH 42/phone/NN 37/] 27/] 28/] 19	+PP/on/phone
+9	B 0 6 9 E	B 0 6 9 16/[VP/VP0 18/talk/VBG 19/] E	+VERB
+10	B 0 16 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 32/[NPM 33/] 34/[NPH 41/clothing/NN 35/] 14/] 15/] 16 E	+VERB
+11	B 0 16 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 32/[NPM 33/] 34/[NPH 13/suit/NN 35/] 14/] 15/] 16 E	+VERB
+12	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+13	B 6	B 0/[EN/NP0 1/[NP 30/[NPH 40/person/NN 31/] 4/] 5/] 6	+SUBJ
+14	B 6	B 0/[EN/NP0 1/[NP 30/[NPH 38/man/NN 31/] 4/] 5/] 6	+SUBJ
+15	B 6	B 0/[EN/NP0 1/[NP 30/[NPH 39/adult/NN 31/] 4/] 5/] 6	+SUBJ
+16	B 6	B 0/[EN/NP0 1/[NP 30/[NPH 3/businessman/NN 31/] 4/] 5/] 6	+SUBJ
+17	B 9 10 15 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 15 E	+TVERB
+18	6 E	6 9/[EN/NP1 10/[NP 32/[NPM 33/] 34/[NPH 41/clothing/NN 35/] 14/] 15/] E	+DOBJ
+19	6 E	6 9/[EN/NP1 10/[NP 32/[NPM 33/] 34/[NPH 13/suit/NN 35/] 14/] 15/] E	+DOBJ
+20	B 0 E	B 0 16/[VP/VP0 18/talk/VBG 19/] E	+VERB
+21	B 16	B 0/[EN/NP0 1/[NP 30/[NPH 40/person/NN 31/] 4/] 5/] 16	+SUBJ
+22	B 16	B 0/[EN/NP0 1/[NP 30/[NPH 38/man/NN 31/] 4/] 5/] 16	+SUBJ
+23	B 16	B 0/[EN/NP0 1/[NP 30/[NPH 39/adult/NN 31/] 4/] 5/] 16	+SUBJ
+24	B 16	B 0/[EN/NP0 1/[NP 30/[NPH 3/businessman/NN 31/] 4/] 5/] 16	+SUBJ
+25	B 23 E	B 20/[PP 21/on/IN 22/] 23 E	+SENT
+9008#3	43	0/[EN/NP0 1/[NP 30/[NPH 40/person/NN 31/] 4/] 5/]
+9008#3	43	9/[EN/NP1 10/[NP 32/[NPM 33/] 34/[NPH 41/clothing/NN 35/] 14/] 15/]
+9008#3	43	6/[VP/VPwear0 7/wear/VB 8/]
+9008#3	43	16/[VP/VP0 18/talk/VBG 19/]
+9008#3	43	23/[EN/NP2 24/[NP 36/[NPH 42/phone/NN 37/] 27/] 28/]
+0	16 20 17	16 3/man/NN 17	+NPHEAD/man
+1	16 21 17	16 20/adult/NN 17	+NPHEAD/adult
+2	B 0 E	B 0 6/[VP/VP0 7/make/VBZ 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 21/person/NN 17/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 3/man/NN 17/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 20/adult/NN 17/] 4/] 5/] 6	+SUBJ
+6	B 9 10 14 E	B 6/[VP/VP0 7/make/VBZ 8/] 9 10 14 E	+TVERB
+7	6 E	6 9/[EN/NP1 10/[NP 18/[NPH 12/call/NN 19/] 13/] 14/] E	+DOBJ
+9008#H	22	0/[EN/NP0 1/[NP 16/[NPH 21/person/NN 17/] 4/] 5/]
+9008#H	22	9/[EN/NP1 10/[NP 18/[NPH 12/call/NN 19/] 13/] 14/]
+9008#H	22	6/[VP/VP0 7/make/VBZ 8/]
+0	36 37	36 25/blue/JJ 37	+NPMOD/blue
+1	30 31	30 2/some/DT 31	+NPART/some
+2	32 40 33	32 3/man/NNS 33	+NPHEAD/man
+3	32 41 33	32 40/adult/NN 33	+NPHEAD/adult
+4	B 18 22 E	B 12/[EN/NP1 13/[NP 34/[NPH 15/ground/NN 35/] 16/] 18 22 17/] E	+PP-SENT
+5	16 17	16 18/[PP 19/next/RB 20/to/TO 21/] 22/[EN/NP2 23/[NP 36/[NPM 37/] 38/[NPH 26/bag/NN 39/] 27/] 28/] 17	+PP/next to/bag
+6	B 9 12 E	B 6/[VP/VP0 7/sit/VBP 9 12 8/] E	+PP-SENT
+7	7 8	7 9/[PP 10/on/IN 11/] 12/[EN/NP1 13/[NP 34/[NPH 15/ground/NN 35/] 16/] 17/] 8	+PP/on/ground
+8	B 0 E	B 0 6/[VP/VP0 7/sit/VBP 8/] E	+VERB
+9	B 6	B 0/[EN/NP0 1/[NP 30/[NPD 31/] 32/[NPH 41/person/NN 33/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 30/[NPD 31/] 32/[NPH 40/adult/NN 33/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 30/[NPD 31/] 32/[NPH 3/man/NNS 33/] 4/] 5/] 6	+SUBJ
+12	B 22 E	B 18/[PP 19/next/RB 20/to/TO 21/] 22 E	+SENT
+13	B 12 E	B 9/[PP 10/on/IN 11/] 12 E	+SENT
+9009#0	42	0/[EN/NP0 1/[NP 30/[NPD 31/] 32/[NPH 41/person/NN 33/] 4/] 5/]
+9009#0	42	6/[VP/VP0 7/sit/VBP 8/]
+9009#0	42	22/[EN/NP2 23/[NP 36/[NPM 37/] 38/[NPH 26/bag/NN 39/] 27/] 28/]
+9009#0	42	12/[EN/NP1 13/[NP 34/[NPH 15/ground/NN 35/] 16/] 17/]
+0	25 26 27 4 28	25 3/young/JJ 26 27 4 28	+NPMOD/young
+1	23 24	23 2/some/DT 24	+NPART/some
+2	27 31 28	27 4/male/NNS 28	+NPHEAD/male
+3	27 32 28	27 4/male/NNS 28	+NPHEAD/male
+4	27 33 28	27 31/man/NN 28	+NPHEAD/man
+5	27 32 28	27 33/adult/NN 28	+NPHEAD/adult
+6	B 10 13 E	B 7/[VP/VP0 8/sit/VBG 10 13 9/] E	+PP-SENT
+7	8 9	8 10/[PP 11/in/IN 12/] 13/[EN/NP1 14/[NP 29/[NPH 16/circle/NN 30/] 17/] 18/] 9	+PP/in/circle
+8	B 0 7 E	B 0 7 19/[VP/VP1 20/talk/VBG 21/] E	+COMPLEX
+9	B 0 E	B 0 7/[VP/VP0 8/sit/VBG 9/] E	+VERB
+10	B 7	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 32/person/NN 28/] 5/] 6/] 7	+SUBJ
+11	B 7	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 31/man/NN 28/] 5/] 6/] 7	+SUBJ
+12	B 7	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 33/adult/NN 28/] 5/] 6/] 7	+SUBJ
+13	B 7	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 4/male/NNS 28/] 5/] 6/] 7	+SUBJ
+14	B 19 E	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 32/person/NN 28/] 5/] 6/] 7/[VP/VP0 8/sit/VBG 9/] 19 E	+COMPLEX-VERB
+15	B 0 E	B 0 7/[VP/VP0 8/sit/VBG 9/] 19/[VP/VP1 20/talk/VBG 21/] E	+SENT
+16	B 13 E	B 10/[PP 11/in/IN 12/] 13 E	+SENT
+9009#1	34	7/[VP/VP0 8/sit/VBG 9/]
+9009#1	34	19/[VP/VP1 20/talk/VBG 21/]
+9009#1	34	0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPM 26/] 27/[NPH 32/person/NN 28/] 5/] 6/]
+9009#1	34	13/[EN/NP1 14/[NP 29/[NPH 16/circle/NN 30/] 17/] 18/]
+0	23 24	23 2/some/DT 24	+NPART/some
+1	25 29 26	25 3/boy/NNS 26	+NPHEAD/boy
+2	25 30 26	25 3/boy/NNS 26	+NPHEAD/boy
+3	25 29 26	25 30/child/NN 26	+NPHEAD/child
+4	B 9 12 E	B 6/[VP/VP0 7/sit/VBP 9 12 8/] E	+PP-SENT
+5	7 8	7 9/[PP 10/on/IN 11/] 12/[EN/NP1 13/[NP 27/[NPH 15/street/NN 28/] 16/] 17/] 8	+PP/on/street
+6	B 0 6 E	B 0 6 18/and/CC 19/[VP/VP1 20/talk/VBP 21/] E	+COMPLEX
+7	B 0 E	B 0 6/[VP/VP0 7/sit/VBP 8/] E	+VERB
+8	B 6	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 29/person/NN 26/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 3/boy/NNS 26/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 30/child/NN 26/] 4/] 5/] 6	+SUBJ
+11	B 0 19 E	B 0 6/[VP/VP0 7/sit/VBP 8/] 18/and/CC 19 E	+COMPLEX
+12	B 0 E	B 0 19/[VP/VP1 20/talk/VBP 21/] E	+VERB
+13	B 19	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 29/person/NN 26/] 4/] 5/] 19	+SUBJ
+14	B 19	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 3/boy/NNS 26/] 4/] 5/] 19	+SUBJ
+15	B 19	B 0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 30/child/NN 26/] 4/] 5/] 19	+SUBJ
+16	B 12 E	B 9/[PP 10/on/IN 11/] 12 E	+SENT
+9009#2	31	6/[VP/VP0 7/sit/VBP 8/]
+9009#2	31	0/[EN/NP0 1/[NP 23/[NPD 24/] 25/[NPH 29/person/NN 26/] 4/] 5/]
+9009#2	31	19/[VP/VP1 20/talk/VBP 21/]
+9009#2	31	12/[EN/NP1 13/[NP 27/[NPH 15/street/NN 28/] 16/] 17/]
+0	21 25 22	21 2/man/NN 22	+NPHEAD/man
+1	21 26 22	21 25/adult/NN 22	+NPHEAD/adult
+2	B 11 14 E	B 5/[VP/VP0 6/sit/VBG 7/] 8/[PRT 9/down/RP 11 14 10/] E	+PP-SENT
+3	9 10	9 11/[PP 12/in/IN 13/] 14/[EN/NP1 15/[NP 23/[NPH 17/circle/NN 24/] 18/] 19/] 10	+PP/in/circle
+4	B 0 5 E	B 0 5 8/[PRT 9/down/RP 10/] E	+COMPLEX
+5	B 0 E	B 0 5/[VP/VP0 6/sit/VBG 7/] E	+VERB
+6	B 5	B 0/[EN/NP0 1/[NP 21/[NPH 26/person/NN 22/] 3/] 4/] 5	+SUBJ
+7	B 5	B 0/[EN/NP0 1/[NP 21/[NPH 2/man/NN 22/] 3/] 4/] 5	+SUBJ
+8	B 5	B 0/[EN/NP0 1/[NP 21/[NPH 25/adult/NN 22/] 3/] 4/] 5	+SUBJ
+9	B 14 E	B 11/[PP 12/in/IN 13/] 14 E	+SENT
+9009#3	27	0/[EN/NP0 1/[NP 21/[NPH 26/person/NN 22/] 3/] 4/]
+9009#3	27	5/[VP/VP0 6/sit/VBG 7/]
+9009#3	27	14/[EN/NP1 15/[NP 23/[NPH 17/circle/NN 24/] 18/] 19/]
+0	B 0 E	B 0 5/[VP/VP0 6/sit/VBG 7/] E	+VERB
+1	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 2/group/NNP 10/] 3/] 4/] 5	+SUBJ
+9009#H	11	0/[EN/NP0 1/[NP 9/[NPH 2/group/NNP 10/] 3/] 4/]
+9009#H	11	5/[VP/VP0 6/sit/VBG 7/]
+0	51 52 53 33 54	51 32/small/JJ 52 53 33 54	+NPMOD/small
+1	45 57 46	45 3/girl/NN 46	+NPHEAD/girl
+2	B 18 21 E	B 14/[VP/VP0 16/jump/VBG 18 21 17/] E	+PP-SENT
+3	16 17	16 18/[PRT 19/on/RP 20/] 21/[EN/NP2 22/[NP 49/[NPH 24/shore/NN 50/] 25/] 26/] 17	+PP/on/shore
+4	B 0 6 9 E	B 0 6 9 14/[VP/VP0 16/jump/VBG 17/] 27/[PP 28/as/IN 29/] 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36/[VP/VP1 37/approach/VBP 38/] 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+VERB
+5	B 0 14 27 30 36 39 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 47/[NPH 11/blue/NN 48/] 12/] 13/] 14 27 30 36 39 E	+VERB
+6	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+7	B 6	B 0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 45/[NPH 3/girl/NN 46/] 4/] 5/] 6	+SUBJ
+9	B 9 10 13 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 13 E	+TVERB
+10	6 E	6 9/[EN/NP1 10/[NP 47/[NPH 11/blue/NN 48/] 12/] 13/] E	+DOBJ
+11	B 0 14 E	B 0 14 27/[PP 28/as/IN 29/] 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36/[VP/VP1 37/approach/VBP 38/] 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+COMPLEX
+12	B 30 E	B 0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/] 14/[VP/VP0 16/jump/VBG 17/] 27/[PP 28/as/IN 29/] 30 36/[VP/VP1 37/approach/VBP 38/] 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+SENT
+13	B 39 E	B 0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/] 14/[VP/VP0 16/jump/VBG 17/] 27/[PP 28/as/IN 29/] 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36/[VP/VP1 37/approach/VBP 38/] 39 E	+SENT
+14	B 0 E	B 0 14/[VP/VP0 16/jump/VBG 17/] E	+VERB
+15	B 14	B 0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/] 14	+SUBJ
+16	B 14	B 0/[EN/NP0 1/[NP 45/[NPH 3/girl/NN 46/] 4/] 5/] 14	+SUBJ
+17	B 30 36 39 E	B 0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/] 14/[VP/VP0 16/jump/VBG 17/] 27/[PP 28/as/IN 29/] 30 36 39 E	+COMPLEX
+18	B 0 E	B 0 14/[VP/VP0 16/jump/VBG 17/] 27/[PP 28/as/IN 29/] 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36/[VP/VP1 37/approach/VBP 38/] 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+SENT
+19	B 30 E	B 30 36/[VP/VP1 37/approach/VBP 38/] E	+VERB
+20	B 36	B 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36	+SUBJ
+21	B 39 40 43 E	B 36/[VP/VP1 37/approach/VBP 38/] 39 40 43 E	+TVERB
+22	36 E	36 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+DOBJ
+23	B 21 E	B 18/[PRT 19/on/RP 20/] 21 E	+SENT
+24	B 30 E	B 30 36/[VP/VP1 37/approach/VBP 38/] 39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/] E	+SENT
+25	B 39 E	B 30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/] 36/[VP/VP1 37/approach/VBP 38/] 39 E	+SENT
+9010#0	58	0/[EN/NP0 1/[NP 45/[NPH 57/person/NN 46/] 4/] 5/]
+9010#0	58	9/[EN/NP1 10/[NP 47/[NPH 11/blue/NN 48/] 12/] 13/]
+9010#0	58	6/[VP/VPwear0 7/wear/VB 8/]
+9010#0	58	14/[VP/VP0 16/jump/VBG 17/]
+9010#0	58	30/[EN/NP3 31/[NP 51/[NPM 52/] 53/[NPH 33/wave/NNS 54/] 34/] 35/]
+9010#0	58	39/[EN/NP4 40/[NP 55/[NPH 41/her/PRP 56/] 42/] 43/]
+9010#0	58	36/[VP/VP1 37/approach/VBP 38/]
+9010#0	58	21/[EN/NP2 22/[NP 49/[NPH 24/shore/NN 50/] 25/] 26/]
+0	34 35	34 3/young/JJ 5/long-haired/JJ 35	+NPMOD/young long-haired
+1	36 42 37	36 7/girl/NN 37	+NPHEAD/girl
+2	B 24 27 E	B 20/[VP/VP0 22/jump/VBG 24 27 23/] E	+PP-SENT
+3	22 23	22 24/[PP 25/in/RP 26/] 27/[EN/NP2 28/[NP 40/[NPH 30/air/NN 41/] 31/] 32/] 23	+PP/in/air
+4	B 10 13 E	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 42/person/NN 37/] 8/] 10 13 9/] E	+PP-SENT
+5	8 9	8 10/[PP 11/on/IN 12/] 13/[EN/NP1 14/[NP 38/[NPH 16/beach/NN 39/] 17/] 18/] 9	+PP/on/beach
+6	B 0 E	B 0 20/[VP/VP0 22/jump/VBG 23/] E	+VERB
+7	B 20	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 42/person/NN 37/] 8/] 9/] 20	+SUBJ
+8	B 20	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 7/girl/NN 37/] 8/] 9/] 20	+SUBJ
+9	B 27 E	B 24/[PP 25/in/RP 26/] 27 E	+SENT
+10	B 13 E	B 10/[PP 11/on/IN 12/] 13 E	+SENT
+9010#1	43	0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 42/person/NN 37/] 8/] 9/]
+9010#1	43	20/[VP/VP0 22/jump/VBG 23/]
+9010#1	43	27/[EN/NP2 28/[NP 40/[NPH 30/air/NN 41/] 31/] 32/]
+9010#1	43	13/[EN/NP1 14/[NP 38/[NPH 16/beach/NN 39/] 17/] 18/]
+0	34 40 35	34 3/girl/NN 35	+NPHEAD/girl
+1	B 24 27 E	B 21/[VP/VP1 22/standing/VBG 24 27 23/] E	+PP-SENT
+2	22 23	22 24/[PP 25/by/IN 26/] 27/[EN/NP2 28/[NP 38/[NPH 30/ocean/NN 39/] 31/] 32/] 23	+PP/by/ocean
+3	B 9 12 E	B 6/[VP/VP0 7/leap/VBZ 9 12 8/] E	+PP-SENT
+4	7 8	7 9/[PP 10/into/IN 11/] 12/[EN/NP1 13/[NP 36/[NPH 15/air/NN 37/] 16/] 17/] 8	+PP/into/air
+5	B 0 6 E	B 0 6 18/[SBAR 19/while/IN 20/] 21/[VP/VP1 22/standing/VBG 23/] E	+COMPLEX
+6	B 0 E	B 0 6/[VP/VP0 7/leap/VBZ 8/] E	+VERB
+7	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 40/person/NN 35/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 3/girl/NN 35/] 4/] 5/] 6	+SUBJ
+9	B 21 E	B 0/[EN/NP0 1/[NP 34/[NPH 40/person/NN 35/] 4/] 5/] 6/[VP/VP0 7/leap/VBZ 8/] 18/[SBAR 19/while/IN 20/] 21 E	+COMPLEX-VERB
+10	B 0 E	B 0 6/[VP/VP0 7/leap/VBZ 8/] 18/[SBAR 19/while/IN 20/] 21/[VP/VP1 22/standing/VBG 23/] E	+SENT
+11	B 27 E	B 24/[PP 25/by/IN 26/] 27 E	+SENT
+12	B 12 E	B 9/[PP 10/into/IN 11/] 12 E	+SENT
+9010#2	41	6/[VP/VP0 7/leap/VBZ 8/]
+9010#2	41	21/[VP/VP1 22/standing/VBG 23/]
+9010#2	41	0/[EN/NP0 1/[NP 34/[NPH 40/person/NN 35/] 4/] 5/]
+9010#2	41	27/[EN/NP2 28/[NP 38/[NPH 30/ocean/NN 39/] 31/] 32/]
+9010#2	41	12/[EN/NP1 13/[NP 36/[NPH 15/air/NN 37/] 16/] 17/]
+0	29 35 30	29 3/girl/NNS 30	+NPHEAD/girl
+1	B 19 22 E	B 13/[EN/NP1 14/[NP 31/[NPH 16/air/NN 32/] 17/] 19 22 18/] E	+PP-SENT
+2	17 18	17 19/[PP 20/on/IN 21/] 22/[EN/NP2 23/[NP 33/[NPH 25/beach/NN 34/] 26/] 27/] 18	+PP/on/beach
+3	B 10 13 E	B 6/[VP/VP0 8/jump/VBG 10 13 9/] E	+PP-SENT
+4	8 9	8 10/[PP 11/into/IN 12/] 13/[EN/NP1 14/[NP 31/[NPH 16/air/NN 32/] 17/] 18/] 9	+PP/into/air
+5	B 0 E	B 0 6/[VP/VP0 8/jump/VBG 9/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 29/[NPH 35/person/NN 30/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 29/[NPH 3/girl/NNS 30/] 4/] 5/] 6	+SUBJ
+8	B 22 E	B 19/[PP 20/on/IN 21/] 22 E	+SENT
+9	B 13 E	B 10/[PP 11/into/IN 12/] 13 E	+SENT
+9010#3	36	0/[EN/NP0 1/[NP 29/[NPH 35/person/NN 30/] 4/] 5/]
+9010#3	36	6/[VP/VP0 8/jump/VBG 9/]
+9010#3	36	22/[EN/NP2 23/[NP 33/[NPH 25/beach/NN 34/] 26/] 27/]
+9010#3	36	13/[EN/NP1 14/[NP 31/[NPH 16/air/NN 32/] 17/] 18/]
+0	19 23 20	19 3/child/NN 20	+NPHEAD/child
+1	B 9 12 E	B 6/[VP/VP0 7/run/VBG 9 12 8/] E	+PP-SENT
+2	7 8	7 9/[PP 10/into/IN 11/] 12/[EN/NP1 13/[NP 21/[NPH 15/ocean/NN 22/] 16/] 17/] 8	+PP/into/ocean
+3	B 0 E	B 0 6/[VP/VP0 7/run/VBG 8/] E	+VERB
+4	B 6	B 0/[EN/NP0 1/[NP 19/[NPH 23/person/NN 20/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 19/[NPH 3/child/NN 20/] 4/] 5/] 6	+SUBJ
+6	B 12 E	B 9/[PP 10/into/IN 11/] 12 E	+SENT
+9010#H	24	0/[EN/NP0 1/[NP 19/[NPH 23/person/NN 20/] 4/] 5/]
+9010#H	24	6/[VP/VP0 7/run/VBG 8/]
+9010#H	24	12/[EN/NP1 13/[NP 21/[NPH 15/ocean/NN 22/] 16/] 17/]
+0	58 59	58 28/funny/JJ 59	+NPMOD/funny
+1	0 1 11	0 1 5/[PP 6/of/IN 7/] 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 11	+ofY
+2	0 8 11	0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 5/[PP 6/of/IN 7/] 8 11	+Xof
+3	B 12 15 E	B 0/[EN/NP0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 12 15 11/] E	+PP-SENT
+4	4 11	4 12/[PP 13/at/IN 14/] 15/[EN/NP1 16/[NP 56/[NPH 18/christmas/NNP 57/] 19/] 20/] 11	+PP/at/christmas
+5	B 12 15 E	B 0/[EN/NP0 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 12 15 11/] E	+PP-SENT
+6	10 11	10 12/[PP 13/at/IN 14/] 15/[EN/NP1 16/[NP 56/[NPH 18/christmas/NNP 57/] 19/] 20/] 11	+PP/at/christmas
+7	B 0 21 25 E	B 0 21 25 33/[EN/NP3 34/[NP 62/[NPH 35/all/DT 63/] 36/] 37/] 38/[VP/VP1 39/look/VBG 40/] 41/[PP 42/away/RB 43/from/IN 44/] 45/[EN/NP4 46/[NP 64/[NPH 48/camera/NN 65/] 49/] 50/] E	+COMPLEX
+8	B 0 E	B 0 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] E	+VERB
+9	B 21	B 0/[EN/NP0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 11/] 21	+SUBJ
+10	B 25 26 31 E	B 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] 25 26 31 E	+TVERB
+11	21 E	21 25/[EN/NP2 26/[NP 58/[NPM 59/] 60/[NPH 29/picture/NN 61/] 30/] 31/] E	+DOBJ
+12	B 0 38 E	B 0 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] 25/[EN/NP2 26/[NP 58/[NPM 59/] 60/[NPH 29/picture/NN 61/] 30/] 31/] 33/[EN/NP3 34/[NP 62/[NPH 35/all/DT 63/] 36/] 37/] 38 41/[PP 42/away/RB 43/from/IN 44/] 45/[EN/NP4 46/[NP 64/[NPH 48/camera/NN 65/] 49/] 50/] E	+COMPLEX
+13	B 0 E	B 0 38/[VP/VP1 39/look/VBG 40/] E	+VERB
+14	B 38	B 0/[EN/NP0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 11/] 38	+SUBJ
+15	B 21	B 0/[EN/NP0 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 11/] 21	+SUBJ
+16	B 38	B 0/[EN/NP0 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 11/] 38	+SUBJ
+17	B 15 E	B 12/[PP 13/at/IN 14/] 15 E	+SENT
+18	B 0 E	B 0 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] 25/[EN/NP2 26/[NP 58/[NPM 59/] 60/[NPH 29/picture/NN 61/] 30/] 31/] E	+SENT
+19	B 25 E	B 0/[EN/NP0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 11/] 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] 25 E	+SENT
+20	B 25 E	B 0/[EN/NP0 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 11/] 21/[VP/VP0 22/gather/VBG 23/take/VBG 24/] 25 E	+SENT
+9011#0	66	25/[EN/NP2 26/[NP 58/[NPM 59/] 60/[NPH 29/picture/NN 61/] 30/] 31/]
+9011#0	66	21/[VP/VP0 22/gather/VBG 23/take/VBG 24/]
+9011#0	66	0/[EN/NP0 1/[NP 52/[NPH 3/group/NN 53/] 4/] 11/]
+9011#0	66	38/[VP/VP1 39/look/VBG 40/]
+9011#0	66	0/[EN/NP0 8/[NP 54/[NPH 9/person/NNS 55/] 10/] 11/]
+9011#0	66	15/[EN/NP1 16/[NP 56/[NPH 18/christmas/NNP 57/] 19/] 20/]
+0	43 44	43 23/some/DT 44	+NPART/some
+1	0 1 11	0 1 5/[PP 6/of/IN 7/] 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11	+ofY
+2	0 8 11	0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 5/[PP 6/of/IN 7/] 8 11	+Xof
+3	B 18 21 E	B 12/[VP/VP0 13/look/VBG 14/] 15/[PP 16/of/IN 18 21 17/] E	+PP-SENT
+4	16 17	16 18/[PP 19/in/IN 20/] 21/[EN/NP1 22/[NP 43/[NPD 44/] 45/[NPH 24/direction/NNS 46/] 25/] 26/] 17	+PP/in/direction
+5	B 0 12 E	B 0 12 15/[PP 16/of/IN 17/] 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32/[EN/NP2 33/[NP 47/[NPH 35/camera/NN 48/] 36/] 37/] E	+COMPLEX
+6	B 32 E	B 0/[EN/NP0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 11/] 12/[VP/VP0 13/look/VBG 14/] 15/[PP 16/of/IN 17/] 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32 E	+SENT
+7	B 0 E	B 0 12/[VP/VP0 13/look/VBG 14/] E	+VERB
+8	B 12	B 0/[EN/NP0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 11/] 12	+SUBJ
+9	B 0 27 32 E	B 0 12/[VP/VP0 13/look/VBG 14/] 15/[PP 16/of/IN 17/] 27 32 E	+COMPLEX
+10	B 0 E	B 0 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] E	+VERB
+11	B 27	B 0/[EN/NP0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 11/] 27	+SUBJ
+12	B 32 33 37 E	B 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32 33 37 E	+TVERB
+13	27 E	27 32/[EN/NP2 33/[NP 47/[NPH 35/camera/NN 48/] 36/] 37/] E	+DOBJ
+14	27 30 31	27 28/try/VBG 29/to/TO 30 31	+Xto
+15	B 32 E	B 0/[EN/NP0 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11/] 12/[VP/VP0 13/look/VBG 14/] 15/[PP 16/of/IN 17/] 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32 E	+SENT
+16	B 12	B 0/[EN/NP0 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11/] 12	+SUBJ
+17	B 27	B 0/[EN/NP0 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11/] 27	+SUBJ
+18	B 21 E	B 18/[PP 19/in/IN 20/] 21 E	+SENT
+19	B 0 E	B 0 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32/[EN/NP2 33/[NP 47/[NPH 35/camera/NN 48/] 36/] 37/] E	+SENT
+20	B 32 E	B 0/[EN/NP0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 11/] 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32 E	+SENT
+21	B 32 E	B 0/[EN/NP0 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11/] 27/[VP/VP1 28/try/VBG 29/to/TO 30/avoid/VB 31/] 32 E	+SENT
+9011#1	49	12/[VP/VP0 13/look/VBG 14/]
+9011#1	49	0/[EN/NP0 1/[NP 39/[NPH 3/group/NN 40/] 4/] 11/]
+9011#1	49	32/[EN/NP2 33/[NP 47/[NPH 35/camera/NN 48/] 36/] 37/]
+9011#1	49	27/[VP/VP1 30/avoid/VB 31/]
+9011#1	49	0/[EN/NP0 8/[NP 41/[NPH 9/person/NNS 42/] 10/] 11/]
+9011#1	49	21/[EN/NP1 22/[NP 43/[NPD 44/] 45/[NPH 24/direction/NNS 46/] 25/] 26/]
+0	0 1 11	0 1 5/[PP 6/of/IN 7/] 8/[NP 27/[NPH 9/person/NNS 28/] 10/] 11	+ofY
+1	0 8 11	0 1/[NP 25/[NPH 3/group/NN 26/] 4/] 5/[PP 6/of/IN 7/] 8 11	+Xof
+2	B 0 E	B 0 12/[VP/VP0 13/not/RB 14/want/VBG 15/to/TO 16/take/VB 17/] E	+VERB
+3	B 12	B 0/[EN/NP0 1/[NP 25/[NPH 3/group/NN 26/] 4/] 11/] 12	+SUBJ
+4	B 18 19 23 E	B 12/[VP/VP0 13/not/RB 14/want/VBG 15/to/TO 16/take/VB 17/] 18 19 23 E	+TVERB
+5	12 E	12 18/[EN/NP1 19/[NP 29/[NPH 21/picture/NN 30/] 22/] 23/] E	+DOBJ
+6	B 12	B 0/[EN/NP0 8/[NP 27/[NPH 9/person/NNS 28/] 10/] 11/] 12	+SUBJ
+9011#2	31	0/[EN/NP0 1/[NP 25/[NPH 3/group/NN 26/] 4/] 11/]
+9011#2	31	18/[EN/NP1 19/[NP 29/[NPH 21/picture/NN 30/] 22/] 23/]
+9011#2	31	12/[VP/VP0 13/not/RB 14/want/VBG 15/to/TO 16/take/VB 17/]
+9011#2	31	0/[EN/NP0 8/[NP 27/[NPH 9/person/NNS 28/] 10/] 11/]
+0	29 30	29 12/holiday/NN 30	+NPMOD/holiday
+1	25 26	25 2/some/DT 26	+NPART/some
+2	B 16 19 E	B 9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/party/NN 32/] 14/] 16 19 15/] E	+PP-SENT
+3	14 15	14 16/[PP 17/at/IN 18/] 19/[EN/NP2 20/[NP 33/[NPH 21/night/NN 34/] 22/] 23/] 15	+PP/at/night
+4	B 6 9 E	B 0/[EN/NP0 1/[NP 25/[NPD 26/] 27/[NPH 3/person/NNS 28/] 4/] 6 9 5/] E	+PP-SENT
+5	4 5	4 6/[PP 7/at/IN 8/] 9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/party/NN 32/] 14/] 15/] 5	+PP/at/party
+6	B 19 E	B 16/[PP 17/at/IN 18/] 19 E	+SENT
+7	B 9 E	B 6/[PP 7/at/IN 8/] 9 E	+SENT
+9011#3	35	0/[EN/NP0 1/[NP 25/[NPD 26/] 27/[NPH 3/person/NNS 28/] 4/] 5/]
+9011#3	35	19/[EN/NP2 20/[NP 33/[NPH 21/night/NN 34/] 22/] 23/]
+9011#3	35	9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/party/NN 32/] 14/] 15/]
+0	10 11	10 2/some/DT 11	+NPART/some
+1	12 14 13	12 3/individual/NNS 13	+NPHEAD/individual
+2	B 0 E	B 0 6/[VP/VP0 7/standing/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 10/[NPD 11/] 12/[NPH 14/person/NN 13/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 10/[NPD 11/] 12/[NPH 3/individual/NNS 13/] 4/] 5/] 6	+SUBJ
+9011#H	15	0/[EN/NP0 1/[NP 10/[NPD 11/] 12/[NPH 14/person/NN 13/] 4/] 5/]
+9011#H	15	6/[VP/VP0 7/standing/VBG 8/]
+0	48 49	48 37/dj/NNP 49	+NPMOD/dj
+1	42 52 43	42 3/dj/NNP 43	+NPHEAD/dj
+2	42 53 43	42 52/adult/NN 43	+NPHEAD/adult
+3	B 31 34 E	B 21/[EN/NP2 22/[NP 46/[NPH 23/knob/NNS 47/] 24/] 25/] 26/[PP 27/up/IN 28/and/CC 29/down/IN 31 34 30/] E	+PP-SENT
+4	29 30	29 31/[PP 32/on/IN 33/] 34/[EN/NP3 35/[NP 48/[NPM 49/] 50/[NPH 38/equipment/NN 51/] 39/] 40/] 30	+PP/on/equipment
+5	B 6 9 14 E	B 0/[EN/NP0 1/[NP 42/[NPH 53/person/NN 43/] 4/] 6 9 14 5/] E	+PP-SENT
+6	4 5	4 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 44/[NPH 11/headphone/NNS 45/] 12/] 13/] 14/[PP 15/on/IN 16/] 5	+PP/with/headphone on
+7	B 0 17 21 E	B 0 17 21 26/[PP 27/up/IN 28/and/CC 29/down/IN 30/] E	+COMPLEX
+8	B 0 E	B 0 17/[VP/VP0 19/move/VBG 20/] E	+VERB
+9	B 17	B 0/[EN/NP0 1/[NP 42/[NPH 53/person/NN 43/] 4/] 5/] 17	+SUBJ
+10	B 17	B 0/[EN/NP0 1/[NP 42/[NPH 3/dj/NNP 43/] 4/] 5/] 17	+SUBJ
+11	B 17	B 0/[EN/NP0 1/[NP 42/[NPH 52/adult/NN 43/] 4/] 5/] 17	+SUBJ
+12	B 21 22 25 E	B 17/[VP/VP0 19/move/VBG 20/] 21 22 25 E	+TVERB
+13	17 E	17 21/[EN/NP2 22/[NP 46/[NPH 23/knob/NNS 47/] 24/] 25/] E	+DOBJ
+14	B 34 E	B 31/[PP 32/on/IN 33/] 34 E	+SENT
+15	B 9 E	B 6/[PP 7/with/IN 8/] 9 14/[PP 15/on/IN 16/] E	+SENT
+16	B 0 E	B 0 17/[VP/VP0 19/move/VBG 20/] 21/[EN/NP2 22/[NP 46/[NPH 23/knob/NNS 47/] 24/] 25/] E	+SENT
+17	B 21 E	B 0/[EN/NP0 1/[NP 42/[NPH 53/person/NN 43/] 4/] 5/] 17/[VP/VP0 19/move/VBG 20/] 21 E	+SENT
+9012#0	54	0/[EN/NP0 1/[NP 42/[NPH 53/person/NN 43/] 4/] 5/]
+9012#0	54	21/[EN/NP2 22/[NP 46/[NPH 23/knob/NNS 47/] 24/] 25/]
+9012#0	54	17/[VP/VP0 19/move/VBG 20/]
+9012#0	54	34/[EN/NP3 35/[NP 48/[NPM 49/] 50/[NPH 38/equipment/NN 51/] 39/] 40/]
+9012#0	54	9/[EN/NP1 10/[NP 44/[NPH 11/headphone/NNS 45/] 12/] 13/]
+0	34 35	34 3/shaven/NN 4/head/NN 35	+NPMOD/shaven head
+1	42 43	42 29/mix/JJ 43	+NPMOD/mix
+2	36 46 37	36 5/young/JJ 6/man/NN 37	+NPHEAD/young man
+3	36 47 37	36 46/man/NN 37	+NPHEAD/man
+4	36 48 37	36 47/adult/NN 37	+NPHEAD/adult
+5	B 23 26 E	B 18/[EN/NP2 19/[NP 40/[NPH 20/work/NNS 41/] 21/] 23 26 22/] E	+PP-SENT
+6	21 22	21 23/[PP 24/with/IN 25/] 26/[EN/NP3 27/[NP 42/[NPM 43/] 44/[NPH 30/board/NN 45/] 31/] 32/] 22	+PP/with/board
+7	B 0 9 12 E	B 0 9 12 17/and/CC 18/[EN/NP2 19/[NP 40/[NPH 20/work/NNS 41/] 21/] 22/] E	+VERB
+8	B 0 17 18 E	B 0 9/[VP/VP0 10/wear/VBZ 11/] 12/[EN/NP1 13/[NP 38/[NPH 14/headphone/NNS 39/] 15/] 16/] 17 18 E	+VERB
+9	B 0 E	B 0 9/[VP/VP0 10/wear/VBZ 11/] E	+VERB
+10	B 9	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 7/] 8/] 9	+SUBJ
+11	B 9	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 47/adult/NN 37/] 7/] 8/] 9	+SUBJ
+12	B 9	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 46/man/NN 37/] 7/] 8/] 9	+SUBJ
+13	B 9	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 5/young/JJ 6/man/NN 37/] 7/] 8/] 9	+SUBJ
+14	B 12 13 16 E	B 9/[VP/VP0 10/wear/VBZ 11/] 12 13 16 E	+TVERB
+15	9 E	9 12/[EN/NP1 13/[NP 38/[NPH 14/headphone/NNS 39/] 15/] 16/] E	+DOBJ
+16	B 26 E	B 23/[PP 24/with/IN 25/] 26 E	+SENT
+17	B 0 E	B 0 17/and/CC 18/[EN/NP2 19/[NP 40/[NPH 20/work/NNS 41/] 21/] 22/] E	+SENT
+18	B 18 E	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 7/] 8/] 17/and/CC 18 E	+SENT
+9012#1	49	0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 7/] 8/]
+9012#1	49	12/[EN/NP1 13/[NP 38/[NPH 14/headphone/NNS 39/] 15/] 16/]
+9012#1	49	9/[VP/VP0 10/wear/VBZ 11/]
+9012#1	49	26/[EN/NP3 27/[NP 42/[NPM 43/] 44/[NPH 30/board/NN 45/] 31/] 32/]
+9012#1	49	18/[EN/NP2 19/[NP 40/[NPH 20/work/NNS 41/] 21/] 22/]
+0	29 30	29 20/audio/JJ 30	+NPMOD/audio
+1	25 33 26	25 3/man/NN 26	+NPHEAD/man
+2	25 34 26	25 33/adult/NN 26	+NPHEAD/adult
+3	B 14 17 E	B 9/[EN/NP1 10/[NP 27/[NPH 11/music/NN 28/] 12/] 14 17 13/] E	+PP-SENT
+4	12 13	12 14/[PP 15/on/IN 16/] 17/[EN/NP2 18/[NP 29/[NPM 30/] 31/[NPH 21/mixer/NN 32/] 22/] 23/] 13	+PP/on/mixer
+5	B 0 E	B 0 6/[VP/VP0 7/adjust/VBZ 8/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 25/[NPH 34/person/NN 26/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 25/[NPH 3/man/NN 26/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 25/[NPH 33/adult/NN 26/] 4/] 5/] 6	+SUBJ
+9	B 9 10 13 E	B 6/[VP/VP0 7/adjust/VBZ 8/] 9 10 13 E	+TVERB
+10	6 E	6 9/[EN/NP1 10/[NP 27/[NPH 11/music/NN 28/] 12/] 13/] E	+DOBJ
+11	B 17 E	B 14/[PP 15/on/IN 16/] 17 E	+SENT
+9012#2	35	0/[EN/NP0 1/[NP 25/[NPH 34/person/NN 26/] 4/] 5/]
+9012#2	35	9/[EN/NP1 10/[NP 27/[NPH 11/music/NN 28/] 12/] 13/]
+9012#2	35	6/[VP/VP0 7/adjust/VBZ 8/]
+9012#2	35	17/[EN/NP2 18/[NP 29/[NPM 30/] 31/[NPH 21/mixer/NN 32/] 22/] 23/]
+0	29 35 30	29 3/man/NN 30	+NPHEAD/man
+1	29 36 30	29 35/adult/NN 30	+NPHEAD/adult
+2	31 37 32	31 11/earphone/NNS 32	+NPHEAD/earphone
+3	B 20 23 E	B 14/[VP/VP0 15/be/VBZ 16/] 17/[ADJP 18/hard/JJ 20 23 19/] E	+PP-SENT
+4	18 19	18 20/[PP 21/at/IN 22/] 23/[EN/NP2 24/[NP 33/[NPH 25/work/NN 34/] 26/] 27/] 19	+PP/at/work
+5	B 6 9 E	B 0/[EN/NP0 1/[NP 29/[NPH 36/person/NN 30/] 4/] 6 9 5/] E	+PP-SENT
+6	4 5	4 6/[PP 7/with/IN 8/] 9/[EN/NP1 10/[NP 31/[NPH 37/headphone/NN 32/] 12/] 13/] 5	+PP/with/headphone
+7	B 0 E	B 0 14/[VP/VP0 15/be/VBZ 16/] 17/[ADJP 18/hard/JJ 19/] E	+SENT
+8	B 23 E	B 20/[PP 21/at/IN 22/] 23 E	+SENT
+9	B 9 E	B 6/[PP 7/with/IN 8/] 9 E	+SENT
+9012#3	38	0/[EN/NP0 1/[NP 29/[NPH 36/person/NN 30/] 4/] 5/]
+9012#3	38	23/[EN/NP2 24/[NP 33/[NPH 25/work/NN 34/] 26/] 27/]
+9012#3	38	9/[EN/NP1 10/[NP 31/[NPH 37/headphone/NN 32/] 12/] 13/]
+0	16 20 17	16 3/man/NN 17	+NPHEAD/man
+1	16 21 17	16 20/adult/NN 17	+NPHEAD/adult
+2	B 0 E	B 0 6/[VP/VP0 7/control/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 21/person/NN 17/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 3/man/NN 17/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 20/adult/NN 17/] 4/] 5/] 6	+SUBJ
+6	B 9 10 14 E	B 6/[VP/VP0 7/control/VBG 8/] 9 10 14 E	+TVERB
+7	6 E	6 9/[EN/NP1 10/[NP 18/[NPH 12/machine/NN 19/] 13/] 14/] E	+DOBJ
+9012#H	22	0/[EN/NP0 1/[NP 16/[NPH 21/person/NN 17/] 4/] 5/]
+9012#H	22	9/[EN/NP1 10/[NP 18/[NPH 12/machine/NN 19/] 13/] 14/]
+9012#H	22	6/[VP/VP0 7/control/VBG 8/]
+0	48 58 49	48 3/man/NN 49	+NPHEAD/man
+1	48 59 49	48 58/adult/NN 49	+NPHEAD/adult
+2	B 39 42 E	B 36/[VP/VP2 37/cover/VBN 39 42 38/] E	+PP-SENT
+3	37 38	37 39/[PP 40/in/IN 41/] 42/[EN/NP4 43/[NP 56/[NPH 44/graffiti/NNP 57/] 45/] 46/] 38	+PP/in/graffiti
+4	B 15 18 E	B 9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 15 18 14/] E	+PP-SENT
+5	13 14	13 15/[PP 16/with/IN 17/] 18/[EN/NP2 19/[NP 52/[NPH 21/shadow/NN 53/] 22/] 23/] 14	+PP/with/shadow
+6	B 0 6 9 E	B 0 6 9 24/[VP/VP1 25/fall/VBG 26/] 27/[PP 28/on/IN 29/] 30/[EN/NP3 31/[NP 54/[NPH 33/wall/NN 55/] 34/] 35/] 36/[VP/VP2 37/cover/VBN 38/] E	+COMPLEX
+7	B 0 E	B 0 6/[VP/VP0 7/ride/VBZ 8/] E	+VERB
+8	B 6	B 0/[EN/NP0 1/[NP 48/[NPH 59/person/NN 49/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 48/[NPH 3/man/NN 49/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 48/[NPH 58/adult/NN 49/] 4/] 5/] 6	+SUBJ
+11	B 9 10 14 E	B 6/[VP/VP0 7/ride/VBZ 8/] 9 10 14 E	+TVERB
+12	6 E	6 9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 14/] E	+DOBJ
+13	B 0 24 E	B 0 6/[VP/VP0 7/ride/VBZ 8/] 9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 14/] 24 27/[PP 28/on/IN 29/] 30/[EN/NP3 31/[NP 54/[NPH 33/wall/NN 55/] 34/] 35/] 36/[VP/VP2 37/cover/VBN 38/] E	+COMPLEX
+14	B 0 E	B 0 24/[VP/VP1 25/fall/VBG 26/] E	+VERB
+15	B 24	B 0/[EN/NP0 1/[NP 48/[NPH 59/person/NN 49/] 4/] 5/] 24	+SUBJ
+16	B 24	B 0/[EN/NP0 1/[NP 48/[NPH 3/man/NN 49/] 4/] 5/] 24	+SUBJ
+17	B 24	B 0/[EN/NP0 1/[NP 48/[NPH 58/adult/NN 49/] 4/] 5/] 24	+SUBJ
+18	B 30 36 E	B 0/[EN/NP0 1/[NP 48/[NPH 59/person/NN 49/] 4/] 5/] 6/[VP/VP0 7/ride/VBZ 8/] 9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 14/] 24/[VP/VP1 25/fall/VBG 26/] 27/[PP 28/on/IN 29/] 30 36 E	+COMPLEX
+19	B 30 E	B 30 36/[VP/VP2 37/cover/VBN 38/] E	+VERB
+20	B 36	B 30/[EN/NP3 31/[NP 54/[NPH 33/wall/NN 55/] 34/] 35/] 36	+SUBJ
+21	B 42 E	B 39/[PP 40/in/IN 41/] 42 E	+SENT
+22	B 18 E	B 15/[PP 16/with/IN 17/] 18 E	+SENT
+23	B 0 E	B 0 6/[VP/VP0 7/ride/VBZ 8/] 9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 14/] E	+SENT
+24	B 9 E	B 0/[EN/NP0 1/[NP 48/[NPH 59/person/NN 49/] 4/] 5/] 6/[VP/VP0 7/ride/VBZ 8/] 9 E	+SENT
+9013#0	60	9/[EN/NP1 10/[NP 50/[NPH 12/skateboard/NN 51/] 13/] 14/]
+9013#0	60	6/[VP/VP0 7/ride/VBZ 8/]
+9013#0	60	0/[EN/NP0 1/[NP 48/[NPH 59/person/NN 49/] 4/] 5/]
+9013#0	60	24/[VP/VP1 25/fall/VBG 26/]
+9013#0	60	30/[EN/NP3 31/[NP 54/[NPH 33/wall/NN 55/] 34/] 35/]
+9013#0	60	36/[VP/VP2 37/cover/VBN 38/]
+9013#0	60	42/[EN/NP4 43/[NP 56/[NPH 44/graffiti/NNP 57/] 45/] 46/]
+9013#0	60	18/[EN/NP2 19/[NP 52/[NPH 21/shadow/NN 53/] 22/] 23/]
+0	37 38	37 27/graffiti/JJ 28/cover/JJ 38	+NPMOD/graffiti cover
+1	33 41 34	33 3/skateboarder/NN 34	+NPHEAD/skateboarder
+2	33 42 34	33 41/skater/NN 34	+NPHEAD/skater
+3	33 43 34	33 42/athlete/NN 34	+NPHEAD/athlete
+4	33 44 34	33 43/adult/NN 34	+NPHEAD/adult
+5	B 19 24 E	B 13/[EN/NP1 14/[NP 35/[NPH 16/air/NN 36/] 17/] 19 24 18/] E	+PP-SENT
+6	17 18	17 19/[PP 20/in/IN 21/front/NN 22/of/IN 23/] 24/[EN/NP2 25/[NP 37/[NPM 38/] 39/[NPH 29/wall/NN 40/] 30/] 31/] 18	+PP/in front of/wall
+7	B 10 13 E	B 6/[VP/VP0 8/jump/VBG 10 13 9/] E	+PP-SENT
+8	8 9	8 10/[PP 11/through/RP 12/] 13/[EN/NP1 14/[NP 35/[NPH 16/air/NN 36/] 17/] 18/] 9	+PP/through/air
+9	B 0 E	B 0 6/[VP/VP0 8/jump/VBG 9/] E	+VERB
+10	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 44/person/NN 34/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 3/skateboarder/NN 34/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 43/adult/NN 34/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 41/skater/NN 34/] 4/] 5/] 6	+SUBJ
+14	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 42/athlete/NN 34/] 4/] 5/] 6	+SUBJ
+15	B 24 E	B 19/[PP 20/in/IN 21/front/NN 22/of/IN 23/] 24 E	+SENT
+16	B 13 E	B 10/[PP 11/through/RP 12/] 13 E	+SENT
+9013#1	45	0/[EN/NP0 1/[NP 33/[NPH 44/person/NN 34/] 4/] 5/]
+9013#1	45	6/[VP/VP0 8/jump/VBG 9/]
+9013#1	45	24/[EN/NP2 25/[NP 37/[NPM 38/] 39/[NPH 29/wall/NN 40/] 30/] 31/]
+9013#1	45	13/[EN/NP1 14/[NP 35/[NPH 16/air/NN 36/] 17/] 18/]
+0	29 30	29 12/skateboard/NN 30	+NPMOD/skateboard
+1	33 34	33 22/graffiti/JJ 34	+NPMOD/graffiti
+2	27 37 28	27 3/skateboarder/NN 28	+NPHEAD/skateboarder
+3	27 38 28	27 37/skater/NN 28	+NPHEAD/skater
+4	27 39 28	27 38/athlete/NN 28	+NPHEAD/athlete
+5	27 40 28	27 39/adult/NN 28	+NPHEAD/adult
+6	B 16 19 E	B 9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/trick/NN 32/] 14/] 16 19 15/] E	+PP-SENT
+7	14 15	14 16/[PP 17/against/IN 18/] 19/[EN/NP2 20/[NP 33/[NPM 34/] 35/[NPH 23/wall/NN 36/] 24/] 25/] 15	+PP/against/wall
+8	B 0 E	B 0 6/[VP/VP0 7/perform/VBZ 8/] E	+VERB
+9	B 6	B 0/[EN/NP0 1/[NP 27/[NPH 40/person/NN 28/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 27/[NPH 37/skater/NN 28/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 27/[NPH 39/adult/NN 28/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 27/[NPH 38/athlete/NN 28/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 27/[NPH 3/skateboarder/NN 28/] 4/] 5/] 6	+SUBJ
+14	B 9 10 15 E	B 6/[VP/VP0 7/perform/VBZ 8/] 9 10 15 E	+TVERB
+15	6 E	6 9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/trick/NN 32/] 14/] 15/] E	+DOBJ
+16	B 19 E	B 16/[PP 17/against/IN 18/] 19 E	+SENT
+9013#2	41	0/[EN/NP0 1/[NP 27/[NPH 40/person/NN 28/] 4/] 5/]
+9013#2	41	9/[EN/NP1 10/[NP 29/[NPM 30/] 31/[NPH 13/trick/NN 32/] 14/] 15/]
+9013#2	41	6/[VP/VP0 7/perform/VBZ 8/]
+9013#2	41	19/[EN/NP2 20/[NP 33/[NPM 34/] 35/[NPH 23/wall/NN 36/] 24/] 25/]
+0	16 20 17	16 3/skateboarder/NN 17	+NPHEAD/skateboarder
+1	16 21 17	16 20/skater/NN 17	+NPHEAD/skater
+2	16 22 17	16 21/athlete/NN 17	+NPHEAD/athlete
+3	16 23 17	16 22/adult/NN 17	+NPHEAD/adult
+4	B 0 E	B 0 6/[VP/VP0 7/grind/VBG 8/] E	+VERB
+5	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 23/person/NN 17/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 22/adult/NN 17/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 21/athlete/NN 17/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 20/skater/NN 17/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 16/[NPH 3/skateboarder/NN 17/] 4/] 5/] 6	+SUBJ
+10	B 9 10 14 E	B 6/[VP/VP0 7/grind/VBG 8/] 9 10 14 E	+TVERB
+11	6 E	6 9/[EN/NP1 10/[NP 18/[NPH 12/lip/NN 19/] 13/] 14/] E	+DOBJ
+9013#3	24	0/[EN/NP0 1/[NP 16/[NPH 23/person/NN 17/] 4/] 5/]
+9013#3	24	9/[EN/NP1 10/[NP 18/[NPH 12/lip/NN 19/] 13/] 14/]
+9013#3	24	6/[VP/VP0 7/grind/VBG 8/]
+0	24 30 25	24 3/skater/NN 25	+NPHEAD/skater
+1	24 31 25	24 30/athlete/NN 25	+NPHEAD/athlete
+2	24 32 25	24 31/adult/NN 25	+NPHEAD/adult
+3	B 14 17 E	B 9/[EN/NP1 10/[NP 26/[NPH 11/trick/NNS 27/] 12/] 14 17 13/] E	+PP-SENT
+4	12 13	12 14/[PP 15/on/IN 16/] 17/[EN/NP2 18/[NP 28/[NPH 20/ramp/NN 29/] 21/] 22/] 13	+PP/on/ramp
+5	B 0 E	B 0 6/[VP/VP0 7/perform/VBZ 8/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 24/[NPH 32/person/NN 25/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 24/[NPH 31/adult/NN 25/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 24/[NPH 30/athlete/NN 25/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 24/[NPH 3/skater/NN 25/] 4/] 5/] 6	+SUBJ
+10	B 9 10 13 E	B 6/[VP/VP0 7/perform/VBZ 8/] 9 10 13 E	+TVERB
+11	6 E	6 9/[EN/NP1 10/[NP 26/[NPH 11/trick/NNS 27/] 12/] 13/] E	+DOBJ
+12	B 17 E	B 14/[PP 15/on/IN 16/] 17 E	+SENT
+9013#H	33	0/[EN/NP0 1/[NP 24/[NPH 32/person/NN 25/] 4/] 5/]
+9013#H	33	9/[EN/NP1 10/[NP 26/[NPH 11/trick/NNS 27/] 12/] 13/]
+9013#H	33	6/[VP/VP0 7/perform/VBZ 8/]
+9013#H	33	17/[EN/NP2 18/[NP 28/[NPH 20/ramp/NN 29/] 21/] 22/]
+0	77 78	77 3/female/JJ 78	+NPMOD/female
+1	81 82	81 13/short/JJ 82	+NPMOD/short
+2	89 90	89 40/two/CD 41/outstretched/JJ 90	+NPMOD/two outstretched
+3	95 96	95 60/electric/JJ 96	+NPMOD/electric
+4	79 101 80	79 4/singer/NN 80	+NPHEAD/singer
+5	79 102 80	79 101/musician/NN 80	+NPHEAD/musician
+6	79 103 80	79 102/performer/NN 80	+NPHEAD/performer
+7	79 104 80	79 102/performer/NN 80	+NPHEAD/performer
+8	79 105 80	79 103/adult/NN 80	+NPHEAD/adult
+9	79 103 80	79 104/entertainer/NN 80	+NPHEAD/entertainer
+10	83 106 84	83 14/dress/NN 84	+NPHEAD/dress
+11	93 107 94	93 51/man/NN 94	+NPHEAD/man
+12	93 108 94	93 107/adult/NN 94	+NPHEAD/adult
+13	97 109 98	97 61/bass/NN 62/guitar/NN 98	+NPHEAD/bass guitar
+14	97 110 111 98	97 109/guitar/NN 98	+NPHEAD/guitar
+15	97 112 98	97 110/stringed/NN 111/instrument/NN 98	+NPHEAD/stringed instrument
+16	B 65 70 E	B 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 112/instrument/NN 98/] 63/] 65 70 64/] E	+PP-SENT
+17	63 64	63 65/[PP 66/in/IN 67/front/NN 68/of/IN 69/] 70/[EN/NP7 71/[NP 99/[NPH 73/amplifier/NN 100/] 74/] 75/] 64	+PP/in front of/amplifier
+18	B 26 29 34 37 E	B 20/[EN/NP2 21/[NP 85/[NPH 23/microphone/NN 86/] 24/] 26 29 34 37 25/] E	+PP-SENT
+19	24 25	24 26/[PP 27/in/IN 28/] 29/[EN/NP3 30/[NP 87/[NPH 31/one/CD 88/] 32/] 33/] 34/[PP 35/of/IN 36/] 37/[EN/NP4 38/[NP 89/[NPM 90/] 91/[NPH 42/hand/NNS 92/] 43/] 44/] 25	+PP/in/one of hand
+20	B 0 17 20 45 48 54 57 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 81/[NPM 82/] 83/[NPH 106/clothing/NN 84/] 15/] 16/] 17 20 45 48 54 57 E	+VERB
+21	B 0 17 20 45 48 54 57 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 81/[NPM 82/] 83/[NPH 14/dress/NN 84/] 15/] 16/] 17 20 45 48 54 57 E	+VERB
+22	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+23	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 105/person/NN 80/] 5/] 6/] 7	+SUBJ
+24	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 104/entertainer/NN 80/] 5/] 6/] 7	+SUBJ
+25	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 4/singer/NN 80/] 5/] 6/] 7	+SUBJ
+26	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 102/performer/NN 80/] 5/] 6/] 7	+SUBJ
+27	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 101/musician/NN 80/] 5/] 6/] 7	+SUBJ
+28	B 7	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 103/adult/NN 80/] 5/] 6/] 7	+SUBJ
+29	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+30	7 E	7 10/[EN/NP1 11/[NP 81/[NPM 82/] 83/[NPH 106/clothing/NN 84/] 15/] 16/] E	+DOBJ
+31	7 E	7 10/[EN/NP1 11/[NP 81/[NPM 82/] 83/[NPH 14/dress/NN 84/] 15/] 16/] E	+DOBJ
+32	B 0 17 20 E	B 0 17 20 45/[SBAR 46/while/IN 47/] 48/[EN/NP5 49/[NP 93/[NPH 108/person/NN 94/] 52/] 53/] 54/[VP/VP1 55/play/VBZ 56/] 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 112/instrument/NN 98/] 63/] 64/] E	+COMPLEX
+33	B 0 E	B 0 17/[VP/VP0 18/hold/VBZ 19/] E	+VERB
+34	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 105/person/NN 80/] 5/] 6/] 17	+SUBJ
+35	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 104/entertainer/NN 80/] 5/] 6/] 17	+SUBJ
+36	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 4/singer/NN 80/] 5/] 6/] 17	+SUBJ
+37	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 102/performer/NN 80/] 5/] 6/] 17	+SUBJ
+38	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 101/musician/NN 80/] 5/] 6/] 17	+SUBJ
+39	B 17	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 103/adult/NN 80/] 5/] 6/] 17	+SUBJ
+40	B 20 21 25 E	B 17/[VP/VP0 18/hold/VBZ 19/] 20 21 25 E	+TVERB
+41	17 E	17 20/[EN/NP2 21/[NP 85/[NPH 23/microphone/NN 86/] 24/] 25/] E	+DOBJ
+42	B 48 54 57 E	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 105/person/NN 80/] 5/] 6/] 17/[VP/VP0 18/hold/VBZ 19/] 20/[EN/NP2 21/[NP 85/[NPH 23/microphone/NN 86/] 24/] 25/] 45/[SBAR 46/while/IN 47/] 48 54 57 E	+COMPLEX
+43	B 48 E	B 48 54/[VP/VP1 55/play/VBZ 56/] E	+VERB
+44	B 54	B 48/[EN/NP5 49/[NP 93/[NPH 108/person/NN 94/] 52/] 53/] 54	+SUBJ
+45	B 54	B 48/[EN/NP5 49/[NP 93/[NPH 107/adult/NN 94/] 52/] 53/] 54	+SUBJ
+46	B 54	B 48/[EN/NP5 49/[NP 93/[NPH 51/man/NN 94/] 52/] 53/] 54	+SUBJ
+47	B 57 58 64 E	B 54/[VP/VP1 55/play/VBZ 56/] 57 58 64 E	+TVERB
+48	54 E	54 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 112/instrument/NN 98/] 63/] 64/] E	+DOBJ
+49	54 E	54 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 110/stringed/NN 111/instrument/NN 98/] 63/] 64/] E	+DOBJ
+50	54 E	54 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 109/guitar/NN 98/] 63/] 64/] E	+DOBJ
+51	54 E	54 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 61/bass/NN 62/guitar/NN 98/] 63/] 64/] E	+DOBJ
+52	B 70 E	B 65/[PP 66/in/IN 67/front/NN 68/of/IN 69/] 70 E	+SENT
+53	B 29 E	B 26/[PP 27/in/IN 28/] 29 34/[PP 35/of/IN 36/] 37/[EN/NP4 38/[NP 89/[NPM 90/] 91/[NPH 42/hand/NNS 92/] 43/] 44/] E	+SENT
+54	B 37 E	B 26/[PP 27/in/IN 28/] 29/[EN/NP3 30/[NP 87/[NPH 31/one/CD 88/] 32/] 33/] 34/[PP 35/of/IN 36/] 37 E	+SENT
+55	B 0 E	B 0 17/[VP/VP0 18/hold/VBZ 19/] 20/[EN/NP2 21/[NP 85/[NPH 23/microphone/NN 86/] 24/] 25/] E	+SENT
+56	B 20 E	B 0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 105/person/NN 80/] 5/] 6/] 17/[VP/VP0 18/hold/VBZ 19/] 20 E	+SENT
+57	B 48 E	B 48 54/[VP/VP1 55/play/VBZ 56/] 57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 112/instrument/NN 98/] 63/] 64/] E	+SENT
+58	B 57 E	B 48/[EN/NP5 49/[NP 93/[NPH 108/person/NN 94/] 52/] 53/] 54/[VP/VP1 55/play/VBZ 56/] 57 E	+SENT
+9014#0	113	0/[EN/NP0 1/[NP 77/[NPM 78/] 79/[NPH 105/person/NN 80/] 5/] 6/]
+9014#0	113	10/[EN/NP1 11/[NP 81/[NPM 82/] 83/[NPH 106/clothing/NN 84/] 15/] 16/]
+9014#0	113	7/[VP/VPwear0 8/wear/VB 9/]
+9014#0	113	20/[EN/NP2 21/[NP 85/[NPH 23/microphone/NN 86/] 24/] 25/]
+9014#0	113	17/[VP/VP0 18/hold/VBZ 19/]
+9014#0	113	48/[EN/NP5 49/[NP 93/[NPH 108/person/NN 94/] 52/] 53/]
+9014#0	113	57/[EN/NP6 58/[NP 95/[NPM 96/] 97/[NPH 112/instrument/NN 98/] 63/] 64/]
+9014#0	113	54/[VP/VP1 55/play/VBZ 56/]
+9014#0	113	70/[EN/NP7 71/[NP 99/[NPH 73/amplifier/NN 100/] 74/] 75/]
+9014#0	113	29/[EN/NP3 30/[NP 87/[NPH 31/one/CD 88/] 32/] 33/]
+9014#0	113	37/[EN/NP4 38/[NP 89/[NPM 90/] 91/[NPH 42/hand/NNS 92/] 43/] 44/]
+0	47 48	47 3/musical/JJ 48	+NPMOD/musical
+1	51 52	51 13/black/JJ 52	+NPMOD/black
+2	57 58	57 31/red/JJ 32/lights/NNS 58	+NPMOD/red lights
+3	49 63 50	49 4/performer/NN 50	+NPHEAD/performer
+4	49 64 50	49 4/performer/NN 50	+NPHEAD/performer
+5	49 65 50	49 63/adult/NN 50	+NPHEAD/adult
+6	49 63 50	49 64/entertainer/NN 50	+NPHEAD/entertainer
+7	53 66 54	53 14/dress/NN 54	+NPHEAD/dress
+8	55 67 56	55 23/crowd/NN 56	+NPHEAD/crowd
+9	B 0 17 20 26 29 36 37 43 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 51/[NPM 52/] 53/[NPH 66/clothing/NN 54/] 15/] 16/] 17 20 26 29 36 37 43 E	+VERB
+10	B 0 17 20 26 29 36 37 43 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 51/[NPM 52/] 53/[NPH 14/dress/NN 54/] 15/] 16/] 17 20 26 29 36 37 43 E	+VERB
+11	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+12	B 7	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 65/person/NN 50/] 5/] 6/] 7	+SUBJ
+13	B 7	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 63/adult/NN 50/] 5/] 6/] 7	+SUBJ
+14	B 7	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 64/entertainer/NN 50/] 5/] 6/] 7	+SUBJ
+15	B 7	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 4/performer/NN 50/] 5/] 6/] 7	+SUBJ
+16	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+17	7 E	7 10/[EN/NP1 11/[NP 51/[NPM 52/] 53/[NPH 66/clothing/NN 54/] 15/] 16/] E	+DOBJ
+18	7 E	7 10/[EN/NP1 11/[NP 51/[NPM 52/] 53/[NPH 14/dress/NN 54/] 15/] 16/] E	+DOBJ
+19	B 0 17 20 E	B 0 17 20 26/[PP 27/as/IN 28/] 29/[EN/NP3 30/[NP 57/[NPM 58/] 59/[NPH 33/flash/NN 60/] 34/] 35/] 36/and/CC 37/[EN/NP4 38/[NP 61/[NPH 40/band/NN 62/] 41/] 42/] 43/[VP/VP1 44/play/VBZ 45/] E	+COMPLEX
+20	B 0 E	B 0 17/[VP/VP0 18/praise/VBG 19/] E	+VERB
+21	B 17	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 65/person/NN 50/] 5/] 6/] 17	+SUBJ
+22	B 17	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 63/adult/NN 50/] 5/] 6/] 17	+SUBJ
+23	B 17	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 64/entertainer/NN 50/] 5/] 6/] 17	+SUBJ
+24	B 17	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 4/performer/NN 50/] 5/] 6/] 17	+SUBJ
+25	B 20 21 25 E	B 17/[VP/VP0 18/praise/VBG 19/] 20 21 25 E	+TVERB
+26	17 E	17 20/[EN/NP2 21/[NP 55/[NPH 67/group/NN 56/] 24/] 25/] E	+DOBJ
+27	17 E	17 20/[EN/NP2 21/[NP 55/[NPH 23/crowd/NN 56/] 24/] 25/] E	+DOBJ
+28	B 37 E	B 37 43/[VP/VP1 44/play/VBZ 45/] E	+VERB
+29	B 43	B 37/[EN/NP4 38/[NP 61/[NPH 40/band/NN 62/] 41/] 42/] 43	+SUBJ
+30	B 0 E	B 0 17/[VP/VP0 18/praise/VBG 19/] 20/[EN/NP2 21/[NP 55/[NPH 67/group/NN 56/] 24/] 25/] E	+SENT
+31	B 20 E	B 0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 65/person/NN 50/] 5/] 6/] 17/[VP/VP0 18/praise/VBG 19/] 20 E	+SENT
+9014#1	68	0/[EN/NP0 1/[NP 47/[NPM 48/] 49/[NPH 65/person/NN 50/] 5/] 6/]
+9014#1	68	10/[EN/NP1 11/[NP 51/[NPM 52/] 53/[NPH 66/clothing/NN 54/] 15/] 16/]
+9014#1	68	7/[VP/VPwear0 8/wear/VB 9/]
+9014#1	68	20/[EN/NP2 21/[NP 55/[NPH 67/group/NN 56/] 24/] 25/]
+9014#1	68	17/[VP/VP0 18/praise/VBG 19/]
+9014#1	68	37/[EN/NP4 38/[NP 61/[NPH 40/band/NN 62/] 41/] 42/]
+9014#1	68	43/[VP/VP1 44/play/VBZ 45/]
+0	27 28	27 3/redheaded/JJ 28	+NPMOD/redheaded
+1	29 35 30	29 4/singer/NN 30	+NPHEAD/singer
+2	29 36 30	29 35/musician/NN 30	+NPHEAD/musician
+3	29 37 30	29 36/performer/NN 30	+NPHEAD/performer
+4	29 38 30	29 36/performer/NN 30	+NPHEAD/performer
+5	29 39 30	29 37/adult/NN 30	+NPHEAD/adult
+6	29 37 30	29 38/entertainer/NN 30	+NPHEAD/entertainer
+7	B 18 21 E	B 15/[VP/VP0 16/spread/VBN 18 21 17/] E	+PP-SENT
+8	16 17	16 18/[PP 19/on/IN 20/] 21/[EN/NP2 22/[NP 33/[NPH 23/stage/NN 34/] 24/] 25/] 17	+PP/on/stage
+9	B 7 10 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 39/person/NN 30/] 5/] 7 10 6/] E	+PP-SENT
+10	5 6	5 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 31/[NPH 12/arm/NNS 32/] 13/] 14/] 6	+PP/with/arm
+11	B 0 E	B 0 15/[VP/VP0 16/spread/VBN 17/] E	+VERB
+12	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 39/person/NN 30/] 5/] 6/] 15	+SUBJ
+13	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/entertainer/NN 30/] 5/] 6/] 15	+SUBJ
+14	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 36/performer/NN 30/] 5/] 6/] 15	+SUBJ
+15	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 37/adult/NN 30/] 5/] 6/] 15	+SUBJ
+16	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 35/musician/NN 30/] 5/] 6/] 15	+SUBJ
+17	B 15	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/singer/NN 30/] 5/] 6/] 15	+SUBJ
+18	B 21 E	B 18/[PP 19/on/IN 20/] 21 E	+SENT
+19	B 10 E	B 7/[PP 8/with/IN 9/] 10 E	+SENT
+9014#2	40	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 39/person/NN 30/] 5/] 6/]
+9014#2	40	15/[VP/VP0 16/spread/VBN 17/]
+9014#2	40	21/[EN/NP2 22/[NP 33/[NPH 23/stage/NN 34/] 24/] 25/]
+9014#2	40	10/[EN/NP1 11/[NP 31/[NPH 12/arm/NNS 32/] 13/] 14/]
+0	23 24	23 3/female/JJ 24	+NPMOD/female
+1	27 28	27 10/male/JJ 28	+NPMOD/male
+2	25 33 26	25 4/singer/NN 26	+NPHEAD/singer
+3	25 34 26	25 33/musician/NN 26	+NPHEAD/musician
+4	25 35 26	25 34/performer/NN 26	+NPHEAD/performer
+5	25 36 26	25 34/performer/NN 26	+NPHEAD/performer
+6	25 37 26	25 35/adult/NN 26	+NPHEAD/adult
+7	25 35 26	25 36/entertainer/NN 26	+NPHEAD/entertainer
+8	29 38 30	29 11/guitarist/NN 30	+NPHEAD/guitarist
+9	29 39 30	29 38/musician/NN 30	+NPHEAD/musician
+10	29 40 30	29 39/performer/NN 30	+NPHEAD/performer
+11	29 41 30	29 39/performer/NN 30	+NPHEAD/performer
+12	29 42 30	29 40/adult/NN 30	+NPHEAD/adult
+13	29 40 30	29 41/entertainer/NN 30	+NPHEAD/entertainer
+14	B 14 17 E	B 8/[EN/NP1 9/[NP 27/[NPM 28/] 29/[NPH 42/person/NN 30/] 12/] 14 17 13/] E	+PP-SENT
+15	12 13	12 14/[PP 15/on/IN 16/] 17/[EN/NP2 18/[NP 31/[NPH 19/stage/NN 32/] 20/] 21/] 13	+PP/on/stage
+16	B 0 E	B 0 7/and/CC 8/[EN/NP1 9/[NP 27/[NPM 28/] 29/[NPH 42/person/NN 30/] 12/] 13/] E	+SENT
+17	B 8 E	B 0/[EN/NP0 1/[NP 23/[NPM 24/] 25/[NPH 37/person/NN 26/] 5/] 6/] 7/and/CC 8 E	+SENT
+18	B 17 E	B 14/[PP 15/on/IN 16/] 17 E	+SENT
+9014#3	43	0/[EN/NP0 1/[NP 23/[NPM 24/] 25/[NPH 37/person/NN 26/] 5/] 6/]
+9014#3	43	8/[EN/NP1 9/[NP 27/[NPM 28/] 29/[NPH 42/person/NN 30/] 12/] 13/]
+9014#3	43	17/[EN/NP2 18/[NP 31/[NPH 19/stage/NN 32/] 20/] 21/]
+0	10 12 11	10 3/woman/NN 11	+NPHEAD/woman
+1	10 13 11	10 12/adult/NN 11	+NPHEAD/adult
+2	B 0 E	B 0 6/[VP/VP0 7/sing/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 13/person/NN 11/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 12/adult/NN 11/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 3/woman/NN 11/] 4/] 5/] 6	+SUBJ
+9014#H	14	0/[EN/NP0 1/[NP 10/[NPH 13/person/NN 11/] 4/] 5/]
+9014#H	14	6/[VP/VP0 7/sing/VBG 8/]
+0	54 55	54 33/video/JJ 55	+NPMOD/video
+1	46 60 47	46 3/man/NN 47	+NPHEAD/man
+2	46 61 47	46 60/adult/NN 47	+NPHEAD/adult
+3	48 62 49	48 10/woman/NN 49	+NPHEAD/woman
+4	48 63 49	48 62/adult/NN 49	+NPHEAD/adult
+5	B 37 40 E	B 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 37 40 36/] E	+PP-SENT
+6	35 36	35 37/[PP 38/on/IN 39/] 40/[EN/NP5 41/[NP 58/[NPH 42/themselves/PRP 59/] 43/] 44/] 36	+PP/on/themselves
+7	B 7 13 16 E	B 0/[EN/NP0 1/[NP 46/[NPH 61/person/NN 47/] 4/] 5/] 6/and/CC 7 13 16 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+VERB
+8	B 7 13 16 E	B 0/[EN/NP0 1/[NP 46/[NPH 60/adult/NN 47/] 4/] 5/] 6/and/CC 7 13 16 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+VERB
+9	B 7 13 16 E	B 0/[EN/NP0 1/[NP 46/[NPH 3/man/NN 47/] 4/] 5/] 6/and/CC 7 13 16 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+VERB
+10	B 7 E	B 7 13/[VP/VP0 14/wear/VBG 15/] E	+VERB
+11	B 13	B 7/[EN/NP1 8/[NP 48/[NPH 63/person/NN 49/] 11/] 12/] 13	+SUBJ
+12	B 13	B 7/[EN/NP1 8/[NP 48/[NPH 62/adult/NN 49/] 11/] 12/] 13	+SUBJ
+13	B 13	B 7/[EN/NP1 8/[NP 48/[NPH 10/woman/NN 49/] 11/] 12/] 13	+SUBJ
+14	B 16 17 21 E	B 13/[VP/VP0 14/wear/VBG 15/] 16 17 21 E	+TVERB
+15	13 E	13 16/[EN/NP2 17/[NP 50/[NPH 19/head/NN 51/] 20/] 21/] E	+DOBJ
+16	B 22 25 E	B 0/[EN/NP0 1/[NP 46/[NPH 61/person/NN 47/] 4/] 5/] 6/and/CC 7/[EN/NP1 8/[NP 48/[NPH 63/person/NN 49/] 11/] 12/] 22 25 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+COMPLEX-VERB
+17	B 0 E	B 0 6/and/CC 7/[EN/NP1 8/[NP 48/[NPH 63/person/NN 49/] 11/] 12/] 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+SENT
+18	B 7 E	B 0/[EN/NP0 1/[NP 46/[NPH 61/person/NN 47/] 4/] 5/] 6/and/CC 7 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/] E	+SENT
+19	B 30 E	B 0/[EN/NP0 1/[NP 46/[NPH 61/person/NN 47/] 4/] 5/] 6/and/CC 7/[EN/NP1 8/[NP 48/[NPH 63/person/NN 49/] 11/] 12/] 22/[VP/VP1 23/cover/VBG 24/] 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] 30 E	+SENT
+20	B 25 26 29 E	B 22/[VP/VP1 23/cover/VBG 24/] 25 26 29 E	+TVERB
+21	22 E	22 25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/] E	+DOBJ
+22	B 40 E	B 37/[PP 38/on/IN 39/] 40 E	+SENT
+9015#0	64	7/[EN/NP1 8/[NP 48/[NPH 63/person/NN 49/] 11/] 12/]
+9015#0	64	16/[EN/NP2 17/[NP 50/[NPH 19/head/NN 51/] 20/] 21/]
+9015#0	64	13/[VP/VP0 14/wear/VBG 15/]
+9015#0	64	0/[EN/NP0 1/[NP 46/[NPH 61/person/NN 47/] 4/] 5/]
+9015#0	64	30/[EN/NP4 31/[NP 54/[NPM 55/] 56/[NPH 34/camera/NN 57/] 35/] 36/]
+9015#0	64	25/[EN/NP3 26/[NP 52/[NPH 27/turn/NN 53/] 28/] 29/]
+9015#0	64	22/[VP/VP1 23/cover/VBG 24/]
+9015#0	64	40/[EN/NP5 41/[NP 58/[NPH 42/themselves/PRP 59/] 43/] 44/]
+0	39 40	39 12/brown/JJ 40	+NPMOD/brown
+1	45 46	45 32/video/JJ 46	+NPMOD/video
+2	37 49 38	37 3/man/NN 38	+NPHEAD/man
+3	37 50 38	37 49/adult/NN 38	+NPHEAD/adult
+4	41 51 42	41 13/sweater/NN 42	+NPHEAD/sweater
+5	43 52 44	43 20/woman/NN 44	+NPHEAD/woman
+6	43 53 44	43 52/adult/NN 44	+NPHEAD/adult
+7	B 26 29 E	B 23/[VP/VP0 24/smile/VBZ 26 29 25/] E	+PP-SENT
+8	24 25	24 26/[PP 27/for/IN 28/] 29/[EN/NP3 30/[NP 45/[NPM 46/] 47/[NPH 33/camera/NN 48/] 34/] 35/] 25	+PP/for/camera
+9	B 0 6 9 E	B 0 6 9 16/and/CC 17/[EN/NP2 18/[NP 43/[NPH 53/person/NN 44/] 21/] 22/] 23/[VP/VP0 24/smile/VBZ 25/] E	+VERB
+10	B 0 6 9 E	B 0 6 9 16/and/CC 17/[EN/NP2 18/[NP 43/[NPH 20/woman/NN 44/] 21/] 22/] 23/[VP/VP0 24/smile/VBZ 25/] E	+VERB
+11	B 0 6 9 E	B 0 6 9 16/and/CC 17/[EN/NP2 18/[NP 43/[NPH 52/adult/NN 44/] 21/] 22/] 23/[VP/VP0 24/smile/VBZ 25/] E	+VERB
+12	B 0 16 17 23 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 39/[NPM 40/] 41/[NPH 51/clothing/NN 42/] 14/] 15/] 16 17 23 E	+VERB
+13	B 0 16 17 23 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 39/[NPM 40/] 41/[NPH 13/sweater/NN 42/] 14/] 15/] 16 17 23 E	+VERB
+14	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+15	B 6	B 0/[EN/NP0 1/[NP 37/[NPH 50/person/NN 38/] 4/] 5/] 6	+SUBJ
+16	B 6	B 0/[EN/NP0 1/[NP 37/[NPH 3/man/NN 38/] 4/] 5/] 6	+SUBJ
+17	B 6	B 0/[EN/NP0 1/[NP 37/[NPH 49/adult/NN 38/] 4/] 5/] 6	+SUBJ
+18	B 9 10 15 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 15 E	+TVERB
+19	6 E	6 9/[EN/NP1 10/[NP 39/[NPM 40/] 41/[NPH 51/clothing/NN 42/] 14/] 15/] E	+DOBJ
+20	6 E	6 9/[EN/NP1 10/[NP 39/[NPM 40/] 41/[NPH 13/sweater/NN 42/] 14/] 15/] E	+DOBJ
+21	B 0 23 E	B 0 16/and/CC 17/[EN/NP2 18/[NP 43/[NPH 53/person/NN 44/] 21/] 22/] 23 E	+COMPLEX
+22	B 17 E	B 0/[EN/NP0 1/[NP 37/[NPH 50/person/NN 38/] 4/] 5/] 16/and/CC 17 23/[VP/VP0 24/smile/VBZ 25/] E	+SENT
+23	B 0 E	B 0 23/[VP/VP0 24/smile/VBZ 25/] E	+VERB
+24	B 23	B 0/[EN/NP0 1/[NP 37/[NPH 50/person/NN 38/] 4/] 5/] 23	+SUBJ
+25	B 23	B 0/[EN/NP0 1/[NP 37/[NPH 3/man/NN 38/] 4/] 5/] 23	+SUBJ
+26	B 23	B 0/[EN/NP0 1/[NP 37/[NPH 49/adult/NN 38/] 4/] 5/] 23	+SUBJ
+27	B 29 E	B 26/[PP 27/for/IN 28/] 29 E	+SENT
+9015#1	54	0/[EN/NP0 1/[NP 37/[NPH 50/person/NN 38/] 4/] 5/]
+9015#1	54	9/[EN/NP1 10/[NP 39/[NPM 40/] 41/[NPH 51/clothing/NN 42/] 14/] 15/]
+9015#1	54	6/[VP/VPwear0 7/wear/VB 8/]
+9015#1	54	17/[EN/NP2 18/[NP 43/[NPH 53/person/NN 44/] 21/] 22/]
+9015#1	54	23/[VP/VP0 24/smile/VBZ 25/]
+9015#1	54	29/[EN/NP3 30/[NP 45/[NPM 46/] 47/[NPH 33/camera/NN 48/] 34/] 35/]
+0	42 43	42 21/video/JJ 43	+NPMOD/video
+1	38 48 39	38 3/man/NN 39	+NPHEAD/man
+2	38 49 39	38 48/adult/NN 39	+NPHEAD/adult
+3	40 50 41	40 9/woman/NN 41	+NPHEAD/woman
+4	40 51 41	40 50/adult/NN 41	+NPHEAD/adult
+5	46 52 47	46 30/they/PRP 47	+NPHEAD/they
+6	B 15 18 E	B 12/[VP/VP0 13/pose/VBP 15 18 14/] E	+PP-SENT
+7	13 14	13 15/[PP 16/for/IN 17/] 18/[EN/NP2 19/[NP 42/[NPM 43/] 44/[NPH 22/camera/NN 45/] 23/] 24/] 14	+PP/for/camera
+8	B 0 12 E	B 0 6/and/CC 7/[EN/NP1 8/[NP 40/[NPH 51/person/NN 41/] 10/] 11/] 12 25/[SBAR 26/that/IN 27/] 28/[EN/NP3 29/[NP 46/[NPH 52/person/NN 47/] 31/] 32/] 33/[VP/VP1 35/hold/VBG 36/] E	+COMPLEX
+9	B 0 E	B 0 12/[VP/VP0 13/pose/VBP 14/] E	+VERB
+10	B 12	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 12	+SUBJ
+11	B 12	B 0/[EN/NP0 1/[NP 38/[NPH 48/adult/NN 39/] 4/] 5/] 12	+SUBJ
+12	B 12	B 0/[EN/NP0 1/[NP 38/[NPH 3/man/NN 39/] 4/] 5/] 12	+SUBJ
+13	B 28 33 E	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 6/and/CC 7/[EN/NP1 8/[NP 40/[NPH 51/person/NN 41/] 10/] 11/] 12/[VP/VP0 13/pose/VBP 14/] 25/[SBAR 26/that/IN 27/] 28 33 E	+COMPLEX
+14	B 28 E	B 28 33/[VP/VP1 35/hold/VBG 36/] E	+VERB
+15	B 33	B 28/[EN/NP3 29/[NP 46/[NPH 52/person/NN 47/] 31/] 32/] 33	+SUBJ
+16	B 33	B 28/[EN/NP3 29/[NP 46/[NPH 30/they/PRP 47/] 31/] 32/] 33	+SUBJ
+17	B 18 E	B 15/[PP 16/for/IN 17/] 18 E	+SENT
+9015#2	53	0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/]
+9015#2	53	12/[VP/VP0 13/pose/VBP 14/]
+9015#2	53	28/[EN/NP3 29/[NP 46/[NPH 52/person/NN 47/] 31/] 32/]
+9015#2	53	33/[VP/VP1 35/hold/VBG 36/]
+9015#2	53	18/[EN/NP2 19/[NP 42/[NPM 43/] 44/[NPH 22/camera/NN 45/] 23/] 24/]
+0	17 18	17 3/smile/VBG 18	+NPMOD/smile
+1	B 7 10 E	B 0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 4/couple/NN 20/] 5/] 7 10 6/] E	+PP-SENT
+2	5 6	5 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 21/[NPH 13/camcorder/NN 22/] 14/] 15/] 6	+PP/with/camcorder
+3	B 10 E	B 7/[PP 8/with/IN 9/] 10 E	+SENT
+9015#3	23	0/[EN/NP0 1/[NP 17/[NPM 18/] 19/[NPH 4/couple/NN 20/] 5/] 6/]
+9015#3	23	10/[EN/NP1 11/[NP 21/[NPH 13/camcorder/NN 22/] 14/] 15/]
+0	9 11 10	9 2/woman/NN 10	+NPHEAD/woman
+1	9 12 10	9 11/adult/NN 10	+NPHEAD/adult
+2	B 0 E	B 0 5/[VP/VP0 6/standing/VBG 7/] E	+VERB
+3	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 12/person/NN 10/] 3/] 4/] 5	+SUBJ
+4	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 11/adult/NN 10/] 3/] 4/] 5	+SUBJ
+5	B 5	B 0/[EN/NP0 1/[NP 9/[NPH 2/woman/NN 10/] 3/] 4/] 5	+SUBJ
+9015#H	13	0/[EN/NP0 1/[NP 9/[NPH 12/person/NN 10/] 3/] 4/]
+9015#H	13	5/[VP/VP0 6/standing/VBG 7/]
+0	30 31	30 3/camera/NN 31	+NPMOD/camera
+1	34 35 36 15 37	34 14/older/JJR 35 36 15 37	+NPMOD/older
+2	39 40	39 24/long/JJ 40	+NPMOD/long
+3	41 42	41 25/gray/JJ 42	+NPMOD/gray
+4	36 46 37	36 15/gentleman/NNS 37	+NPHEAD/gentleman
+5	36 47 37	36 46/man/NN 37	+NPHEAD/man
+6	36 48 37	36 47/adult/NN 37	+NPHEAD/adult
+7	44 49 45	44 26/coat/NN 45	+NPHEAD/coat
+8	B 11 18 21 E	B 0/[EN/NP0 1/[NP 30/[NPM 31/] 32/[NPH 4/crew/NN 33/] 5/] 6/] 7/[VP/VP0 9/film/VBG 10/] 11 18 21 E	+VERB
+9	B 0 7 11 E	B 0 7 11 18/[VP/VP1 19/wear/VBG 20/] 21/[EN/NP2 22/[NP 38/[NPM 39/[NPMC 40/] 41/[NPMC 42/] 43/] 44/[NPH 49/clothing/NN 45/] 27/] 28/] E	+VERB
+10	B 0 7 11 E	B 0 7 11 18/[VP/VP1 19/wear/VBG 20/] 21/[EN/NP2 22/[NP 38/[NPM 39/[NPMC 40/] 41/[NPMC 42/] 43/] 44/[NPH 26/coat/NN 45/] 27/] 28/] E	+VERB
+11	B 11 E	B 11 18/[VP/VP1 19/wear/VBG 20/] E	+VERB
+12	B 18	B 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 16/] 17/] 18	+SUBJ
+13	B 18	B 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 47/adult/NN 37/] 16/] 17/] 18	+SUBJ
+14	B 18	B 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 15/gentleman/NNS 37/] 16/] 17/] 18	+SUBJ
+15	B 18	B 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 46/man/NN 37/] 16/] 17/] 18	+SUBJ
+16	B 21 22 28 E	B 18/[VP/VP1 19/wear/VBG 20/] 21 22 28 E	+TVERB
+17	18 E	18 21/[EN/NP2 22/[NP 38/[NPM 39/[NPMC 40/] 41/[NPMC 42/] 43/] 44/[NPH 49/clothing/NN 45/] 27/] 28/] E	+DOBJ
+18	18 E	18 21/[EN/NP2 22/[NP 38/[NPM 39/[NPMC 40/] 41/[NPMC 42/] 43/] 44/[NPH 26/coat/NN 45/] 27/] 28/] E	+DOBJ
+19	B 0 E	B 0 7/[VP/VP0 9/film/VBG 10/] E	+VERB
+20	B 7	B 0/[EN/NP0 1/[NP 30/[NPM 31/] 32/[NPH 4/crew/NN 33/] 5/] 6/] 7	+SUBJ
+21	B 11 12 17 E	B 7/[VP/VP0 9/film/VBG 10/] 11 12 17 E	+TVERB
+22	7 E	7 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 16/] 17/] E	+DOBJ
+23	7 E	7 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 47/adult/NN 37/] 16/] 17/] E	+DOBJ
+24	7 E	7 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 15/gentleman/NNS 37/] 16/] 17/] E	+DOBJ
+25	7 E	7 11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 46/man/NN 37/] 16/] 17/] E	+DOBJ
+9016#0	50	11/[EN/NP1 12/[NP 34/[NPM 35/] 36/[NPH 48/person/NN 37/] 16/] 17/]
+9016#0	50	21/[EN/NP2 22/[NP 38/[NPM 39/[NPMC 40/] 41/[NPMC 42/] 43/] 44/[NPH 49/clothing/NN 45/] 27/] 28/]
+9016#0	50	18/[VP/VP1 19/wear/VBG 20/]
+9016#0	50	0/[EN/NP0 1/[NP 30/[NPM 31/] 32/[NPH 4/crew/NN 33/] 5/] 6/]
+9016#0	50	7/[VP/VP0 9/film/VBG 10/]
+0	35 36 37 13 38	35 12/older/JJR 36 37 13 38	+NPMOD/older
+1	39 40	39 23/fourth/JJ 40	+NPMOD/fourth
+2	31 32	31 2/two/DT 32	+NPART/two
+3	33 43 34	33 3/man/NNS 34	+NPHEAD/man
+4	33 44 34	33 43/adult/NN 34	+NPHEAD/adult
+5	37 45 38	37 13/gentleman/NN 38	+NPHEAD/gentleman
+6	37 46 38	37 45/man/NN 38	+NPHEAD/man
+7	37 47 38	37 46/adult/NN 38	+NPHEAD/adult
+8	41 48 42	41 24/man/NN 42	+NPHEAD/man
+9	41 49 42	41 48/adult/NN 42	+NPHEAD/adult
+10	B 0 6 9 E	B 0 6 9 17/[SBAR 18/while/IN 19/] 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 49/person/NN 42/] 25/] 26/] 27/[VP/VP1 28/watch/VBZ 29/] E	+COMPLEX
+11	B 20 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/] 6/[VP/VP0 7/film/VBG 8/] 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/] 17/[SBAR 18/while/IN 19/] 20 27/[VP/VP1 28/watch/VBZ 29/] E	+SENT
+12	B 0 E	B 0 6/[VP/VP0 7/film/VBG 8/] E	+VERB
+13	B 6	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/] 6	+SUBJ
+14	B 6	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 3/man/NNS 34/] 4/] 5/] 6	+SUBJ
+15	B 6	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 43/adult/NN 34/] 4/] 5/] 6	+SUBJ
+16	B 9 10 15 E	B 6/[VP/VP0 7/film/VBG 8/] 9 10 15 E	+TVERB
+17	6 E	6 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/] E	+DOBJ
+18	6 E	6 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 45/man/NN 38/] 14/] 15/] E	+DOBJ
+19	6 E	6 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 46/adult/NN 38/] 14/] 15/] E	+DOBJ
+20	6 E	6 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 13/gentleman/NN 38/] 14/] 15/] E	+DOBJ
+21	B 20 27 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/] 6/[VP/VP0 7/film/VBG 8/] 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/] 17/[SBAR 18/while/IN 19/] 20 27 E	+COMPLEX
+22	B 0 E	B 0 6/[VP/VP0 7/film/VBG 8/] 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/] 17/[SBAR 18/while/IN 19/] 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 49/person/NN 42/] 25/] 26/] 27/[VP/VP1 28/watch/VBZ 29/] E	+SENT
+23	B 9 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/] 6/[VP/VP0 7/film/VBG 8/] 9 17/[SBAR 18/while/IN 19/] 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 49/person/NN 42/] 25/] 26/] 27/[VP/VP1 28/watch/VBZ 29/] E	+SENT
+24	B 20 E	B 20 27/[VP/VP1 28/watch/VBZ 29/] E	+VERB
+25	B 27	B 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 49/person/NN 42/] 25/] 26/] 27	+SUBJ
+26	B 27	B 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 24/man/NN 42/] 25/] 26/] 27	+SUBJ
+27	B 27	B 20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 48/adult/NN 42/] 25/] 26/] 27	+SUBJ
+28	B 0 E	B 0 6/[VP/VP0 7/film/VBG 8/] 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/] E	+SENT
+29	B 9 E	B 0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/] 6/[VP/VP0 7/film/VBG 8/] 9 E	+SENT
+9016#1	50	6/[VP/VP0 7/film/VBG 8/]
+9016#1	50	0/[EN/NP0 1/[NP 31/[NPD 32/] 33/[NPH 44/person/NN 34/] 4/] 5/]
+9016#1	50	9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 47/person/NN 38/] 14/] 15/]
+9016#1	50	20/[EN/NP2 21/[NP 39/[NPM 40/] 41/[NPH 49/person/NN 42/] 25/] 26/]
+9016#1	50	27/[VP/VP1 28/watch/VBZ 29/]
+0	40 48 41	40 3/white/JJ 4/man/NN 41	+NPHEAD/white man
+1	40 49 41	40 48/man/NN 41	+NPHEAD/man
+2	40 50 41	40 49/adult/NN 41	+NPHEAD/adult
+3	44 51 45	44 27/sidewalk/NN 45	+NPHEAD/sidewalk
+4	B 30 33 E	B 24/[EN/NP2 25/[NP 44/[NPH 51/street/NN 45/] 28/] 30 33 29/] E	+PP-SENT
+5	28 29	28 30/[PP 31/in/IN 32/] 33/[EN/NP3 34/[NP 46/[NPH 36/city/NN 47/] 37/] 38/] 29	+PP/in/city
+6	B 21 24 E	B 15/[EN/NP1 16/[NP 42/[NPH 18/camera/NN 43/] 19/] 21 24 20/] E	+PP-SENT
+7	19 20	19 21/[PP 22/on/IN 23/] 24/[EN/NP2 25/[NP 44/[NPH 51/street/NN 45/] 28/] 29/] 20	+PP/on/street
+8	B 10 15 E	B 7/[VP/VP0 8/speak/VBZ 10 15 9/] E	+PP-SENT
+9	8 9	8 10/[PP 11/in/IN 12/front/NN 13/of/IN 14/] 15/[EN/NP1 16/[NP 42/[NPH 18/camera/NN 43/] 19/] 20/] 9	+PP/in front of/camera
+10	B 0 E	B 0 7/[VP/VP0 8/speak/VBZ 9/] E	+VERB
+11	B 7	B 0/[EN/NP0 1/[NP 40/[NPH 50/person/NN 41/] 5/] 6/] 7	+SUBJ
+12	B 7	B 0/[EN/NP0 1/[NP 40/[NPH 48/man/NN 41/] 5/] 6/] 7	+SUBJ
+13	B 7	B 0/[EN/NP0 1/[NP 40/[NPH 3/white/JJ 4/man/NN 41/] 5/] 6/] 7	+SUBJ
+14	B 7	B 0/[EN/NP0 1/[NP 40/[NPH 49/adult/NN 41/] 5/] 6/] 7	+SUBJ
+15	B 33 E	B 30/[PP 31/in/IN 32/] 33 E	+SENT
+16	B 24 E	B 21/[PP 22/on/IN 23/] 24 E	+SENT
+17	B 15 E	B 10/[PP 11/in/IN 12/front/NN 13/of/IN 14/] 15 E	+SENT
+9016#2	52	0/[EN/NP0 1/[NP 40/[NPH 50/person/NN 41/] 5/] 6/]
+9016#2	52	7/[VP/VP0 8/speak/VBZ 9/]
+9016#2	52	33/[EN/NP3 34/[NP 46/[NPH 36/city/NN 47/] 37/] 38/]
+9016#2	52	24/[EN/NP2 25/[NP 44/[NPH 51/street/NN 45/] 28/] 29/]
+9016#2	52	15/[EN/NP1 16/[NP 42/[NPH 18/camera/NN 43/] 19/] 20/]
+0	17 18	17 2/some/DT 18	+NPART/some
+1	19 23 20	19 3/man/NNS 20	+NPHEAD/man
+2	19 24 20	19 23/adult/NN 20	+NPHEAD/adult
+3	B 0 E	B 0 6/[VP/VP0 8/shoot/VBG 9/] E	+VERB
+4	B 6	B 0/[EN/NP0 1/[NP 17/[NPD 18/] 19/[NPH 24/person/NN 20/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 17/[NPD 18/] 19/[NPH 23/adult/NN 20/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 17/[NPD 18/] 19/[NPH 3/man/NNS 20/] 4/] 5/] 6	+SUBJ
+7	B 10 11 15 E	B 6/[VP/VP0 8/shoot/VBG 9/] 10 11 15 E	+TVERB
+8	6 E	6 10/[EN/NP1 11/[NP 21/[NPH 13/scene/NN 22/] 14/] 15/] E	+DOBJ
+9016#3	25	0/[EN/NP0 1/[NP 17/[NPD 18/] 19/[NPH 24/person/NN 20/] 4/] 5/]
+9016#3	25	10/[EN/NP1 11/[NP 21/[NPH 13/scene/NN 22/] 14/] 15/]
+9016#3	25	6/[VP/VP0 8/shoot/VBG 9/]
+0	19 23 20	19 3/man/NN 20	+NPHEAD/man
+1	19 24 20	19 23/adult/NN 20	+NPHEAD/adult
+2	B 9 12 E	B 6/[VP/VP0 7/standing/VBG 9 12 8/] E	+PP-SENT
+3	7 8	7 9/[PP 10/on/IN 11/] 12/[EN/NP1 13/[NP 21/[NPH 15/street/NN 22/] 16/] 17/] 8	+PP/on/street
+4	B 0 E	B 0 6/[VP/VP0 7/standing/VBG 8/] E	+VERB
+5	B 6	B 0/[EN/NP0 1/[NP 19/[NPH 24/person/NN 20/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 19/[NPH 3/man/NN 20/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 19/[NPH 23/adult/NN 20/] 4/] 5/] 6	+SUBJ
+8	B 12 E	B 9/[PP 10/on/IN 11/] 12 E	+SENT
+9016#H	25	0/[EN/NP0 1/[NP 19/[NPH 24/person/NN 20/] 4/] 5/]
+9016#H	25	6/[VP/VP0 7/standing/VBG 8/]
+9016#H	25	12/[EN/NP1 13/[NP 21/[NPH 15/street/NN 22/] 16/] 17/]
+0	79 80	79 10/two/DT 80	+NPART/two
+1	B 67 70 E	B 64/[VP/VP3 65/hold/VBN 67 70 66/] E	+PP-SENT
+2	65 66	65 67/[PP 68/by/IN 69/] 70/[EN/NP7 71/[NP 93/[NPH 73/person/NN 94/] 74/] 75/] 66	+PP/by/person
+3	B 55 58 E	B 46/[EN/NP5 47/[NP 89/[NPH 49/camera/NN 90/] 50/] 51/] 52/[ADJP 53/point/JJ 55 58 54/] E	+PP-SENT
+4	53 54	53 55/[PP 56/towards/IN 57/] 58/[EN/NP6 59/[NP 91/[NPH 61/vegetable/NN 92/] 62/] 63/] 54	+PP/towards/vegetable
+5	B 26 29 E	B 23/[VP/VP1 24/surround/VBN 26 29 25/] E	+PP-SENT
+6	24 25	24 26/[PP 27/by/IN 28/] 29/[EN/NP3 30/[NP 85/[NPH 31/vegetation/NN 86/] 32/] 33/] 25	+PP/by/vegetation
+7	B 14 17 E	B 8/[EN/NP1 9/[NP 79/[NPD 80/] 81/[NPH 11/person/NNS 82/] 12/] 14 17 13/] E	+PP-SENT
+8	12 13	12 14/[PP 15/in/IN 16/] 17/[EN/NP2 18/[NP 83/[NPH 20/area/NN 84/] 21/] 22/] 13	+PP/in/area
+9	B 8 E	B 8 23/[VP/VP1 24/surround/VBN 25/] E	+VERB
+10	B 23	B 8/[EN/NP1 9/[NP 79/[NPD 80/] 81/[NPH 11/person/NNS 82/] 12/] 13/] 23	+SUBJ
+11	B 37 43 46 E	B 8/[EN/NP1 9/[NP 79/[NPD 80/] 81/[NPH 11/person/NNS 82/] 12/] 13/] 23/[VP/VP1 24/surround/VBN 25/] 34/[PP 35/with/IN 36/] 37 43 46 52/[ADJP 53/point/JJ 54/] 64/[VP/VP3 65/hold/VBN 66/] E	+COMPLEX
+12	B 37 E	B 37 43/[VP/VP2 44/hold/VBG 45/] E	+VERB
+13	B 43	B 37/[EN/NP4 38/[NP 87/[NPH 40/person/NN 88/] 41/] 42/] 43	+SUBJ
+14	B 46 47 51 E	B 43/[VP/VP2 44/hold/VBG 45/] 46 47 51 E	+TVERB
+15	43 E	43 46/[EN/NP5 47/[NP 89/[NPH 49/camera/NN 90/] 50/] 51/] E	+DOBJ
+16	B 37 E	B 37 64/[VP/VP3 65/hold/VBN 66/] E	+VERB
+17	B 64	B 37/[EN/NP4 38/[NP 87/[NPH 40/person/NN 88/] 41/] 42/] 64	+SUBJ
+18	B 70 E	B 67/[PP 68/by/IN 69/] 70 E	+SENT
+19	B 58 E	B 55/[PP 56/towards/IN 57/] 58 E	+SENT
+20	B 29 E	B 26/[PP 27/by/IN 28/] 29 E	+SENT
+21	B 17 E	B 14/[PP 15/in/IN 16/] 17 E	+SENT
+22	B 37 E	B 37 43/[VP/VP2 44/hold/VBG 45/] 46/[EN/NP5 47/[NP 89/[NPH 49/camera/NN 90/] 50/] 51/] E	+SENT
+23	B 46 E	B 37/[EN/NP4 38/[NP 87/[NPH 40/person/NN 88/] 41/] 42/] 43/[VP/VP2 44/hold/VBG 45/] 46 E	+SENT
+9017#0	95	8/[EN/NP1 9/[NP 79/[NPD 80/] 81/[NPH 11/person/NNS 82/] 12/] 13/]
+9017#0	95	23/[VP/VP1 24/surround/VBN 25/]
+9017#0	95	46/[EN/NP5 47/[NP 89/[NPH 49/camera/NN 90/] 50/] 51/]
+9017#0	95	43/[VP/VP2 44/hold/VBG 45/]
+9017#0	95	37/[EN/NP4 38/[NP 87/[NPH 40/person/NN 88/] 41/] 42/]
+9017#0	95	64/[VP/VP3 65/hold/VBN 66/]
+9017#0	95	70/[EN/NP7 71/[NP 93/[NPH 73/person/NN 94/] 74/] 75/]
+9017#0	95	58/[EN/NP6 59/[NP 91/[NPH 61/vegetable/NN 92/] 62/] 63/]
+9017#0	95	29/[EN/NP3 30/[NP 85/[NPH 31/vegetation/NN 86/] 32/] 33/]
+9017#0	95	17/[EN/NP2 18/[NP 83/[NPH 20/area/NN 84/] 21/] 22/]
+0	35 36	35 12/closeup/JJ 36	+NPMOD/closeup
+1	33 43 34	33 3/cameraman/NN 34	+NPHEAD/cameraman
+2	33 44 34	33 3/cameraman/NN 34	+NPHEAD/cameraman
+3	33 45 34	33 43/man/NN 34	+NPHEAD/man
+4	33 46 34	33 44/photographer/NN 34	+NPHEAD/photographer
+5	33 47 34	33 45/adult/NN 34	+NPHEAD/adult
+6	33 47 34	33 46/artist/NN 34	+NPHEAD/artist
+7	39 48 40	39 22/farmer/NN 40	+NPHEAD/farmer
+8	39 49 40	39 48/adult/NN 40	+NPHEAD/adult
+9	B 0 6 9 E	B 0 6 9 16/[PP 17/of/IN 18/] 19/[EN/NP2 20/[NP 39/[NPH 49/person/NN 40/] 23/] 24/] 25/and/CC 26/[EN/NP3 27/[NP 41/[NPH 29/crop/NNS 42/] 30/] 31/] E	+COMPLEX
+10	B 0 E	B 0 6/[VP/VP0 7/shoot/VBZ 8/] E	+VERB
+11	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 47/person/NN 34/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 43/man/NN 34/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 3/cameraman/NN 34/] 4/] 5/] 6	+SUBJ
+14	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 45/adult/NN 34/] 4/] 5/] 6	+SUBJ
+15	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 46/artist/NN 34/] 4/] 5/] 6	+SUBJ
+16	B 6	B 0/[EN/NP0 1/[NP 33/[NPH 44/photographer/NN 34/] 4/] 5/] 6	+SUBJ
+17	B 9 10 15 E	B 6/[VP/VP0 7/shoot/VBZ 8/] 9 10 15 E	+TVERB
+18	6 E	6 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 13/image/NN 38/] 14/] 15/] E	+DOBJ
+19	B 0 E	B 0 6/[VP/VP0 7/shoot/VBZ 8/] 9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 13/image/NN 38/] 14/] 15/] E	+SENT
+20	B 9 E	B 0/[EN/NP0 1/[NP 33/[NPH 47/person/NN 34/] 4/] 5/] 6/[VP/VP0 7/shoot/VBZ 8/] 9 E	+SENT
+9017#1	50	0/[EN/NP0 1/[NP 33/[NPH 47/person/NN 34/] 4/] 5/]
+9017#1	50	9/[EN/NP1 10/[NP 35/[NPM 36/] 37/[NPH 13/image/NN 38/] 14/] 15/]
+9017#1	50	6/[VP/VP0 7/shoot/VBZ 8/]
+0	33 34	33 12/field/NN 13/or/CC 34	+NPMOD/field or
+1	29 30	29 2/two/DT 30	+NPART/two
+2	31 39 32	31 3/man/NNS 32	+NPHEAD/man
+3	31 40 32	31 39/adult/NN 32	+NPHEAD/adult
+4	B 20 23 E	B 17/[VP/VP0 18/look/VBG 20 23 19/] E	+PP-SENT
+5	18 19	18 20/[PP 21/at/IN 22/] 23/[EN/NP2 24/[NP 37/[NPH 25/something/NN 38/] 26/] 27/] 19	+PP/at/something
+6	B 6 9 E	B 0/[EN/NP0 1/[NP 29/[NPD 30/] 31/[NPH 40/person/NN 32/] 4/] 6 9 5/] E	+PP-SENT
+7	4 5	4 6/[PP 7/in/IN 8/] 9/[EN/NP1 10/[NP 33/[NPM 34/] 35/[NPH 14/jungle/NN 36/] 15/] 16/] 5	+PP/in/jungle
+8	B 0 E	B 0 17/[VP/VP0 18/look/VBG 19/] E	+VERB
+9	B 17	B 0/[EN/NP0 1/[NP 29/[NPD 30/] 31/[NPH 40/person/NN 32/] 4/] 5/] 17	+SUBJ
+10	B 17	B 0/[EN/NP0 1/[NP 29/[NPD 30/] 31/[NPH 3/man/NNS 32/] 4/] 5/] 17	+SUBJ
+11	B 17	B 0/[EN/NP0 1/[NP 29/[NPD 30/] 31/[NPH 39/adult/NN 32/] 4/] 5/] 17	+SUBJ
+12	B 23 E	B 20/[PP 21/at/IN 22/] 23 E	+SENT
+13	B 9 E	B 6/[PP 7/in/IN 8/] 9 E	+SENT
+9017#2	41	0/[EN/NP0 1/[NP 29/[NPD 30/] 31/[NPH 40/person/NN 32/] 4/] 5/]
+9017#2	41	17/[VP/VP0 18/look/VBG 19/]
+9017#2	41	23/[EN/NP2 24/[NP 37/[NPH 25/something/NN 38/] 26/] 27/]
+9017#2	41	9/[EN/NP1 10/[NP 33/[NPM 34/] 35/[NPH 14/jungle/NN 36/] 15/] 16/]
+0	5 9	5 6/[ADVP 7/outdoors/RB 8/] 9	+ADVP/outdoors
+1	24 25	24 15/video/JJ 25	+NPMOD/video
+2	20 21	20 2/two/DT 21	+NPART/two
+3	22 28 23	22 3/man/NNS 23	+NPHEAD/man
+4	22 29 23	22 28/adult/NN 23	+NPHEAD/adult
+5	B 9 12 E	B 0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 29/person/NN 23/] 4/] 9 12 5/] E	+PP-SENT
+6	4 5	4 9/[PP 10/with/IN 11/] 12/[EN/NP1 13/[NP 24/[NPM 25/] 26/[NPH 16/camera/NN 27/] 17/] 18/] 5	+PP/with/camera
+7	B 12 E	B 9/[PP 10/with/IN 11/] 12 E	+SENT
+9017#3	30	0/[EN/NP0 1/[NP 20/[NPD 21/] 22/[NPH 29/person/NN 23/] 4/] 5/]
+9017#3	30	12/[EN/NP1 13/[NP 24/[NPM 25/] 26/[NPH 16/camera/NN 27/] 17/] 18/]
+0	15 19 16	15 3/photographer/NN 16	+NPHEAD/photographer
+1	15 20 16	15 19/artist/NN 16	+NPHEAD/artist
+2	B 0 E	B 0 6/[VP/VP0 7/take/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 15/[NPH 20/person/NN 16/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 15/[NPH 19/artist/NN 16/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 15/[NPH 3/photographer/NN 16/] 4/] 5/] 6	+SUBJ
+6	B 9 10 13 E	B 6/[VP/VP0 7/take/VBG 8/] 9 10 13 E	+TVERB
+7	6 E	6 9/[EN/NP1 10/[NP 17/[NPH 11/photo/NNS 18/] 12/] 13/] E	+DOBJ
+9017#H	21	0/[EN/NP0 1/[NP 15/[NPH 20/person/NN 16/] 4/] 5/]
+9017#H	21	9/[EN/NP1 10/[NP 17/[NPH 11/photo/NNS 18/] 12/] 13/]
+9017#H	21	6/[VP/VP0 7/take/VBG 8/]
+0	38 46 39	38 3/guitarist/NN 39	+NPHEAD/guitarist
+1	38 47 39	38 46/musician/NN 39	+NPHEAD/musician
+2	38 48 39	38 47/performer/NN 39	+NPHEAD/performer
+3	38 49 39	38 47/performer/NN 39	+NPHEAD/performer
+4	38 50 39	38 48/adult/NN 39	+NPHEAD/adult
+5	38 48 39	38 49/entertainer/NN 39	+NPHEAD/entertainer
+6	42 51 52 43	42 25/hula-hoop/NNS 43	+NPHEAD/hula-hoop
+7	B 28 31 E	B 23/[EN/NP2 24/[NP 42/[NPH 51/hula/NN 52/hoop/NN 43/] 26/] 28 31 27/] E	+PP-SENT
+8	26 27	26 28/[PP 29/in/IN 30/] 31/[EN/NP3 32/[NP 44/[NPH 34/background/NN 45/] 35/] 36/] 27	+PP/in/background
+9	B 20 23 E	B 17/[VP/VP1 18/play/VBP 20 23 19/] E	+PP-SENT
+10	18 19	18 20/[PP 21/with/IN 22/] 23/[EN/NP2 24/[NP 42/[NPH 51/hula/NN 52/hoop/NN 43/] 26/] 27/] 19	+PP/with/hula hoop
+11	B 0 6 E	B 0 6 9/[SBAR 10/while/IN 11/] 12/[EN/NP1 13/[NP 40/[NPH 14/person/NNS 41/] 15/] 16/] 17/[VP/VP1 18/play/VBP 19/] E	+COMPLEX
+12	B 12 E	B 0/[EN/NP0 1/[NP 38/[NPH 50/person/NN 39/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9/[SBAR 10/while/IN 11/] 12 17/[VP/VP1 18/play/VBP 19/] E	+SENT
+13	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] E	+VERB
+14	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 50/person/NN 39/] 4/] 5/] 6	+SUBJ
+15	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 48/adult/NN 39/] 4/] 5/] 6	+SUBJ
+16	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 3/guitarist/NN 39/] 4/] 5/] 6	+SUBJ
+17	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 47/performer/NN 39/] 4/] 5/] 6	+SUBJ
+18	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 49/entertainer/NN 39/] 4/] 5/] 6	+SUBJ
+19	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 46/musician/NN 39/] 4/] 5/] 6	+SUBJ
+20	B 12 17 E	B 0/[EN/NP0 1/[NP 38/[NPH 50/person/NN 39/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9/[SBAR 10/while/IN 11/] 12 17 E	+COMPLEX
+21	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] 9/[SBAR 10/while/IN 11/] 12/[EN/NP1 13/[NP 40/[NPH 14/person/NNS 41/] 15/] 16/] 17/[VP/VP1 18/play/VBP 19/] E	+SENT
+22	B 12 E	B 12 17/[VP/VP1 18/play/VBP 19/] E	+VERB
+23	B 17	B 12/[EN/NP1 13/[NP 40/[NPH 14/person/NNS 41/] 15/] 16/] 17	+SUBJ
+24	B 31 E	B 28/[PP 29/in/IN 30/] 31 E	+SENT
+25	B 23 E	B 20/[PP 21/with/IN 22/] 23 E	+SENT
+9018#0	53	6/[VP/VP0 7/play/VBZ 8/]
+9018#0	53	0/[EN/NP0 1/[NP 38/[NPH 50/person/NN 39/] 4/] 5/]
+9018#0	53	12/[EN/NP1 13/[NP 40/[NPH 14/person/NNS 41/] 15/] 16/]
+9018#0	53	17/[VP/VP1 18/play/VBP 19/]
+9018#0	53	31/[EN/NP3 32/[NP 44/[NPH 34/background/NN 45/] 35/] 36/]
+9018#0	53	23/[EN/NP2 24/[NP 42/[NPH 51/hula/NN 52/hoop/NN 43/] 26/] 27/]
+0	35 43 36	35 3/man/NN 36	+NPHEAD/man
+1	35 44 36	35 43/adult/NN 36	+NPHEAD/adult
+2	37 45 46 38	37 11/guitar/NN 38	+NPHEAD/guitar
+3	37 47 38	37 45/stringed/NN 46/instrument/NN 38	+NPHEAD/stringed instrument
+4	41 48 42	41 29/woman/NN 42	+NPHEAD/woman
+5	41 49 42	41 48/adult/NN 42	+NPHEAD/adult
+6	B 14 17 E	B 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 14 17 13/] E	+PP-SENT
+7	12 13	12 14/[PP 15/on/IN 16/] 17/[EN/NP2 18/[NP 39/[NPH 20/stage/NN 40/] 21/] 22/] 13	+PP/on/stage
+8	B 0 6 9 E	B 0 6 9 23/[SBAR 24/while/IN 25/] 26/[EN/NP3 27/[NP 41/[NPH 49/person/NN 42/] 30/] 31/] 32/[VP/VP1 33/smile/VBZ 34/] E	+COMPLEX
+9	B 26 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/] 23/[SBAR 24/while/IN 25/] 26 32/[VP/VP1 33/smile/VBZ 34/] E	+SENT
+10	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] E	+VERB
+11	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 3/man/NN 36/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 43/adult/NN 36/] 4/] 5/] 6	+SUBJ
+14	B 9 10 13 E	B 6/[VP/VP0 7/play/VBZ 8/] 9 10 13 E	+TVERB
+15	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/] E	+DOBJ
+16	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 11/guitar/NN 38/] 12/] 13/] E	+DOBJ
+17	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 45/stringed/NN 46/instrument/NN 38/] 12/] 13/] E	+DOBJ
+18	B 26 32 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/] 23/[SBAR 24/while/IN 25/] 26 32 E	+COMPLEX
+19	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/] 23/[SBAR 24/while/IN 25/] 26/[EN/NP3 27/[NP 41/[NPH 49/person/NN 42/] 30/] 31/] 32/[VP/VP1 33/smile/VBZ 34/] E	+SENT
+20	B 9 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9 23/[SBAR 24/while/IN 25/] 26/[EN/NP3 27/[NP 41/[NPH 49/person/NN 42/] 30/] 31/] 32/[VP/VP1 33/smile/VBZ 34/] E	+SENT
+21	B 26 E	B 26 32/[VP/VP1 33/smile/VBZ 34/] E	+VERB
+22	B 32	B 26/[EN/NP3 27/[NP 41/[NPH 49/person/NN 42/] 30/] 31/] 32	+SUBJ
+23	B 32	B 26/[EN/NP3 27/[NP 41/[NPH 29/woman/NN 42/] 30/] 31/] 32	+SUBJ
+24	B 32	B 26/[EN/NP3 27/[NP 41/[NPH 48/adult/NN 42/] 30/] 31/] 32	+SUBJ
+25	B 17 E	B 14/[PP 15/on/IN 16/] 17 E	+SENT
+26	B 0 E	B 0 6/[VP/VP0 7/play/VBZ 8/] 9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/] E	+SENT
+27	B 9 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/play/VBZ 8/] 9 E	+SENT
+9018#1	50	6/[VP/VP0 7/play/VBZ 8/]
+9018#1	50	0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/]
+9018#1	50	9/[EN/NP1 10/[NP 37/[NPH 47/instrument/NN 38/] 12/] 13/]
+9018#1	50	26/[EN/NP3 27/[NP 41/[NPH 49/person/NN 42/] 30/] 31/]
+9018#1	50	32/[VP/VP1 33/smile/VBZ 34/]
+9018#1	50	17/[EN/NP2 18/[NP 39/[NPH 20/stage/NN 40/] 21/] 22/]
+0	36 37	36 12/white/JJ 37	+NPMOD/white
+1	34 44 35	34 3/man/NN 35	+NPHEAD/man
+2	34 45 35	34 44/adult/NN 35	+NPHEAD/adult
+3	40 46 47 41	40 21/guitar/NN 41	+NPHEAD/guitar
+4	40 48 41	40 46/stringed/NN 47/instrument/NN 41	+NPHEAD/stringed instrument
+5	B 24 27 E	B 19/[EN/NP2 20/[NP 40/[NPH 48/instrument/NN 41/] 22/] 24 27 23/] E	+PP-SENT
+6	22 23	22 24/[PP 25/on/IN 26/] 27/[EN/NP3 28/[NP 42/[NPH 30/stage/NN 43/] 31/] 32/] 23	+PP/on/stage
+7	B 0 6 9 E	B 0 6 9 16/[VP/VP0 17/play/VBZ 18/] 19/[EN/NP2 20/[NP 40/[NPH 48/instrument/NN 41/] 22/] 23/] E	+VERB
+8	B 0 6 9 E	B 0 6 9 16/[VP/VP0 17/play/VBZ 18/] 19/[EN/NP2 20/[NP 40/[NPH 21/guitar/NN 41/] 22/] 23/] E	+VERB
+9	B 0 6 9 E	B 0 6 9 16/[VP/VP0 17/play/VBZ 18/] 19/[EN/NP2 20/[NP 40/[NPH 46/stringed/NN 47/instrument/NN 41/] 22/] 23/] E	+VERB
+10	B 0 16 19 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 36/[NPM 37/] 38/[NPH 13/hat/NN 39/] 14/] 15/] 16 19 E	+VERB
+11	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+12	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 44/adult/NN 35/] 4/] 5/] 6	+SUBJ
+14	B 6	B 0/[EN/NP0 1/[NP 34/[NPH 3/man/NN 35/] 4/] 5/] 6	+SUBJ
+15	B 9 10 15 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 15 E	+TVERB
+16	6 E	6 9/[EN/NP1 10/[NP 36/[NPM 37/] 38/[NPH 13/hat/NN 39/] 14/] 15/] E	+DOBJ
+17	B 0 E	B 0 16/[VP/VP0 17/play/VBZ 18/] E	+VERB
+18	B 16	B 0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/] 16	+SUBJ
+19	B 16	B 0/[EN/NP0 1/[NP 34/[NPH 44/adult/NN 35/] 4/] 5/] 16	+SUBJ
+20	B 16	B 0/[EN/NP0 1/[NP 34/[NPH 3/man/NN 35/] 4/] 5/] 16	+SUBJ
+21	B 19 20 23 E	B 16/[VP/VP0 17/play/VBZ 18/] 19 20 23 E	+TVERB
+22	16 E	16 19/[EN/NP2 20/[NP 40/[NPH 48/instrument/NN 41/] 22/] 23/] E	+DOBJ
+23	16 E	16 19/[EN/NP2 20/[NP 40/[NPH 21/guitar/NN 41/] 22/] 23/] E	+DOBJ
+24	16 E	16 19/[EN/NP2 20/[NP 40/[NPH 46/stringed/NN 47/instrument/NN 41/] 22/] 23/] E	+DOBJ
+25	B 27 E	B 24/[PP 25/on/IN 26/] 27 E	+SENT
+9018#2	49	0/[EN/NP0 1/[NP 34/[NPH 45/person/NN 35/] 4/] 5/]
+9018#2	49	9/[EN/NP1 10/[NP 36/[NPM 37/] 38/[NPH 13/hat/NN 39/] 14/] 15/]
+9018#2	49	6/[VP/VPwear0 7/wear/VB 8/]
+9018#2	49	19/[EN/NP2 20/[NP 40/[NPH 48/instrument/NN 41/] 22/] 23/]
+9018#2	49	16/[VP/VP0 17/play/VBZ 18/]
+9018#2	49	27/[EN/NP3 28/[NP 42/[NPH 30/stage/NN 43/] 31/] 32/]
+0	20 21	20 11/music/NN 21	+NPMOD/music
+1	16 17	16 2/some/DT 17	+NPART/some
+2	B 0 E	B 0 6/[VP/VP0 7/perform/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 16/[NPD 17/] 18/[NPH 3/person/NNS 19/] 4/] 5/] 6	+SUBJ
+4	B 9 10 14 E	B 6/[VP/VP0 7/perform/VBG 8/] 9 10 14 E	+TVERB
+5	6 E	6 9/[EN/NP1 10/[NP 20/[NPM 21/] 22/[NPH 12/outdoors/NNS 23/] 13/] 14/] E	+DOBJ
+9018#3	24	0/[EN/NP0 1/[NP 16/[NPD 17/] 18/[NPH 3/person/NNS 19/] 4/] 5/]
+9018#3	24	9/[EN/NP1 10/[NP 20/[NPM 21/] 22/[NPH 12/outdoors/NNS 23/] 13/] 14/]
+9018#3	24	6/[VP/VP0 7/perform/VBG 8/]
+0	10 12 11	10 3/musician/NN 11	+NPHEAD/musician
+1	10 13 11	10 12/performer/NN 11	+NPHEAD/performer
+2	10 14 11	10 12/performer/NN 11	+NPHEAD/performer
+3	10 15 11	10 13/adult/NN 11	+NPHEAD/adult
+4	10 13 11	10 14/entertainer/NN 11	+NPHEAD/entertainer
+5	B 0 E	B 0 6/[VP/VP0 7/sit/VBZ 8/] E	+VERB
+6	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 15/person/NN 11/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 12/performer/NN 11/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 14/entertainer/NN 11/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 3/musician/NN 11/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 13/adult/NN 11/] 4/] 5/] 6	+SUBJ
+9018#H	16	0/[EN/NP0 1/[NP 10/[NPH 15/person/NN 11/] 4/] 5/]
+9018#H	16	6/[VP/VP0 7/sit/VBZ 8/]
+0	34 35	34 3/asian/JJ 35	+NPMOD/asian
+1	36 42 37	36 4/man/NN 37	+NPHEAD/man
+2	36 43 37	36 42/adult/NN 37	+NPHEAD/adult
+3	B 24 27 E	B 21/[VP/VP1 22/write/VBG 24 27 23/] E	+PP-SENT
+4	22 23	22 24/[PP 25/on/IN 26/] 27/[EN/NP2 28/[NP 40/[NPH 30/clipboard/NN 41/] 31/] 32/] 23	+PP/on/clipboard
+5	B 7 10 E	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 43/person/NN 37/] 5/] 7 10 6/] E	+PP-SENT
+6	5 6	5 7/[PP 8/in/IN 9/] 10/[EN/NP1 11/[NP 38/[NPH 13/warehouse/NN 39/] 14/] 15/] 6	+PP/in/warehouse
+7	B 0 16 E	B 0 16 20/and/CC 21/[VP/VP1 22/write/VBG 23/] E	+COMPLEX
+8	B 0 E	B 0 16/[VP/VP0 18/talk/VBG 19/] E	+VERB
+9	B 16	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 43/person/NN 37/] 5/] 6/] 16	+SUBJ
+10	B 16	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 42/adult/NN 37/] 5/] 6/] 16	+SUBJ
+11	B 16	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 4/man/NN 37/] 5/] 6/] 16	+SUBJ
+12	B 0 21 E	B 0 16/[VP/VP0 18/talk/VBG 19/] 20/and/CC 21 E	+COMPLEX
+13	B 0 E	B 0 21/[VP/VP1 22/write/VBG 23/] E	+VERB
+14	B 21	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 43/person/NN 37/] 5/] 6/] 21	+SUBJ
+15	B 21	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 42/adult/NN 37/] 5/] 6/] 21	+SUBJ
+16	B 21	B 0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 4/man/NN 37/] 5/] 6/] 21	+SUBJ
+17	B 27 E	B 24/[PP 25/on/IN 26/] 27 E	+SENT
+18	B 10 E	B 7/[PP 8/in/IN 9/] 10 E	+SENT
+9019#0	44	16/[VP/VP0 18/talk/VBG 19/]
+9019#0	44	0/[EN/NP0 1/[NP 34/[NPM 35/] 36/[NPH 43/person/NN 37/] 5/] 6/]
+9019#0	44	21/[VP/VP1 22/write/VBG 23/]
+9019#0	44	27/[EN/NP2 28/[NP 40/[NPH 30/clipboard/NN 41/] 31/] 32/]
+9019#0	44	10/[EN/NP1 11/[NP 38/[NPH 13/warehouse/NN 39/] 14/] 15/]
+0	28 29	28 3/asian/JJ 29	+NPMOD/asian
+1	32 33	32 13/brown/JJ 33	+NPMOD/brown
+2	36 37	36 23/yellow/JJ 37	+NPMOD/yellow
+3	30 40 31	30 4/man/NN 31	+NPHEAD/man
+4	30 41 31	30 40/adult/NN 31	+NPHEAD/adult
+5	B 0 7 10 E	B 0 7 10 17/[VP/VP0 18/hold/VBP 19/] 20/[EN/NP2 21/[NP 36/[NPM 37/] 38/[NPH 24/folder/NN 39/] 25/] 26/] E	+VERB
+6	B 0 17 20 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] 10/[EN/NP1 11/[NP 32/[NPM 33/] 34/[NPH 14/hat/NN 35/] 15/] 16/] 17 20 E	+VERB
+7	B 0 E	B 0 7/[VP/VPwear0 8/wear/VB 9/] E	+VERB
+8	B 7	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 41/person/NN 31/] 5/] 6/] 7	+SUBJ
+9	B 7	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 40/adult/NN 31/] 5/] 6/] 7	+SUBJ
+10	B 7	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 4/man/NN 31/] 5/] 6/] 7	+SUBJ
+11	B 10 11 16 E	B 7/[VP/VPwear0 8/wear/VB 9/] 10 11 16 E	+TVERB
+12	7 E	7 10/[EN/NP1 11/[NP 32/[NPM 33/] 34/[NPH 14/hat/NN 35/] 15/] 16/] E	+DOBJ
+13	B 0 E	B 0 17/[VP/VP0 18/hold/VBP 19/] E	+VERB
+14	B 17	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 41/person/NN 31/] 5/] 6/] 17	+SUBJ
+15	B 17	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 40/adult/NN 31/] 5/] 6/] 17	+SUBJ
+16	B 17	B 0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 4/man/NN 31/] 5/] 6/] 17	+SUBJ
+17	B 20 21 26 E	B 17/[VP/VP0 18/hold/VBP 19/] 20 21 26 E	+TVERB
+18	17 E	17 20/[EN/NP2 21/[NP 36/[NPM 37/] 38/[NPH 24/folder/NN 39/] 25/] 26/] E	+DOBJ
+9019#1	42	0/[EN/NP0 1/[NP 28/[NPM 29/] 30/[NPH 41/person/NN 31/] 5/] 6/]
+9019#1	42	10/[EN/NP1 11/[NP 32/[NPM 33/] 34/[NPH 14/hat/NN 35/] 15/] 16/]
+9019#1	42	7/[VP/VPwear0 8/wear/VB 9/]
+9019#1	42	20/[EN/NP2 21/[NP 36/[NPM 37/] 38/[NPH 24/folder/NN 39/] 25/] 26/]
+9019#1	42	17/[VP/VP0 18/hold/VBP 19/]
+0	23 24	23 12/blue/JJ 24	+NPMOD/blue
+1	21 27 22	21 3/man/NN 22	+NPHEAD/man
+2	21 28 22	21 27/adult/NN 22	+NPHEAD/adult
+3	25 29 26	25 13/jacket/NN 26	+NPHEAD/jacket
+4	B 0 6 9 E	B 0 6 9 16/[VP/VP1 18/write/VBG 19/] E	+VERB
+5	B 0 16 E	B 0 6/[VP/VP0 7/wear/VBG 8/] 9/[EN/NP1 10/[NP 23/[NPM 24/] 25/[NPH 29/clothing/NN 26/] 14/] 15/] 16 E	+VERB
+6	B 0 16 E	B 0 6/[VP/VP0 7/wear/VBG 8/] 9/[EN/NP1 10/[NP 23/[NPM 24/] 25/[NPH 13/jacket/NN 26/] 14/] 15/] 16 E	+VERB
+7	B 0 E	B 0 6/[VP/VP0 7/wear/VBG 8/] E	+VERB
+8	B 6	B 0/[EN/NP0 1/[NP 21/[NPH 28/person/NN 22/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 21/[NPH 3/man/NN 22/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 21/[NPH 27/adult/NN 22/] 4/] 5/] 6	+SUBJ
+11	B 9 10 15 E	B 6/[VP/VP0 7/wear/VBG 8/] 9 10 15 E	+TVERB
+12	6 E	6 9/[EN/NP1 10/[NP 23/[NPM 24/] 25/[NPH 29/clothing/NN 26/] 14/] 15/] E	+DOBJ
+13	6 E	6 9/[EN/NP1 10/[NP 23/[NPM 24/] 25/[NPH 13/jacket/NN 26/] 14/] 15/] E	+DOBJ
+14	B 0 E	B 0 16/[VP/VP1 18/write/VBG 19/] E	+VERB
+15	B 16	B 0/[EN/NP0 1/[NP 21/[NPH 28/person/NN 22/] 4/] 5/] 16	+SUBJ
+16	B 16	B 0/[EN/NP0 1/[NP 21/[NPH 3/man/NN 22/] 4/] 5/] 16	+SUBJ
+17	B 16	B 0/[EN/NP0 1/[NP 21/[NPH 27/adult/NN 22/] 4/] 5/] 16	+SUBJ
+9019#2	30	0/[EN/NP0 1/[NP 21/[NPH 28/person/NN 22/] 4/] 5/]
+9019#2	30	9/[EN/NP1 10/[NP 23/[NPM 24/] 25/[NPH 29/clothing/NN 26/] 14/] 15/]
+9019#2	30	6/[VP/VP0 7/wear/VBG 8/]
+9019#2	30	16/[VP/VP1 18/write/VBG 19/]
+0	20 24 21	20 3/man/NN 21	+NPHEAD/man
+1	20 25 21	20 24/adult/NN 21	+NPHEAD/adult
+2	B 0 6 9 E	B 0 6 9 15/[VP/VP0 17/write/VBG 18/] E	+VERB
+3	B 0 15 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 22/[NPH 12/hat/NN 23/] 13/] 14/] 15 E	+VERB
+4	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+5	B 6	B 0/[EN/NP0 1/[NP 20/[NPH 25/person/NN 21/] 4/] 5/] 6	+SUBJ
+6	B 6	B 0/[EN/NP0 1/[NP 20/[NPH 24/adult/NN 21/] 4/] 5/] 6	+SUBJ
+7	B 6	B 0/[EN/NP0 1/[NP 20/[NPH 3/man/NN 21/] 4/] 5/] 6	+SUBJ
+8	B 9 10 14 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 14 E	+TVERB
+9	6 E	6 9/[EN/NP1 10/[NP 22/[NPH 12/hat/NN 23/] 13/] 14/] E	+DOBJ
+10	B 0 E	B 0 15/[VP/VP0 17/write/VBG 18/] E	+VERB
+11	B 15	B 0/[EN/NP0 1/[NP 20/[NPH 25/person/NN 21/] 4/] 5/] 15	+SUBJ
+12	B 15	B 0/[EN/NP0 1/[NP 20/[NPH 24/adult/NN 21/] 4/] 5/] 15	+SUBJ
+13	B 15	B 0/[EN/NP0 1/[NP 20/[NPH 3/man/NN 21/] 4/] 5/] 15	+SUBJ
+9019#3	26	0/[EN/NP0 1/[NP 20/[NPH 25/person/NN 21/] 4/] 5/]
+9019#3	26	9/[EN/NP1 10/[NP 22/[NPH 12/hat/NN 23/] 13/] 14/]
+9019#3	26	6/[VP/VPwear0 7/wear/VB 8/]
+9019#3	26	15/[VP/VP0 17/write/VBG 18/]
+0	10 12 11	10 3/man/NN 11	+NPHEAD/man
+1	10 13 11	10 12/adult/NN 11	+NPHEAD/adult
+2	B 0 E	B 0 6/[VP/VP0 7/standing/VBG 8/] E	+VERB
+3	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 13/person/NN 11/] 4/] 5/] 6	+SUBJ
+4	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 12/adult/NN 11/] 4/] 5/] 6	+SUBJ
+5	B 6	B 0/[EN/NP0 1/[NP 10/[NPH 3/man/NN 11/] 4/] 5/] 6	+SUBJ
+9019#H	14	0/[EN/NP0 1/[NP 10/[NPH 13/person/NN 11/] 4/] 5/]
+9019#H	14	6/[VP/VP0 7/standing/VBG 8/]
+0	33 39 34	33 3/motorcycle/NN 34	+NPHEAD/motorcycle
+1	33 40 34	33 39/motorbike/NN 34	+NPHEAD/motorbike
+2	B 11 14 E	B 6/[VP/VP0 9/ride/VBN 11 14 10/] E	+PP-SENT
+3	9 10	9 11/[PP 12/on/IN 13/] 14/[EN/NP1 15/[NP 35/[NPH 17/track/NN 36/] 18/] 19/] 10	+PP/on/track
+4	B 6 E	B 0/[EN/NP0 1/[NP 33/[NPH 40/bike/NN 34/] 4/] 5/] 6 20/[PP 21/whilst/IN 22/] 23/[VP/VP1 24/pull/VBG 25/] 26/[EN/NP2 27/[NP 37/[NPH 29/wheelie/NN 38/] 30/] 31/] E	+COMPLEX-VERB
+5	B 0 E	B 0 6/[VP/VP0 9/ride/VBN 10/] 20/[PP 21/whilst/IN 22/] 23/[VP/VP1 24/pull/VBG 25/] 26/[EN/NP2 27/[NP 37/[NPH 29/wheelie/NN 38/] 30/] 31/] E	+SENT
+6	B 26 E	B 0/[EN/NP0 1/[NP 33/[NPH 40/bike/NN 34/] 4/] 5/] 6/[VP/VP0 9/ride/VBN 10/] 20/[PP 21/whilst/IN 22/] 23/[VP/VP1 24/pull/VBG 25/] 26 E	+SENT
+7	B 23 26 E	B 0/[EN/NP0 1/[NP 33/[NPH 40/bike/NN 34/] 4/] 5/] 6/[VP/VP0 9/ride/VBN 10/] 20/[PP 21/whilst/IN 22/] 23 26 E	+COMPLEX-VERB
+8	B 26 27 31 E	B 23/[VP/VP1 24/pull/VBG 25/] 26 27 31 E	+TVERB
+9	23 E	23 26/[EN/NP2 27/[NP 37/[NPH 29/wheelie/NN 38/] 30/] 31/] E	+DOBJ
+10	B 14 E	B 11/[PP 12/on/IN 13/] 14 E	+SENT
+9020#0	41	6/[VP/VP0 9/ride/VBN 10/]
+9020#0	41	0/[EN/NP0 1/[NP 33/[NPH 40/bike/NN 34/] 4/] 5/]
+9020#0	41	26/[EN/NP2 27/[NP 37/[NPH 29/wheelie/NN 38/] 30/] 31/]
+9020#0	41	23/[VP/VP1 24/pull/VBG 25/]
+9020#0	41	14/[EN/NP1 15/[NP 35/[NPH 17/track/NN 36/] 18/] 19/]
+0	35 43 36	35 3/man/NN 36	+NPHEAD/man
+1	35 44 36	35 43/adult/NN 36	+NPHEAD/adult
+2	37 45 38	37 12/motorcycle/NN 38	+NPHEAD/motorcycle
+3	37 46 38	37 45/motorbike/NN 38	+NPHEAD/motorbike
+4	B 25 28 E	B 19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 25 28 24/] E	+PP-SENT
+5	23 24	23 25/[PP 26/at/IN 27/] 28/[EN/NP3 29/[NP 41/[NPH 31/track/NN 42/] 32/] 33/] 24	+PP/at/track
+6	B 0 6 9 E	B 0 6 9 15/[VP/VP1 17/perform/VBG 18/] 19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 24/] E	+COMPLEX
+7	B 19 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/ride/VBG 8/] 9/[EN/NP1 10/[NP 37/[NPH 46/bike/NN 38/] 13/] 14/] 15/[VP/VP1 17/perform/VBG 18/] 19 E	+SENT
+8	B 0 E	B 0 6/[VP/VP0 7/ride/VBG 8/] E	+VERB
+9	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6	+SUBJ
+10	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 3/man/NN 36/] 4/] 5/] 6	+SUBJ
+11	B 6	B 0/[EN/NP0 1/[NP 35/[NPH 43/adult/NN 36/] 4/] 5/] 6	+SUBJ
+12	B 9 10 14 E	B 6/[VP/VP0 7/ride/VBG 8/] 9 10 14 E	+TVERB
+13	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 46/bike/NN 38/] 13/] 14/] E	+DOBJ
+14	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 12/motorcycle/NN 38/] 13/] 14/] E	+DOBJ
+15	6 E	6 9/[EN/NP1 10/[NP 37/[NPH 45/motorbike/NN 38/] 13/] 14/] E	+DOBJ
+16	B 0 15 19 E	B 0 6/[VP/VP0 7/ride/VBG 8/] 9/[EN/NP1 10/[NP 37/[NPH 46/bike/NN 38/] 13/] 14/] 15 19 E	+COMPLEX
+17	B 9 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/ride/VBG 8/] 9 15/[VP/VP1 17/perform/VBG 18/] 19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 24/] E	+SENT
+18	B 0 E	B 0 15/[VP/VP1 17/perform/VBG 18/] E	+VERB
+19	B 15	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 15	+SUBJ
+20	B 15	B 0/[EN/NP0 1/[NP 35/[NPH 3/man/NN 36/] 4/] 5/] 15	+SUBJ
+21	B 15	B 0/[EN/NP0 1/[NP 35/[NPH 43/adult/NN 36/] 4/] 5/] 15	+SUBJ
+22	B 19 20 24 E	B 15/[VP/VP1 17/perform/VBG 18/] 19 20 24 E	+TVERB
+23	15 E	15 19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 24/] E	+DOBJ
+24	B 28 E	B 25/[PP 26/at/IN 27/] 28 E	+SENT
+25	B 0 E	B 0 6/[VP/VP0 7/ride/VBG 8/] 9/[EN/NP1 10/[NP 37/[NPH 46/bike/NN 38/] 13/] 14/] E	+SENT
+26	B 9 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 6/[VP/VP0 7/ride/VBG 8/] 9 E	+SENT
+27	B 0 E	B 0 15/[VP/VP1 17/perform/VBG 18/] 19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 24/] E	+SENT
+28	B 19 E	B 0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/] 15/[VP/VP1 17/perform/VBG 18/] 19 E	+SENT
+9020#1	47	6/[VP/VP0 7/ride/VBG 8/]
+9020#1	47	9/[EN/NP1 10/[NP 37/[NPH 46/bike/NN 38/] 13/] 14/]
+9020#1	47	0/[EN/NP0 1/[NP 35/[NPH 44/person/NN 36/] 4/] 5/]
+9020#1	47	19/[EN/NP2 20/[NP 39/[NPH 22/trick/NN 40/] 23/] 24/]
+9020#1	47	15/[VP/VP1 17/perform/VBG 18/]
+9020#1	47	28/[EN/NP3 29/[NP 41/[NPH 31/track/NN 42/] 32/] 33/]
+0	42 43	42 24/rear/NN 43	+NPMOD/rear
+1	38 48 39	38 3/man/NN 39	+NPHEAD/man
+2	38 49 39	38 48/adult/NN 39	+NPHEAD/adult
+3	40 50 41	40 12/motorcycle/NN 41	+NPHEAD/motorcycle
+4	40 51 41	40 50/motorbike/NN 41	+NPHEAD/motorbike
+5	B 28 31 E	B 21/[EN/NP2 22/[NP 42/[NPM 43/] 44/[NPH 25/wheel/NN 45/] 26/] 28 31 27/] E	+PP-SENT
+6	26 27	26 28/[PP 29/on/IN 30/] 31/[EN/NP3 32/[NP 46/[NPH 34/track/NN 47/] 35/] 36/] 27	+PP/on/track
+7	B 18 21 E	B 15/[VP/VP1 16/up/RP 18 21 17/] E	+PP-SENT
+8	16 17	16 18/[PP 19/on/IN 20/] 21/[EN/NP2 22/[NP 42/[NPM 43/] 44/[NPH 25/wheel/NN 45/] 26/] 27/] 17	+PP/on/wheel
+9	B 0 6 9 E	B 0 6 9 15/[VP/VP1 16/up/RP 17/] E	+COMPLEX
+10	B 0 E	B 0 6/[VP/VP0 7/put/VBZ 8/] E	+VERB
+11	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 6	+SUBJ
+12	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 48/adult/NN 39/] 4/] 5/] 6	+SUBJ
+13	B 6	B 0/[EN/NP0 1/[NP 38/[NPH 3/man/NN 39/] 4/] 5/] 6	+SUBJ
+14	B 9 10 14 E	B 6/[VP/VP0 7/put/VBZ 8/] 9 10 14 E	+TVERB
+15	6 E	6 9/[EN/NP1 10/[NP 40/[NPH 51/bike/NN 41/] 13/] 14/] E	+DOBJ
+16	6 E	6 9/[EN/NP1 10/[NP 40/[NPH 50/motorbike/NN 41/] 13/] 14/] E	+DOBJ
+17	6 E	6 9/[EN/NP1 10/[NP 40/[NPH 12/motorcycle/NN 41/] 13/] 14/] E	+DOBJ
+18	B 15 E	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 6/[VP/VP0 7/put/VBZ 8/] 9/[EN/NP1 10/[NP 40/[NPH 51/bike/NN 41/] 13/] 14/] 15 E	+COMPLEX-VERB
+19	B 0 E	B 0 6/[VP/VP0 7/put/VBZ 8/] 9/[EN/NP1 10/[NP 40/[NPH 51/bike/NN 41/] 13/] 14/] 15/[VP/VP1 16/up/RP 17/] E	+SENT
+20	B 9 E	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 6/[VP/VP0 7/put/VBZ 8/] 9 15/[VP/VP1 16/up/RP 17/] E	+SENT
+21	B 31 E	B 28/[PP 29/on/IN 30/] 31 E	+SENT
+22	B 21 E	B 18/[PP 19/on/IN 20/] 21 E	+SENT
+23	B 0 E	B 0 6/[VP/VP0 7/put/VBZ 8/] 9/[EN/NP1 10/[NP 40/[NPH 51/bike/NN 41/] 13/] 14/] E	+SENT
+24	B 9 E	B 0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/] 6/[VP/VP0 7/put/VBZ 8/] 9 E	+SENT
+9020#2	52	6/[VP/VP0 7/put/VBZ 8/]
+9020#2	52	15/[VP/VP1 16/up/RP 17/]
+9020#2	52	0/[EN/NP0 1/[NP 38/[NPH 49/person/NN 39/] 4/] 5/]
+9020#2	52	9/[EN/NP1 10/[NP 40/[NPH 51/bike/NN 41/] 13/] 14/]
+9020#2	52	31/[EN/NP3 32/[NP 46/[NPH 34/track/NN 47/] 35/] 36/]
+9020#2	52	21/[EN/NP2 22/[NP 42/[NPM 43/] 44/[NPH 25/wheel/NN 45/] 26/] 27/]
+0	23 29 24	23 3/man/NN 24	+NPHEAD/man
+1	23 30 24	23 29/adult/NN 24	+NPHEAD/adult
+2	27 31 28	27 20/motorcycle/NN 28	+NPHEAD/motorcycle
+3	27 32 28	27 31/motorbike/NN 28	+NPHEAD/motorbike
+4	B 14 17 E	B 9/[EN/NP1 10/[NP 25/[NPH 11/trick/NNS 26/] 12/] 14 17 13/] E	+PP-SENT
+5	12 13	12 14/[PP 15/on/IN 16/] 17/[EN/NP2 18/[NP 27/[NPH 32/bike/NN 28/] 21/] 22/] 13	+PP/on/bike
+6	B 0 E	B 0 6/[VP/VP0 7/do/VBG 8/] E	+VERB
+7	B 6	B 0/[EN/NP0 1/[NP 23/[NPH 30/person/NN 24/] 4/] 5/] 6	+SUBJ
+8	B 6	B 0/[EN/NP0 1/[NP 23/[NPH 3/man/NN 24/] 4/] 5/] 6	+SUBJ
+9	B 6	B 0/[EN/NP0 1/[NP 23/[NPH 29/adult/NN 24/] 4/] 5/] 6	+SUBJ
+10	B 9 10 13 E	B 6/[VP/VP0 7/do/VBG 8/] 9 10 13 E	+TVERB
+11	6 E	6 9/[EN/NP1 10/[NP 25/[NPH 11/trick/NNS 26/] 12/] 13/] E	+DOBJ
+12	B 17 E	B 14/[PP 15/on/IN 16/] 17 E	+SENT
+9020#3	33	0/[EN/NP0 1/[NP 23/[NPH 30/person/NN 24/] 4/] 5/]
+9020#3	33	9/[EN/NP1 10/[NP 25/[NPH 11/trick/NNS 26/] 12/] 13/]
+9020#3	33	6/[VP/VP0 7/do/VBG 8/]
+9020#3	33	17/[EN/NP2 18/[NP 27/[NPH 32/bike/NN 28/] 21/] 22/]
+0	44 45	44 12/glasses/NNS 45	+NPMOD/glasses
+1	48 49 50 20 51	48 19/young/JJ 49 50 20 51	+NPMOD/young
+2	54 55	54 35/quite/RB 36/a/DT 37/few/JJ 55	+NPMOD/quite a few
+3	42 58 43	42 3/old/JJ 4/man/NN 43	+NPHEAD/old man
+4	42 59 43	42 58/man/NN 43	+NPHEAD/man
+5	42 60 43	42 59/adult/NN 43	+NPHEAD/adult
+6	50 61 51	50 20/woman/NN 51	+NPHEAD/woman
+7	50 62 51	50 61/adult/NN 51	+NPHEAD/adult
+8	26 27 40	26 27 31/[PP 32/of/IN 33/] 34/[NP 54/[NPM 55/] 56/[NPH 38/person/NNS 57/] 39/] 40	+ofY
+9	26 34 40	26 27/[NP 52/[NPH 29/gathering/NN 53/] 30/] 31/[PP 32/of/IN 33/] 34 40	+Xof
+10	B 23 26 E	B 16/[EN/NP2 17/[NP 48/[NPM 49/] 50/[NPH 62/person/NN 51/] 21/] 23 26 22/] E	+PP-SENT
+11	21 22	21 23/[PP 24/at/IN 25/] 26/[EN/NP3 27/[NP 52/[NPH 29/gathering/NN 53/] 30/] 40/] 22	+PP/at/gathering
+12	B 7 10 E	B 0/[EN/NP0 1/[NP 42/[NPH 60/person/NN 43/] 5/] 7 10 6/] E	+PP-SENT
+13	5 6	5 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 44/[NPM 45/] 46/[NPH 13/hug/NNS 47/] 14/] 15/] 6	+PP/with/hug
+14	21 22	21 23/[PP 24/at/IN 25/] 26/[EN/NP3 34/[NP 54/[NPM 55/] 56/[NPH 38/person/NNS 57/] 39/] 40/] 22	+PP/at/person
+15	B 26 E	B 23/[PP 24/at/IN 25/] 26 E	+SENT
+16	B 10 E	B 7/[PP 8/with/IN 9/] 10 E	+SENT
+9302#1	63	0/[EN/NP0 1/[NP 42/[NPH 60/person/NN 43/] 5/] 6/]
+9302#1	63	16/[EN/NP2 17/[NP 48/[NPM 49/] 50/[NPH 62/person/NN 51/] 21/] 22/]
+9302#1	63	26/[EN/NP3 27/[NP 52/[NPH 29/gathering/NN 53/] 30/] 40/]
+9302#1	63	10/[EN/NP1 11/[NP 44/[NPM 45/] 46/[NPH 13/hug/NNS 47/] 14/] 15/]
+9302#1	63	26/[EN/NP3 34/[NP 54/[NPM 55/] 56/[NPH 38/person/NNS 57/] 39/] 40/]
+0	44 45	44 3/man/NN 45	+NPMOD/man
+1	48 49	48 13/bright/JJ 14/yellow/JJ 49	+NPMOD/bright yellow
+2	56 57 58 40 59	56 39/elderly/JJ 57 58 40 59	+NPMOD/elderly
+3	46 60 47	46 4/vendor/NN 47	+NPHEAD/vendor
+4	46 61 47	46 60/merchant/NN 47	+NPHEAD/merchant
+5	46 62 47	46 61/adult/NN 47	+NPHEAD/adult
+6	B 7 10 18 19 E	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 62/person/NN 47/] 5/] 7 10 18 19 6/] E	+PP-SENT
+7	5 6	5 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 48/[NPM 49/] 50/[NPH 15/umbrella/NN 51/] 16/] 17/] 18/and/CC 19/[EN/NP2 20/[NP 52/[NPH 21/backpack/NN 53/] 22/] 23/] 6	+PP/with/umbrella and backpack
+8	B 0 24 27 E	B 0 24 27 33/[PP 34/to/TO 35/] 36/[EN/NP4 37/[NP 56/[NPM 57/] 58/[NPH 40/couple/NN 59/] 41/] 42/] E	+COMPLEX
+9	B 36 E	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 62/person/NN 47/] 5/] 6/] 24/[VP/VP0 25/offer/VBZ 26/] 27/[EN/NP3 28/[NP 54/[NPH 30/ware/NNS 55/] 31/] 32/] 33/[PP 34/to/TO 35/] 36 E	+SENT
+10	B 0 E	B 0 24/[VP/VP0 25/offer/VBZ 26/] E	+VERB
+11	B 24	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 62/person/NN 47/] 5/] 6/] 24	+SUBJ
+12	B 24	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 61/adult/NN 47/] 5/] 6/] 24	+SUBJ
+13	B 24	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 4/vendor/NN 47/] 5/] 6/] 24	+SUBJ
+14	B 24	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 60/merchant/NN 47/] 5/] 6/] 24	+SUBJ
+15	B 27 28 32 E	B 24/[VP/VP0 25/offer/VBZ 26/] 27 28 32 E	+TVERB
+16	24 E	24 27/[EN/NP3 28/[NP 54/[NPH 30/ware/NNS 55/] 31/] 32/] E	+DOBJ
+17	B 10 E	B 7/[PP 8/with/IN 9/] 10 18/and/CC 19/[EN/NP2 20/[NP 52/[NPH 21/backpack/NN 53/] 22/] 23/] E	+SENT
+18	B 19 E	B 7/[PP 8/with/IN 9/] 10/[EN/NP1 11/[NP 48/[NPM 49/] 50/[NPH 15/umbrella/NN 51/] 16/] 17/] 18/and/CC 19 E	+SENT
+19	B 0 E	B 0 24/[VP/VP0 25/offer/VBZ 26/] 27/[EN/NP3 28/[NP 54/[NPH 30/ware/NNS 55/] 31/] 32/] E	+SENT
+20	B 27 E	B 0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 62/person/NN 47/] 5/] 6/] 24/[VP/VP0 25/offer/VBZ 26/] 27 E	+SENT
+9571#0	63	36/[EN/NP4 37/[NP 56/[NPM 57/] 58/[NPH 40/couple/NN 59/] 41/] 42/]
+9571#0	63	0/[EN/NP0 1/[NP 44/[NPM 45/] 46/[NPH 62/person/NN 47/] 5/] 6/]
+9571#0	63	27/[EN/NP3 28/[NP 54/[NPH 30/ware/NNS 55/] 31/] 32/]
+9571#0	63	24/[VP/VP0 25/offer/VBZ 26/]
+9571#0	63	10/[EN/NP1 11/[NP 48/[NPM 49/] 50/[NPH 15/umbrella/NN 51/] 16/] 17/]
+9571#0	63	19/[EN/NP2 20/[NP 52/[NPH 21/backpack/NN 53/] 22/] 23/]
+0	27 28	27 2/man/NN 28	+NPMOD/man
+1	31 32	31 11/america/NNP 12/revolution/NNP 13/era/NN 32	+NPMOD/america revolution era
+2	33 37 34	33 14/outfit/NNS 34	+NPHEAD/outfit
+3	B 0 6 9 E	B 0 6 9 17/[VP/VP0 18/enter/VBP 19/] 20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/] E	+VERB
+4	B 0 17 20 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/] 17 20 E	+VERB
+5	B 0 17 20 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 14/outfit/NNS 34/] 15/] 16/] 17 20 E	+VERB
+6	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+7	B 6	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/] 6	+SUBJ
+8	B 9 10 16 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 16 E	+TVERB
+9	6 E	6 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/] E	+DOBJ
+10	6 E	6 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 14/outfit/NNS 34/] 15/] 16/] E	+DOBJ
+11	B 0 E	B 0 17/[VP/VP0 18/enter/VBP 19/] E	+VERB
+12	B 17	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/] 17	+SUBJ
+13	B 20 21 25 E	B 17/[VP/VP0 18/enter/VBP 19/] 20 21 25 E	+TVERB
+14	17 E	17 20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/] E	+DOBJ
+2011#3	38	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/]
+2011#3	38	9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/]
+2011#3	38	6/[VP/VPwear0 7/wear/VB 8/]
+2011#3	38	20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/]
+2011#3	38	17/[VP/VP0 18/enter/VBP 19/]
+0	27 28	27 3/man/NN 28	+NPMOD/man
+1	31 32	31 10/three/DT 32	+NPART/three
+2	29 37 30	29 4/woman/NN 30	+NPHEAD/woman
+3	29 38 30	29 37/adult/NN 30	+NPHEAD/adult
+4	33 39 34	33 11/child/NNS 34	+NPHEAD/child
+5	B 17 20 E	B 14/[VP/VP0 15/go/VBG 17 20 16/] E	+PP-SENT
+6	15 16	15 17/[PP 18/for/IN 19/] 20/[EN/NP2 21/[NP 35/[NPH 23/walk/NN 36/] 24/] 25/] 16	+PP/for/walk
+7	B 8 14 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/person/NN 30/] 5/] 6/] 7/and/CC 8 14 E	+COMPLEX
+8	B 0 E	B 0 7/and/CC 8/[EN/NP1 9/[NP 31/[NPD 32/] 33/[NPH 39/person/NN 34/] 12/] 13/] 14/[VP/VP0 15/go/VBG 16/] E	+SENT
+9	B 8 E	B 8 14/[VP/VP0 15/go/VBG 16/] E	+VERB
+10	B 14	B 8/[EN/NP1 9/[NP 31/[NPD 32/] 33/[NPH 39/person/NN 34/] 12/] 13/] 14	+SUBJ
+11	B 14	B 8/[EN/NP1 9/[NP 31/[NPD 32/] 33/[NPH 11/child/NNS 34/] 12/] 13/] 14	+SUBJ
+12	B 20 E	B 17/[PP 18/for/IN 19/] 20 E	+SENT
+2936#3	40	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/person/NN 30/] 5/] 6/]
+2936#3	40	8/[EN/NP1 9/[NP 31/[NPD 32/] 33/[NPH 39/person/NN 34/] 12/] 13/]
+2936#3	40	14/[VP/VP0 15/go/VBG 16/]
+2936#3	40	20/[EN/NP2 21/[NP 35/[NPH 23/walk/NN 36/] 24/] 25/]
+0	27 28	27 2/man/NN 28	+NPMOD/man
+1	31 32	31 11/america/NNP 12/revolution/NNP 13/era/NN 32	+NPMOD/america revolution era
+2	33 37 34	33 14/outfit/NNS 34	+NPHEAD/outfit
+3	B 0 6 9 E	B 0 6 9 17/[VP/VP0 18/enter/VBP 19/] 20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/] E	+VERB
+4	B 0 17 20 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/] 17 20 E	+VERB
+5	B 0 17 20 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 14/outfit/NNS 34/] 15/] 16/] 17 20 E	+VERB
+6	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+7	B 6	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/] 6	+SUBJ
+8	B 9 10 16 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 16 E	+TVERB
+9	6 E	6 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/] E	+DOBJ
+10	6 E	6 9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 14/outfit/NNS 34/] 15/] 16/] E	+DOBJ
+11	B 0 E	B 0 17/[VP/VP0 18/enter/VBP 19/] E	+VERB
+12	B 17	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/] 17	+SUBJ
+13	B 20 21 25 E	B 17/[VP/VP0 18/enter/VBP 19/] 20 21 25 E	+TVERB
+14	17 E	17 20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/] E	+DOBJ
+3748#3	38	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 3/person/NNS 30/] 4/] 5/]
+3748#3	38	9/[EN/NP1 10/[NP 31/[NPM 32/] 33/[NPH 37/clothing/NN 34/] 15/] 16/]
+3748#3	38	6/[VP/VPwear0 7/wear/VB 8/]
+3748#3	38	20/[EN/NP2 21/[NP 35/[NPH 23/trailer/NN 36/] 24/] 25/]
+3748#3	38	17/[VP/VP0 18/enter/VBP 19/]
+0	24 28	24 25/[ADVP 26/3/LS 27/] 28	+ADVP/3
+1	89 90	89 2/man/NN 90	+NPMOD/man
+2	93 94	93 11/white/JJ 94	+NPMOD/white
+3	101 102	101 41/black/JJ 102	+NPMOD/black
+4	107 108	107 64/raise/VBN 108	+NPMOD/raise
+5	91 115 92	91 3/man/NNS 92	+NPHEAD/man
+6	91 116 92	91 115/adult/NN 92	+NPHEAD/adult
+7	95 117 96	95 12/jacket/NNS 96	+NPHEAD/jacket
+8	111 118 112	111 74/crowd/NN 112	+NPHEAD/crowd
+9	B 80 83 E	B 77/[VP/VP1 78/gather/VBZ 80 83 79/] E	+PP-SENT
+10	78 79	78 80/[PP 81/behind/IN 82/] 83/[EN/NP8 84/[NP 113/[NPH 85/them/PRP 114/] 86/] 87/] 79	+PP/behind/them
+11	B 58 61 E	B 52/[EN/NP5 53/[NP 105/[NPH 55/camera/NN 106/] 56/] 58 61 57/] E	+PP-SENT
+12	56 57	56 58/[PP 59/on/IN 60/] 61/[EN/NP6 62/[NP 107/[NPM 108/] 109/[NPH 65/platform/NN 110/] 66/] 67/] 57	+PP/on/platform
+13	B 29 32 E	B 18/[EN/NP2 19/[NP 97/[NPH 21/number/NN 98/] 22/] 23/] 24/"/'' 29 32 28/"/'' E	+PP-SENT
+14	28 38	28 29/[PP 30/on/IN 31/] 32/[EN/NP3 33/[NP 99/[NPH 35/back/NN 100/] 36/] 37/] 38	+PP/on/back
+15	B 15 18 E	B 9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 117/clothing/NN 96/] 13/] 15 18 14/] E	+PP-SENT
+16	13 14	13 15/[PP 16/with/IN 17/] 18/[EN/NP2 19/[NP 97/[NPH 21/number/NN 98/] 22/] 23/] 14	+PP/with/number
+17	B 0 24 28 38 39 45 48 52 68 71 77 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 117/clothing/NN 96/] 13/] 14/] 24 28 38 39 45 48 52 68 71 77 E	+VERB
+18	B 0 24 28 38 39 45 48 52 68 71 77 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] 9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 12/jacket/NNS 96/] 13/] 14/] 24 28 38 39 45 48 52 68 71 77 E	+VERB
+19	B 0 E	B 0 6/[VP/VPwear0 7/wear/VB 8/] E	+VERB
+20	B 6	B 0/[EN/NP0 1/[NP 89/[NPM 90/] 91/[NPH 116/person/NN 92/] 4/] 5/] 6	+SUBJ
+21	B 6	B 0/[EN/NP0 1/[NP 89/[NPM 90/] 91/[NPH 115/adult/NN 92/] 4/] 5/] 6	+SUBJ
+22	B 6	B 0/[EN/NP0 1/[NP 89/[NPM 90/] 91/[NPH 3/man/NNS 92/] 4/] 5/] 6	+SUBJ
+23	B 9 10 14 E	B 6/[VP/VPwear0 7/wear/VB 8/] 9 10 14 E	+TVERB
+24	6 E	6 9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 117/clothing/NN 96/] 13/] 14/] E	+DOBJ
+25	6 E	6 9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 12/jacket/NNS 96/] 13/] 14/] E	+DOBJ
+26	B 71 E	B 71 77/[VP/VP1 78/gather/VBZ 79/] E	+VERB
+27	B 77	B 71/[EN/NP7 72/[NP 111/[NPH 118/group/NN 112/] 75/] 76/] 77	+SUBJ
+28	B 77	B 71/[EN/NP7 72/[NP 111/[NPH 74/crowd/NN 112/] 75/] 76/] 77	+SUBJ
+29	B 83 E	B 80/[PP 81/behind/IN 82/] 83 E	+SENT
+30	B 61 E	B 58/[PP 59/on/IN 60/] 61 E	+SENT
+31	B 32 E	B 29/[PP 30/on/IN 31/] 32 E	+SENT
+32	B 18 E	B 15/[PP 16/with/IN 17/] 18 E	+SENT
+5190#0	119	0/[EN/NP0 1/[NP 89/[NPM 90/] 91/[NPH 116/person/NN 92/] 4/] 5/]
+5190#0	119	9/[EN/NP1 10/[NP 93/[NPM 94/] 95/[NPH 117/clothing/NN 96/] 13/] 14/]
+5190#0	119	6/[VP/VPwear0 7/wear/VB 8/]
+5190#0	119	71/[EN/NP7 72/[NP 111/[NPH 118/group/NN 112/] 75/] 76/]
+5190#0	119	77/[VP/VP1 78/gather/VBZ 79/]
+5190#0	119	83/[EN/NP8 84/[NP 113/[NPH 85/them/PRP 114/] 86/] 87/]
+5190#0	119	61/[EN/NP6 62/[NP 107/[NPM 108/] 109/[NPH 65/platform/NN 110/] 66/] 67/]
+5190#0	119	32/[EN/NP3 33/[NP 99/[NPH 35/back/NN 100/] 36/] 37/]
+5190#0	119	18/[EN/NP2 19/[NP 97/[NPH 21/number/NN 98/] 22/] 23/]
+0	27 28	27 3/man/NN 28	+NPMOD/man
+1	31 32 33 11 34	31 10/little/JJ 32 33 11 34	+NPMOD/little
+2	29 37 30	29 4/woman/NN 30	+NPHEAD/woman
+3	29 38 30	29 37/adult/NN 30	+NPHEAD/adult
+4	33 39 34	33 11/boy/NN 34	+NPHEAD/boy
+5	33 40 34	33 11/boy/NN 34	+NPHEAD/boy
+6	33 39 34	33 40/child/NN 34	+NPHEAD/child
+7	35 41 36	35 23/meadow/NN 36	+NPHEAD/meadow
+8	B 17 20 E	B 14/[VP/VP0 15/sit/VBG 17 20 16/] E	+PP-SENT
+9	15 16	15 17/[PP 18/in/IN 19/] 20/[EN/NP2 21/[NP 35/[NPH 41/grass/NN 36/] 24/] 25/] 16	+PP/in/grass
+10	B 0 14 E	B 0 7/and/CC 8/[EN/NP1 9/[NP 31/[NPM 32/] 33/[NPH 39/person/NN 34/] 12/] 13/] 14 E	+COMPLEX
+11	B 8 E	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/person/NN 30/] 5/] 6/] 7/and/CC 8 14/[VP/VP0 15/sit/VBG 16/] E	+SENT
+12	B 0 E	B 0 14/[VP/VP0 15/sit/VBG 16/] E	+VERB
+13	B 14	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/person/NN 30/] 5/] 6/] 14	+SUBJ
+14	B 14	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 37/adult/NN 30/] 5/] 6/] 14	+SUBJ
+15	B 14	B 0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 4/woman/NN 30/] 5/] 6/] 14	+SUBJ
+16	B 20 E	B 17/[PP 18/in/IN 19/] 20 E	+SENT
+7771#1	42	8/[EN/NP1 9/[NP 31/[NPM 32/] 33/[NPH 39/person/NN 34/] 12/] 13/]
+7771#1	42	0/[EN/NP0 1/[NP 27/[NPM 28/] 29/[NPH 38/person/NN 30/] 5/] 6/]
+7771#1	42	14/[VP/VP0 15/sit/VBG 16/]
+7771#1	42	20/[EN/NP2 21/[NP 35/[NPH 41/grass/NN 36/] 24/] 25/]

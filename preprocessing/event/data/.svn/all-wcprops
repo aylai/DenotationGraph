@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dikduk/!svn/ver/928/DenotationGraph/event/data
+END
+animal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/animal.txt
+END
+person.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/person.txt
+END
+clothing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/clothing.txt
+END
+exclverb-vehicle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/exclverb-vehicle.txt
+END
+agentref.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/agentref.txt
+END
+split.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/split.txt
+END
+aux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/928/DenotationGraph/event/data/aux.txt
+END
+clause-boundary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/clause-boundary.txt
+END
+who.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/who.txt
+END
+vehicle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/vehicle.txt
+END
+exclverb-all.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/exclverb-all.txt
+END
+that-which.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/event/data/that-which.txt
+END

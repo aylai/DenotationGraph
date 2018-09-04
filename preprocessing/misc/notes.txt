@@ -1,0 +1,136 @@
+I. parse.pm
+
+Contains some basic parsing for chunked captions.  The parse functions
+(parse, unparse, flatten) are moderately horrible.  breakSlash and
+getNextPrev are much nicer.
+
+parse():
+usage in code:
+
+	my @s = ();
+	my $i = 0;
+	my $p = 0;
+	while ($i <= $#ax) {
+		($x, $i, $p) = parse(\@ax, $i, $p);
+		push(@s, $x);
+	}
+
+@ax is an array of tokens and chunk boundaries
+
+$p is the word index (indicates next word to parse)
+$i is the token index (indicates next token to parse)
+   ($p ignores chunk boundaries)
+
+$x is the parsed chunk
+
+@s is an array to store the parsed chunks in.
+
+Each parsed chunk is a length four array:
+
+$x->[0] is the chunk name, or "" if there is no chunk
+$x->[1] is the internals - either a string if it's not a chunk or a
+        chunk with one token , or an array of parsed chunks that are
+        the internals of the chunk
+$x->[2] is the starting word index
+$x->[3] is the ending word index
+
+
+unparse():
+Take the results of parse() and return the original string.
+
+flatten():
+Take the results of parse() and return the original string without
+chunk boundaries.
+
+
+breakSlash():
+Takes a reference to an array of tokens, and splits them around '/'.
+Also returns a set of pointers to the next/prev chunk.
+Usage:
+
+@ax = split(/ /, $_);
+($next, $prev) = breakSlash(\@ax, 1);
+
+The second argument is the index of the token - for ID tagged strings
+(used by the graph scripts), this will be 1 (0 is the ID).  For normal
+strings, it will be 0.
+
+getNextPrev():
+Generates a set of pointers to the next/prev chunk of each item in a
+token.
+
+Example: given the string:
+
+Original string:   "[NP boys/NNS ] [VP playing/VBG ] [NP guitar/NN ]"
+Split array:       "[NP", "boys/NNS" "]", "[VP", "playing/VBG", "]", "[NP", "guitar/NN", "]"
+Broken slash:      ( "[NP" ), ( "boys", "NNS" ), ( "]" ), ( "[VP" ), ( "playing", "VBG" ), ( "]" ), ( "[NP" ), ( "guitar", "NN" ), ( "]" )
+Next pointers:         +3   ,         +1       ,    +0  ,     +3   ,            +1       ,    +0  ,     +3   ,          +1       ,    +0
+Prev pointers:         -0   ,         -1       ,    -3  ,     -0   ,            -1       ,    -3  ,     -0   ,          -1       ,    -3
+
+(Next and Prev pointers are always positive numbers - signs are
+provided for illustrative purposes.)  So, if $i was 3 ("[VP" token),
+$i + $next->[$i] would give you the next chunk (6).  Similarily, if $i
+was the end of chunk marker for the VP chunk (5), $i - $prev->[$i]
+would give you the end of chunk marker for the previous chunk (2).
+Next pointers for end of chunk boundaries and prev pointers for
+beginning of chunk boundaries are always 0.
+
+
+II. util.pm
+
+Contains a bunch of utility functions, including getHypes(),
+tokenize(), and the noun and verb lemmatizers.
+
+getHypes():
+Pass it a WordNet string to get its hypernyms.  I use this function as
+an interface into WordNet/QueryData.pm, so I can add my own hypernyms.
+For the moment, it adds "cat" as a hypernym of "kitten" (why is this
+missing?), "person" as a hypernym of "operator" and "homo sapiens",
+and "rapids" as a hypernym of "white water".
+
+tokenize():
+Strip out tags and lowercase words.  Does not remove chunk boundaries,
+however.
+
+nlemmaAdd():
+Build up a list of acceptable (i.e., that we have seen before) noun
+lemmatizations.  Try to avoid things like "pant" being a noun
+lemmatization, since everyone should always say "pants".
+
+nlemmaValid():
+Check if we've seen this noun before.
+
+nlemma():
+Lemmatize a noun, using the list of acceptable noun lemmatizations,
+and WordNet's valid forms.  Will try to pick the smallest valid form.
+(Also perfers words that end with "-man" or "-person", given a word
+that ends in "-men" or "-people".)
+
+vlemma():
+Lemmatize a verb, using WordNet's valid forms.  Will try to pick the
+longest valid form, except for "swinge" and "singe" ("swinging" is
+"swing" not "swinge", and "singing" is "sing", not "singe).
+
+
+III. Scripts
+
+gimme.pl - take a corpus, and a list of caption IDs, and returns only
+those.
+
+./gimme.pl results_20130124.token z
+
+Returns the captions in "results_20130124.token" in z.
+
+./gimme.pl results_20130124.token -z
+
+Returns the captions in "results_20130124.token" not in z.
+
+./gimme.pl results_20130124.pos results_20130124-train.token 1
+
+Uses only the first column in "results_20130124-train.token" as the
+list of acceptable caption IDs, and returns those found in
+"results_20130124.pos".
+
+splice.pl - join together two files by adding a tab between equivalent
+lines.  Useful for joining together a corpus after the caption IDs and
+the captions have been split into two files.

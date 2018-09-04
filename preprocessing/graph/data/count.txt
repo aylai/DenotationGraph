@@ -1,0 +1,69 @@
+10	some
+11	some
+14	some
+17	some
+1	one
+2	two
+3	three
+40	some
+4	some
+50	some
+53	some
+5	some
+6	some
+7	some
+8	some
+9	some
+a 50	some
+a 5	some
+a couple	some
+a dozen	some
+a few	some
+a five	some
+a four	some
+all	some
+an	one
+an one	one
+another	one
+an three	three
+an two	two
+a	one
+a one	one
+a seven	some
+a six	some
+a ten	some
+a three	three
+a two	two
+both	some
+different	some
+either	some
+eleven	some
+every	some
+five	some
+four	some
+fourteen	some
+many	some
+more	some
+neither	some
+nine	some
+no	no
+one	one
+other	one
+several	some
+six	some
+some	some
+ten	some
+the	one
+the one	one
+the other	one
+these	some
+the three	three
+the two	two
+this	one
+th	one
+those	some
+three	three
+twelve	some
+twenty	some
+two	two
+various	some

@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/dikduk/!svn/ver/984/DenotationGraph/pos/scripts
+END
+fixPP-CC.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPP-CC.pl
+END
+fixPPngram.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPPngram.pl
+END
+fixPlay.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPlay.pl
+END
+fixWhile.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixWhile.pl
+END
+fixVPVP-TO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixVPVP-TO.pl
+END
+splitCompoundNouns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/splitCompoundNouns.pl
+END
+fixAttempt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixAttempt.pl
+END
+joinCompoundNouns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/joinCompoundNouns.pl
+END
+fixQuotes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixQuotes.pl
+END
+fixTO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixTO.pl
+END
+fixPP-Prt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPP-Prt.pl
+END
+fixConverse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixConverse.pl
+END
+splitCompoundVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/splitCompoundVerbs.pl
+END
+fixBuilding.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixBuilding.pl
+END
+fixVerbPP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixVerbPP.pl
+END
+fixThough.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixThough.pl
+END
+joinCompoundVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/joinCompoundVerbs.pl
+END
+normDobj.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/normDobj.pl
+END
+fixIs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixIs.pl
+END
+fixing.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixing.pl
+END
+fixRefVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixRefVerbs.pl
+END
+fixTO-VBX.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixTO-VBX.pl
+END
+fixNPHeadNouns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixNPHeadNouns.pl
+END
+fixLay.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixLay.pl
+END
+chunker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/chunker.sh
+END
+fixLeft.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/984/DenotationGraph/pos/scripts/fixLeft.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/run.sh
+END
+fixSign.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixSign.pl
+END
+fixVPaux.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixVPaux.pl
+END
+fixStandNN.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixStandNN.pl
+END
+fixInOrderTo.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/fixInOrderTo.pl
+END
+fixWatch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixWatch.pl
+END
+fixDown.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixDown.pl
+END
+fixToPerform.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixToPerform.pl
+END
+fixCooks.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixCooks.pl
+END
+fixVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixVerbs.pl
+END
+breakCC-NPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/breakCC-NPs.pl
+END
+fixWearingChunk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixWearingChunk.pl
+END
+fixTO-end.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixTO-end.pl
+END
+fixSled.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixSled.pl
+END
+fixSbar.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixSbar.pl
+END
+fixSomeX.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixSomeX.pl
+END
+fixHyphen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixHyphen.pl
+END
+fixDetHead.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixDetHead.pl
+END
+fixNPHeadNouns2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixNPHeadNouns2.pl
+END
+fixPrt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPrt.pl
+END
+breakVPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/breakVPs.pl
+END
+forcePOS.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/forcePOS.pl
+END
+fixShop.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixShop.pl
+END
+fixNumbers.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/fixNumbers.pl
+END
+fixUH.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixUH.pl
+END
+checkPunctTag.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/checkPunctTag.pl
+END
+fixPRP-VP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPRP-VP.pl
+END
+postag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/pos/scripts/postag.sh
+END
+fixV-TO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixV-TO.pl
+END
+fixFunction.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixFunction.pl
+END
+fixVP-RB.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixVP-RB.pl
+END
+fixTO-VB.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixTO-VB.pl
+END
+fixDressed.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixDressed.pl
+END
+fixPunct.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixPunct.pl
+END
+makePPngram.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/makePPngram.pl
+END
+fixNotDT-V.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixNotDT-V.pl
+END
+fixWearing.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/982/DenotationGraph/pos/scripts/fixWearing.pl
+END

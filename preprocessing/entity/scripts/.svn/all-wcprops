@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dikduk/!svn/ver/852/DenotationGraph/entity/scripts
+END
+fixDef.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixDef.pl
+END
+fixANNS.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixANNS.pl
+END
+fixNPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixNPs.pl
+END
+makeEntity.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/makeEntity.pl
+END
+fixAndCC.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixAndCC.pl
+END
+corefNPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/corefNPs.pl
+END
+runNoCoref.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/runNoCoref.sh
+END
+coverCorefs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/coverCorefs.pl
+END
+typeCorefs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/typeCorefs.pl
+END
+makeHypeLexicon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/makeHypeLexicon.pl
+END
+fakeCoref.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fakeCoref.pl
+END
+chunkEntityMods.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/chunkEntityMods.pl
+END
+makeCoref.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/makeCoref.pl
+END
+getNPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/852/DenotationGraph/entity/scripts/getNPs.pl
+END
+fixAdvp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixAdvp.pl
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/run.sh
+END
+fixVerbing.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/fixVerbing.pl
+END
+easyCorefs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/836/DenotationGraph/entity/scripts/easyCorefs.pl
+END

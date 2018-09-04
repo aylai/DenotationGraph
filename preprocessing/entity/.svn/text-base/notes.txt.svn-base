@@ -1,0 +1,322 @@
+scripts/run.sh
+Input: POS file
+Output: coref file + NP file
+This script runs further chunks entity mentions (building entity
+mentions out of NPs, or NP of NPs, in specific cases).  It'll perform
+entity co-reference, and create the coref file (which adds entity
+mention chunks, some typing information to NP chunks, and entity
+co-reference IDs) and the NP file (list of entity mentions in the
+corpus).  See "../corpora/notes.txt" for a more detailed description.
+
+
+scripts/runNoCoref.sh
+Input: POS file
+Output: coref file + NP file
+As above, but it skips the entity co-reference step and inserts dummy
+co-reference IDs instead.
+
+
+scripts/getNPs.pl
+Generates NP files from POS files.  Identifies the determiner,
+modifier, and head of each NP chunk.  Does this by identifying known
+determiners at the start of an NP chunk, using WordNet to identify the
+head noun, and then treating the remainder of the NP chunk as the
+modifier.  This script gets called several times, in order to
+reproduce the NP file, after changes have been made to the POS file.
+
+Uses the data files "data/notcnouns.txt" (a list of non-compound nouns
+- i.e., "black cat" is actually a "cat", and not the WordNet entry for
+"black cat"), and "data/synset-lexicon.txt" (a lexicon of some common
+terms that have multiple synsets.  For example, "man" is "man#n#1").
+
+
+The rest of the scripts are described in the order they are used.
+
+
+scripts/fixNPs.pl
+
+See "tmp/NAME/NP.log" for a log of what this script does.  For
+example:
+
+[NP An/DT athlete/JJ ] [VP leaping/VBG ]
+
+The script rechunked "[NP An athlete leaping ]" into the above.  Check
+the lines marked "CHECK" more carefully.
+
+If there is a word in the noun part of WordNet in an NP chunk, break
+up the NP chunk at that word, and then rechunking the remainder of the
+NP chunk.
+
+
+scripts/fixANNS.pl
+As above, see "tmp/NAME/ANNS.log" for a log of what this script does.
+
+If we have an NP that starts with "a" or "an" and ends with a plural
+head noun, rechunk it.  Look for a good noun starting from the second
+to last word in the NP chunk, and make that into a new NP chunk.
+
+
+scripts/fixDef.pl
+TODO
+
+Replace definite articles with indefinite articles.
+
+6. fixVerbing.pl - fix cases where the modifier ends on a VBG -
+   usually turning the VBG into its own VP
+   input: NP file, POS file
+   output: POS file
+
+7. getNPs.pl - use the updated chunks to create a new NP file
+
+8. makeEntity.pl - check X of Y cases, and join them when its
+   <container> of <liquid> or <group> of <people>
+   input: NP file, POS file
+   output: POS file
+
+9. getNPs.pl - use the entity chunks to create a new NP file
+
+10. easyCorefs.pl - do some basic coref (exact head match) and typing
+    (body of water)
+    input: NP file
+    output: NP file
+
+11. makeHypeLexicon.pl - generates the WordNet lexicon.  Important files
+    are notperson.txt (synset terms that can not be people, even if the
+    first synset in their entry is a person noun), and person.txt
+    (synset terms that can be people, even if the first synset in their
+    entry is a non-person noun.)
+    input: NP file
+    output: lexicon file
+
+12. corefNPs.pl - deterministic coreference.
+    input: NP file, lexicon file
+    output: corefed NP file
+
+13. makeCoref.pl - apply the coreferences to the POS file
+    input: POS file, corefed NP file
+    output: coref file
+
+?. latticeCoref.pl - use corefed NP replacement to generate new
+   sentences
+   input: coref file
+   output: coref file
+
+For the determiners we only look at NPs that contain at least two
+words.  We grab the first word as part of the determiner if it has a
+POS tag of DT, PRP$, CD, LS (List Segment - usually a mis-tagged CD),
+or is the word "same", "several", "many", "other", "multiple",
+"various", "more", and "different" (different can sometimes be a good
+idea "different teams" and sometimes less good of an idea "different
+colored teams").  If the determiner is "a", "an", or "the", we add the
+next word to the determiner if the NP is at least three words and the
+next word is "few", "couple", "same", "other", or has the POS tag CD.
+We could also use the POS tag LS, but they're very infrequent, and at
+least half of them are not part of the determiner.
+
+Singular indefinite article/plural head noun - look for a head noun
+that is good (according to the above definition), and that is not
+plural.  If the previous word is good and not a plural, and the old
+head noun ends in -s and is not "outdoors" or "indoors", turn it into
+a VBZ.  Also, make sure that the next thing is not an NP that starts
+with a POS tag.  Also, change "a women" into "a woman".
+
+We split determiner normalization into two tasks.  First is
+determining if the head noun should be treated as a plural or
+singular.  Singular head nouns will use "a" or "an", and plural head
+nouns will use a blank.  We ignore the definite case for now.  We can
+find the majority usage of the indefinite/blank case for each head
+noun, and then use that for normalization.  In general, people may
+drop the "a" or "an", and thus we need to re-add it.  However, if they
+have added an "a" or an "an", we should be looking out for parser errors.
+
+
+Breaking up sentences:
+
+1. SBAR - identifie the subordinate clause nicely.
+
+2. commas - tagger does not identify - see sentence 1991806812_065f747689.jpg#4
+
+3. conjunctions - tagger does not completely identify - I'd say look
+   for a conjunction that isn't part of another phrase, but the tagger
+   has a tendency to break up NPs with conjunctions that way as well.
+   See sentence 2113530024_5bc6a90e42.jpg#4
+
+Adding an indefinite article:
+
+1. Identify singular count nouns (i.e., nouns that would require the
+   use of an indefinite article) by majority vote over the a/an versus
+   empty article cases.  (This can be dangerous - ambiguous nouns -
+   i.e., could use a definite or indefinite article will show up as
+   singular count nouns based on this, since we ignore the definite
+   case.  Hmm.)
+
+2. Add the indefinite article if you are singular, and have no
+   determiner at all.
+
+Definite to indefinite on singular subjects.
+
+1. Earlier in the sentence is better - less possibility that your
+   existence is implied by something else in the sentence (i.e.,
+   goal implies a single goalie).
+
+2. You can use the if the definite article when context (either
+   assumed, external, or as described by the sentence) implies there
+   is only one of the entity that you could be referring to - i.e.,
+   the sky, the sun, the ocean, the ground, the floor (but, a hardwood
+   floor).  This can be tricky - "a couple" would let you refer to
+   "the man" and "the woman", as presumably each are part of the
+   couple.  A crowd/the crowd?  Unsure.
+
+3. You can also use the definite article if you're referring to
+   something you've previously mentioned or implied - again, this can
+   be tricky, for example, describing the action going on in a game,
+   can be suffixed with "while a crowd watches the game" - the
+   existence of the game/match is implied.
+
+4. Not quite proper nouns - entities that aren't unique by themselves,
+   but have a description that makes them unique - "the number 52
+   motorcycle", presumably only one motorcycle (at least as far as the
+   context is concerned) is numbered 52.  Or "the red team".
+
+exceptions - proposition - they all require some additional
+description to make them unique.
+
+The number 52 motorcyclist - there's probably only one number 52 motorcycle
+
+The orange rider - may or may not be the same - depends on if the
+riders are color coded, in which case, yes, it should stay definite,
+but ... it's probably okay to turn it into an indefinite.
+
+The mans shirt (missing possessive) - specific person/shirt in mind.
+
+The red team - much more certain than the orange rider case - color
+can be used to uniquely identify a team.
+
+The opposing basketball player - I'm kind of okay with turning this
+one indefinite.
+
+The number 2 dog - as with number 52 motorcyclist
+
+the green team, the red team - as the other team example.
+
+The horses race - parsing error
+
+[The racing dog] with the "4" jersey - I'm inclined to leave this as a
+definite, but I can see it going either way.
+
+the mountain landscape - not sure.
+
+the ocean - not quite unique, but unique enough
+
+a dirt bike ... as [the rider] - rider is presumed by bike.
+
+a batter playing cricket missed [the ball] - single ball in play in cricket.
+
+[the fall] leaves - parsing error
+
+Both [the larger dog] and the smaller dog - contrasting
+
+the bottom - presumably the top, the side, etc.  part of
+
+A couple sits together while [the man] - distinctly identifies part of
+the couple.
+
+the sky - unique
+
+the number "4" - unique
+
+converge at the goal and [the goalie] - unique because of the goal
+
+the batsman - unique?  maybe.
+
+the baseman - as above
+
+the crowd - probably only one crowd
+
+the other X - distinct
+
+A man and are playing cards but [the man] - distinct.  I think.
+
+the catcher - unique position
+
+the pitcher - unique position
+
+the referee - could go either way, but I'm thinking of games with
+multiple refs
+
+the batter - temporarily unique position
+
+the drummer - probably only one drummer in a band.  Ditto on the guitarist
+
+A brown and black lab are outside and [the black lab] - previous reference
+
+Two dogs walk in the snow, [the larger dog] - part of previous reference
+
+A couple of people are standing and [the person] - part of previous reference
+
+the game - presumably a distinct event
+
+the show - as above
+
+the lady in front - part of previous reference
+
+A man and woman look to the right, [the man] - part of previous reference
+
+Winnie [the Pool t-shirt] - parsing error.  Part of a name.
+
+Two girls are both eating and [the girl] - part of previous reference
+
+the third - distinct
+
+the judge - as the referee
+
+for a profession photograph while [the photographer] - presumably only one.
+
+man on the left with his mouth open while [the man] on the right - distinct
+
+[the band] "Kiss" - distinct entity
+
+the camera - picture taker - distinct
+
+
+Questions:
+
+1. Does article drop cluster?  I.e., if someone article drops, do they
+   do it everywhere in the caption?  Nope.  No such luck.
+
+
+Head nouns that are always (or almost always roots):
+Checking if the next word is also a possible head noun doesn't seem to help.
+
+man
+men
+woman
+boy
+girl
+person
+dog (dog sled, dog sledding, dog owner, dog show, dog park, dog obedience)
+shirt? (a lot of the time it's next to a conjunction)
+hat (like shirt, a lot of the time it's next to a conjunction)
+jacket (see above)
+dress (except for dress shirt)
+coat (see above)
+shorts
+sweatshirt
+t-shirt
+helmet
+outfit
+grass
+
+Checking conjunctions - how to?
+
+1. getNPs.pl - get the entities.
+   input: POS file
+   output NP file
+
+2. fixPPNP.pl - this normalize the determiner of the phrase: "through
+   the/a/an X" (with no succeeding PP - i.e., so not "through the X of
+   Y"), using the majority for each head noun.  Yeah, not sure why
+   limiting it to through was necessary.
+   input: NP file, POS file
+   output: POS file
+

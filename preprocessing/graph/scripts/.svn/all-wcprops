@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts
+END
+checkNodes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/scripts/checkNodes.pl
+END
+calcPMI.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/calcPMI.pl
+END
+makeSubgraph.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/makeSubgraph.pl
+END
+lemmaWear.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/lemmaWear.pl
+END
+subgraph.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/985/DenotationGraph/graph/scripts/subgraph.pl
+END
+runAdd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/850/DenotationGraph/graph/scripts/runAdd.sh
+END
+emptyBrackets.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/emptyBrackets.pl
+END
+makeOutputOrig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/makeOutputOrig.pl
+END
+lowerCase.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/lowerCase.pl
+END
+dropEntityMods.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropEntityMods.pl
+END
+dropPPs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropPPs.pl
+END
+flipMap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/flipMap.pl
+END
+lemmaTeens.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/lemmaTeens.pl
+END
+simple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/simple.pm
+END
+liftEntity.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/liftEntity.pl
+END
+countWordsCap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/scripts/countWordsCap.pl
+END
+makeOutput.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/makeOutput.pl
+END
+getOrig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/getOrig.pl
+END
+splitXofY.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/splitXofY.pl
+END
+dropThereBe.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropThereBe.pl
+END
+combineChunk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/combineChunk.pl
+END
+dropEntityArticle.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropEntityArticle.pl
+END
+countWords.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/scripts/countWords.pl
+END
+runPre.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/runPre.sh
+END
+typeChunk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/typeChunk.pl
+END
+runNew.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dikduk/!svn/ver/850/DenotationGraph/graph/scripts/runNew.sh
+END
+splitXorY.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/splitXorY.pl
+END
+lemmaNouns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/lemmaNouns.pl
+END
+dropPunct.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropPunct.pl
+END
+dropTail.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropTail.pl
+END
+assignWordIDs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/assignWordIDs.pl
+END
+buildLexicon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/scripts/buildLexicon.pl
+END
+countNodes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1008/DenotationGraph/graph/scripts/countNodes.pl
+END
+dropWearDress.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropWearDress.pl
+END
+getSVON.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/1012/DenotationGraph/graph/scripts/getSVON.pl
+END
+addIDs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/addIDs.pl
+END
+tokenize.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/tokenize.pl
+END
+dropEventMods.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/dropEventMods.pl
+END
+typedPMI.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dikduk/!svn/ver/836/DenotationGraph/graph/scripts/typedPMI.pl
+END
+makeOutputNP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/makeOutputNP.pl
+END
+lemmaVerbs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/lemmaVerbs.pl
+END
+splitSubjVerb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/splitSubjVerb.pl
+END
+typeGirl.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/typeGirl.pl
+END
+propogateImage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/propogateImage.pl
+END
+makeSentImg.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dikduk/!svn/ver/868/DenotationGraph/graph/scripts/makeSentImg.pl
+END
+makeOutputVP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dikduk/!svn/ver/1047/DenotationGraph/graph/scripts/makeOutputVP.pl
+END

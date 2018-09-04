@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# ./run.sh <corpus name>
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+mkdir ../tmp/$1
+
+awk -F'\t' '{print $1}' ../../corpora/$1/$1.spell > ../tmp/$1/url.txt
+awk -F'\t' '{print $2}' ../../corpora/$1/$1.spell > ../tmp/$1/sent.txt
+./token.sh ../tmp/$1/sent.txt > ../tmp/$1/token.txt
+../../misc/splice.pl ../tmp/$1/url.txt ../tmp/$1/token.txt > ../../corpora/$1/$1.pretoken
+
+popd > /dev/null

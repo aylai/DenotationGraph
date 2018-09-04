@@ -1,0 +1,2186 @@
+0	EN	[EN [NP [NPH person ] ] ]	9012#H	9016#3	9016#2	9016#1	9016#0	9012#3	9012#2	9012#1	9012#0	9005#H	9001#H	9302#1	9009#3	9009#2	9009#1	9009#0	9005#2	9005#1	9005#0	9001#3	9001#2	9001#1	9001#0	9017#H	9013#H	9017#3	9017#2	7771#1	9017#1	9017#0	9013#3	9013#2	2936#3	9013#1	9013#0	9006#H	5190#0	9002#H	9006#3	9006#2	9006#1	9006#0	9002#3	9002#2	9002#1	9002#0	9018#H	3748#3	9014#H	9010#H	9018#3	9018#2	9018#1	9018#0	9014#3	9014#2	9014#1	9014#0	9010#3	9010#2	9010#1	9007#H	9010#0	9003#H	9571#0	9007#3	9007#2	9007#1	9007#0	9003#3	9003#2	9003#1	9003#0	9019#H	9015#H	9011#H	9020#1	2011#3	9020#2	9020#3	9019#3	9019#2	9019#1	9019#0	9015#2	9015#1	9015#0	9011#3	9011#2	9011#1	9008#H	9011#0	9008#3	9008#2	9008#1	9008#0	9004#3	9004#2	9004#1	9004#0	9016#H
+1	EN	[EN [NP [NPH clothing ] ] ]	2011#3	9008#3	9008#2	9019#2	9008#1	9008#0	9003#3	9004#2	9004#1	9015#1	9016#0	9004#0	9014#1	9014#0	9001#0	5190#0	3748#3
+2	EN	[EN [NP [NPH pants ] ] ]	9001#0
+3	EN	[EN [NP [NPH himself ] ] ]	9001#2
+4	EN	[EN [NP [NPH dare ] ] ]	9001#3
+5	EN	[EN [NP [NPH ladder ] ] ]	9002#1	9002#0
+6	EN	[EN [NP [NPH them ] ] ]	9002#0	5190#0
+7	EN	[EN [NP [NPH one ] ] ]	9002#1	9003#0	9014#0
+8	VP	[VP work ]	9002#3
+8	EN	[EN [NP [NPH work ] ] ]	9012#3	9002#1	9012#1
+9	EN	[EN [NP [NPH roof ] ] ]	9002#3	9002#2	9002#1
+10	EN	[EN [NP [NPH house ] ] ]	9002#2
+11	EN	[EN [NP [NPH left ] ] ]	9003#0
+12	EN	[EN [NP [NPH something ] ] ]	9017#2	9003#0
+13	EN	[EN [NP [NPH hat ] ] ]	9019#3	9018#2	9019#1	9003#0
+14	EN	[EN [NP [NPH hand ] ] ]	9007#0	9003#0	9014#0
+15	EN	[EN [NP [NPH right ] ] ]	9003#0
+16	EN	[EN [NP [NPH glasses ] ] ]	9003#0
+17	EN	[EN [NP [NPH food ] ] ]	9003#0
+18	EN	[EN [NP [NPH meal ] ] ]	9003#3	9003#1
+19	EN	[EN [NP [NPH dish ] ] ]	9003#2
+20	EN	[EN [NP [NPH white ] ] ]	9003#3
+21	EN	[EN [NP [NPH gym ] ] ]	9004#0
+22	EN	[EN [NP [NPH leotard ] ] ]	9004#3	9004#2	9004#1	9004#0
+23	EN	[EN [NP [NPH pant ] ] ]	9004#0	5190#0
+24	EN	[EN [NP [NPD each ] [NPH other ] ] ]	9004#3
+25	EN	[EN [NP [NPH event ] ] ]	9004#3
+26	EN	[EN [NP [NPH audience ] ] ]	9004#H
+27	EN	[EN [NP [NPH pineapple ] ] ]	9005#0
+28	EN	[EN [NP [NPH ball ] ] ]	9005#0
+29	EN	[EN [NP [NPH toy ] ] ]	9005#1
+30	EN	[EN [NP [NPH fruit ] ] ]	9005#1
+31	EN	[EN [NP [NPH street ] ] ]	9009#2	9005#2	9016#2	9005#1	9005#H	9016#H
+32	EN	[EN [NP [NPH marketplace ] ] ]	9005#3
+33	EN	[EN [NP [NPH instrument ] ] ]	9018#2	9006#2	9018#1	9006#1	9006#0	9014#0	9006#H
+34	EN	[EN [NP [NPH hair ] ] ]	9006#2	9008#0	9006#0
+35	VP	[VP face ]	5190#0
+35	EN	[EN [NP [NPH face ] ] ]	9007#0	9006#0
+36	EN	[EN [NP [NPH tattoo ] ] ]	9006#1	9006#0
+37	EN	[EN [NP [NPH arm ] ] ]	9006#0	9014#2
+38	EN	[EN [NP [NPH outdoors ] ] ]	9018#3	9006#3	9006#1
+39	EN	[EN [NP [NPH her ] ] ]	9007#0	9010#0
+40	EN	[EN [NP [NPH glove ] ] ]	9007#3	9007#2	9007#1
+41	EN	[EN [NP [NPH other ] ] ]	9007#2
+42	EN	[EN [NP [NPH call ] ] ]	9008#H
+43	EN	[EN [NP [NPH group ] ] ]	9007#1	9014#1	9011#2	9009#H	9011#1	9011#0	5190#0
+44	EN	[EN [NP [NPH blue ] ] ]	9010#0
+45	EN	[EN [NP [NPH wave ] ] ]	9010#0
+46	EN	[EN [NP [NPH picture ] ] ]	9011#2	9011#0
+47	EN	[EN [NP [NPH all ] ] ]	9011#0
+48	EN	[EN [NP [NPH camera ] ] ]	9017#3	9016#2	9017#0	9015#2	9015#1	9015#0	9011#1	9011#0	5190#0
+49	EN	[EN [NP [NPH knob ] ] ]	9012#0
+50	EN	[EN [NP [NPH headphone ] ] ]	9012#3	9012#1	9012#0
+51	EN	[EN [NP [NPH music ] ] ]	9012#2
+52	EN	[EN [NP [NPH machine ] ] ]	9012#H
+53	EN	[EN [NP [NPH skateboard ] ] ]	9013#0
+54	EN	[EN [NP [NPH wall ] ] ]	9013#2	9013#1	9013#0
+55	EN	[EN [NP [NPH trick ] ] ]	9013#H	9020#1	9020#3	9013#2
+56	EN	[EN [NP [NPH lip ] ] ]	9013#3
+57	EN	[EN [NP [NPH microphone ] ] ]	9014#0
+58	EN	[EN [NP [NPH flash ] ] ]	9014#1
+59	EN	[EN [NP [NPH band ] ] ]	9014#1
+60	EN	[EN [NP [NPH head ] ] ]	9015#0
+61	EN	[EN [NP [NPH turn ] ] ]	9015#0
+62	EN	[EN [NP [NPH couple ] ] ]	9015#3	9571#0
+63	EN	[EN [NP [NPH crew ] ] ]	9016#0
+64	EN	[EN [NP [NPH scene ] ] ]	9016#3
+65	EN	[EN [NP [NPH image ] ] ]	9017#1
+66	EN	[EN [NP [NPH crop ] ] ]	9017#1
+67	EN	[EN [NP [NPH photo ] ] ]	9017#H
+68	EN	[EN [NP [NPH folder ] ] ]	9019#1
+69	EN	[EN [NP [NPH bike ] ] ]	9020#0	9020#1	9020#2	9020#3
+70	EN	[EN [NP [NPH wheelie ] ] ]	9020#0
+71	EN	[EN [NP [NPH ware ] ] ]	9005#2	9571#0
+72	EN	[EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+73	EN	[EN [NP [NPH sort ] ] [PP of ] [NP [NPH event ] ] ]	9004#3
+74	EN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ]	9011#2	9011#1	9011#0
+75	EN	[EN [NP [NPH christmas ] ] ]	9011#0
+76	EN	[EN [NP [NPH direction ] ] ]	9011#1
+77	VP	[VP hug ]	9004#3	9004#2	9004#1
+77	EN	[EN [NP [NPH hug ] ] ]	9302#1
+78	EN	[EN [NP [NPH gathering ] ] [PP of ] [NP [NPH person ] ] ]	9302#1
+79	VP	[VP wear ]	2011#3	9019#3	9019#2	9018#2	9019#1	9015#1	9016#0	9014#1	9015#0	9014#0	9012#1	9010#0	5190#0	9008#3	9007#3	9008#1	9007#1	9004#3	9003#3	9004#2	9004#1	9004#0	9003#0	9001#0	3748#3
+80	VP	[VP balance ]	9001#2	9001#1	9001#0
+81	EN	[EN [NP [NPH middle ] ] ]	9001#0
+82	EN	[EN [NP [NPH forest ] ] ]	9001#0
+83	EN	[EN [NP [NPH bench ] ] ]	9001#1	9001#0
+84	EN	[EN [NP [NPH child ] ] ]	9009#2	9001#H	7771#1	9010#H	9001#3	2936#3	9001#2	9001#1	9001#0
+85	SN	[EN [NP [NPH person ] ] ] [VP try to balance ]	9001#2	9001#1
+86	VP	[VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1	9001#0
+87	SN	[EN [NP [NPH person ] ] ] [VP balance ]	9001#2	9001#1	9001#0
+88	SN	[EN [NP [NPH child ] ] ] [VP balance ]	9001#2	9001#1	9001#0
+89	VP	[VP try to balance ]	9001#2	9001#1
+90	EN	[EN [NP [NPH park ] ] ]	9001#1
+91	PP	[PP on ] [EN [NP [NPH bench ] ] ]	9001#1	9001#0
+92	EN	[EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH park ] ] ] ]	9001#1
+93	EN	[EN [NP [NPH boy ] ] ]	9009#2	7771#1	9001#3	9001#0
+94	SN	[EN [NP [NPH person ] ] ] [VP wear ]	2011#3	9008#3	9019#3	9007#3	9019#2	9008#1	9018#2	9019#1	9007#1	9004#3	9004#2	9004#1	9015#1	9016#0	9014#1	9015#0	9003#0	9014#0	9012#1	9001#0	9010#0	5190#0	3748#3
+95	SN	[EN [NP [NPH boy ] ] ] [VP balance ]	9001#0
+96	EN	[EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH forest ] ] ] ]	9001#0
+97	EN	[EN [NP [NPM wooden ] [NPH bench ] ] ]	9001#0
+98	SN	[EN [NP [NPH child ] ] ] [VP wear ]	9001#0
+99	EN	[EN [NP [NPM young ] [NPH child ] ] ]	9001#2	9001#1
+100	SN	[EN [NP [NPH child ] ] ] [VP try to balance ]	9001#2	9001#1
+101	SN	[EN [NP [NPH person ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1	9001#0
+102	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance ]	9001#0
+103	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH jean ] ] ] [VP balance ]	9001#0
+104	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance ]	9001#0
+105	VP	[VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH forest ] ] ] ] ]	9001#0
+106	SN	[EN [NP [NPH boy ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+107	VP	[VP balance [PP on ] [EN [NP [NPM wooden ] [NPH bench ] ] ] ]	9001#0
+108	SN	[EN [NP [NPH child ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1	9001#0
+109	VP	[VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH park ] ] ] ] ]	9001#1
+110	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance ]	9001#0
+111	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH jean ] ] ] [VP balance ]	9001#0
+112	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance ]	9001#0
+113	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP balance ]	9001#2	9001#1
+114	PP	[PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH forest ] ] ] ]	9001#0
+115	PP	[PP on ] [EN [NP [NPM wooden ] [NPH bench ] ] ]	9001#0
+116	PP	[PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH park ] ] ] ]	9001#1
+117	VP	[VP try to balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1
+118	SN	[EN [NP [NPH person ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH park ] ] ] ] ]	9001#1
+119	SN	[EN [NP [NPH person ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH forest ] ] ] ] ]	9001#0
+120	SN	[EN [NP [NPH person ] ] ] [VP balance [PP on ] [EN [NP [NPM wooden ] [NPH bench ] ] ] ]	9001#0
+121	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+122	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH jean ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+123	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+124	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1
+125	SN	[EN [NP [NPH child ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH park ] ] ] ] ]	9001#1
+126	SN	[EN [NP [NPH child ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH forest ] ] ] ] ]	9001#0
+127	SN	[EN [NP [NPH child ] ] ] [VP balance [PP on ] [EN [NP [NPM wooden ] [NPH bench ] ] ] ]	9001#0
+128	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+129	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH jean ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+130	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ] [VP balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#0
+131	VP	[VP balance ] [EN [NP [NPH himself ] ] ]	9001#2
+132	EN	[EN [NP [NPH table ] ] ]	9001#2
+133	SN	[EN [NP [NPH person ] ] ] [VP try to balance ] [EN [NP [NPH himself ] ] ]	9001#2
+134	SN	[EN [NP [NPH person ] ] ] [VP try to balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1
+135	SN	[EN [NP [NPH person ] ] ] [VP balance ] [EN [NP [NPH himself ] ] ]	9001#2
+136	SN	[EN [NP [NPH child ] ] ] [VP balance ] [EN [NP [NPH himself ] ] ]	9001#2
+137	VP	[VP try to balance ] [EN [NP [NPH himself ] ] ]	9001#2
+138	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP try to balance ]	9001#2	9001#1
+139	SN	[EN [NP [NPH child ] ] ] [VP try to balance ] [EN [NP [NPH himself ] ] ]	9001#2
+140	SN	[EN [NP [NPH child ] ] ] [VP try to balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1
+141	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP balance ] [EN [NP [NPH himself ] ] ]	9001#2
+142	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP try to balance [PP on ] [EN [NP [NPH bench ] ] ] ]	9001#1
+143	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP try to balance ] [EN [NP [NPH himself ] ] ]	9001#2
+144	SN	[EN [NP [NPH person ] ] ] [VP engage ]	9001#3
+145	VP	[VP engage ]	9001#3
+146	EN	[EN [NP [NPH game ] ] ]	9001#3
+147	EN	[EN [NP [NPH courage ] ] ]	9001#3
+148	SN	[EN [NP [NPH boy ] ] ] [VP engage ]	9001#3
+149	EN	[EN [NP [NPM little ] [NPH boy ] ] ]	7771#1	9001#0
+150	SN	[EN [NP [NPH boy ] ] ] [VP wear ]	9001#0
+151	SN	[EN [NP [NPH child ] ] ] [VP engage ]	9001#3
+152	SN	[EN [NP [NPH person ] ] ] [VP standing ]	9001#H	9011#H	9002#0	9019#H	9007#H	9016#H	9015#H
+153	VP	[VP standing ]	9001#H	9011#H	9002#0	9010#2	9019#H	9007#H	9016#H	9015#H
+154	SN	[EN [NP [NPH child ] ] ] [VP standing ]	9001#H
+155	SN	[EN [NP [NPH adult ] ] ] [VP standing ]	9002#0	9019#H	9007#H	9016#H	9015#H
+156	SN	[EN [NP [NPH man ] ] ] [VP standing ]	9002#0	9019#H	9016#H
+157	SN	[EN [NP [NPH person ] ] ] [VP watch ]	9016#1	9002#0
+158	EN	[EN [NP [NPH adult ] ] ]	9014#H	9012#H	9018#2	9016#3	9018#1	9016#2	9018#0	9014#3	9016#1	9014#2	9016#0	9012#3	9014#1	9012#2	9014#0	9012#1	9012#0	9007#H	9005#H	9003#H	9302#1	9571#0	9009#3	9007#3	9009#1	9007#2	9009#0	9007#1	9005#2	9007#0	9003#3	9005#1	9003#2	9005#0	9003#1	9003#0	9019#H	9015#H	9013#H	9020#1	9020#2	9020#3	9019#3	9019#2	9017#3	9019#1	9017#2	9019#0	7771#1	9017#1	9015#2	9013#3	9015#1	9013#2	9015#0	2936#3	9013#1	9013#0	9008#H	9006#H	5190#0	9002#H	9008#3	9008#2	9006#3	9008#1	9008#0	9004#3	9006#1	9004#2	9006#0	9002#3	9004#1	9002#1	9002#0	9018#H	9016#H
+159	SN	[EN [NP [NPH person ] ] ] [VP watch ] [EN [NP [NPH them ] ] ]	9002#0
+160	VP	[VP watch ]	9016#1	9002#0
+161	EN	[EN [NP [NPH rooftop ] ] ]	9002#0
+162	EN	[EN [NP [NPD three ] [NPH person ] ] ]	9003#H	9003#3	9002#3	9003#1	2936#3	9002#1
+163	SN	[EN [NP [NPH person ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+164	EN	[EN [NP [NPD three ] [NPH adult ] ] ]	9003#H	9003#3	9002#3	9003#1	9002#1
+165	EN	[EN [NP [NPM man ] [NPH man ] ] ]	5190#0
+165	EN	[EN [NP [NPH man ] ] ]	9012#H	9020#1	9020#2	9020#3	9019#3	9019#2	9017#3	9018#2	9019#1	9016#3	9017#2	9018#1	9019#0	9016#2	9017#1	9015#2	9016#1	9015#1	9016#0	9012#3	9015#0	9012#2	9014#0	9012#1	9013#0	9008#H	5190#0	9005#H	9003#H	9002#H	9302#1	9009#3	9008#3	9008#2	9009#1	9008#1	9009#0	9008#0	9006#1	9002#3	9002#1	9002#0	9019#H	9016#H
+166	SN	[EN [NP [NPH adult ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+167	SN	[EN [NP [NPH adult ] ] ] [VP watch ]	9016#1	9002#0
+168	SN	[EN [NP [NPH adult ] ] ] [VP watch ] [EN [NP [NPH them ] ] ]	9002#0
+169	SN	[EN [NP [NPH man ] ] ] [VP watch ]	9016#1	9002#0
+170	SN	[EN [NP [NPH man ] ] ] [VP watch ] [EN [NP [NPH them ] ] ]	9002#0
+171	EN	[EN [NP [NPD three ] [NPH man ] ] ]	9003#H	9002#3	9002#1
+172	SN	[EN [NP [NPH man ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+173	SN	[EN [NP [NPH person ] ] ] [VP fix ]	9002#2
+174	SN	[EN [NP [NPH person ] ] ] [VP fix ] [EN [NP [NPH roof ] ] ]	9002#2
+175	VP	[VP fix ] [EN [NP [NPH roof ] ] ]	9002#2
+176	VP	[VP fix ]	9002#2
+177	PP	[PP on ] [EN [NP [NPH roof ] ] ]	9002#3	9002#1
+178	SN	[EN [NP [NPH person ] ] ] [VP work ]	9002#3
+179	EN	[EN [NP [NPH work ] ] [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#1
+179	VP	[VP work [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#3
+180	SN	[EN [NP [NPH man ] ] ] [VP work ]	9002#3
+181	SN	[EN [NP [NPH adult ] ] ] [VP work ]	9002#3
+182	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP work ]	9002#3
+183	SN	[EN [NP [NPD three ] [NPH person ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+184	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [VP work ]	9002#3
+185	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+186	SN	[EN [NP [NPH person ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#1
+187	SN	[EN [NP [NPH person ] ] ] [VP work [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#3
+188	SN	[EN [NP [NPH man ] ] ] [VP work [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#3
+189	SN	[EN [NP [NPH adult ] ] ] [VP work [PP on ] [EN [NP [NPH roof ] ] ] ]	9002#3
+190	SN	[EN [NP [NPD three ] [NPH man ] ] ] [VP work ]	9002#3
+191	SN	[EN [NP [NPD three ] [NPH man ] ] ] [EN [NP [NPH one ] ] ] [EN [NP [NPH work ] ] ]	9002#1
+192	SN	[EN [NP [NPH person ] ] ] [VP sit ]	9009#2	9002#H	9009#1	9009#0	7771#1	9018#H	9005#H	9009#3
+193	VP	[VP sit ]	9009#2	9002#H	9009#1	9009#0	7771#1	9009#H	9018#H	9005#H	9004#H	9009#3
+194	SN	[EN [NP [NPH adult ] ] ] [VP sit ]	9002#H	9009#1	9009#0	7771#1	9018#H	9005#H	9009#3
+195	SN	[EN [NP [NPH man ] ] ] [VP sit ]	9002#H	9009#1	9009#0	9005#H	9009#3
+196	EN	[EN [NP [NPM most ] [NPH person ] ] ]	9003#0
+197	SN	[EN [NP [NPH person ] ] ] [VP arrange ]	9003#0
+198	VP	[VP wear ] [EN [NP [NPH glasses ] ] ]	9003#0
+199	SN	[EN [NP [NPH cook ] ] ] [VP wear ]	9003#0
+200	SN	[EN [NP [NPH adult ] ] ] [VP wear ]	9008#3	9019#3	9007#3	9019#2	9008#1	9018#2	9019#1	9007#1	9004#3	9004#2	9004#1	9015#1	9016#0	9014#1	9015#0	9003#0	9014#0	9012#1	5190#0
+201	SN	[EN [NP [NPH chef ] ] ] [VP wear ]	9003#0
+202	SN	[EN [NP [NPH person ] ] ] [VP flip ]	9003#0
+203	VP	[VP flip ]	9003#0
+204	EN	[EN [NP [NPM only ] [NPH one ] ] ]	9003#0
+205	VP	[VP be ] [EN [NP [NPH one ] ] ]	9003#0
+206	VP	[VP arrange ]	9003#0
+207	EN	[EN [NP [NPH plate ] ] ]	9003#0
+208	EN	[EN [NP [NPH movement ] ] ]	9003#0
+209	EN	[EN [NP [NPH fry pan ] ] ]	9003#0
+210	EN	[EN [NP [NPH kitchen ] ] ]	9003#H	9003#1	9003#0
+211	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH glasses ] ] ]	9003#0
+212	SN	[EN [NP [NPM most ] [NPH person ] ] ] [VP wear ]	9003#0
+213	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9008#3	9019#2	9008#1	2011#3	9004#2	9015#1	9016#0	9014#1	9014#0	9001#0	5190#0	3748#3
+214	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ]	9008#1	9001#0
+215	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH pants ] ] ]	9001#0
+216	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH jean ] ] ]	9001#0
+217	EN	[EN [NP [NPM most ] [NPH adult ] ] ]	9003#0
+218	EN	[EN [NP [NPH cook ] ] ]	9003#3	9003#2	9003#0
+218	VP	[VP cook ]	9003#H
+219	SN	[EN [NP [NPH adult ] ] ] [VP arrange ]	9003#0
+220	VP	[VP wear ] [EN [NP [NPH clothing ] ] ]	2011#3	9008#3	9019#2	9008#1	9008#0	9004#2	9004#1	9015#1	9016#0	9004#0	9014#1	9014#0	9001#0	5190#0	3748#3
+221	VP	[VP wear ] [EN [NP [NPH shirt ] ] ]	9008#1	9001#0
+222	VP	[VP wear ] [EN [NP [NPH pants ] ] ]	9001#0
+223	VP	[VP wear ] [EN [NP [NPH jean ] ] ]	9001#0
+224	SN	[EN [NP [NPH adult ] ] ] [VP flip ]	9003#0
+225	SN	[EN [NP [NPM most ] [NPH person ] ] ] [VP flip ]	9003#0
+226	EN	[EN [NP [NPH one ] ] [PP on ] [EN [NP [NPH ladder ] ] ] ]	9002#1
+227	SN	[EN [NP [NPM most ] [NPH adult ] ] ] [VP flip ]	9003#0
+228	EN	[EN [NP [NPM most ] [NPH cook ] ] ]	9003#0
+229	SN	[EN [NP [NPH cook ] ] ] [VP flip ]	9003#0
+230	EN	[EN [NP [NPH chef ] ] ]	9003#3	9003#2	9003#0
+231	EN	[EN [NP [NPM male culinary ] [NPH person ] ] ]	9003#1
+232	EN	[EN [NP [NPH worker ] ] ]	9003#1
+233	SN	[EN [NP [NPH person ] ] ] [VP prepare ]	9003#3	9003#2	9003#1
+234	VP	[VP prepare ]	9003#3	9003#2	9003#1
+235	EN	[EN [NP [NPM commercial ] [NPH kitchen ] ] ]	9003#1
+236	PP	[PP in ] [EN [NP [NPH kitchen ] ] ]	9003#H	9003#1	9003#0
+237	EN	[EN [NP [NPD three ] [NPM male culinary ] [NPH person ] ] ]	9003#1
+238	EN	[EN [NP [NPD three ] [NPH worker ] ] ]	9003#1
+239	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP prepare ]	9003#3	9003#1
+240	EN	[EN [NP [NPM male culinary ] [NPH adult ] ] ]	9003#1
+241	SN	[EN [NP [NPH adult ] ] ] [VP prepare ]	9003#3	9003#2	9003#1
+242	EN	[EN [NP [NPD three ] [NPM male culinary ] [NPH adult ] ] ]	9003#1
+243	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [VP prepare ]	9003#3	9003#1
+244	EN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#0
+245	PP	[PP in ] [EN [NP [NPM commercial ] [NPH kitchen ] ] ]	9003#1
+246	EN	[EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+247	EN	[EN [NP [NPM two sous ] [NPH person ] ] ]	9003#2
+248	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+249	SN	[EN [NP [NPH person ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+250	SN	[EN [NP [NPH chef ] ] ] [VP prepare ]	9003#3	9003#2
+251	SN	[EN [NP [NPH cook ] ] ] [VP prepare ]	9003#3	9003#2
+252	VP	[VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+253	EN	[EN [NP [NPH restaurant ] ] ]	9003#2
+254	EN	[EN [NP [NPM two sous ] [NPH adult ] ] ]	9003#2
+255	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+256	SN	[EN [NP [NPM male culinary ] [NPH person ] ] ] [VP prepare ]	9003#1
+257	SN	[EN [NP [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3	9003#1
+258	SN	[EN [NP [NPH worker ] ] ] [VP prepare ]	9003#1
+259	SN	[EN [NP [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+260	VP	[VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3	9003#1
+261	SN	[EN [NP [NPM male culinary ] [NPH adult ] ] ] [VP prepare ]	9003#1
+262	SN	[EN [NP [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3	9003#1
+263	EN	[EN [NP [NPM two sous ] [NPH cook ] ] ]	9003#2
+264	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH cook ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+265	SN	[EN [NP [NPH cook ] ] ] [VP arrange ]	9003#0
+266	SN	[EN [NP [NPH cook ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+267	EN	[EN [NP [NPM two sous ] [NPH chef ] ] ]	9003#2
+268	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH chef ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+269	EN	[EN [NP [NPM most ] [NPH chef ] ] ]	9003#0
+270	SN	[EN [NP [NPH chef ] ] ] [VP flip ]	9003#0
+271	SN	[EN [NP [NPM most ] [NPH cook ] ] ] [VP wear ]	9003#0
+272	SN	[EN [NP [NPM most ] [NPH cook ] ] ] [VP arrange ]	9003#0
+273	SN	[EN [NP [NPH chef ] ] ] [VP arrange ]	9003#0
+274	SN	[EN [NP [NPH chef ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ]	9003#2
+275	SN	[EN [NP [NPM most ] [NPH chef ] ] ] [VP wear ]	9003#0
+276	SN	[EN [NP [NPM most ] [NPH chef ] ] ] [VP arrange ]	9003#0
+277	EN	[EN [NP [NPH dress ] ] ]	9003#3	9014#1	9014#0
+278	SN	[EN [NP [NPH person ] ] ] [EN [NP [NPH clothing ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+279	SN	[EN [NP [NPH clothing ] ] ] [VP wear ]	9003#3
+280	SN	[EN [NP [NPH dress ] ] ] [VP wear ]	9003#3
+281	VP	[VP wear ] [EN [NP [NPH white ] ] ]	9003#3
+282	EN	[EN [NP [NPM white ] [NPH clothing ] ] ]	9001#0	5190#0
+283	EN	[EN [NP [NPH shirt ] ] ]	9008#1	9001#0
+284	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3	9003#1
+285	SN	[EN [NP [NPM male culinary ] [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+286	SN	[EN [NP [NPH worker ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+287	SN	[EN [NP [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+288	SN	[EN [NP [NPH chef ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+289	SN	[EN [NP [NPH cook ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+290	VP	[VP prepare ] [EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+291	SN	[EN [NP [NPD three ] [NPH chef ] ] ] [VP prepare ]	9003#3
+292	SN	[EN [NP [NPD three ] [NPH cook ] ] ] [VP prepare ]	9003#3
+293	EN	[EN [NP [NPD three ] [NPH cook ] ] ]	9003#3
+294	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3	9003#1
+295	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH person ] ] ] [VP prepare ]	9003#1
+296	SN	[EN [NP [NPD three ] [NPH worker ] ] ] [VP prepare ]	9003#1
+297	SN	[EN [NP [NPH adult ] ] ] [EN [NP [NPH clothing ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+298	SN	[EN [NP [NPM male culinary ] [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+299	SN	[EN [NP [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+300	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+301	SN	[EN [NP [NPD three ] [NPH worker ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+302	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+303	SN	[EN [NP [NPD three ] [NPH person ] ] ] [EN [NP [NPH clothing ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+304	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH adult ] ] ] [VP prepare ]	9003#1
+305	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+306	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#1
+307	SN	[EN [NP [NPD three ] [NPH cook ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+308	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [EN [NP [NPH clothing ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+309	EN	[EN [NP [NPD three ] [NPH chef ] ] ]	9003#3	9003#0
+310	SN	[EN [NP [NPH person ] ] ] [VP cook ]	9003#H
+311	VP	[VP cook [PP in ] [EN [NP [NPH kitchen ] ] ] ]	9003#H
+312	SN	[EN [NP [NPH adult ] ] ] [VP cook ]	9003#H
+313	SN	[EN [NP [NPH man ] ] ] [VP cook ]	9003#H
+314	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP cook ]	9003#H
+315	SN	[EN [NP [NPD three ] [NPH adult ] ] ] [VP cook ]	9003#H
+316	SN	[EN [NP [NPD three ] [NPH man ] ] ] [VP cook ]	9003#H
+317	SN	[EN [NP [NPH gym ] ] ] [VP wear ]	9004#0
+318	SN	[EN [NP [NPH gymnasium ] ] ] [VP wear ]	9004#0
+319	VP	[VP wear ] [EN [NP [NPH leotard ] ] ]	9004#3	9004#2	9004#1	9004#0
+320	VP	[VP get hug ]	9004#0
+321	PP	[PP by ] [EN [NP [NPH person ] ] ]	9017#0	9004#1	9004#0
+322	EN	[EN [NP [NPH someone ] ] ]	9004#0
+323	EN	[EN [NP [NPM blue ] [NPH clothing ] ] ]	9019#2	9008#1	9004#0
+324	EN	[EN [NP [NPH jacket ] ] ]	9019#2	9004#0	5190#0
+325	SN	[VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pant ] ] ]	9004#0
+326	VP	[VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ]	9019#2	9008#1	9004#0
+327	VP	[VP wear ] [EN [NP [NPH jacket ] ] ]	9019#2	9004#0	5190#0
+328	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9001#0
+329	SN	[EN [NP [NPH boy ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9001#0
+330	VP	[VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	9001#0	5190#0
+331	SN	[VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+332	SN	[EN [NP [NPH person ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+333	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ]	9004#1
+334	EN	[EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+335	SN	[EN [NP [NPH woman ] ] ] [VP wear ]	9007#3	9007#1	9004#3	9004#2	9004#1	9015#0
+336	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ]	9004#2	9004#1
+337	EN	[EN [NP [NPM blue and purple ] [NPH clothing ] ] ]	9004#1
+338	EN	[EN [NP [NPH outfit ] ] ]	2011#3	9004#2	9004#1	3748#3
+339	EN	[EN [NP [NPH woman ] ] ]	9014#H	9302#1	9007#3	9007#2	9007#1	9018#1	7771#1	9004#3	9007#0	9004#2	9005#1	9015#2	9004#1	9015#1	9015#0	2936#3	9007#H	9015#H
+340	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+341	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ]	9004#1
+342	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#3	9004#2	9004#1
+343	EN	[EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#3	9004#2	9004#0
+344	SN	[EN [NP [NPH leotard ] ] ] [VP get hug ]	9004#0
+345	VP	[VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+346	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#3	9004#2	9004#1
+347	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#3	9004#2	9004#1
+348	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#2	9004#1
+349	VP	[VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#3	9004#2	9004#0
+350	SN	[EN [NP [NPH gym ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#0
+351	SN	[EN [NP [NPH gymnasium ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#0
+352	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH glasses ] ] ]	9003#0
+353	SN	[EN [NP [NPM most ] [NPH adult ] ] ] [VP wear ]	9003#0
+354	VP	[VP wear ] [EN [NP [NPM blue and purple ] [NPH clothing ] ] ]	9004#1
+355	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+356	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+357	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+358	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+359	VP	[VP wear ] [EN [NP [NPH outfit ] ] ]	2011#3	9004#2	9004#1	3748#3
+360	PP	[PP by ] [EN [NP [NPH adult ] ] ]	9004#1
+361	VP	[VP hug [PP by ] [EN [NP [NPH person ] ] ] ]	9004#1
+362	PP	[PP by ] [EN [NP [NPH someone ] ] ]	9004#0
+363	VP	[VP get hug [PP by ] [EN [NP [NPH person ] ] ] ]	9004#0
+364	PP	[PP by ] [EN [NP [NPH woman ] ] ]	9004#1
+365	EN	[EN [NP [NPH girl_woman ] ] ]	9004#2	9004#1
+366	EN	[EN [NP [NPM brown-haired ] [NPH person ] ] ]	9004#2
+367	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+368	SN	[EN [NP [NPH person ] ] ] [VP hug ]	9004#3	9004#2
+369	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+370	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+371	SN	[EN [NP [NPH woman ] ] ] [VP hug ]	9004#3	9004#2
+372	SN	[EN [NP [NPH adult ] ] ] [VP hug ]	9004#3	9004#2
+373	SN	[EN [NP [NPH girl_woman ] ] ] [VP hug ]	9004#2
+374	VP	[VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+375	VP	[VP hug ] [EN [NP [NPH woman ] ] ]	9004#2
+376	VP	[VP hug ] [EN [NP [NPH adult ] ] ]	9004#2
+377	VP	[VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+378	EN	[EN [NP [NPM track ] [NPH clothing ] ] ]	9004#2
+379	SN	[EN [NP [NPM brown-haired ] [NPH person ] ] ] [VP wear ]	9004#2
+380	EN	[EN [NP [NPM brown-haired ] [NPH adult ] ] ]	9004#2
+381	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+382	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+383	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+384	SN	[EN [NP [NPM blue ] [NPH leotard ] ] ] [VP get hug ]	9004#0
+385	SN	[EN [NP [NPM brown-haired ] [NPH woman ] ] ] [VP wear ]	9004#2
+386	SN	[EN [NP [NPM brown-haired ] [NPH adult ] ] ] [VP wear ]	9004#2
+387	SN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ] [VP wear ]	9004#2
+388	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ]	9004#2
+389	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ]	9004#2
+390	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	2011#3	9004#2	3748#3
+391	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+392	VP	[VP wear ] [EN [NP [NPM track ] [NPH clothing ] ] ]	9004#2
+393	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9008#3	9019#2	9008#1	9004#2	9015#1	9016#0	9014#1	9014#0	5190#0
+394	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+395	EN	[EN [NP [NPM track ] [NPH outfit ] ] ]	9004#2
+396	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+397	EN	[EN [NP [NPM blue and purple ] [NPH outfit ] ] ]	9004#1
+398	SN	[EN [NP [NPH person ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#1
+399	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+400	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+401	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+402	VP	[VP wear ] [EN [NP [NPM track ] [NPH outfit ] ] ]	9004#2
+403	VP	[VP wear ] [EN [NP [NPM blue and purple ] [NPH outfit ] ] ]	9004#1
+404	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#1
+405	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#1
+406	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#1
+407	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#1
+408	SN	[EN [NP [NPM brown-haired ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#2
+409	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+410	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#3	9004#2
+411	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+412	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+413	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+414	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+415	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+416	EN	[EN [NP [NPM brown-haired ] [NPH woman ] ] ]	9004#2
+417	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+418	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+419	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+420	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ]	9004#1
+421	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#3	9004#2
+422	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#3	9004#2
+423	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#2
+424	SN	[EN [NP [NPH gym ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#0
+425	SN	[EN [NP [NPH gymnasium ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#0
+426	SN	[EN [NP [NPM brown-haired ] [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#2
+427	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+428	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+429	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+430	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+431	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+432	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+433	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+434	SN	[EN [NP [NPM brown-haired ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#2
+435	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+436	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+437	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+438	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+439	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+440	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+441	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+442	SN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ]	9004#2
+443	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+444	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+445	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+446	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+447	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+448	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+449	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ]	9004#1
+450	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ]	9004#1
+451	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ]	9004#2
+452	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ]	9004#2
+453	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM track ] [NPH clothing ] ] ]	9004#2
+454	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	9001#0	5190#0
+455	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+456	EN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ]	9004#2
+457	SN	[EN [NP [NPH girl_woman ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+458	SN	[EN [NP [NPH girl_woman ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+459	PP	[PP by ] [EN [NP [NPH girl_woman ] ] ]	9004#1
+460	SN	[EN [NP [NPH girl_woman ] ] ] [VP hug ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#1
+461	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+462	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+463	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ]	9004#3
+464	VP	[VP hug ] [EN [NP [NPD each ] [NPH other ] ] ]	9004#3
+465	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ]	9004#3
+466	SN	[EN [NP [NPM brown-haired ] [NPH person ] ] ] [VP hug ]	9004#2
+467	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ]	9004#3
+468	SN	[EN [NP [NPM brown-haired ] [NPH woman ] ] ] [VP hug ]	9004#2
+469	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ]	9004#2
+470	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ]	9004#2
+471	SN	[EN [NP [NPH woman ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+472	SN	[EN [NP [NPM brown-haired ] [NPH adult ] ] ] [VP hug ]	9004#2
+473	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ]	9004#2
+474	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ]	9004#2
+475	SN	[EN [NP [NPH adult ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+476	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+477	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+478	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+479	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+480	SN	[EN [NP [NPM brown-haired ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#2
+481	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+482	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+483	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+484	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+485	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+486	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+487	SN	[EN [NP [NPM brown-haired ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#2
+488	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+489	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+490	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+491	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+492	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+493	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+494	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPH event ] ] ]	9004#3
+495	SN	[EN [NP [NPM brown-haired ] [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#2
+496	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+497	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+498	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+499	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	9004#2
+500	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ]	9004#2
+501	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+502	SN	[EN [NP [NPH audience ] ] ] [VP sit ]	9004#H
+503	EN	[EN [NP [NPM street ] [NPH person ] ] ]	9005#0
+504	SN	[EN [NP [NPH person ] ] ] [VP sell ] [EN [NP [NPH person ] ] ]	9005#0
+505	SN	[EN [NP [NPH person ] ] ] [VP sell ]	9005#1	9005#0
+506	EN	[EN [NP [NPD some ] [NPH person ] ] ]	9009#2	9009#1	9018#3	9009#0	9011#H	9016#3	9005#0	9011#3
+507	VP	[VP sell ] [EN [NP [NPH person ] ] ]	9005#0
+508	EN	[EN [NP [NPH ward ] ] ]	9005#0
+509	VP	[VP sell ]	9005#1	9005#0
+510	EN	[EN [NP [NPM street ] [NPH adult ] ] ]	9005#0
+511	EN	[EN [NP [NPH merchant ] ] ]	9005#2	9005#0	9571#0
+512	SN	[EN [NP [NPH adult ] ] ] [VP sell ] [EN [NP [NPH person ] ] ]	9005#0
+513	SN	[EN [NP [NPH adult ] ] ] [VP sell ]	9005#1	9005#0
+514	SN	[EN [NP [NPH person ] ] ] [VP sell ] [EN [NP [NPH toy ] ] ]	9005#1
+515	SN	[EN [NP [NPH woman ] ] ] [VP sell ]	9005#1
+516	VP	[VP sell ] [EN [NP [NPH toy ] ] ]	9005#1
+517	SN	[EN [NP [NPH adult ] ] ] [VP sell ] [EN [NP [NPH toy ] ] ]	9005#1
+518	SN	[EN [NP [NPM street ] [NPH person ] ] ] [VP sell ]	9005#0
+519	SN	[EN [NP [NPH person ] ] ] [VP sell ] [EN [NP [NPH ward ] ] ]	9005#0
+520	SN	[EN [NP [NPH vendor ] ] ] [VP sell ]	9005#0
+521	SN	[EN [NP [NPH merchant ] ] ] [VP sell ]	9005#0
+522	VP	[VP sell ] [EN [NP [NPH ward ] ] ]	9005#0
+523	SN	[EN [NP [NPM street ] [NPH adult ] ] ] [VP sell ]	9005#0
+524	SN	[EN [NP [NPH adult ] ] ] [VP sell ] [EN [NP [NPH ward ] ] ]	9005#0
+525	EN	[EN [NP [NPM young ] [NPH woman ] ] ]	9302#1	9005#1
+526	SN	[EN [NP [NPH woman ] ] ] [VP sell ] [EN [NP [NPH toy ] ] ]	9005#1
+527	VP	[VP set ]	9005#2
+528	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH ware ] ] ] ]	9005#2
+529	SN	[EN [NP [NPH person ] ] ] [VP set ] [PRT up ]	9005#2
+530	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH ware ] ] ] ]	9005#2
+531	SN	[EN [NP [NPH adult ] ] ] [VP set ] [PRT up ]	9005#2
+532	EN	[EN [NP [NPH vendor ] ] ]	9005#2	9005#0	9571#0
+533	EN	[EN [NP [NPH merchant ] ] [PP with ] [EN [NP [NPH ware ] ] ] ]	9005#2
+534	SN	[EN [NP [NPH merchant ] ] ] [VP set ] [PRT up ]	9005#2
+535	EN	[EN [NP [NPM street ] [NPH merchant ] ] ]	9005#0
+536	SN	[EN [NP [NPH merchant ] ] ] [VP sell ] [EN [NP [NPH person ] ] ]	9005#0
+537	EN	[EN [NP [NPM street ] [NPH vendor ] ] ]	9005#0
+538	SN	[EN [NP [NPH vendor ] ] ] [VP sell ] [EN [NP [NPH person ] ] ]	9005#0
+539	EN	[EN [NP [NPH vendor ] ] [PP with ] [EN [NP [NPH ware ] ] ] ]	9005#2
+540	SN	[EN [NP [NPH vendor ] ] ] [VP set ] [PRT up ]	9005#2
+541	VP	[VP sit [PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ] ]	9005#H
+542	EN	[EN [NP [NPH side ] ] ]	9005#H
+543	PP	[PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ]	9005#H
+544	SN	[EN [NP [NPH person ] ] ] [VP sit [PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ] ]	9005#H
+545	SN	[EN [NP [NPH adult ] ] ] [VP sit [PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ] ]	9005#H
+546	SN	[EN [NP [NPH man ] ] ] [VP sit [PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ] ]	9005#H
+546	SN	[EN [NP [NPH man ] ] ] [VP sit ] [PP on ] [EN [NP [NPH side ] ] ] [PP of ] [EN [NP [NPH street ] ] ]	9005#H
+547	PP	[PP on ] [EN [NP [NPH street ] ] ]	9009#2	9005#2	9016#2	9016#H
+548	SN	[EN [NP [NPH person ] ] ] [VP play ]	9006#3	9018#2	9018#1	9006#1	9018#0	9006#0	9014#0
+549	VP	[VP play ]	9006#3	9018#2	9018#1	9006#1	9018#0	9006#0	9014#1	9014#0
+550	VP	[VP cover ]	9006#0	9015#0	9013#0
+551	VP	[VP dot ]	9006#0
+552	EN	[EN [NP [NPH performer ] ] ]	9006#3	9018#0	9006#0	9014#3	9014#2	9014#1	9014#0	9018#H	9006#H
+553	EN	[EN [NP [NPH entertainer ] ] ]	9006#3	9018#0	9006#0	9014#3	9014#2	9014#1	9014#0	9018#H	9006#H
+554	SN	[EN [NP [NPH adult ] ] ] [VP play ]	9006#3	9018#2	9018#1	9006#1	9018#0	9006#0	9014#0
+555	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ]	9006#1
+556	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2	9018#1	9006#1	9006#0	9014#0
+557	VP	[VP play ] [EN [NP [NPH instrument ] ] ]	9018#2	9018#1	9006#1	9006#0	9014#0
+558	EN	[EN [NP [NPH percussion instrument ] ] ]	9006#2	9006#1	9006#0
+559	SN	[EN [NP [NPH man ] ] ] [VP play ]	9018#2	9018#1	9006#1	9014#0
+560	VP	[VP play ] [EN [NP [NPH drum ] ] ]	9006#1	9006#0
+561	VP	[VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1	9006#0
+562	EN	[EN [NP [NPM long ] [NPH hair ] ] ]	9006#1
+563	PP	[PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ]	9006#1
+564	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ]	9006#1
+565	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2	9018#1	9006#1	9006#0	9014#0
+566	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#1	9006#0
+567	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1	9006#0
+568	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ]	9006#1
+569	SN	[EN [NP [NPH entertainer ] ] ] [VP play ]	9006#3	9018#0	9006#0
+570	SN	[EN [NP [NPH musician ] ] ] [VP play ]	9006#3	9018#0	9006#0
+571	SN	[EN [NP [NPH performer ] ] ] [VP play ]	9006#3	9018#0	9006#0
+572	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#1	9006#0
+573	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1	9006#0
+574	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ]	9006#1
+575	SN	[EN [NP [NPH tattoo ] ] ] [VP dot ]	9006#0
+576	EN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ]	9006#1
+577	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2	9018#1	9006#1	9014#0
+578	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#1
+579	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+580	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1
+581	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+582	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#1
+583	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH drum ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+584	SN	[EN [NP [NPH entertainer ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#0
+585	SN	[EN [NP [NPH musician ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#0
+586	SN	[EN [NP [NPH performer ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#0
+587	EN	[EN [NP [NPH drum ] ] ]	9006#2	9006#1	9006#0
+588	SN	[EN [NP [NPH entertainer ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#0
+589	SN	[EN [NP [NPH musician ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#0
+590	SN	[EN [NP [NPH performer ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#0
+591	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1
+592	SN	[EN [NP [NPH entertainer ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#0
+593	SN	[EN [NP [NPH musician ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#0
+594	SN	[EN [NP [NPH performer ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#0
+595	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#1
+596	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#1
+597	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+598	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ]	9006#1
+599	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH percussion instrument ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+600	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH drum ] ] ]	9006#1
+601	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH drum ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+602	VP	[VP shake ]	9006#2
+603	VP	[VP shake ] [EN [NP [NPH hair ] ] ]	9006#2
+604	SN	[EN [NP [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ]	9006#2
+605	SN	[EN [NP [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ] and [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#2
+606	EN	[EN [NP [NPM tattoo ] [NPH person ] ] ]	9006#2
+607	SN	[EN [NP [NPH person ] ] ] [VP beat ]	9006#2	9006#H
+608	SN	[EN [NP [NPH person ] ] ] [VP shake ]	9006#2
+609	SN	[EN [NP [NPH person ] ] ] [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#2	9006#H
+610	VP	[VP beat ] [EN [NP [NPH instrument ] ] ]	9006#2	9006#H
+611	VP	[VP beat ]	9006#2	9006#H
+612	SN	[EN [NP [NPH hair ] ] ] [VP cover ]	9006#0
+613	VP	[VP beat ] [EN [NP [NPH percussion instrument ] ] ]	9006#2
+614	SN	[EN [NP [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ] and [VP beat ] [EN [NP [NPH percussion instrument ] ] ]	9006#2
+615	SN	[EN [NP [NPH person ] ] ] [VP beat ] [EN [NP [NPH percussion instrument ] ] ]	9006#2
+616	VP	[VP beat ] [EN [NP [NPH drum ] ] ]	9006#2
+617	SN	[EN [NP [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ] and [VP beat ] [EN [NP [NPH drum ] ] ]	9006#2
+618	SN	[EN [NP [NPH person ] ] ] [VP beat ] [EN [NP [NPH drum ] ] ]	9006#2
+619	EN	[EN [NP [NPM long-haired ] [NPH person ] ] ]	9006#3
+620	EN	[EN [NP [NPM music ] [NPH outdoors ] ] ]	9018#3	9006#3
+621	VP	[VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+622	SN	[EN [NP [NPH drummer ] ] ] [VP play ]	9006#3
+623	SN	[EN [NP [NPH percussionist ] ] ] [VP play ]	9006#3
+624	EN	[EN [NP [NPM long-haired ] [NPH adult ] ] ]	9006#3
+625	SN	[EN [NP [NPM long-haired ] [NPH person ] ] ] [VP play ]	9006#3
+626	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+627	SN	[EN [NP [NPM long-haired ] [NPH entertainer ] ] ] [VP play ]	9006#3
+628	SN	[EN [NP [NPH entertainer ] ] ] [VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+629	SN	[EN [NP [NPM long-haired ] [NPH adult ] ] ] [VP play ]	9006#3
+630	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+631	SN	[EN [NP [NPM long-haired ] [NPH performer ] ] ] [VP play ]	9006#3
+632	SN	[EN [NP [NPH performer ] ] ] [VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+633	SN	[EN [NP [NPM long-haired ] [NPH musician ] ] ] [VP play ]	9006#3
+634	SN	[EN [NP [NPH musician ] ] ] [VP play ] [EN [NP [NPH outdoors ] ] ]	9006#3
+635	EN	[EN [NP [NPM long-haired ] [NPH performer ] ] ]	9006#3
+636	EN	[EN [NP [NPH musician ] ] ]	9006#3	9018#0	9006#0	9014#3	9014#2	9014#0	9018#H
+637	EN	[EN [NP [NPM long-haired ] [NPH entertainer ] ] ]	9006#3
+638	EN	[EN [NP [NPM long-haired ] [NPH musician ] ] ]	9006#3
+639	EN	[EN [NP [NPH percussionist ] ] ]	9006#3
+640	SN	[EN [NP [NPH adult ] ] ] [VP beat ]	9006#H
+641	SN	[EN [NP [NPH entertainer ] ] ] [VP beat ]	9006#H
+642	SN	[EN [NP [NPH performer ] ] ] [VP beat ]	9006#H
+643	SN	[EN [NP [NPM tattoo ] [NPH person ] ] ] [VP beat ]	9006#2
+644	SN	[EN [NP [NPH adult ] ] ] [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#H
+645	SN	[EN [NP [NPH entertainer ] ] ] [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#H
+646	SN	[EN [NP [NPH performer ] ] ] [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#H
+647	SN	[EN [NP [NPM tattoo ] [NPH person ] ] ] [VP beat ] [EN [NP [NPH instrument ] ] ]	9006#2
+648	SN	[EN [NP [NPH person ] ] ] [VP tilt ] [EN [NP [NPH face ] ] ]	9007#0
+649	VP	[VP tilt ] [EN [NP [NPH face ] ] ]	9007#0
+650	VP	[VP tilt ]	9007#0
+651	SN	[EN [NP [NPH person ] ] ] [VP lift ]	9007#0
+652	SN	[EN [NP [NPH person ] ] ] [VP tilt ]	9007#0
+653	SN	[EN [NP [NPH person ] ] ] [VP lift ] [EN [NP [NPH her ] ] ]	9007#0
+654	VP	[VP lift ]	9007#0
+655	VP	[VP cover ] [EN [NP [NPH face ] ] ]	9006#0
+656	SN	[EN [NP [NPH adult ] ] ] [VP lift ]	9007#0
+657	SN	[EN [NP [NPH adult ] ] ] [VP tilt ]	9007#0
+658	SN	[EN [NP [NPH adult ] ] ] [VP tilt ] [EN [NP [NPH face ] ] ]	9007#0
+659	SN	[EN [NP [NPH adult ] ] ] [VP lift ] [EN [NP [NPH her ] ] ]	9007#0
+660	SN	[EN [NP [NPH woman ] ] ] [VP lift ]	9007#0
+661	SN	[EN [NP [NPH woman ] ] ] [VP tilt ]	9007#0
+662	SN	[EN [NP [NPH woman ] ] ] [VP tilt ] [EN [NP [NPH face ] ] ]	9007#0
+663	SN	[EN [NP [NPH woman ] ] ] [VP lift ] [EN [NP [NPH her ] ] ]	9007#0
+664	SN	[EN [NP [NPH person ] ] ] [VP peer ]	9007#1
+665	VP	[VP wear ] [EN [NP [NPH glove ] ] ]	9007#3	9007#1
+666	VP	[VP peer ]	9007#1
+667	SN	[EN [NP [NPH adult ] ] ] [VP peer ]	9007#1
+668	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3	9007#1
+669	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3	9007#1
+670	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3	9007#1
+671	SN	[EN [NP [NPH woman ] ] ] [VP peer ]	9007#1
+672	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH glove ] ] ] ]	9007#2
+673	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH other ] ] ]	9007#2
+674	EN	[EN [NP [NPM white ] [NPH glove ] ] ]	9007#3	9007#2	9007#1
+675	PP	[PP with ] [EN [NP [NPH glove ] ] ]	9007#2
+676	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH glove ] ] ] ]	9007#2
+677	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH other ] ] ]	9007#2
+678	EN	[EN [NP [NPH woman ] ] [PP with ] [EN [NP [NPH glove ] ] ] ]	9007#2
+679	SN	[EN [NP [NPH woman ] ] ] and [EN [NP [NPH other ] ] ]	9007#2
+680	VP	[VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3	9007#1
+681	PP	[PP with ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#2
+682	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ]	9007#3
+683	EN	[EN [NP [NPM brown ] [NPH hair ] ] ]	9007#3
+684	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ]	9007#3
+685	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ]	9007#3
+686	SN	[EN [NP [NPH woman ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ]	9007#3
+687	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ]	9007#3
+688	EN	[EN [NP [NPH woman ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ]	9007#3
+689	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3	9007#1
+690	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3
+691	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ] [VP peer ]	9007#1
+692	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3	9007#1
+693	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3	9007#1
+694	SN	[EN [NP [NPH woman ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3
+695	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ] [VP peer ]	9007#1
+696	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ]	9007#3
+697	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH glove ] ] ] [VP peer ]	9007#1
+698	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ] [VP peer ]	9007#1
+699	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3
+700	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ] [VP peer ]	9007#1
+701	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3
+702	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ] [VP peer ]	9007#1
+703	SN	[EN [NP [NPH woman ] ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3
+703	SN	[EN [NP [NPH woman ] ] [PP with ] [EN [NP [NPM brown ] [NPH hair ] ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ]	9007#3
+704	SN	[EN [NP [NPH lady ] ] ] [VP standing ]	9007#H
+705	SN	[EN [NP [NPH woman ] ] ] [VP standing ]	9007#H	9015#H
+706	EN	[EN [NP [NPH lady ] ] ]	9007#H
+707	SN	[EN [NP [NPH person ] ] ] [VP talk ]	9008#3	9009#2	9008#2	9008#1	9008#0	9019#0
+708	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH hair ] ] ] ]	9008#0
+709	VP	[VP talk ]	9008#3	9009#2	9008#2	9009#1	9008#1	9008#0	9019#0
+710	EN	[EN [NP [NPH phone ] ] ]	9008#3	9008#2	9008#0
+711	EN	[EN [NP [NPM close ] [NPH hair ] ] ]	9008#0
+712	PP	[PP with ] [EN [NP [NPH hair ] ] ]	9008#0
+713	EN	[EN [NP [NPH haircut ] ] ]	9008#0
+714	EN	[EN [NP [NPH coat ] ] ]	9008#1	9008#0	9016#0
+715	SN	[EN [NP [NPH adult ] ] ] [VP talk ]	9008#3	9008#2	9008#1	9008#0	9019#0
+716	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH hair ] ] ] ]	9008#0
+717	SN	[EN [NP [NPH person ] ] ] and [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#0
+718	SN	[EN [NP [NPH adult ] ] ] and [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#0
+719	SN	[EN [NP [NPH young man ] ] ] and [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#0
+720	SN	[EN [NP [NPH man ] ] ] and [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#0
+721	VP	[VP wear ] [EN [NP [NPH coat ] ] ]	9008#1	9008#0	9016#0
+722	EN	[EN [NP [NPH young man ] ] ]	9008#0	9012#1
+723	SN	[EN [NP [NPH man ] ] ] [VP talk ]	9008#3	9008#2	9008#1	9008#0	9019#0
+724	EN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH hair ] ] ] ]	9008#0
+725	EN	[EN [NP [NPM black ] [NPH clothing ] ] ]	9008#2	9008#1	9014#1
+726	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ]	5190#0
+726	SN	[EN [NP [NPH man ] ] ] [VP wear ]	9008#3	9019#3	9019#2	9008#1	9018#2	9019#1	9015#1	9016#0	9012#1	5190#0
+727	VP	[VP talk [PP on ] [EN [NP [NPH indoor ] ] ] ]	9008#1
+728	EN	[EN [NP [NPH indoor ] ] ]	9008#1
+729	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+730	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH shirt ] ] ] [VP talk ]	9008#1
+731	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+732	SN	[EN [NP [NPH person ] ] ] [VP talk [PP on ] [EN [NP [NPH indoor ] ] ] ]	9008#1
+733	SN	[EN [NP [NPH person ] ] ] and [VP talk ]	9008#0
+734	SN	[EN [NP [NPH person ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3	9008#2	9008#0
+735	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk ]	9008#0
+736	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9008#1	9016#0
+737	EN	[EN [NP [NPM black ] [NPH coat ] ] ]	9008#1
+738	EN	[EN [NP [NPH sport coat ] ] ]	9008#0
+739	VP	[VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9008#1	9014#1
+740	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	5190#0
+740	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9008#3	9019#2	9008#1	9015#1	9016#0	5190#0
+741	SN	[VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+742	SN	[VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH shirt ] ] ]	9008#1
+743	VP	[VP wear ] [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+744	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ]	9008#1
+745	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ]	9008#1
+746	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ]	9001#0
+747	SN	[EN [NP [NPH boy ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ]	9001#0
+748	VP	[VP wear ] [EN [NP [NPM white ] [NPH shirt ] ] ]	9001#0
+749	SN	[VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+750	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9008#1	9016#0
+751	VP	[VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ]	9008#1
+752	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9008#1	9016#0
+753	SN	[VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+754	SN	[EN [NP [NPH person ] ] ] and [VP wear ] [EN [NP [NPH coat ] ] ] [VP talk ]	9008#0
+755	SN	[EN [NP [NPH adult ] ] ] and [VP wear ] [EN [NP [NPH coat ] ] ] [VP talk ]	9008#0
+756	SN	[EN [NP [NPH young man ] ] ] and [VP wear ] [EN [NP [NPH coat ] ] ] [VP talk ]	9008#0
+757	SN	[EN [NP [NPH man ] ] ] and [VP wear ] [EN [NP [NPH coat ] ] ] [VP talk ]	9008#0
+758	VP	[VP wear ] [EN [NP [NPH sport coat ] ] ]	9008#0
+759	EN	[EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+760	EN	[EN [NP [NPM blue ] [NPH jacket ] ] ]	9019#2	9004#0
+761	EN	[EN [NP [NPM white ] [NPH shirt ] ] ]	9001#0
+762	SN	[EN [NP [NPH young man ] ] ] [VP talk ]	9008#0
+763	VP	[VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3	9008#2	9008#0
+764	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+765	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH shirt ] ] ] [VP talk ]	9008#1
+766	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+767	SN	[EN [NP [NPH adult ] ] ] [VP talk [PP on ] [EN [NP [NPH indoor ] ] ] ]	9008#1
+768	SN	[EN [NP [NPH adult ] ] ] and [VP talk ]	9008#0
+769	SN	[EN [NP [NPH adult ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3	9008#2	9008#0
+770	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk ]	9008#0
+771	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+772	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH shirt ] ] ] [VP talk ]	9008#1
+773	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#1
+774	SN	[EN [NP [NPH man ] ] ] [VP talk [PP on ] [EN [NP [NPH indoor ] ] ] ]	9008#1
+775	SN	[EN [NP [NPH man ] ] ] and [VP talk ]	9008#0
+776	SN	[EN [NP [NPH man ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3	9008#2	9008#0
+777	SN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk ]	9008#0
+778	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+779	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ]	9019#2	9008#1
+780	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH shirt ] ] ]	9008#1
+781	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+782	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH shirt ] ] ]	9001#0
+783	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH shirt ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+784	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9008#1	9014#1
+785	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9008#1	9014#1
+786	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+787	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM track ] [NPH clothing ] ] ]	9004#2
+788	SN	[EN [NP [NPH person ] ] ] [VP hug ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9004#2
+789	SN	[VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPM blue ] [NPH clothing ] ] ]	9008#1
+790	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ]	9019#2	9008#1
+791	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ]	9019#2	9008#1
+792	SN	[VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ] and [EN [NP [NPH pant ] ] ]	9004#0
+793	VP	[VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ]	9019#2	9004#0
+794	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+795	EN	[EN [NP [NPH suit ] ] ]	9008#3	9008#2
+796	VP	[VP be ] [EN [NP [NPH clothing ] ] ]	9008#2
+797	SN	[EN [NP [NPH person ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#2
+798	EN	[EN [NP [NPH room ] ] ]	9008#2
+799	EN	[EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ]	9008#2
+800	PP	[PP on ] [EN [NP [NPH phone ] ] ]	9008#3	9008#2	9008#0
+801	EN	[EN [NP [NPM black ] [NPH suit ] ] ]	9008#2
+802	VP	[VP be ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9008#2
+803	SN	[EN [NP [NPH person ] ] ] [VP be ] [EN [NP [NPM black ] [NPH clothing ] ] ] [VP talk ]	9008#2
+804	SN	[EN [NP [NPH adult ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#2
+805	SN	[EN [NP [NPH man ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#2
+806	VP	[VP talk [PP on ] [EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ] ]	9008#2
+807	SN	[EN [NP [NPH young man ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+808	SN	[EN [NP [NPH person ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ] ]	9008#2
+809	SN	[EN [NP [NPH person ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#2
+810	SN	[EN [NP [NPH person ] ] ] and [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+811	SN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+812	SN	[EN [NP [NPH adult ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ] ]	9008#2
+813	SN	[EN [NP [NPH adult ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#2
+814	SN	[EN [NP [NPH adult ] ] ] and [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+815	SN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+816	SN	[EN [NP [NPH man ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ] ]	9008#2
+817	SN	[EN [NP [NPH man ] ] ] [VP be ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#2
+818	SN	[EN [NP [NPH man ] ] ] and [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+819	SN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH hair ] ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#0
+820	PP	[PP on ] [EN [NP [NPH phone ] ] [PP in ] [EN [NP [NPH room ] ] ] ]	9008#2
+821	EN	[EN [NP [NPM dark ] [NPH clothing ] ] ]	9008#3
+822	SN	[EN [NP [NPH businessman ] ] ] [VP wear ]	9008#3
+823	VP	[VP wear ] [EN [NP [NPH suit ] ] ]	9008#3
+824	SN	[EN [NP [NPH businessman ] ] ] [VP talk ]	9008#3
+825	EN	[EN [NP [NPH cellphone ] ] ]	9008#3
+826	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ]	9008#3
+827	EN	[EN [NP [NPH businessman ] ] ]	9008#3
+828	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk ]	9008#3
+829	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#3
+830	EN	[EN [NP [NPM dark ] [NPH suit ] ] ]	9008#3
+831	VP	[VP be ] [EN [NP [NPH suit ] ] ]	9008#2
+832	SN	[EN [NP [NPH person ] ] ] [VP be ] [EN [NP [NPH suit ] ] ] [VP talk ]	9008#2
+833	VP	[VP wear ] [EN [NP [NPM dark ] [NPH clothing ] ] ]	9008#3
+834	SN	[EN [NP [NPH businessman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9008#3
+835	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ]	9008#3
+836	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ]	9008#3
+837	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk ]	9008#3
+838	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#3
+839	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk ]	9008#3
+840	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk ]	9008#3
+841	SN	[EN [NP [NPH businessman ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+842	VP	[VP talk [PP on ] [EN [NP [NPH cellphone ] ] ] ]	9008#3
+843	PP	[PP on ] [EN [NP [NPH cellphone ] ] ]	9008#3
+844	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM dark ] [NPH clothing ] ] ]	9008#3
+845	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+846	SN	[EN [NP [NPH person ] ] ] [VP talk [PP on ] [EN [NP [NPH cellphone ] ] ] ]	9008#3
+847	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+848	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM dark ] [NPH clothing ] ] ]	9008#3
+849	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9008#1
+850	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM dark ] [NPH clothing ] ] ]	9008#3
+851	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+852	SN	[EN [NP [NPH man ] ] ] [VP talk [PP on ] [EN [NP [NPH cellphone ] ] ] ]	9008#3
+853	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+854	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH suit ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+855	SN	[EN [NP [NPH adult ] ] ] [VP talk [PP on ] [EN [NP [NPH cellphone ] ] ] ]	9008#3
+856	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP talk [PP on ] [EN [NP [NPH phone ] ] ] ]	9008#3
+857	SN	[EN [NP [NPH person ] ] ] [VP make ]	9008#H
+858	VP	[VP make ]	9008#H
+859	SN	[EN [NP [NPH adult ] ] ] [VP make ]	9008#H
+860	SN	[EN [NP [NPH man ] ] ] [VP make ]	9008#H
+861	VP	[VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+862	EN	[EN [NP [NPH bag ] ] ]	9009#0
+863	EN	[EN [NP [NPH ground ] ] ]	9009#0
+864	EN	[EN [NP [NPD some ] [NPH adult ] ] ]	9009#1	9009#0	9016#3
+865	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit ]	9009#2	9009#1	9009#0
+866	VP	[VP sell ] [EN [NP [NPD some ] [NPH person ] ] ]	9005#0
+867	EN	[EN [NP [NPD some ] [NPH ward ] ] ]	9005#0
+868	SN	[EN [NP [NPH person ] ] ] [VP sell ] [EN [NP [NPD some ] [NPH person ] ] ]	9005#0
+869	SN	[EN [NP [NPH person ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+870	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP sit ]	9009#1	9009#0
+871	SN	[EN [NP [NPH man ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+872	SN	[EN [NP [NPD some ] [NPH adult ] ] ] [VP sit ]	9009#1	9009#0
+873	SN	[EN [NP [NPH adult ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+874	EN	[EN [NP [NPD some ] [NPH man ] ] ]	9009#1	9009#0	9016#3
+875	SN	[EN [NP [NPH male ] ] ] [VP sit ]	9009#1
+876	VP	[VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+877	SN	[EN [NP [NPH person ] ] ] [VP sit ] [VP talk ]	9009#1
+878	EN	[EN [NP [NPH male ] ] ]	9009#1
+879	EN	[EN [NP [NPH circle ] ] ]	9009#1	9009#3
+880	SN	[EN [NP [NPH man ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+881	SN	[EN [NP [NPH man ] ] ] [VP sit ] [VP talk ]	9009#1
+882	SN	[EN [NP [NPH adult ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+883	SN	[EN [NP [NPH adult ] ] ] [VP sit ] [VP talk ]	9009#1
+884	SN	[EN [NP [NPH person ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+885	EN	[EN [NP [NPD some ] [NPH male ] ] ]	9009#1
+886	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit ] [VP talk ]	9009#1
+887	SN	[EN [NP [NPD some ] [NPH male ] ] ] [VP sit ]	9009#1
+888	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+889	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP sit ] [VP talk ]	9009#1
+890	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+891	SN	[EN [NP [NPD some ] [NPH adult ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+892	SN	[EN [NP [NPD some ] [NPH adult ] ] ] [VP sit ] [VP talk ]	9009#1
+893	SN	[EN [NP [NPD some ] [NPH adult ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+894	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#1
+895	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit [PP on ] [EN [NP [NPH ground ] ] ] ]	9009#0
+896	VP	[VP sit [PP on ] [EN [NP [NPH street ] ] ] ]	9009#2
+897	SN	[EN [NP [NPH boy ] ] ] [VP sit ]	9009#2
+898	SN	[EN [NP [NPH child ] ] ] [VP sit ]	9009#2
+899	SN	[EN [NP [NPH boy ] ] ] [VP talk ]	9009#2
+900	SN	[EN [NP [NPH child ] ] ] [VP talk ]	9009#2
+901	SN	[EN [NP [NPH person ] ] ] [VP sit [PP on ] [EN [NP [NPH street ] ] ] ]	9009#2
+902	SN	[EN [NP [NPH person ] ] ] [VP sit ] and [VP talk ]	9009#2
+903	EN	[EN [NP [NPD some ] [NPH boy ] ] ]	9009#2
+904	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP talk ]	9009#2
+905	EN	[EN [NP [NPD some ] [NPH child ] ] ]	9009#2
+906	VP	[VP set ] [PRT up [PP on ] [EN [NP [NPH street ] ] ] ]	9005#2
+907	SN	[EN [NP [NPD some ] [NPH boy ] ] ] [VP sit ]	9009#2
+908	SN	[EN [NP [NPD some ] [NPH child ] ] ] [VP sit ]	9009#2
+909	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit [PP on ] [EN [NP [NPH street ] ] ] ]	9009#2
+910	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP sit ] and [VP talk ]	9009#2
+911	PP	[PP in ] [EN [NP [NPH circle ] ] ]	9009#1	9009#3
+912	SN	[EN [NP [NPH person ] ] ] [VP sit ] [PRT down ]	9009#3
+913	SN	[EN [NP [NPH man ] ] ] [VP sit ] [PRT down ]	9009#3
+914	SN	[EN [NP [NPH adult ] ] ] [VP sit ] [PRT down ]	9009#3
+915	VP	[VP sit ] [PRT down [PP in ] [EN [NP [NPH circle ] ] ] ]	9009#3
+916	SN	[EN [NP [NPH group ] ] ] [VP sit ]	9009#H
+917	EN	[EN [NP [NPH crowd ] ] ]	9007#1	9014#1	5190#0
+918	PP	[PP over ] [EN [NP [NPH group ] ] ]	9007#1
+919	EN	[EN [NP [NPH girl ] ] ]	9010#3	9010#2	9010#1	9010#0
+920	SN	[EN [NP [NPH person ] ] ] [VP jump ]	9013#1	9010#3	9010#1	9010#0
+921	SN	[EN [NP [NPH person ] ] ] [VP jump ] [PP as ] [EN [NP [NPH wave ] ] ] [VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+922	SN	[EN [NP [NPH girl ] ] ] [VP wear ]	9010#0
+923	VP	[VP wear ] [EN [NP [NPH blue ] ] ]	9010#0
+924	VP	[VP jump ]	9013#1	9010#3	9010#1	9010#0
+925	SN	[EN [NP [NPH wave ] ] ] [VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+926	VP	[VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+927	VP	[VP approach ]	9010#0
+928	EN	[EN [NP [NPH shore ] ] ]	9010#0
+929	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH blue ] ] ]	9010#0
+930	VP	[VP lift ] [EN [NP [NPH her ] ] ]	9007#0
+931	EN	[EN [NP [NPM young long-haired ] [NPH person ] ] ]	9010#1
+932	EN	[EN [NP [NPH person ] ] [PP on ] [EN [NP [NPH beach ] ] ] ]	9010#1
+933	VP	[VP jump [PP in ] [EN [NP [NPH air ] ] ] ]	9010#1
+933	VP	[VP jump ] [PP in ] [EN [NP [NPH air ] ] ]	9010#1
+934	SN	[EN [NP [NPH girl ] ] ] [VP jump ]	9010#3	9010#1	9010#0
+935	EN	[EN [NP [NPH air ] ] ]	9013#1	9010#3	9010#2	9010#1
+936	EN	[EN [NP [NPH beach ] ] ]	9010#3	9010#1
+937	EN	[EN [NP [NPM young long-haired ] [NPH girl ] ] ]	9010#1
+938	EN	[EN [NP [NPH girl ] ] [PP on ] [EN [NP [NPH beach ] ] ] ]	9010#1
+939	SN	[EN [NP [NPH girl ] ] ] [VP jump ] [PP as ] [EN [NP [NPH wave ] ] ] [VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+940	SN	[EN [NP [NPM young long-haired ] [NPH person ] ] ] [VP jump ]	9010#1
+941	SN	[EN [NP [NPH person ] ] ] [VP jump [PP in ] [EN [NP [NPH air ] ] ] ]	9010#1
+942	SN	[EN [NP [NPH person ] ] [PP on ] [EN [NP [NPH beach ] ] ] ] [VP jump ]	9010#1
+943	SN	[EN [NP [NPH person ] ] ] [VP jump [PRT on ] [EN [NP [NPH shore ] ] ] ]	9010#0
+944	VP	[VP jump ] [PRT on ] [EN [NP [NPH shore ] ] ]	9010#0
+944	VP	[VP jump [PRT on ] [EN [NP [NPH shore ] ] ] ]	9010#0
+945	SN	[EN [NP [NPH girl ] ] ] [VP jump [PRT on ] [EN [NP [NPH shore ] ] ] ]	9010#0
+945	SN	[EN [NP [NPH girl ] ] ] [VP jump ] [PRT on ] [EN [NP [NPH shore ] ] ]	9010#0
+946	SN	[EN [NP [NPM young long-haired ] [NPH girl ] ] ] [VP jump ]	9010#1
+947	SN	[EN [NP [NPH girl ] ] ] [VP jump [PP in ] [EN [NP [NPH air ] ] ] ]	9010#1
+948	SN	[EN [NP [NPH girl ] ] [PP on ] [EN [NP [NPH beach ] ] ] ] [VP jump ]	9010#1
+949	VP	[VP leap ]	9010#2
+950	VP	[VP standing [PP by ] [EN [NP [NPH ocean ] ] ] ]	9010#2
+951	SN	[EN [NP [NPH person ] ] ] [VP leap ] [SBAR while ] [VP standing ]	9010#2
+952	SN	[EN [NP [NPH person ] ] ] [VP leap ]	9010#2
+953	EN	[EN [NP [NPH ocean ] ] ]	9010#H	9010#2
+954	PP	[PP into ] [EN [NP [NPH air ] ] ]	9010#3	9010#2
+955	SN	[EN [NP [NPH girl ] ] ] [VP leap ]	9010#2
+956	SN	[EN [NP [NPH girl ] ] ] [VP leap ] [SBAR while ] [VP standing ]	9010#2
+957	PP	[PP in ] [EN [NP [NPH air ] ] ]	9010#1
+958	VP	[VP jump [PP into ] [EN [NP [NPH air ] ] ] ]	9010#3
+959	PP	[PP on ] [EN [NP [NPH beach ] ] ]	9010#3	9010#1
+960	EN	[EN [NP [NPH air ] ] [PP on ] [EN [NP [NPH beach ] ] ] ]	9010#3
+961	SN	[EN [NP [NPH person ] ] ] [VP jump [PP into ] [EN [NP [NPH air ] ] ] ]	9010#3
+962	SN	[EN [NP [NPH girl ] ] ] [VP jump [PP into ] [EN [NP [NPH air ] ] ] ]	9010#3
+963	PP	[PP into ] [EN [NP [NPH air ] ] [PP on ] [EN [NP [NPH beach ] ] ] ]	9010#3
+964	VP	[VP leap [PP into ] [EN [NP [NPH air ] ] ] ]	9010#2
+965	SN	[EN [NP [NPH person ] ] ] [VP run ]	9010#H
+966	VP	[VP run ]	9010#H
+967	PP	[PP into ] [EN [NP [NPH ocean ] ] ]	9010#H
+968	SN	[EN [NP [NPH child ] ] ] [VP run ]	9010#H
+969	PP	[PP by ] [EN [NP [NPH ocean ] ] ]	9010#2
+970	VP	[VP gather take ]	9011#0
+971	SN	[EN [NP [NPH group ] ] ] [VP look ]	9011#1	9011#0
+972	EN	[EN [NP [NPH group ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ]	9011#0
+973	SN	[EN [NP [NPH group ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ]	9011#0
+974	SN	[EN [NP [NPH group ] ] ] [VP gather take ]	9011#0
+975	VP	[VP look ]	9017#2	9011#1	9011#0
+976	SN	[EN [NP [NPH person ] ] ] [VP look ]	9017#2	9011#1	9011#0
+977	EN	[EN [NP [NPH person ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ]	9011#0
+978	SN	[EN [NP [NPH person ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ]	9011#0
+979	SN	[EN [NP [NPH person ] ] ] [VP gather take ]	9011#0
+980	SN	[EN [NP [NPH group ] ] ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+981	SN	[EN [NP [NPH group ] ] ] [VP try to avoid ]	9011#1
+982	VP	[VP avoid ]	9011#1
+983	SN	[EN [NP [NPH person ] ] ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+984	SN	[EN [NP [NPH person ] ] ] [VP try to avoid ]	9011#1
+985	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP look ]	9011#1	9011#0
+986	SN	[EN [NP [NPH person ] ] ] [VP look ] [PP of ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+987	SN	[EN [NP [NPH person ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ] [EN [NP [NPH all ] ] ] [VP look ] [PP away from ] [EN [NP [NPH camera ] ] ]	9011#0
+988	SN	[EN [NP [NPH person ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ] [VP look ]	9011#0
+989	SN	[EN [NP [NPH group ] ] ] [VP look ] [PP of ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+990	SN	[EN [NP [NPH group ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ] [EN [NP [NPH all ] ] ] [VP look ] [PP away from ] [EN [NP [NPH camera ] ] ]	9011#0
+991	SN	[EN [NP [NPH group ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ] [VP look ]	9011#0
+992	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+993	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP try to avoid ]	9011#1
+994	EN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ]	9011#0
+995	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ]	9011#0
+996	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP gather take ]	9011#0
+997	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP gather take ] [EN [NP [NPH picture ] ] ] [EN [NP [NPH all ] ] ] [VP look ] [PP away from ] [EN [NP [NPH camera ] ] ]	9011#0
+998	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] [PP at ] [EN [NP [NPH christmas ] ] ] ] [VP look ]	9011#0
+999	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP look ] [PP of ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+1000	SN	[EN [NP [NPH group ] ] ] [VP not want to take ]	9011#2
+1001	VP	[VP not want to take ] [EN [NP [NPH picture ] ] ]	9011#2
+1002	VP	[VP not want to take ]	9011#2
+1003	SN	[EN [NP [NPH person ] ] ] [VP not want to take ]	9011#2
+1004	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP not want to take ]	9011#2
+1005	EN	[EN [NP [NPM funny ] [NPH picture ] ] ]	9011#0
+1006	VP	[VP gather take ] [EN [NP [NPH picture ] ] ]	9011#0
+1007	EN	[EN [NP [NPH person ] ] [PP at ] [EN [NP [NPH party ] ] ] ]	9011#3
+1008	EN	[EN [NP [NPH night ] ] ]	9011#3
+1009	EN	[EN [NP [NPH party ] ] ]	9011#3
+1010	EN	[EN [NP [NPD some ] [NPH person ] ] [PP at ] [EN [NP [NPH party ] ] ] ]	9011#3
+1011	EN	[EN [NP [NPH individual ] ] ]	9011#H
+1012	SN	[EN [NP [NPH individual ] ] ] [VP standing ]	9011#H
+1013	EN	[EN [NP [NPD some ] [NPH individual ] ] ]	9011#H
+1014	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP standing ]	9011#H
+1015	SN	[EN [NP [NPH person ] ] ] [VP move ] [EN [NP [NPH knob ] ] ]	9012#0
+1016	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH headphone ] ] ] [PP on ] ]	9012#0
+1017	SN	[EN [NP [NPH person ] ] ] [VP move ]	9012#0
+1018	VP	[VP move ]	9012#0
+1019	EN	[EN [NP [NPH equipment ] ] ]	9012#0
+1020	EN	[EN [NP [NPH dj ] ] ]	9012#0
+1021	SN	[EN [NP [NPH adult ] ] ] [VP move ] [EN [NP [NPH knob ] ] ]	9012#0
+1022	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH headphone ] ] ] [PP on ] ]	9012#0
+1023	SN	[EN [NP [NPH adult ] ] ] [VP move ]	9012#0
+1024	EN	[EN [NP [NPM shaven head ] [NPH person ] ] ]	9012#1
+1025	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH work ] ] ]	9012#1
+1026	VP	[VP wear ] [EN [NP [NPH headphone ] ] ]	9012#1
+1027	SN	[EN [NP [NPH young man ] ] ] [VP wear ]	9012#1
+1028	EN	[EN [NP [NPH board ] ] ]	9012#1
+1029	EN	[EN [NP [NPH work ] ] [PP with ] [EN [NP [NPH board ] ] ] ]	9012#1
+1030	EN	[EN [NP [NPM shaven head ] [NPH adult ] ] ]	9012#1
+1031	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH work ] ] ]	9012#1
+1032	SN	[EN [NP [NPM shaven head ] [NPH person ] ] ] [VP wear ]	9012#1
+1033	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH headphone ] ] ]	9012#1
+1034	PP	[PP with ] [EN [NP [NPH headphone ] ] ] [PP on ]	9012#0
+1035	SN	[EN [NP [NPM shaven head ] [NPH adult ] ] ] [VP wear ]	9012#1
+1036	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH headphone ] ] ]	9012#1
+1037	SN	[EN [NP [NPM shaven head ] [NPH man ] ] ] [VP wear ]	9012#1
+1038	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH headphone ] ] ]	9012#1
+1039	EN	[EN [NP [NPM shaven head ] [NPH man ] ] ]	9012#1
+1040	SN	[EN [NP [NPH man ] ] ] and [EN [NP [NPH work ] ] ]	9012#1
+1041	EN	[EN [NP [NPM shaven head ] [NPH young man ] ] ]	9012#1
+1042	SN	[EN [NP [NPH young man ] ] ] and [EN [NP [NPH work ] ] ]	9012#1
+1043	EN	[EN [NP [NPH young man ] ] [PP with ] [EN [NP [NPH hair ] ] ] ]	9008#0
+1044	SN	[EN [NP [NPH person ] ] ] [VP adjust ]	9012#2
+1045	VP	[VP adjust ]	9012#2
+1046	EN	[EN [NP [NPH mixer ] ] ]	9012#2
+1047	SN	[EN [NP [NPH adult ] ] ] [VP adjust ]	9012#2
+1048	SN	[EN [NP [NPH man ] ] ] [VP adjust ]	9012#2
+1049	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH headphone ] ] ] ]	9012#3
+1050	SN	[EN [NP [NPH person ] ] ] [VP be ] [ADJP hard ]	9012#3
+1051	PP	[PP at ] [EN [NP [NPH work ] ] ]	9012#3
+1052	EN	[EN [NP [NPH earphone ] ] ]	9012#3
+1053	PP	[PP with ] [EN [NP [NPH headphone ] ] ]	9012#3
+1054	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH headphone ] ] ] ]	9012#3
+1055	SN	[EN [NP [NPH adult ] ] ] [VP be ] [ADJP hard ]	9012#3
+1056	EN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH headphone ] ] ] ]	9012#3
+1057	SN	[EN [NP [NPH man ] ] ] [VP be ] [ADJP hard ]	9012#3
+1058	SN	[EN [NP [NPH person ] ] ] [VP control ]	9012#H
+1059	VP	[VP control ]	9012#H
+1060	SN	[EN [NP [NPH adult ] ] ] [VP control ]	9012#H
+1061	SN	[EN [NP [NPH man ] ] ] [VP control ]	9012#H
+1062	VP	[VP ride ]	9020#0	9020#1	9013#0
+1063	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH skateboard ] ] ]	9013#0
+1064	SN	[EN [NP [NPH person ] ] ] [VP fall ]	9013#0
+1065	SN	[EN [NP [NPH person ] ] ] [VP ride ]	9020#1	9013#0
+1066	VP	[VP fall ]	9013#0
+1067	VP	[VP cover [PP in ] [EN [NP [NPH graffiti ] ] ] ]	9013#0
+1068	SN	[EN [NP [NPH wall ] ] ] [VP cover ]	9013#0
+1069	EN	[EN [NP [NPH graffiti ] ] ]	9013#0
+1070	EN	[EN [NP [NPH shadow ] ] ]	9013#0
+1071	SN	[EN [NP [NPH adult ] ] ] [VP ride ] [EN [NP [NPH skateboard ] ] ]	9013#0
+1072	SN	[EN [NP [NPH adult ] ] ] [VP fall ]	9013#0
+1073	SN	[EN [NP [NPH adult ] ] ] [VP ride ]	9020#1	9013#0
+1074	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH skateboard ] ] ]	9013#0
+1075	SN	[EN [NP [NPH man ] ] ] [VP fall ]	9013#0
+1076	SN	[EN [NP [NPH man ] ] ] [VP ride ]	9020#1	9013#0
+1077	SN	[EN [NP [NPH skateboarder ] ] ] [VP jump ]	9013#1
+1078	SN	[EN [NP [NPH adult ] ] ] [VP jump ]	9013#1
+1079	SN	[EN [NP [NPH skater ] ] ] [VP jump ]	9013#1
+1080	SN	[EN [NP [NPH athlete ] ] ] [VP jump ]	9013#1
+1081	VP	[VP jump ] [PP through ] [EN [NP [NPH air ] ] ]	9013#1
+1081	VP	[VP jump [PP through ] [EN [NP [NPH air ] ] ] ]	9013#1
+1082	EN	[EN [NP [NPM graffiti cover ] [NPH wall ] ] ]	9013#1
+1083	PP	[PP in front of ] [EN [NP [NPH wall ] ] ]	9013#1
+1084	PP	[PP through ] [EN [NP [NPH air ] ] ]	9013#1
+1085	EN	[EN [NP [NPH air ] ] [PP in front of ] [EN [NP [NPH wall ] ] ] ]	9013#1
+1086	EN	[EN [NP [NPH athlete ] ] ]	9013#H	9013#3	9013#2	9013#1
+1087	SN	[EN [NP [NPH person ] ] ] [VP jump [PP through ] [EN [NP [NPH air ] ] ] ]	9013#1
+1088	SN	[EN [NP [NPH person ] ] ] [VP perform ]	9013#H	9018#3	9020#1	9013#2
+1089	VP	[VP perform ]	9013#H	9018#3	9020#1	9013#2
+1090	EN	[EN [NP [NPM graffiti ] [NPH wall ] ] ]	9013#2
+1091	PP	[PP against ] [EN [NP [NPH wall ] ] ]	9013#2
+1092	SN	[EN [NP [NPH adult ] ] ] [VP perform ]	9013#H	9020#1	9013#2
+1093	EN	[EN [NP [NPH skater ] ] ]	9013#H	9013#3	9013#2	9013#1
+1094	SN	[EN [NP [NPH athlete ] ] ] [VP perform ]	9013#H	9013#2
+1095	EN	[EN [NP [NPH skateboarder ] ] ]	9013#3	9013#2	9013#1
+1096	SN	[EN [NP [NPH skater ] ] ] [VP perform ]	9013#H	9013#2
+1097	SN	[EN [NP [NPH skateboarder ] ] ] [VP perform ]	9013#2
+1098	SN	[EN [NP [NPH person ] ] ] [VP grind ]	9013#3
+1099	VP	[VP grind ]	9013#3
+1100	SN	[EN [NP [NPH adult ] ] ] [VP grind ]	9013#3
+1101	SN	[EN [NP [NPH athlete ] ] ] [VP grind ]	9013#3
+1102	SN	[EN [NP [NPH skater ] ] ] [VP grind ]	9013#3
+1103	SN	[EN [NP [NPH skateboarder ] ] ] [VP grind ]	9013#3
+1104	EN	[EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1105	VP	[VP perform ] [EN [NP [NPH trick ] ] ]	9013#H	9020#1	9013#2
+1106	EN	[EN [NP [NPH ramp ] ] ]	9013#H
+1107	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9013#H	9020#1	9013#2
+1108	EN	[EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1109	EN	[EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1110	SN	[EN [NP [NPH adult ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9013#H	9020#1	9013#2
+1111	SN	[EN [NP [NPH athlete ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9013#H	9013#2
+1112	SN	[EN [NP [NPH skater ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9013#H	9013#2
+1113	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1114	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1115	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1116	VP	[VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1117	SN	[EN [NP [NPH skateboarder ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9013#2
+1118	VP	[VP perform ] [EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1119	VP	[VP perform ] [EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1120	SN	[EN [NP [NPH adult ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1121	SN	[EN [NP [NPH adult ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1122	SN	[EN [NP [NPH adult ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1123	SN	[EN [NP [NPH athlete ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1124	SN	[EN [NP [NPH athlete ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1125	SN	[EN [NP [NPH athlete ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1126	SN	[EN [NP [NPH skater ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+1127	SN	[EN [NP [NPH skater ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP against ] [EN [NP [NPH wall ] ] ] ]	9013#2
+1128	SN	[EN [NP [NPH skater ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH ramp ] ] ] ]	9013#H
+1128	SN	[EN [NP [NPH skater ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ] [PP on ] [EN [NP [NPH ramp ] ] ]	9013#H
+1129	EN	[EN [NP [NPM female ] [NPH person ] ] ]	9014#3	9014#0
+1130	SN	[EN [NP [NPH person ] ] ] [VP hold ]	9019#1	9015#2	9017#0	9014#0
+1131	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1132	EN	[EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1133	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ]	9014#1	9014#0
+1134	SN	[EN [NP [NPH singer ] ] ] [VP wear ]	9014#0
+1135	SN	[EN [NP [NPH performer ] ] ] [VP wear ]	9014#1	9014#0
+1136	SN	[EN [NP [NPH musician ] ] ] [VP wear ]	9014#0
+1137	VP	[VP wear ] [EN [NP [NPH dress ] ] ]	9014#1	9014#0
+1138	VP	[VP hold ]	9019#1	9015#2	9017#0	9014#0
+1139	EN	[EN [NP [NPM electric ] [NPH instrument ] ] ]	9014#0
+1140	EN	[EN [NP [NPH stringed instrument ] ] ]	9018#2	9018#1	9014#0
+1141	EN	[EN [NP [NPH instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1142	VP	[VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2	9018#1	9014#0
+1143	VP	[VP play ] [EN [NP [NPH guitar ] ] ]	9018#2	9018#1	9014#0
+1144	VP	[VP play ] [EN [NP [NPH bass guitar ] ] ]	9014#0
+1145	EN	[EN [NP [NPH amplifier ] ] ]	9014#0
+1146	PP	[PP in ] [EN [NP [NPH one ] ] ] [PP of ] [EN [NP [NPH hand ] ] ]	9014#0
+1147	SN	[EN [NP [NPM female ] [NPH person ] ] ] [VP wear ]	9014#0
+1148	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1	9014#0
+1149	EN	[EN [NP [NPM female ] [NPH adult ] ] ]	9014#3	9014#0
+1150	SN	[EN [NP [NPH adult ] ] ] [VP hold ]	9019#1	9014#0
+1151	SN	[EN [NP [NPH adult ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1152	VP	[VP wear ] [EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1153	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1	9014#0
+1154	SN	[EN [NP [NPH singer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1155	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1	9014#0
+1156	SN	[EN [NP [NPH musician ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1157	EN	[EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1158	SN	[EN [NP [NPH person ] ] ] [EN [NP [NPH dress ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+1159	SN	[EN [NP [NPM female ] [NPH adult ] ] ] [VP wear ]	9014#0
+1160	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1	9014#0
+1161	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH instrument ] ] ]	9014#0
+1162	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2	9018#1	9014#0
+1163	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1164	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9014#0
+1165	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2	9018#1	9014#0
+1166	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH bass guitar ] ] ]	9014#0
+1167	VP	[VP play ] [EN [NP [NPM electric ] [NPH instrument ] ] ]	9014#0
+1168	VP	[VP play ] [EN [NP [NPH instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1169	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2	9018#1	9014#0
+1170	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2	9018#1	9014#0
+1171	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH bass guitar ] ] ]	9014#0
+1172	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2	9018#1	9014#0
+1173	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2	9018#1	9014#0
+1174	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH bass guitar ] ] ]	9014#0
+1175	SN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ]	9006#1
+1176	SN	[EN [NP [NPM female ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1177	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1178	EN	[EN [NP [NPM female ] [NPH performer ] ] ]	9014#3	9014#0
+1179	SN	[EN [NP [NPH performer ] ] ] [VP hold ]	9014#0
+1180	SN	[EN [NP [NPH performer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1181	EN	[EN [NP [NPM female ] [NPH entertainer ] ] ]	9014#3	9014#0
+1182	SN	[EN [NP [NPH entertainer ] ] ] [VP hold ]	9014#0
+1183	SN	[EN [NP [NPH entertainer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1184	SN	[EN [NP [NPM female ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1185	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1186	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH instrument ] ] ]	9014#0
+1187	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1188	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9014#0
+1189	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH instrument ] ] ]	9014#0
+1190	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1191	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9014#0
+1192	SN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9006#1
+1193	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+1194	EN	[EN [NP [NPM female ] [NPH musician ] ] ]	9014#3	9014#0
+1195	SN	[EN [NP [NPH musician ] ] ] [VP hold ]	9014#0
+1196	SN	[EN [NP [NPH musician ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1197	EN	[EN [NP [NPH singer ] ] ]	9014#3	9014#2	9014#0
+1198	EN	[EN [NP [NPM musical ] [NPH person ] ] ]	9014#1
+1199	SN	[EN [NP [NPH person ] ] ] [VP praise ] [EN [NP [NPH group ] ] ]	9014#1
+1200	SN	[EN [NP [NPH person ] ] ] [VP praise ]	9014#1
+1201	VP	[VP praise ] [EN [NP [NPH group ] ] ]	9014#1
+1202	VP	[VP praise ]	9014#1
+1203	SN	[EN [NP [NPH band ] ] ] [VP play ]	9014#1
+1204	SN	[EN [NP [NPM musical ] [NPH person ] ] ] [VP wear ]	9014#1
+1205	EN	[EN [NP [NPM musical ] [NPH adult ] ] ]	9014#1
+1206	SN	[EN [NP [NPH adult ] ] ] [VP praise ] [EN [NP [NPH group ] ] ]	9014#1
+1207	SN	[EN [NP [NPH adult ] ] ] [VP praise ]	9014#1
+1208	EN	[EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1209	SN	[EN [NP [NPM musical ] [NPH adult ] ] ] [VP wear ]	9014#1
+1210	SN	[EN [NP [NPM musical ] [NPH entertainer ] ] ] [VP wear ]	9014#1
+1211	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1	9014#0
+1212	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] [VP wear ]	9014#0
+1213	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP wear ]	9014#1
+1214	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1	9014#0
+1215	SN	[EN [NP [NPM female ] [NPH performer ] ] ] [VP wear ]	9014#0
+1216	VP	[VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1217	VP	[VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1218	SN	[EN [NP [NPH singer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1219	SN	[EN [NP [NPH musician ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1220	VP	[VP praise ] [EN [NP [NPH crowd ] ] ]	9014#1
+1221	SN	[EN [NP [NPH person ] ] ] [VP praise ] [EN [NP [NPH crowd ] ] ]	9014#1
+1222	PP	[PP over ] [EN [NP [NPH crowd ] ] ]	9007#1
+1223	SN	[EN [NP [NPM musical ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1
+1224	SN	[EN [NP [NPM musical ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1
+1225	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1226	SN	[EN [NP [NPM female ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1227	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1228	EN	[EN [NP [NPM musical ] [NPH performer ] ] ]	9014#1
+1229	SN	[EN [NP [NPH performer ] ] ] [VP praise ] [EN [NP [NPH group ] ] ]	9014#1
+1230	SN	[EN [NP [NPH performer ] ] ] [VP praise ]	9014#1
+1231	EN	[EN [NP [NPM musical ] [NPH entertainer ] ] ]	9014#1
+1232	SN	[EN [NP [NPH entertainer ] ] ] [VP praise ] [EN [NP [NPH group ] ] ]	9014#1
+1233	SN	[EN [NP [NPH entertainer ] ] ] [VP praise ]	9014#1
+1234	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9014#1
+1235	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9014#1
+1236	SN	[VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1237	SN	[EN [NP [NPM musical ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1
+1238	SN	[EN [NP [NPM musical ] [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1
+1239	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1240	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1241	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#1
+1242	SN	[EN [NP [NPM female ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9014#0
+1243	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH clothing ] ] ]	9014#0
+1244	SN	[EN [NP [NPM musical ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1
+1245	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1246	SN	[EN [NP [NPM female ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1247	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1248	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1249	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1250	SN	[EN [NP [NPM musical ] [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1
+1251	SN	[EN [NP [NPH entertainer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1252	SN	[EN [NP [NPM female ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#0
+1253	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+1254	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPH dress ] ] ]	9014#1
+1255	SN	[EN [NP [NPH performer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+1256	SN	[EN [NP [NPM musical ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9014#1
+1257	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ]	9008#1
+1258	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1259	SN	[EN [NP [NPM musical ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ]	9014#1
+1260	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ]	9008#1
+1261	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH clothing ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1262	EN	[EN [NP [NPM redheaded ] [NPH person ] ] ]	9014#2
+1263	SN	[EN [NP [NPH person ] ] ] [VP spread ]	9014#2
+1264	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1265	VP	[VP spread ]	9014#2
+1266	EN	[EN [NP [NPH stage ] ] ]	9018#2	9018#1	9014#3	9014#2
+1267	PP	[PP with ] [EN [NP [NPH arm ] ] ]	9014#2
+1268	EN	[EN [NP [NPM redheaded ] [NPH adult ] ] ]	9014#2
+1269	SN	[EN [NP [NPH adult ] ] ] [VP spread ]	9014#2
+1270	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1271	VP	[VP dot ] [EN [NP [NPH arm ] ] ]	9006#0
+1272	EN	[EN [NP [NPM redheaded ] [NPH performer ] ] ]	9014#2
+1273	SN	[EN [NP [NPH performer ] ] ] [VP spread ]	9014#2
+1274	EN	[EN [NP [NPH performer ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1275	EN	[EN [NP [NPM redheaded ] [NPH entertainer ] ] ]	9014#2
+1276	SN	[EN [NP [NPH entertainer ] ] ] [VP spread ]	9014#2
+1277	EN	[EN [NP [NPH entertainer ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1278	EN	[EN [NP [NPM redheaded ] [NPH musician ] ] ]	9014#2
+1279	SN	[EN [NP [NPH musician ] ] ] [VP spread ]	9014#2
+1280	EN	[EN [NP [NPH musician ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1281	EN	[EN [NP [NPM redheaded ] [NPH singer ] ] ]	9014#2
+1282	SN	[EN [NP [NPH singer ] ] ] [VP spread ]	9014#2
+1283	EN	[EN [NP [NPH singer ] ] [PP with ] [EN [NP [NPH arm ] ] ] ]	9014#2
+1284	EN	[EN [NP [NPM female ] [NPH singer ] ] ]	9014#3	9014#0
+1285	SN	[EN [NP [NPH singer ] ] ] [VP hold ]	9014#0
+1286	SN	[EN [NP [NPH singer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1287	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1288	EN	[EN [NP [NPM male ] [NPH person ] ] ]	9014#3
+1289	EN	[EN [NP [NPH person ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1290	PP	[PP on ] [EN [NP [NPH stage ] ] ]	9018#2	9018#1	9014#3	9014#2
+1291	SN	[EN [NP [NPM female ] [NPH person ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1292	SN	[EN [NP [NPM female ] [NPH person ] ] ] [VP hold ]	9014#0
+1293	SN	[EN [NP [NPM female ] [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1294	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1295	EN	[EN [NP [NPM male ] [NPH adult ] ] ]	9014#3
+1296	EN	[EN [NP [NPH adult ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1297	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH adult ] ] ]	9014#3
+1298	SN	[EN [NP [NPM female ] [NPH adult ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1299	SN	[EN [NP [NPM female ] [NPH adult ] ] ] [VP hold ]	9014#0
+1300	SN	[EN [NP [NPM female ] [NPH adult ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1301	SN	[EN [NP [NPH performer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1302	SN	[EN [NP [NPH entertainer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1303	EN	[EN [NP [NPM male ] [NPH entertainer ] ] ]	9014#3
+1304	EN	[EN [NP [NPH entertainer ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1305	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH entertainer ] ] ]	9014#3
+1306	EN	[EN [NP [NPM male ] [NPH performer ] ] ]	9014#3
+1307	EN	[EN [NP [NPH performer ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1308	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH performer ] ] ]	9014#3
+1309	VP	[VP spread [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#2
+1310	SN	[EN [NP [NPM female ] [NPH performer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1311	SN	[EN [NP [NPM female ] [NPH performer ] ] ] [VP hold ]	9014#0
+1312	SN	[EN [NP [NPM female ] [NPH performer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1313	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1314	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] [VP hold ]	9014#0
+1315	SN	[EN [NP [NPM female ] [NPH entertainer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1316	SN	[EN [NP [NPH musician ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1317	EN	[EN [NP [NPM male ] [NPH musician ] ] ]	9014#3
+1318	EN	[EN [NP [NPH musician ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1319	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH musician ] ] ]	9014#3
+1320	EN	[EN [NP [NPH guitarist ] ] ]	9018#0	9014#3
+1321	SN	[EN [NP [NPM female ] [NPH musician ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1322	SN	[EN [NP [NPM female ] [NPH musician ] ] ] [VP wear ]	9014#0
+1323	SN	[EN [NP [NPM female ] [NPH musician ] ] ] [VP hold ]	9014#0
+1324	SN	[EN [NP [NPM female ] [NPH musician ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1325	SN	[EN [NP [NPH singer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1326	SN	[EN [NP [NPM female ] [NPH singer ] ] ] and [EN [NP [NPH person ] ] ]	9014#3
+1327	SN	[EN [NP [NPM female ] [NPH singer ] ] ] [VP wear ]	9014#0
+1328	SN	[EN [NP [NPM female ] [NPH singer ] ] ] [VP hold ]	9014#0
+1329	SN	[EN [NP [NPM female ] [NPH singer ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1330	SN	[EN [NP [NPH person ] ] ] [VP sing ]	9014#H
+1331	VP	[VP sing ]	9014#H
+1332	SN	[EN [NP [NPH adult ] ] ] [VP sing ]	9014#H
+1333	SN	[EN [NP [NPH woman ] ] ] [VP sing ]	9014#H
+1334	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPH camera ] ] ]	9015#0
+1335	VP	[VP wear ] [EN [NP [NPH head ] ] ]	9015#0
+1336	EN	[EN [NP [NPM video ] [NPH camera ] ] ]	9017#3	9015#2	9015#1	9015#0
+1337	EN	[EN [NP [NPH camera ] ] [PP on ] [EN [NP [NPH themselves ] ] ] ]	9015#0
+1338	VP	[VP cover ] [EN [NP [NPH turn ] ] ]	9015#0
+1339	EN	[EN [NP [NPH themselves ] ] ]	9015#0
+1340	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH adult ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPH camera ] ] ]	9015#0
+1341	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH head ] ] ]	9015#0
+1342	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH head ] ] ]	9015#0
+1343	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH head ] ] ]	9015#0
+1344	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH person ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPH camera ] ] ]	9015#0
+1345	VP	[VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+1346	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH woman ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPH camera ] ] ]	9015#0
+1347	SN	[EN [NP [NPH man ] ] ] and [EN [NP [NPH person ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPH camera ] ] ]	9015#0
+1348	SN	[EN [NP [NPH person ] ] ] [VP smile ]	9018#1	9015#1
+1349	EN	[EN [NP [NPM brown ] [NPH clothing ] ] ]	9015#1
+1350	EN	[EN [NP [NPH sweater ] ] ]	9015#1
+1351	VP	[VP wear ] [EN [NP [NPH sweater ] ] ]	9015#1
+1352	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP smile ]	9015#1
+1353	VP	[VP smile ]	9018#1	9015#1
+1354	PP	[PP for ] [EN [NP [NPH camera ] ] ]	9015#2	9015#1
+1355	SN	[EN [NP [NPH adult ] ] ] [VP smile ]	9018#1	9015#1
+1356	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH sweater ] ] ]	9015#1
+1357	VP	[VP wear ] [EN [NP [NPM brown ] [NPH clothing ] ] ]	9015#1
+1358	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH sweater ] ] ]	9015#1
+1359	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH sweater ] ] ]	9015#1
+1360	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH adult ] ] ] [VP smile ]	9015#1
+1361	PP	[PP for ] [EN [NP [NPM video ] [NPH camera ] ] ]	9015#2	9015#1
+1362	EN	[EN [NP [NPM video ] [NPH camera ] ] [PP on ] [EN [NP [NPH themselves ] ] ] ]	9015#0
+1363	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPM video ] [NPH camera ] ] ]	9015#0
+1364	SN	[EN [NP [NPH man ] ] ] [VP smile ]	9015#1
+1365	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH clothing ] ] ]	9015#1
+1366	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH adult ] ] ] [VP smile ]	9015#1
+1367	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH person ] ] ] [VP smile ]	9015#1
+1368	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH woman ] ] ] [VP smile ]	9015#1
+1369	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH clothing ] ] ]	9015#1
+1370	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH adult ] ] ] [VP smile ]	9015#1
+1371	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH person ] ] ] [VP smile ]	9015#1
+1372	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH woman ] ] ] [VP smile ]	9015#1
+1373	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH clothing ] ] ]	9015#1
+1374	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH adult ] ] ] [VP smile ]	9015#1
+1375	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH person ] ] ] [VP smile ]	9015#1
+1376	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPH woman ] ] ] [VP smile ]	9015#1
+1377	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH woman ] ] ] [VP smile ]	9015#1
+1378	SN	[EN [NP [NPH person ] ] ] [VP pose ]	9015#2
+1379	VP	[VP pose ]	9015#2
+1380	EN	[EN [NP [NPH they ] ] ]	9015#2
+1381	SN	[EN [NP [NPH they ] ] ] [VP hold ]	9015#2
+1382	SN	[EN [NP [NPH adult ] ] ] [VP pose ]	9015#2
+1383	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP pose ] [SBAR that ] [EN [NP [NPH person ] ] ] [VP hold ]	9015#2
+1384	VP	[VP hold ] [EN [NP [NPH microphone ] ] ]	9014#0
+1385	VP	[VP pose [PP for ] [EN [NP [NPH camera ] ] ] ]	9015#2
+1386	VP	[VP smile [PP for ] [EN [NP [NPH camera ] ] ] ]	9015#1
+1387	SN	[EN [NP [NPH man ] ] ] [VP pose ]	9015#2
+1388	VP	[VP pose [PP for ] [EN [NP [NPM video ] [NPH camera ] ] ] ]	9015#2
+1389	VP	[VP smile [PP for ] [EN [NP [NPM video ] [NPH camera ] ] ] ]	9015#1
+1390	EN	[EN [NP [NPH camcorder ] ] ]	9015#3
+1391	VP	[VP film ] [EN [NP [NPH person ] ] ]	9016#1	9016#0
+1392	EN	[EN [NP [NPM [NPMC long ] ] [NPH clothing ] ] ]	9016#0
+1393	EN	[EN [NP [NPM [NPMC gray ] ] [NPH clothing ] ] ]	9016#0
+1394	SN	[EN [NP [NPH gentleman ] ] ] [VP wear ]	9016#0
+1395	VP	[VP film ]	9016#1	9016#0
+1396	VP	[VP film ] [EN [NP [NPH adult ] ] ]	9016#1	9016#0
+1397	VP	[VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH clothing ] ] ]	9016#0
+1398	VP	[VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH clothing ] ] ]	9016#0
+1399	SN	[EN [NP [NPH gentleman ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9016#0
+1400	EN	[EN [NP [NPM [NPMC long ] ] [NPH coat ] ] ]	9016#0
+1401	EN	[EN [NP [NPM [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+1402	VP	[VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH coat ] ] ]	9016#0
+1403	VP	[VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+1404	SN	[EN [NP [NPH gentleman ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9016#0
+1405	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH clothing ] ] ]	9016#0
+1406	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH clothing ] ] ]	9016#0
+1407	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9016#0
+1408	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH coat ] ] ]	9016#0
+1409	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+1410	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9016#0
+1411	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1412	EN	[EN [NP [NPH gentleman ] ] ]	9016#1	9016#0
+1413	VP	[VP film ] [EN [NP [NPH man ] ] ]	9016#1	9016#0
+1414	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH clothing ] ] ]	9016#0
+1415	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH clothing ] ] ]	9016#0
+1416	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9016#0
+1417	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH clothing ] ] ]	9016#0
+1418	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH clothing ] ] ]	9016#0
+1419	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	9016#0
+1420	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH coat ] ] ]	9016#0
+1421	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+1422	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9016#0
+1423	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1424	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] ] [NPH coat ] ] ]	9016#0
+1425	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+1426	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ]	9016#0
+1427	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ]	9008#1
+1428	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH coat ] ] ] and [EN [NP [NPH clothing ] ] ]	9008#1
+1429	SN	[EN [NP [NPH person ] ] ] [VP film ]	9016#1
+1430	SN	[EN [NP [NPH man ] ] ] [VP film ]	9016#1
+1431	SN	[EN [NP [NPH adult ] ] ] [VP film ]	9016#1
+1432	VP	[VP film ] [EN [NP [NPH gentleman ] ] ]	9016#1	9016#0
+1433	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1434	EN	[EN [NP [NPD two ] [NPH person ] ] ]	9017#3	9017#2	9016#1	9017#0
+1435	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1436	EN	[EN [NP [NPM fourth ] [NPH person ] ] ]	9016#1
+1437	SN	[EN [NP [NPH crew ] ] ] [VP film ]	9016#0
+1438	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1439	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1440	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#0
+1441	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH man ] ] ]	9016#1
+1442	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPH man ] ] ]	9016#1
+1443	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPH man ] ] ]	9016#1
+1444	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH man ] ] ]	9016#0
+1445	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH adult ] ] ]	9016#1
+1446	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPH adult ] ] ]	9016#1
+1447	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPH adult ] ] ]	9016#1
+1448	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH adult ] ] ]	9016#0
+1449	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1450	EN	[EN [NP [NPD two ] [NPH adult ] ] ]	9017#3	9017#2	9016#1
+1451	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH adult ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1452	SN	[EN [NP [NPM fourth ] [NPH person ] ] ] [VP watch ]	9016#1
+1453	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH adult ] ] ] [VP watch ]	9016#1
+1454	EN	[EN [NP [NPM fourth ] [NPH adult ] ] ]	9016#1
+1455	VP	[VP watch ] [EN [NP [NPH them ] ] ]	9002#0
+1456	SN	[EN [NP [NPM fourth ] [NPH man ] ] ] [VP watch ]	9016#1
+1457	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP watch ]	9016#1
+1458	SN	[EN [NP [NPM fourth ] [NPH adult ] ] ] [VP watch ]	9016#1
+1459	VP	[VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1	9016#0
+1460	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPH gentleman ] ] ]	9016#0
+1461	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH gentleman ] ] ]	9016#1
+1462	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPH gentleman ] ] ]	9016#1
+1463	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPH gentleman ] ] ]	9016#1
+1464	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1465	EN	[EN [NP [NPD two ] [NPH man ] ] ]	9017#3	9017#2	9016#1	9002#0
+1466	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH man ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1467	EN	[EN [NP [NPM fourth ] [NPH man ] ] ]	9016#1
+1468	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1
+1469	SN	[EN [NP [NPH man ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1
+1470	SN	[EN [NP [NPH adult ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1
+1471	SN	[EN [NP [NPH crew ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#0
+1472	EN	[EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1	9016#0
+1473	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPH gentleman ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1474	SN	[EN [NP [NPM older ] [NPH gentleman ] ] ] [VP wear ]	9016#0
+1475	SN	[EN [NP [NPH person ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1476	SN	[EN [NP [NPH person ] ] ] [VP speak ]	9016#2
+1477	VP	[VP speak ]	9016#2
+1478	EN	[EN [NP [NPH city ] ] ]	9016#2
+1479	EN	[EN [NP [NPH sidewalk ] ] ]	9016#2
+1480	EN	[EN [NP [NPH street ] ] [PP in ] [EN [NP [NPH city ] ] ] ]	9016#2
+1481	PP	[PP in front of ] [EN [NP [NPH camera ] ] ]	9016#2
+1482	EN	[EN [NP [NPH camera ] ] [PP on ] [EN [NP [NPH street ] ] ] ]	9016#2
+1483	SN	[EN [NP [NPH adult ] ] ] [VP speak ]	9016#2
+1484	PP	[PP on ] [EN [NP [NPH sidewalk ] ] ]	9016#2
+1485	PP	[PP on ] [EN [NP [NPH street ] ] [PP in ] [EN [NP [NPH city ] ] ] ]	9016#2
+1486	EN	[EN [NP [NPH white man ] ] ]	9016#2
+1487	SN	[EN [NP [NPH man ] ] ] [VP speak ]	9016#2
+1488	SN	[EN [NP [NPH person ] ] ] [VP shoot ]	9016#3	9017#1
+1489	VP	[VP shoot ]	9016#3	9017#1
+1490	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP shoot ]	9016#3
+1491	SN	[EN [NP [NPH adult ] ] ] [VP shoot ]	9016#3	9017#1
+1492	SN	[EN [NP [NPD some ] [NPH adult ] ] ] [VP shoot ]	9016#3
+1493	SN	[EN [NP [NPH man ] ] ] [VP shoot ]	9016#3	9017#1
+1494	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP shoot ]	9016#3
+1495	VP	[VP standing [PP on ] [EN [NP [NPH street ] ] ] ]	9016#H
+1496	SN	[EN [NP [NPH person ] ] ] [VP standing [PP on ] [EN [NP [NPH street ] ] ] ]	9016#H
+1497	SN	[EN [NP [NPH man ] ] ] [VP standing [PP on ] [EN [NP [NPH street ] ] ] ]	9016#H
+1497	SN	[EN [NP [NPH man ] ] ] [VP standing ] [PP on ] [EN [NP [NPH street ] ] ]	9016#H
+1498	SN	[EN [NP [NPH adult ] ] ] [VP standing [PP on ] [EN [NP [NPH street ] ] ] ]	9016#H
+1499	EN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH area ] ] ] ]	9017#0
+1500	SN	[EN [NP [NPH person ] ] ] [VP surround ]	9017#0
+1501	VP	[VP surround ]	9017#0
+1502	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH camera ] ] ]	9017#0
+1503	VP	[VP hold ] [EN [NP [NPH camera ] ] ]	9017#0
+1504	VP	[VP hold [PP by ] [EN [NP [NPH person ] ] ] ]	9017#0
+1505	EN	[EN [NP [NPH vegetable ] ] ]	9017#0
+1506	EN	[EN [NP [NPH vegetation ] ] ]	9017#0
+1507	EN	[EN [NP [NPH area ] ] ]	9017#0
+1508	EN	[EN [NP [NPD two ] [NPH person ] ] [PP in ] [EN [NP [NPH area ] ] ] ]	9017#0
+1509	SN	[EN [NP [NPD two ] [NPH person ] ] ] [VP surround ]	9017#0
+1510	SN	[EN [NP [NPD two ] [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1511	SN	[EN [NP [NPD two ] [NPH person ] ] ] [VP film ]	9016#1
+1512	SN	[EN [NP [NPD two ] [NPH person ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1513	SN	[EN [NP [NPH person ] ] ] [VP hold [PP by ] [EN [NP [NPH person ] ] ] ]	9017#0
+1514	EN	[EN [NP [NPH artist ] ] ]	9017#1	9017#H
+1515	SN	[EN [NP [NPH person ] ] ] [VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1516	SN	[EN [NP [NPH cameraman ] ] ] [VP shoot ]	9017#1
+1517	SN	[EN [NP [NPH artist ] ] ] [VP shoot ]	9017#1
+1518	SN	[EN [NP [NPH photographer ] ] ] [VP shoot ]	9017#1
+1519	VP	[VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1520	SN	[EN [NP [NPH adult ] ] ] [VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1521	SN	[EN [NP [NPH person ] ] ] [VP shoot ] [EN [NP [NPH scene ] ] ]	9016#3
+1522	VP	[VP shoot ] [EN [NP [NPH scene ] ] ]	9016#3
+1523	SN	[EN [NP [NPH man ] ] ] [VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1524	SN	[EN [NP [NPH man ] ] ] [VP shoot ] [EN [NP [NPH scene ] ] ]	9016#3
+1525	SN	[EN [NP [NPH adult ] ] ] [VP shoot ] [EN [NP [NPH scene ] ] ]	9016#3
+1526	EN	[EN [NP [NPH cameraman ] ] ]	9017#1
+1527	EN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1528	SN	[EN [NP [NPH adult ] ] ] [VP look ]	9017#2
+1529	VP	[VP look [PP at ] [EN [NP [NPH something ] ] ] ]	9017#2
+1530	SN	[EN [NP [NPH man ] ] ] [VP look ]	9017#2
+1531	PP	[PP at ] [EN [NP [NPH something ] ] ]	9017#2
+1532	EN	[EN [NP [NPH jungle ] ] ]	9017#2
+1533	EN	[EN [NP [NPD two ] [NPH person ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1534	SN	[EN [NP [NPD two ] [NPH person ] ] ] [VP look ]	9017#2
+1535	EN	[EN [NP [NPH adult ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1536	SN	[EN [NP [NPH person ] ] ] [VP look [PP at ] [EN [NP [NPH something ] ] ] ]	9017#2
+1537	SN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ] [VP look ]	9017#2
+1538	EN	[EN [NP [NPH something ] ] [PP in ] [EN [NP [NPH fry pan ] ] ] ]	9003#0
+1539	VP	[VP flip ] [EN [NP [NPH something ] ] ]	9003#0
+1540	EN	[EN [NP [NPD two ] [NPH adult ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1541	SN	[EN [NP [NPD two ] [NPH adult ] ] ] [VP look ]	9017#2
+1542	SN	[EN [NP [NPD two ] [NPH adult ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1543	SN	[EN [NP [NPD two ] [NPH adult ] ] ] [VP film ]	9016#1
+1544	SN	[EN [NP [NPD two ] [NPH adult ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1545	EN	[EN [NP [NPH man ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1546	EN	[EN [NP [NPD two ] [NPH man ] ] [PP in ] [EN [NP [NPH jungle ] ] ] ]	9017#2
+1547	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP look ]	9017#2
+1548	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP film ] [EN [NP [NPH person ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP watch ]	9016#1
+1549	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP film ]	9016#1
+1550	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP film ] [EN [NP [NPH person ] ] ]	9016#1
+1551	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1552	PP	[PP with ] [EN [NP [NPH camera ] ] ]	9017#3
+1553	EN	[EN [NP [NPD two ] [NPH person ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1554	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1555	PP	[PP with ] [EN [NP [NPM video ] [NPH camera ] ] ]	9017#3
+1556	EN	[EN [NP [NPD two ] [NPH adult ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1557	EN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1558	EN	[EN [NP [NPD two ] [NPH man ] ] [PP with ] [EN [NP [NPH camera ] ] ] ]	9017#3
+1559	SN	[EN [NP [NPH person ] ] ] [VP take ]	9017#H
+1560	VP	[VP take ]	9017#H
+1561	EN	[EN [NP [NPH photographer ] ] ]	9017#1	9017#H
+1562	SN	[EN [NP [NPH artist ] ] ] [VP take ]	9017#H
+1563	SN	[EN [NP [NPH artist ] ] ] [VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1564	SN	[EN [NP [NPH photographer ] ] ] [VP shoot ] [EN [NP [NPH image ] ] ]	9017#1
+1565	SN	[EN [NP [NPH photographer ] ] ] [VP take ]	9017#H
+1566	SN	[EN [NP [NPH guitarist ] ] ] [VP play ]	9018#0
+1567	SN	[EN [NP [NPH person ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1568	VP	[VP play [PP with ] [EN [NP [NPH hula hoop ] ] ] ]	9018#0
+1569	EN	[EN [NP [NPH background ] ] ]	9018#0
+1570	EN	[EN [NP [NPH hula hoop ] ] ]	9018#0
+1571	SN	[EN [NP [NPH adult ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1572	SN	[EN [NP [NPH performer ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1573	SN	[EN [NP [NPH entertainer ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1574	SN	[EN [NP [NPH musician ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1575	SN	[EN [NP [NPH person ] ] ] [VP play [PP with ] [EN [NP [NPH hula hoop ] ] ] ]	9018#0
+1576	SN	[EN [NP [NPH guitarist ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ]	9018#0
+1577	EN	[EN [NP [NPM male ] [NPH guitarist ] ] ]	9014#3
+1578	EN	[EN [NP [NPH guitarist ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9014#3
+1579	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH guitarist ] ] ]	9014#3
+1580	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1581	EN	[EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1582	SN	[EN [NP [NPH woman ] ] ] [VP smile ]	9018#1
+1583	VP	[VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1584	VP	[VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1585	VP	[VP play ] [EN [NP [NPM electric ] [NPH guitar ] ] ]	9014#0
+1586	VP	[VP play ] [EN [NP [NPH guitar ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1587	VP	[VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1588	VP	[VP play ] [EN [NP [NPM electric ] [NPH stringed instrument ] ] ]	9014#0
+1589	VP	[VP play ] [EN [NP [NPH stringed instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1590	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1591	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1592	EN	[EN [NP [NPH guitar ] ] ]	9018#2	9018#1	9014#0
+1593	EN	[EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1594	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1595	EN	[EN [NP [NPM electric ] [NPH stringed instrument ] ] ]	9014#0
+1596	EN	[EN [NP [NPH stringed instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1597	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [SBAR while ] [EN [NP [NPH adult ] ] ] [VP smile ]	9018#1
+1598	SN	[EN [NP [NPH person ] ] ] [VP smile [PP for ] [EN [NP [NPH camera ] ] ] ]	9015#1
+1599	SN	[EN [NP [NPH adult ] ] ] [VP smile [PP for ] [EN [NP [NPH camera ] ] ] ]	9015#1
+1600	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH person ] ] ] [VP smile ]	9015#1
+1601	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1602	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1603	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH guitar ] ] ]	9014#0
+1604	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1605	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9014#0
+1606	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1607	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH stringed instrument ] ] ]	9014#0
+1608	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1609	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9014#0
+1610	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1611	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1612	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1613	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1614	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH guitar ] ] ]	9014#0
+1615	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1616	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9014#0
+1617	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1618	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1619	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH stringed instrument ] ] ]	9014#0
+1620	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1621	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9014#0
+1622	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1623	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1624	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1625	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH guitar ] ] ]	9014#0
+1626	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1627	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9014#0
+1628	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1629	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1630	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH stringed instrument ] ] ]	9014#0
+1631	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1632	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [SBAR while ] [EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9014#0
+1633	EN	[EN [NP [NPH bass guitar ] ] ]	9014#0
+1634	EN	[EN [NP [NPM electric ] [NPH guitar ] ] ]	9014#0
+1635	EN	[EN [NP [NPH guitar ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ] ]	9014#0
+1636	EN	[EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2	9018#1
+1637	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ] [SBAR while ] [EN [NP [NPH woman ] ] ] [VP smile ]	9018#1
+1638	VP	[VP wear ] [EN [NP [NPH hat ] ] ]	9019#3	9018#2	9019#1
+1639	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#3	9018#2	9019#1
+1640	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#3	9018#2	9019#1
+1641	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#3	9018#2	9019#1
+1642	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1643	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2
+1644	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2
+1645	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2
+1646	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1647	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2
+1648	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] ]	9018#2
+1649	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2
+1650	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ]	9018#2
+1651	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2
+1652	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] ]	9018#2
+1653	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1654	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1655	SN	[EN [NP [NPH person ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1656	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1657	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1658	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1659	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1660	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1661	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1662	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1663	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1664	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1665	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1666	SN	[EN [NP [NPH adult ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1667	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ]	9018#2
+1668	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH stringed instrument ] ] [PP on ] [EN [NP [NPH stage ] ] ] ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP smile ]	9018#1
+1669	VP	[VP perform ] [EN [NP [NPH outdoors ] ] ]	9018#3
+1670	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP perform ]	9018#3
+1671	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPH outdoors ] ] ]	9018#3
+1672	VP	[VP perform ] [EN [NP [NPM music ] [NPH outdoors ] ] ]	9018#3
+1673	VP	[VP play ] [EN [NP [NPM music ] [NPH outdoors ] ] ]	9006#3
+1674	SN	[EN [NP [NPH performer ] ] ] [VP sit ]	9018#H
+1675	SN	[EN [NP [NPH entertainer ] ] ] [VP sit ]	9018#H
+1676	SN	[EN [NP [NPH musician ] ] ] [VP sit ]	9018#H
+1677	EN	[EN [NP [NPM asian ] [NPH person ] ] ]	9019#1	9019#0
+1678	SN	[EN [NP [NPH person ] ] ] [VP write ]	9019#3	9019#2	9019#0
+1679	EN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1680	VP	[VP write ]	9019#3	9019#2	9019#0
+1681	EN	[EN [NP [NPH clipboard ] ] ]	9019#0
+1682	EN	[EN [NP [NPH warehouse ] ] ]	9019#0
+1683	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP talk ]	9019#0
+1684	SN	[EN [NP [NPH man ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP talk ]	9019#0
+1685	SN	[EN [NP [NPH man ] ] ] [VP talk ] and [VP write ]	9019#0
+1686	SN	[EN [NP [NPM asian ] [NPH person ] ] ] [VP talk ]	9019#0
+1687	SN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP talk ]	9019#0
+1688	SN	[EN [NP [NPH person ] ] ] [VP talk ] and [VP write ]	9019#0
+1689	SN	[EN [NP [NPM asian ] [NPH adult ] ] ] [VP talk ]	9019#0
+1690	SN	[EN [NP [NPH adult ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP talk ]	9019#0
+1691	SN	[EN [NP [NPH adult ] ] ] [VP talk ] and [VP write ]	9019#0
+1692	EN	[EN [NP [NPM asian ] [NPH adult ] ] ]	9019#1	9019#0
+1693	SN	[EN [NP [NPH adult ] ] ] [VP write ]	9019#3	9019#2	9019#0
+1694	EN	[EN [NP [NPH adult ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1695	EN	[EN [NP [NPM asian ] [NPH man ] ] ]	9019#1	9019#0
+1696	SN	[EN [NP [NPH man ] ] ] [VP write ]	9019#3	9019#2	9019#0
+1697	EN	[EN [NP [NPH man ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1698	EN	[EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+1699	SN	[EN [NP [NPH man ] ] ] [VP hold ]	9019#1
+1700	VP	[VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1701	SN	[EN [NP [NPM asian ] [NPH person ] ] ] [VP hold ]	9019#1
+1702	SN	[EN [NP [NPM asian ] [NPH person ] ] ] [VP wear ]	9019#1
+1703	SN	[EN [NP [NPM asian ] [NPH person ] ] ] [VP write ]	9019#0
+1704	EN	[EN [NP [NPM asian ] [NPH person ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1705	SN	[EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1706	EN	[EN [NP [NPM white ] [NPH hat ] ] ]	9018#2
+1707	VP	[VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+1708	VP	[VP wear ] [EN [NP [NPM white ] [NPH hat ] ] ]	9018#2
+1709	SN	[EN [NP [NPM asian ] [NPH adult ] ] ] [VP wear ]	9019#1
+1710	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP wear ]	9019#1
+1711	SN	[EN [NP [NPM asian ] [NPH adult ] ] ] [VP hold ]	9019#1
+1712	SN	[EN [NP [NPH adult ] ] ] [VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1713	SN	[EN [NP [NPM asian ] [NPH adult ] ] ] [VP write ]	9019#0
+1714	EN	[EN [NP [NPM asian ] [NPH adult ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1715	SN	[EN [NP [NPM asian ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#1
+1716	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+1717	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1718	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH hat ] ] ]	9018#2
+1719	SN	[EN [NP [NPM asian ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#1
+1720	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+1721	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1722	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH hat ] ] ]	9018#2
+1723	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ]	9019#1
+1724	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+1725	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP hold ] [EN [NP [NPH folder ] ] ]	9019#1
+1726	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH hat ] ] ]	9018#2
+1727	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP hold ]	9019#1
+1728	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP write ]	9019#0
+1729	EN	[EN [NP [NPM asian ] [NPH man ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ]	9019#0
+1730	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP write ]	9019#2
+1731	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ] [VP write ]	9019#2
+1732	SN	[EN [NP [NPH person ] ] ] [VP write [PP on ] [EN [NP [NPH clipboard ] ] ] ]	9019#0
+1733	SN	[EN [NP [NPH person ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP write ]	9019#0
+1734	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	9019#2	5190#0
+1735	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	5190#0
+1735	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	9019#2	5190#0
+1736	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	9019#2	5190#0
+1737	SN	[VP wear ] [EN [NP [NPH jacket ] ] ] and [EN [NP [NPH pant ] ] ]	9004#0
+1738	VP	[VP write [PP on ] [EN [NP [NPH clipboard ] ] ] ]	9019#0
+1739	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP write ]	9019#2
+1740	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ] [VP write ]	9019#2
+1741	SN	[EN [NP [NPH man ] ] ] [VP write [PP on ] [EN [NP [NPH clipboard ] ] ] ]	9019#0
+1742	SN	[EN [NP [NPH man ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP write ]	9019#0
+1743	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP write ]	9019#2
+1744	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ] [VP write ]	9019#2
+1745	SN	[EN [NP [NPH adult ] ] ] [VP write [PP on ] [EN [NP [NPH clipboard ] ] ] ]	9019#0
+1746	SN	[EN [NP [NPH adult ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] ] [VP write ]	9019#0
+1747	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ]	9019#2
+1748	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ]	9019#2
+1749	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ]	9019#2
+1750	SN	[VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ] and [EN [NP [NPH pant ] ] ]	9004#0
+1751	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ] [VP write ]	9019#2
+1752	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPM blue ] [NPH clothing ] ] ]	9008#1
+1753	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ] [VP write ]	9019#2
+1754	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPM blue ] [NPH clothing ] ] ]	9008#1
+1755	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+1756	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH clothing ] ] ] [VP write ]	9019#2
+1757	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] and [EN [NP [NPM blue ] [NPH clothing ] ] ]	9008#1
+1758	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+1759	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP write ]	9019#3
+1760	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP write ]	9019#3
+1761	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH hat ] ] ] [VP write ]	9019#3
+1762	VP	[VP ride [PP on ] [EN [NP [NPH track ] ] ] ]	9020#0
+1763	SN	[EN [NP [NPH bike ] ] ] [VP ride ] [PP whilst ] [VP pull ] [EN [NP [NPH wheelie ] ] ]	9020#0
+1764	VP	[VP pull ]	9020#0
+1765	EN	[EN [NP [NPH track ] ] ]	9020#0	9020#1	9020#2
+1766	VP	[VP ride ] [EN [NP [NPH skateboard ] ] ]	9013#0
+1767	VP	[VP ride ] [EN [NP [NPH bike ] ] ]	9020#1
+1768	VP	[VP ride ] [EN [NP [NPH motorcycle ] ] ]	9020#1
+1769	VP	[VP ride ] [EN [NP [NPH motorbike ] ] ]	9020#1
+1770	EN	[EN [NP [NPH motorbike ] ] ]	9020#0	9020#1	9020#2	9020#3
+1771	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH bike ] ] ]	9020#1
+1772	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH bike ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9020#1
+1773	EN	[EN [NP [NPH trick ] ] [PP at ] [EN [NP [NPH track ] ] ] ]	9020#1
+1774	SN	[EN [NP [NPH man ] ] ] [VP perform ]	9020#1
+1775	PP	[PP at ] [EN [NP [NPH track ] ] ]	9020#1
+1776	SN	[EN [NP [NPH adult ] ] ] [VP ride ] [EN [NP [NPH bike ] ] ]	9020#1
+1777	SN	[EN [NP [NPH adult ] ] ] [VP ride ] [EN [NP [NPH motorcycle ] ] ]	9020#1
+1778	SN	[EN [NP [NPH adult ] ] ] [VP ride ] [EN [NP [NPH motorbike ] ] ]	9020#1
+1779	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH motorcycle ] ] ]	9020#1
+1780	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH motorbike ] ] ]	9020#1
+1781	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH bike ] ] ]	9020#1
+1782	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH motorcycle ] ] ]	9020#1
+1783	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH motorbike ] ] ]	9020#1
+1784	SN	[EN [NP [NPH person ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP at ] [EN [NP [NPH track ] ] ] ]	9020#1
+1785	VP	[VP perform ] [EN [NP [NPH trick ] ] [PP at ] [EN [NP [NPH track ] ] ] ]	9020#1
+1786	SN	[EN [NP [NPH man ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9020#1
+1787	PP	[PP on ] [EN [NP [NPH track ] ] ]	9020#0	9020#2
+1788	EN	[EN [NP [NPH motorcycle ] ] ]	9020#0	9020#1	9020#2	9020#3
+1789	SN	[EN [NP [NPH motorbike ] ] ] [VP ride ] [PP whilst ] [VP pull ] [EN [NP [NPH wheelie ] ] ]	9020#0
+1790	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH motorbike ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9020#1
+1791	SN	[EN [NP [NPH adult ] ] ] [VP perform ] [EN [NP [NPH trick ] ] [PP at ] [EN [NP [NPH track ] ] ] ]	9020#1
+1792	SN	[EN [NP [NPH adult ] ] ] [VP ride ] [EN [NP [NPH bike ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9020#1
+1793	SN	[EN [NP [NPH person ] ] ] [VP ride ] [EN [NP [NPH motorcycle ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ]	9020#1
+1794	SN	[EN [NP [NPH motorcycle ] ] ] [VP ride ] [PP whilst ] [VP pull ] [EN [NP [NPH wheelie ] ] ]	9020#0
+1795	VP	[VP put ]	9020#2
+1796	VP	[VP up ]	9020#2
+1797	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH bike ] ] ]	9020#2
+1798	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH bike ] ] ] [VP up ]	9020#2
+1799	SN	[EN [NP [NPH person ] ] ] [VP put ]	9020#2
+1800	VP	[VP put ] [EN [NP [NPH bike ] ] ]	9020#2
+1801	EN	[EN [NP [NPH wheel ] ] ]	9020#2
+1802	SN	[EN [NP [NPH adult ] ] ] [VP put ] [EN [NP [NPH bike ] ] ]	9020#2
+1803	SN	[EN [NP [NPH adult ] ] ] [VP put ] [EN [NP [NPH bike ] ] ] [VP up ]	9020#2
+1804	SN	[EN [NP [NPH adult ] ] ] [VP put ]	9020#2
+1805	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH motorbike ] ] ]	9020#2
+1806	VP	[VP put ] [EN [NP [NPH motorbike ] ] ]	9020#2
+1807	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH motorbike ] ] ] [VP up ]	9020#2
+1808	EN	[EN [NP [NPH wheel ] ] [PP on ] [EN [NP [NPH track ] ] ] ]	9020#2
+1809	SN	[EN [NP [NPH man ] ] ] [VP put ] [EN [NP [NPH bike ] ] ]	9020#2
+1810	SN	[EN [NP [NPH man ] ] ] [VP put ] [EN [NP [NPH bike ] ] ] [VP up ]	9020#2
+1811	SN	[EN [NP [NPH man ] ] ] [VP put ]	9020#2
+1812	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH motorcycle ] ] ]	9020#2
+1813	VP	[VP put ] [EN [NP [NPH motorcycle ] ] ]	9020#2
+1814	SN	[EN [NP [NPH person ] ] ] [VP put ] [EN [NP [NPH motorcycle ] ] ] [VP up ]	9020#2
+1815	SN	[EN [NP [NPH person ] ] ] [VP do ]	9020#3
+1816	EN	[EN [NP [NPH trick ] ] [PP on ] [EN [NP [NPH bike ] ] ] ]	9020#3
+1817	VP	[VP do ] [EN [NP [NPH trick ] ] ]	9020#3
+1818	VP	[VP do ]	9020#3
+1819	PP	[PP on ] [EN [NP [NPH bike ] ] ]	9020#3
+1820	SN	[EN [NP [NPH adult ] ] ] [VP do ]	9020#3
+1821	PP	[PP on ] [EN [NP [NPH motorbike ] ] ]	9020#3
+1822	SN	[EN [NP [NPH man ] ] ] [VP do ]	9020#3
+1823	PP	[PP on ] [EN [NP [NPH motorcycle ] ] ]	9020#3
+1824	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH hug ] ] ] ]	9302#1
+1825	EN	[EN [NP [NPH person ] ] [PP at ] [EN [NP [NPH gathering ] ] ] ]	9302#1
+1826	EN	[EN [NP [NPH person ] ] [PP at ] [EN [NP [NPH person ] ] ] ]	9302#1
+1827	EN	[EN [NP [NPH gathering ] ] ]	9302#1
+1828	EN	[EN [NP [NPM glasses ] [NPH hug ] ] ]	9302#1
+1829	PP	[PP with ] [EN [NP [NPH hug ] ] ]	9302#1
+1830	EN	[EN [NP [NPM quite a few ] [NPH person ] ] ]	9302#1
+1831	PP	[PP at ] [EN [NP [NPH person ] ] ]	9302#1
+1832	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH hug ] ] ] ]	9302#1
+1833	EN	[EN [NP [NPH adult ] ] [PP at ] [EN [NP [NPH gathering ] ] ] ]	9302#1
+1834	EN	[EN [NP [NPH adult ] ] [PP at ] [EN [NP [NPH person ] ] ] ]	9302#1
+1835	EN	[EN [NP [NPH man ] ] [PP with ] [EN [NP [NPH hug ] ] ] ]	9302#1
+1836	EN	[EN [NP [NPH old man ] ] ]	9302#1
+1837	EN	[EN [NP [NPH woman ] ] [PP at ] [EN [NP [NPH gathering ] ] ] ]	9302#1
+1838	EN	[EN [NP [NPH woman ] ] [PP at ] [EN [NP [NPH person ] ] ] ]	9302#1
+1839	EN	[EN [NP [NPM young ] [NPH woman ] ] [PP at ] [EN [NP [NPH gathering ] ] ] ]	9302#1
+1840	EN	[EN [NP [NPM young ] [NPH woman ] ] [PP at ] [EN [NP [NPH person ] ] ] ]	9302#1
+1841	SN	[EN [NP [NPM young ] [NPH woman ] ] ] [VP sell ] [EN [NP [NPH toy ] ] ]	9005#1
+1842	SN	[EN [NP [NPM young ] [NPH woman ] ] ] [VP sell ]	9005#1
+1843	EN	[EN [NP [NPM elderly ] [NPH couple ] ] ]	9571#0
+1844	SN	[EN [NP [NPH person ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ] [PP to ] [EN [NP [NPH couple ] ] ]	9571#0
+1845	EN	[EN [NP [NPM man ] [NPH person ] ] ]	2011#3	7771#1	2936#3	9571#0	5190#0	3748#3
+1846	EN	[EN [NP [NPH person ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1847	SN	[EN [NP [NPH person ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1848	SN	[EN [NP [NPH person ] ] ] [VP offer ]	9571#0
+1849	VP	[VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1850	VP	[VP offer ]	9571#0
+1851	EN	[EN [NP [NPH umbrella ] ] ]	9571#0
+1852	EN	[EN [NP [NPH backpack ] ] ]	9571#0
+1853	EN	[EN [NP [NPM smile ] [NPH couple ] ] ]	9015#3
+1854	EN	[EN [NP [NPH couple ] ] [PP with ] [EN [NP [NPH camcorder ] ] ] ]	9015#3
+1855	EN	[EN [NP [NPM man ] [NPH adult ] ] ]	7771#1	2936#3	9571#0	5190#0
+1856	EN	[EN [NP [NPH adult ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1857	SN	[EN [NP [NPH adult ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1858	SN	[EN [NP [NPH adult ] ] ] [VP offer ]	9571#0
+1859	PP	[PP with ] [EN [NP [NPH ware ] ] ]	9005#2
+1860	EN	[EN [NP [NPM man ] [NPH merchant ] ] ]	9571#0
+1861	EN	[EN [NP [NPH merchant ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1862	SN	[EN [NP [NPH merchant ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1863	SN	[EN [NP [NPH merchant ] ] ] [VP offer ]	9571#0
+1864	EN	[EN [NP [NPM man ] [NPH vendor ] ] ]	9571#0
+1865	EN	[EN [NP [NPH vendor ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1866	SN	[EN [NP [NPH vendor ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1867	SN	[EN [NP [NPH vendor ] ] ] [VP offer ]	9571#0
+1868	SN	[EN [NP [NPH person ] ] ] [VP enter ]	2011#3	3748#3
+1869	EN	[EN [NP [NPM america revolution era ] [NPH clothing ] ] ]	2011#3	3748#3
+1870	VP	[VP enter ]	2011#3	3748#3
+1871	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP enter ]	2011#3	3748#3
+1872	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ]	2011#3	5190#0	3748#3
+1873	EN	[EN [NP [NPM man ] [NPH person ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1874	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1875	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP offer ]	9571#0
+1876	EN	[EN [NP [NPM america revolution era ] [NPH outfit ] ] ]	2011#3	3748#3
+1877	VP	[VP wear ] [EN [NP [NPM america revolution era ] [NPH clothing ] ] ]	2011#3	3748#3
+1878	VP	[VP wear ] [EN [NP [NPM america revolution era ] [NPH outfit ] ] ]	2011#3	3748#3
+1879	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	2011#3	5190#0	3748#3
+1880	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH clothing ] ] ]	2011#3	3748#3
+1881	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1882	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ]	2011#3	3748#3
+1883	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH outfit ] ] ]	2011#3	3748#3
+1884	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1885	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM track ] [NPH outfit ] ] ]	9004#2
+1886	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1887	SN	[EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1888	VP	[VP go ]	2936#3
+1889	EN	[EN [NP [NPH walk ] ] ]	2936#3
+1890	SN	[EN [NP [NPM man ] [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1891	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1892	EN	[EN [NP [NPD three ] [NPH child ] ] ]	2936#3
+1893	SN	[EN [NP [NPD three ] [NPH person ] ] ] [VP go ]	2936#3
+1894	SN	[EN [NP [NPH child ] ] ] [VP go ]	2936#3
+1895	EN	[EN [NP [NPM man ] [NPH woman ] ] ]	7771#1	2936#3
+1896	SN	[EN [NP [NPM man ] [NPH adult ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1897	EN	[EN [NP [NPM man ] [NPH adult ] ] [PP with ] [EN [NP [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] ]	9571#0
+1898	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+1899	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP offer ]	9571#0
+1900	SN	[EN [NP [NPH woman ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1901	VP	[VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1902	SN	[EN [NP [NPH person ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1903	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1904	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1905	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH outfit ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1906	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH clothing ] ] ]	2011#3	3748#3
+1907	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH outfit ] ] ]	2011#3	3748#3
+1908	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH clothing ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1909	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH outfit ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1910	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH clothing ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1911	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM america revolution era ] [NPH outfit ] ] ] [VP enter ] [EN [NP [NPH trailer ] ] ]	2011#3	3748#3
+1912	EN	[EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1913	SN	[EN [NP [NPH group ] ] ] [VP gather ]	5190#0
+1914	VP	[VP gather ]	5190#0
+1915	PP	[PP behind ] [EN [NP [NPH them ] ] ]	5190#0
+1916	EN	[EN [NP [NPH platform ] ] ]	5190#0
+1917	EN	[EN [NP [NPH back ] ] ]	5190#0
+1918	EN	[EN [NP [NPH number ] ] ]	5190#0
+1919	VP	[VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1920	EN	[EN [NP [NPM white ] [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1921	EN	[EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1922	EN	[EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1923	VP	[VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1924	VP	[VP wear ] [EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1925	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP wear ]	5190#0
+1926	SN	[EN [NP [NPH crowd ] ] ] [VP gather ]	5190#0
+1927	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	5190#0
+1928	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1929	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1930	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1931	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	5190#0
+1931	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	5190#0
+1932	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1932	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1933	VP	[VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1934	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	5190#0
+1935	SN	[EN [NP [NPH child ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	9001#0
+1936	SN	[EN [NP [NPH boy ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	9001#0
+1937	SN	[VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+1938	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] ]	5190#0
+1939	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1940	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1940	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1941	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1941	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1942	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] ]	5190#0
+1943	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ]	5190#0
+1944	SN	[EN [NP [NPH adult ] ] ] [VP wear ] [EN [NP [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1945	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ]	5190#0
+1946	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP wear ] [EN [NP [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1947	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1948	SN	[EN [NP [NPH person ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] ] and [EN [NP [NPH pants ] ] ]	9001#0
+1949	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH clothing ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1950	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] [PP with ] [EN [NP [NPH number ] ] ] ]	5190#0
+1951	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH person ] ] ] [VP sit ]	7771#1
+1952	SN	[EN [NP [NPH woman ] ] ] [VP sit ]	7771#1
+1953	VP	[VP sit [PP in ] [EN [NP [NPH grass ] ] ] ]	7771#1
+1954	EN	[EN [NP [NPH grass ] ] ]	7771#1
+1955	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH boy ] ] ] [VP sit ]	7771#1
+1956	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPH child ] ] ] [VP sit ]	7771#1
+1957	SN	[EN [NP [NPM man ] [NPH person ] ] ] [VP sit ]	7771#1
+1958	SN	[EN [NP [NPH person ] ] ] [VP sit [PP in ] [EN [NP [NPH grass ] ] ] ]	7771#1
+1959	SN	[EN [NP [NPM man ] [NPH adult ] ] ] [VP sit ]	7771#1
+1960	SN	[EN [NP [NPH adult ] ] ] [VP sit [PP in ] [EN [NP [NPH grass ] ] ] ]	7771#1
+1961	SN	[EN [NP [NPH adult ] ] ] and [EN [NP [NPH person ] ] ] [VP sit ]	7771#1
+1962	SN	[EN [NP [NPH person ] ] ] and [EN [NP [NPM little ] [NPH boy ] ] ] [VP sit ]	7771#1
+1963	SN	[EN [NP [NPM little ] [NPH boy ] ] ] [VP balance ]	9001#0
+1964	SN	[EN [NP [NPM little ] [NPH boy ] ] ] [VP wear ]	9001#0
+1965	SN	[EN [NP [NPM man ] [NPH woman ] ] ] [VP sit ]	7771#1
+1966	SN	[EN [NP [NPM man ] [NPH woman ] ] ] and [EN [NP [NPH person ] ] ] [VP go ]	2936#3
+1967	SN	[EN [NP [NPM little ] [NPH boy ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH shirt ] ] ] and [EN [NP [NPH jean ] ] ] [VP balance ] [PP on ] [EN [NP [NPM wooden ] [NPH bench ] ] ] [ADVP outside ] [PP in ] [EN [NP [NPH middle ] ] ] [PP of ] [EN [NP [NPH woods ] ] ]	9001#0
+1968	EN	[EN [NP [NPH jean ] ] ]	9001#0
+1969	EN	[EN [NP [NPH woods ] ] ]	9001#0
+1970	SN	[EN [NP [NPM little ] [NPH boy ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH shirt ] ] ] and [EN [NP [NPH jean ] ] ]	9001#0
+1971	SN	[VP wear ] [EN [NP [NPM white ] [NPH shirt ] ] ] and [EN [NP [NPH jean ] ] ]	9001#0
+1972	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP try to balance ] [PP on ] [EN [NP [NPH bench ] ] ] [PP in ] [EN [NP [NPH park ] ] ]	9001#1
+1973	SN	[EN [NP [NPM young ] [NPH child ] ] ] [VP try to balance ] [EN [NP [NPH himself ] ] ] [PP on ] [EN [NP [NPM picnic ] [NPH table ] ] ]	9001#2
+1974	EN	[EN [NP [NPM picnic ] [NPH table ] ] ]	9001#2
+1975	SN	[EN [NP [NPH boy ] ] ] [VP engage ] [PP in ] [EN [NP [NPH game ] ] ] [PP of ] [EN [NP [NPH courage ] ] ] and [EN [NP [NPH dare ] ] ]	9001#3
+1976	SN	[EN [NP [NPD two ] [NPH man ] ] ] [PP on ] [EN [NP [NPH rooftop ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP standing ] [PP atop ] [EN [NP [NPH ladder ] ] ] [VP watch ] [EN [NP [NPH them ] ] ]	9002#0
+1977	SN	[EN [NP [NPD three ] [NPH man ] ] ] [EN [NP [NPH one ] ] ] [PP on ] [EN [NP [NPH ladder ] ] ] [EN [NP [NPH work ] ] ] [PP on ] [EN [NP [NPH roof ] ] ]	9002#1
+1978	SN	[EN [NP [NPH person ] ] ] [VP fix ] [EN [NP [NPH roof ] ] ] [PP of ] [EN [NP [NPH house ] ] ]	9002#2
+1979	SN	[EN [NP [NPD three ] [NPH man ] ] ] [VP work ] [PP on ] [EN [NP [NPH roof ] ] ]	9002#3
+1980	SN	[EN [NP [NPD three ] [NPH chef ] ] ] [PP in ] [EN [NP [NPH kitchen ] ] ] [EN [NP [NPH left ] ] ] [EN [NP [NPM most ] [NPH chef ] ] ] [VP flip ] [EN [NP [NPH something ] ] ] [PP in ] [EN [NP [NPH fry pan ] ] ] [EN [NP [NPM middle ] [NPH chef ] ] ] [VP be ] [EN [NP [NPM only ] [NPH one ] ] ] [PP without ] [EN [NP [NPH hat ] ] ] [EN [NP [NPH hand ] ] ] [VP blur ] [PP from ] [EN [NP [NPH movement ] ] ] [EN [NP [NPH right ] ] ] [EN [NP [NPM most ] [NPH chef ] ] ] [VP wear ] [EN [NP [NPH glasses ] ] ] and [VP arrange ] [EN [NP [NPH food ] ] ] [ADVP artfully ] [PP on ] [EN [NP [NPH plate ] ] ]	9003#0
+1981	EN	[EN [NP [NPM middle ] [NPH chef ] ] ]	9003#0
+1982	SN	[EN [NP [NPM most ] [NPH chef ] ] ] [VP flip ] [EN [NP [NPH something ] ] ]	9003#0
+1983	VP	[VP be ] [EN [NP [NPM only ] [NPH one ] ] ]	9003#0
+1984	VP	[VP blur ]	9003#0
+1985	SN	[EN [NP [NPM most ] [NPH chef ] ] ] [VP wear ] [EN [NP [NPH glasses ] ] ]	9003#0
+1986	SN	[EN [NP [NPM most ] [NPH chef ] ] ] [VP arrange ] [EN [NP [NPH food ] ] ]	9003#0
+1987	VP	[VP arrange ] [EN [NP [NPH food ] ] ]	9003#0
+1988	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH worker ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ] [PP in ] [EN [NP [NPM commercial ] [NPH kitchen ] ] ]	9003#1
+1989	EN	[EN [NP [NPD three ] [NPM male culinary ] [NPH worker ] ] ]	9003#1
+1990	SN	[EN [NP [NPD three ] [NPM male culinary ] [NPH worker ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#1
+1991	SN	[EN [NP [NPH chef ] ] ] and [EN [NP [NPM two sous ] [NPH chef ] ] ] [VP prepare ] [EN [NP [NPH dish ] ] ] [PP in ] [EN [NP [NPH restaurant ] ] ]	9003#2
+1992	SN	[EN [NP [NPD three ] [NPH chef ] ] ] [EN [NP [NPH dress ] ] ] [VP wear ] [EN [NP [NPH white ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+1993	SN	[EN [NP [NPD three ] [NPH chef ] ] ] [VP prepare ] [EN [NP [NPH meal ] ] ]	9003#3
+1994	SN	[EN [NP [NPH dress ] ] ] [VP wear ] [EN [NP [NPH white ] ] ]	9003#3
+1995	SN	[EN [NP [NPD three ] [NPH man ] ] ] [VP cook ] [PP in ] [EN [NP [NPH kitchen ] ] ]	9003#H
+1996	SN	[EN [NP [NPM female ] [NPH gymnasium ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP get hug ] [PP by ] [EN [NP [NPH someone ] ] ] else [VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ] and [EN [NP [NPM black ] [NPH pant ] ] ]	9004#0
+1997	EN	[EN [NP [NPM female ] [NPH gymnasium ] ] ]	9004#0
+1998	EN	[EN [NP [NPM black ] [NPH pant ] ] ]	9004#0	5190#0
+1999	SN	[EN [NP [NPM female ] [NPH gymnasium ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#0
+2000	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM purple ] [NPH leotard ] ] ] [VP hug ] [PP by ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM blue and purple ] [NPH outfit ] ] ]	9004#1
+2001	SN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM track ] [NPH outfit ] ] ]	9004#2
+2002	SN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ] [VP hug ] [EN [NP [NPH girl_woman ] ] ]	9004#2
+2003	SN	[EN [NP [NPM brown-haired ] [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ]	9004#2
+2004	SN	[EN [NP [NPH girl_woman ] ] ] [VP wear ] [EN [NP [NPM track ] [NPH outfit ] ] ]	9004#2
+2005	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH leotard ] ] ] [VP hug ] [EN [NP [NPD each ] [NPH other ] ] ] [PP during ] [EN [NP [NPD some ] [NPH sort ] ] [PP of ] [NP [NPM sport ] [NPH event ] ] ]	9004#3
+2006	EN	[EN [NP [NPD some ] [NPH sort ] ] [PP of ] [NP [NPM sport ] [NPH event ] ] ]	9004#3
+2007	SN	[EN [NP [NPM street ] [NPH vendor ] ] ] [VP sell ] [EN [NP [NPD some ] [NPH ward ] ] ] [PP include ] [EN [NP [NPH pineapple ] ] ] and [EN [NP [NPH soccer ball ] ] ]	9005#0
+2008	EN	[EN [NP [NPH soccer ball ] ] ]	9005#0
+2009	SN	[EN [NP [NPM street ] [NPH vendor ] ] ] [VP sell ] [EN [NP [NPD some ] [NPH ward ] ] ]	9005#0
+2010	VP	[VP sell ] [EN [NP [NPD some ] [NPH ward ] ] ]	9005#0
+2011	SN	[EN [NP [NPM young ] [NPH woman ] ] ] [VP sell ] [EN [NP [NPM odd ] [NPH toy ] ] ] and [EN [NP [NPH fruit ] ] ] [PP alongside ] [EN [NP [NPH street ] ] ]	9005#1
+2012	EN	[EN [NP [NPM odd ] [NPH toy ] ] ]	9005#1
+2013	SN	[EN [NP [NPM young ] [NPH woman ] ] ] [VP sell ] [EN [NP [NPM odd ] [NPH toy ] ] ]	9005#1
+2014	VP	[VP sell ] [EN [NP [NPM odd ] [NPH toy ] ] ]	9005#1
+2015	SN	[EN [NP [NPH vendor ] ] ] [PP with ] [EN [NP [NPH ware ] ] ] [VP set ] [PRT up ] [PP on ] [EN [NP [NPH street ] ] ]	9005#2
+2016	EN	[EN [NP [NPM middle eastern ] [NPH marketplace ] ] ]	9005#3
+2017	SN	[EN [NP [NPH musician ] ] ] [VP play ] [EN [NP [NPH drum ] ] ] [SBAR while ] [EN [NP [NPH hair ] ] ] [VP cover ] [EN [NP [NPH face ] ] ] and [EN [NP [NPH tattoo ] ] ] [VP dot ] [EN [NP [NPH arm ] ] ]	9006#0
+2018	SN	[EN [NP [NPH hair ] ] ] [VP cover ] [EN [NP [NPH face ] ] ]	9006#0
+2019	SN	[EN [NP [NPH tattoo ] ] ] [VP dot ] [EN [NP [NPH arm ] ] ]	9006#0
+2020	SN	[EN [NP [NPH man ] ] ] [PP with ] [EN [NP [NPM long ] [NPH hair ] ] ] and [EN [NP [NPH tattoo ] ] ] [VP play ] [EN [NP [NPH drum ] ] ] [EN [NP [NPH outdoors ] ] ]	9006#1
+2021	SN	[EN [NP [NPM tattoo ] [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ] and [VP beat ] [EN [NP [NPH drum ] ] ]	9006#2
+2022	SN	[EN [NP [NPM tattoo ] [NPH person ] ] ] [VP shake ] [EN [NP [NPH hair ] ] ]	9006#2
+2023	SN	[EN [NP [NPM tattoo ] [NPH person ] ] ] [VP beat ] [EN [NP [NPH drum ] ] ]	9006#2
+2024	SN	[EN [NP [NPM long-haired ] [NPH drummer ] ] ] [VP play ] [EN [NP [NPM music ] [NPH outdoors ] ] ]	9006#3
+2025	EN	[EN [NP [NPM long-haired ] [NPH drummer ] ] ]	9006#3
+2026	SN	[EN [NP [NPH woman ] ] ] [VP tilt ] [EN [NP [NPH face ] ] ] [ADVP upward ] and [VP lift ] [EN [NP [NPH her ] ] ] [EN [NP [NPM white gloved ] [NPH hand ] ] ]	9007#0
+2027	EN	[EN [NP [NPM white gloved ] [NPH hand ] ] ]	9007#0
+2028	SN	[EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH glove ] ] ] [VP peer ] [PP over ] [EN [NP [NPH crowd ] ] ]	9007#1
+2029	SN	[EN [NP [NPH woman ] ] ] [PP with ] [EN [NP [NPM white ] [NPH glove ] ] ] and [EN [NP [NPD some ] [NPH other ] ] ]	9007#2
+2030	EN	[EN [NP [NPD some ] [NPH other ] ] ]	9007#2
+2031	SN	[EN [NP [NPH young man ] ] ] [PP with ] [EN [NP [NPM close ] [NPH haircut ] ] ] and [VP wear ] [EN [NP [NPH sport coat ] ] ] [VP talk ] [PP on ] [EN [NP [NPH phone ] ] ]	9008#0
+2032	EN	[EN [NP [NPM close ] [NPH haircut ] ] ]	9008#0
+2033	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ] and [EN [NP [NPM blue ] [NPH shirt ] ] ] [VP talk ] [PP on ] [EN [NP [NPM phone ] [NPH indoor ] ] ]	9008#1
+2034	EN	[EN [NP [NPM phone ] [NPH indoor ] ] ]	9008#1
+2035	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ] and [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+2036	SN	[VP wear ] [EN [NP [NPM black ] [NPH coat ] ] ] and [EN [NP [NPM blue ] [NPH shirt ] ] ]	9008#1
+2037	SN	[EN [NP [NPH man ] ] ] [VP be ] [EN [NP [NPM black ] [NPH suit ] ] ] [VP talk ] [PP on ] [EN [NP [NPH phone ] ] ] [PP in ] [EN [NP [NPH room ] ] ]	9008#2
+2038	VP	[VP be ] [EN [NP [NPM black ] [NPH suit ] ] ]	9008#2
+2039	SN	[EN [NP [NPH businessman ] ] ] [VP wear ] [EN [NP [NPM dark ] [NPH suit ] ] ] [VP talk ] [PP on ] [EN [NP [NPH cellphone ] ] ]	9008#3
+2040	SN	[EN [NP [NPH businessman ] ] ] [VP wear ] [EN [NP [NPM dark ] [NPH suit ] ] ]	9008#3
+2041	VP	[VP wear ] [EN [NP [NPM dark ] [NPH suit ] ] ]	9008#3
+2042	SN	[EN [NP [NPH man ] ] ] [VP make ] [EN [NP [NPH call ] ] ]	9008#H
+2043	VP	[VP make ] [EN [NP [NPH call ] ] ]	9008#H
+2044	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP sit ] [PP on ] [EN [NP [NPH ground ] ] ] [PP next to ] [EN [NP [NPM blue ] [NPH bag ] ] ]	9009#0
+2045	EN	[EN [NP [NPM blue ] [NPH bag ] ] ]	9009#0
+2046	SN	[EN [NP [NPD some ] [NPM young ] [NPH male ] ] ] [VP sit ] [PP in ] [EN [NP [NPH circle ] ] ] [VP talk ]	9009#1
+2047	EN	[EN [NP [NPD some ] [NPM young ] [NPH male ] ] ]	9009#1
+2048	SN	[EN [NP [NPD some ] [NPM young ] [NPH male ] ] ] [VP sit ]	9009#1
+2049	SN	[EN [NP [NPD some ] [NPH boy ] ] ] [VP sit ] [PP on ] [EN [NP [NPH street ] ] ] and [VP talk ]	9009#2
+2050	SN	[EN [NP [NPD some ] [NPH boy ] ] ] [VP talk ]	9009#2
+2051	SN	[EN [NP [NPH man ] ] ] [VP sit ] [PRT down ] [PP in ] [EN [NP [NPH circle ] ] ]	9009#3
+2052	SN	[EN [NP [NPH girl ] ] ] [VP wear ] [EN [NP [NPH blue ] ] ] [VP jump ] [PRT on ] [EN [NP [NPH shore ] ] ] [PP as ] [EN [NP [NPM small ] [NPH wave ] ] ] [VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+2053	EN	[EN [NP [NPM small ] [NPH wave ] ] ]	9010#0
+2054	SN	[EN [NP [NPM small ] [NPH wave ] ] ] [VP approach ] [EN [NP [NPH her ] ] ]	9010#0
+2055	SN	[EN [NP [NPH girl ] ] ] [VP wear ] [EN [NP [NPH blue ] ] ]	9010#0
+2056	SN	[EN [NP [NPM young long-haired ] [NPH girl ] ] ] [PP on ] [EN [NP [NPH beach ] ] ] [VP jump ] [PP in ] [EN [NP [NPH air ] ] ]	9010#1
+2057	SN	[EN [NP [NPM young long-haired ] [NPH girl ] ] ] [VP jump ] [PP in ] [EN [NP [NPH air ] ] ]	9010#1
+2058	SN	[EN [NP [NPH girl ] ] ] [VP leap ] [PP into ] [EN [NP [NPH air ] ] ] [SBAR while ] [VP standing ] [PP by ] [EN [NP [NPH ocean ] ] ]	9010#2
+2059	SN	[EN [NP [NPH girl ] ] ] [VP jump ] [PP into ] [EN [NP [NPH air ] ] ] [PP on ] [EN [NP [NPH beach ] ] ]	9010#3
+2060	SN	[EN [NP [NPH child ] ] ] [VP run ] [PP into ] [EN [NP [NPH ocean ] ] ]	9010#H
+2061	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [PP at ] [EN [NP [NPH christmas ] ] ] [VP gather take ] [EN [NP [NPM funny ] [NPH picture ] ] ] [EN [NP [NPH all ] ] ] [VP look ] [PP away from ] [EN [NP [NPH camera ] ] ]	9011#0
+2062	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP gather take ] [EN [NP [NPM funny ] [NPH picture ] ] ]	9011#0
+2063	VP	[VP gather take ] [EN [NP [NPM funny ] [NPH picture ] ] ]	9011#0
+2064	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP look ] [PP of ] [PP in ] [EN [NP [NPD some ] [NPH direction ] ] ] [VP try to avoid ] [EN [NP [NPH camera ] ] ]	9011#1
+2065	EN	[EN [NP [NPD some ] [NPH direction ] ] ]	9011#1
+2066	VP	[VP try to avoid ]	9011#1
+2067	SN	[EN [NP [NPH group ] ] [PP of ] [NP [NPH person ] ] ] [VP not want to take ] [EN [NP [NPH picture ] ] ]	9011#2
+2068	SN	[EN [NP [NPD some ] [NPH person ] ] ] [PP at ] [EN [NP [NPM holiday ] [NPH party ] ] ] [PP at ] [EN [NP [NPH night ] ] ]	9011#3
+2069	EN	[EN [NP [NPM holiday ] [NPH party ] ] ]	9011#3
+2070	SN	[EN [NP [NPD some ] [NPH individual ] ] ] [VP standing ]	9011#H
+2071	SN	[EN [NP [NPH dj ] ] ] [PP with ] [EN [NP [NPH headphone ] ] ] [PP on ] [VP move ] [EN [NP [NPH knob ] ] ] [PP up and down ] [PP on ] [EN [NP [NPM dj ] [NPH equipment ] ] ]	9012#0
+2072	EN	[EN [NP [NPM dj ] [NPH equipment ] ] ]	9012#0
+2073	SN	[EN [NP [NPH dj ] ] ] [VP move ] [EN [NP [NPH knob ] ] ]	9012#0
+2074	VP	[VP move ] [EN [NP [NPH knob ] ] ]	9012#0
+2075	SN	[EN [NP [NPM shaven head ] [NPH young man ] ] ] [VP wear ] [EN [NP [NPH headphone ] ] ] and [EN [NP [NPH work ] ] ] [PP with ] [EN [NP [NPM mix ] [NPH board ] ] ]	9012#1
+2076	EN	[EN [NP [NPM mix ] [NPH board ] ] ]	9012#1
+2077	SN	[EN [NP [NPM shaven head ] [NPH young man ] ] ] [VP wear ] [EN [NP [NPH headphone ] ] ]	9012#1
+2078	SN	[EN [NP [NPH man ] ] ] [VP adjust ] [EN [NP [NPH music ] ] ] [PP on ] [EN [NP [NPM audio ] [NPH mixer ] ] ]	9012#2
+2079	EN	[EN [NP [NPM audio ] [NPH mixer ] ] ]	9012#2
+2080	SN	[EN [NP [NPH man ] ] ] [VP adjust ] [EN [NP [NPH music ] ] ]	9012#2
+2081	VP	[VP adjust ] [EN [NP [NPH music ] ] ]	9012#2
+2082	SN	[EN [NP [NPH man ] ] ] [PP with ] [EN [NP [NPH earphone ] ] ] [VP be ] [ADJP hard ] [PP at ] [EN [NP [NPH work ] ] ]	9012#3
+2083	SN	[EN [NP [NPH man ] ] ] [VP control ] [EN [NP [NPH machine ] ] ]	9012#H
+2084	VP	[VP control ] [EN [NP [NPH machine ] ] ]	9012#H
+2085	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH skateboard ] ] ] [PP with ] [EN [NP [NPH shadow ] ] ] [VP fall ] [PP on ] [EN [NP [NPH wall ] ] ] [VP cover ] [PP in ] [EN [NP [NPH graffiti ] ] ]	9013#0
+2086	SN	[EN [NP [NPH skateboarder ] ] ] [VP jump ] [PP through ] [EN [NP [NPH air ] ] ] [PP in front of ] [EN [NP [NPM graffiti cover ] [NPH wall ] ] ]	9013#1
+2087	SN	[EN [NP [NPH skateboarder ] ] ] [VP jump ] [PP through ] [EN [NP [NPH air ] ] ]	9013#1
+2088	SN	[EN [NP [NPH skateboarder ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ] [PP against ] [EN [NP [NPM graffiti ] [NPH wall ] ] ]	9013#2
+2089	SN	[EN [NP [NPH skateboarder ] ] ] [VP perform ] [EN [NP [NPM skateboard ] [NPH trick ] ] ]	9013#2
+2090	SN	[EN [NP [NPH skateboarder ] ] ] [VP grind ] [EN [NP [NPH lip ] ] ]	9013#3
+2091	VP	[VP grind ] [EN [NP [NPH lip ] ] ]	9013#3
+2092	SN	[EN [NP [NPM female ] [NPH singer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ] [VP hold ] [EN [NP [NPH microphone ] ] ] [PP in ] [EN [NP [NPH one ] ] ] [PP of ] [EN [NP [NPM two outstretched ] [NPH hand ] ] ] [SBAR while ] [EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH bass guitar ] ] ] [PP in front of ] [EN [NP [NPH amplifier ] ] ]	9014#0
+2093	EN	[EN [NP [NPM two outstretched ] [NPH hand ] ] ]	9014#0
+2094	EN	[EN [NP [NPM electric ] [NPH bass guitar ] ] ]	9014#0
+2095	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPM electric ] [NPH bass guitar ] ] ]	9014#0
+2096	VP	[VP play ] [EN [NP [NPM electric ] [NPH bass guitar ] ] ]	9014#0
+2097	SN	[EN [NP [NPM female ] [NPH singer ] ] ] [VP wear ] [EN [NP [NPM short ] [NPH dress ] ] ]	9014#0
+2098	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ] [VP praise ] [EN [NP [NPH crowd ] ] ] [PP as ] [EN [NP [NPM red lights ] [NPH flash ] ] ] and [EN [NP [NPH band ] ] ] [VP play ]	9014#1
+2099	EN	[EN [NP [NPM red lights ] [NPH flash ] ] ]	9014#1
+2100	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP praise ] [EN [NP [NPH crowd ] ] ]	9014#1
+2101	SN	[EN [NP [NPM musical ] [NPH performer ] ] ] [VP wear ] [EN [NP [NPM black ] [NPH dress ] ] ]	9014#1
+2102	SN	[EN [NP [NPM redheaded ] [NPH singer ] ] ] [PP with ] [EN [NP [NPH arm ] ] ] [VP spread ] [PP on ] [EN [NP [NPH stage ] ] ]	9014#2
+2103	SN	[EN [NP [NPM redheaded ] [NPH singer ] ] ] [VP spread ]	9014#2
+2104	SN	[EN [NP [NPM female ] [NPH singer ] ] ] and [EN [NP [NPM male ] [NPH guitarist ] ] ] [PP on ] [EN [NP [NPH stage ] ] ]	9014#3
+2105	SN	[EN [NP [NPH man ] ] ] and [EN [NP [NPH woman ] ] ] [VP wear ] [EN [NP [NPH head ] ] ] [VP cover ] [EN [NP [NPH turn ] ] ] [EN [NP [NPM video ] [NPH camera ] ] ] [PP on ] [EN [NP [NPH themselves ] ] ]	9015#0
+2106	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH sweater ] ] ] and [EN [NP [NPH woman ] ] ] [VP smile ] [PP for ] [EN [NP [NPM video ] [NPH camera ] ] ]	9015#1
+2107	EN	[EN [NP [NPM brown ] [NPH sweater ] ] ]	9015#1
+2108	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH sweater ] ] ]	9015#1
+2109	VP	[VP wear ] [EN [NP [NPM brown ] [NPH sweater ] ] ]	9015#1
+2110	SN	[EN [NP [NPH man ] ] ] and [EN [NP [NPH woman ] ] ] [VP pose ] [PP for ] [EN [NP [NPM video ] [NPH camera ] ] ] [SBAR that ] [EN [NP [NPH they ] ] ] [VP hold ]	9015#2
+2111	SN	[EN [NP [NPM smile ] [NPH couple ] ] ] [PP with ] [EN [NP [NPH camcorder ] ] ]	9015#3
+2112	SN	[EN [NP [NPM camera ] [NPH crew ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+2113	EN	[EN [NP [NPM camera ] [NPH crew ] ] ]	9016#0
+2114	EN	[EN [NP [NPM [NPMC long ] [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+2115	SN	[EN [NP [NPM camera ] [NPH crew ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#0
+2116	SN	[EN [NP [NPM older ] [NPH gentleman ] ] ] [VP wear ] [EN [NP [NPM [NPMC long ] [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+2117	VP	[VP wear ] [EN [NP [NPM [NPMC long ] [NPMC gray ] ] [NPH coat ] ] ]	9016#0
+2118	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ] [SBAR while ] [EN [NP [NPM fourth ] [NPH man ] ] ] [VP watch ]	9016#1
+2119	SN	[EN [NP [NPD two ] [NPH man ] ] ] [VP film ] [EN [NP [NPM older ] [NPH gentleman ] ] ]	9016#1
+2120	SN	[EN [NP [NPH white man ] ] ] [VP speak ] [PP in front of ] [EN [NP [NPH camera ] ] ] [PP on ] [EN [NP [NPH sidewalk ] ] ] [PP in ] [EN [NP [NPH city ] ] ]	9016#2
+2121	SN	[EN [NP [NPH white man ] ] ] [VP speak ]	9016#2
+2122	SN	[EN [NP [NPD some ] [NPH man ] ] ] [VP shoot ] [EN [NP [NPH scene ] ] ]	9016#3
+2123	SN	[EN [NP [NPD two ] [NPH person ] ] ] [PP in ] [EN [NP [NPH area ] ] ] [VP surround ] [PP by ] [EN [NP [NPH vegetation ] ] ] [PP with ] [EN [NP [NPH person ] ] ] [VP hold ] [EN [NP [NPH camera ] ] ] [ADJP point ] [PP towards ] [EN [NP [NPH vegetable ] ] ] [VP hold ] [PP by ] [EN [NP [NPH person ] ] ]	9017#0
+2124	SN	[EN [NP [NPH cameraman ] ] ] [VP shoot ] [EN [NP [NPM closeup ] [NPH image ] ] ] [PP of ] [EN [NP [NPH farmer ] ] ] and [EN [NP [NPH crop ] ] ]	9017#1
+2125	EN	[EN [NP [NPM closeup ] [NPH image ] ] ]	9017#1
+2126	EN	[EN [NP [NPH farmer ] ] ]	9017#1
+2127	SN	[EN [NP [NPH cameraman ] ] ] [VP shoot ] [EN [NP [NPM closeup ] [NPH image ] ] ]	9017#1
+2128	VP	[VP shoot ] [EN [NP [NPM closeup ] [NPH image ] ] ]	9017#1
+2129	SN	[EN [NP [NPD two ] [NPH man ] ] ] [PP in ] [EN [NP [NPM field or ] [NPH jungle ] ] ] [VP look ] [PP at ] [EN [NP [NPH something ] ] ]	9017#2
+2130	EN	[EN [NP [NPM field or ] [NPH jungle ] ] ]	9017#2
+2131	SN	[EN [NP [NPD two ] [NPH man ] ] ] [ADVP outdoors ] [PP with ] [EN [NP [NPM video ] [NPH camera ] ] ]	9017#3
+2132	SN	[EN [NP [NPH photographer ] ] ] [VP take ] [EN [NP [NPH photo ] ] ]	9017#H
+2133	VP	[VP take ] [EN [NP [NPH photo ] ] ]	9017#H
+2134	SN	[EN [NP [NPH guitarist ] ] ] [VP play ] [SBAR while ] [EN [NP [NPH person ] ] ] [VP play ] [PP with ] [EN [NP [NPH hula-hoop ] ] ] [PP in ] [EN [NP [NPH background ] ] ]	9018#0
+2135	EN	[EN [NP [NPH hula-hoop ] ] ]	9018#0
+2136	SN	[EN [NP [NPH man ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ] [PP on ] [EN [NP [NPH stage ] ] ] [SBAR while ] [EN [NP [NPH woman ] ] ] [VP smile ]	9018#1
+2137	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH hat ] ] ] [VP play ] [EN [NP [NPH guitar ] ] ] [PP on ] [EN [NP [NPH stage ] ] ]	9018#2
+2138	SN	[EN [NP [NPD some ] [NPH person ] ] ] [VP perform ] [EN [NP [NPM music ] [NPH outdoors ] ] ]	9018#3
+2139	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [PP in ] [EN [NP [NPH warehouse ] ] ] [VP talk ] and [VP write ] [PP on ] [EN [NP [NPH clipboard ] ] ]	9019#0
+2140	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ] [VP hold ] [EN [NP [NPM yellow ] [NPH folder ] ] ]	9019#1
+2141	EN	[EN [NP [NPM yellow ] [NPH folder ] ] ]	9019#1
+2142	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP hold ] [EN [NP [NPM yellow ] [NPH folder ] ] ]	9019#1
+2143	VP	[VP hold ] [EN [NP [NPM yellow ] [NPH folder ] ] ]	9019#1
+2144	SN	[EN [NP [NPM asian ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM brown ] [NPH hat ] ] ]	9019#1
+2145	SN	[EN [NP [NPH man ] ] ] [VP wear ] [EN [NP [NPM blue ] [NPH jacket ] ] ] [VP write ]	9019#2
+2146	SN	[EN [NP [NPH motorcycle ] ] ] [VP ride ] [PP on ] [EN [NP [NPH track ] ] ] [PP whilst ] [VP pull ] [EN [NP [NPH wheelie ] ] ]	9020#0
+2147	VP	[VP pull ] [EN [NP [NPH wheelie ] ] ]	9020#0
+2148	SN	[EN [NP [NPH man ] ] ] [VP ride ] [EN [NP [NPH motorcycle ] ] ] [VP perform ] [EN [NP [NPH trick ] ] ] [PP at ] [EN [NP [NPH track ] ] ]	9020#1
+2149	SN	[EN [NP [NPH man ] ] ] [VP put ] [EN [NP [NPH motorcycle ] ] ] [VP up ] [PP on ] [EN [NP [NPM rear ] [NPH wheel ] ] ] [PP on ] [EN [NP [NPH track ] ] ]	9020#2
+2150	EN	[EN [NP [NPM rear ] [NPH wheel ] ] ]	9020#2
+2151	SN	[EN [NP [NPH man ] ] ] [VP put ] [EN [NP [NPH motorcycle ] ] ]	9020#2
+2152	SN	[EN [NP [NPH man ] ] ] [VP do ] [EN [NP [NPH trick ] ] ] [PP on ] [EN [NP [NPH motorcycle ] ] ]	9020#3
+2153	SN	[EN [NP [NPH man ] ] ] [VP do ] [EN [NP [NPH trick ] ] ]	9020#3
+2154	SN	[EN [NP [NPH old man ] ] ] [PP with ] [EN [NP [NPM glasses ] [NPH hug ] ] ] [EN [NP [NPM young ] [NPH woman ] ] ] [PP at ] [EN [NP [NPH gathering ] ] [PP of ] [NP [NPM quite a few ] [NPH person ] ] ]	9302#1
+2155	EN	[EN [NP [NPH gathering ] ] [PP of ] [NP [NPM quite a few ] [NPH person ] ] ]	9302#1
+2156	SN	[EN [NP [NPM man ] [NPH vendor ] ] ] [PP with ] [EN [NP [NPM bright yellow ] [NPH umbrella ] ] ] and [EN [NP [NPH backpack ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ] [PP to ] [EN [NP [NPM elderly ] [NPH couple ] ] ]	9571#0
+2157	EN	[EN [NP [NPM bright yellow ] [NPH umbrella ] ] ]	9571#0
+2158	SN	[EN [NP [NPM man ] [NPH vendor ] ] ] [VP offer ] [EN [NP [NPH ware ] ] ]	9571#0
+2159	SN	[EN [NP [NPM man ] [NPH woman ] ] ] and [EN [NP [NPD three ] [NPH child ] ] ] [VP go ] [PP for ] [EN [NP [NPH walk ] ] ]	2936#3
+2160	SN	[EN [NP [NPD three ] [NPH child ] ] ] [VP go ]	2936#3
+2161	SN	[EN [NP [NPM man ] [NPH man ] ] ] [VP wear ] [EN [NP [NPM white ] [NPH jacket ] ] ] [PP with ] [EN [NP [NPH number ] ] ] " [ADVP 3 ] " [PP on ] [EN [NP [NPH back ] ] ] and [EN [NP [NPM black ] [NPH pant ] ] ] [VP face ] [PP away from ] [EN [NP [NPH camera ] ] ] [PP on ] [EN [NP [NPM raise ] [NPH platform ] ] ] [SBAR while ] [EN [NP [NPH crowd ] ] ] [VP gather ] [PP behind ] [EN [NP [NPH them ] ] ]	5190#0
+2162	EN	[EN [NP [NPM raise ] [NPH platform ] ] ]	5190#0
+2163	SN	[EN [NP [NPM man ] [NPH woman ] ] ] and [EN [NP [NPM little ] [NPH boy ] ] ] [VP sit ] [PP in ] [EN [NP [NPH meadow ] ] ]	7771#1
+2164	EN	[EN [NP [NPH meadow ] ] ]	7771#1

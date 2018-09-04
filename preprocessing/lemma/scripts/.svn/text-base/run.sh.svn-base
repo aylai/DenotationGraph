@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# run.sh <corpus name>
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+./lemmatizer.pl ../../corpora/$1/$1.pos ../../corpora/$1/$1
+
+popd > /dev/null

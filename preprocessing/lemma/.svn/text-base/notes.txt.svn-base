@@ -1,0 +1,19 @@
+scripts/run.sh NAME
+scripts/lemmtaizer.pl
+
+Lemmatizes "../../corpora/NAME/NAME.pos".  This uses the tags to
+determine whether or not to use the noun or verb lemmatizer.
+
+
+../../corpora/NAME/NAME.lemma
+Will be the lemmatized and tokenzized, but not tagged nor chunked corpus.
+
+
+../../corpora/NAME/NAME.nlemma
+Will be the noun lemmatizations used.  Columns are original word,
+lemmatized word.
+
+
+../../corpora/NAME/NAME.vlemma
+Will be the verb lemmatizations used.  Columns are original word,
+lemmatized word.

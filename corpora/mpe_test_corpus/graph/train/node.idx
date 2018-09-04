@@ -1,0 +1,2029 @@
+0	person
+1	clothing
+2	pants
+3	himself
+4	dare
+5	ladder
+6	them
+7	one
+8	work
+9	roof
+10	house
+11	left
+12	something
+13	hat
+14	hand
+15	right
+16	glasses
+17	food
+18	meal
+19	dish
+20	white
+21	gym
+22	leotard
+23	pant
+24	each other
+25	event
+26	audience
+27	pineapple
+28	ball
+29	toy
+30	fruit
+31	street
+32	marketplace
+33	instrument
+34	hair
+35	face
+36	tattoo
+37	arm
+38	outdoors
+39	her
+40	glove
+41	other
+42	call
+43	group
+44	blue
+45	wave
+46	picture
+47	all
+48	camera
+49	knob
+50	headphone
+51	music
+52	machine
+53	skateboard
+54	wall
+55	trick
+56	lip
+57	microphone
+58	flash
+59	band
+60	head
+61	turn
+62	couple
+63	crew
+64	scene
+65	image
+66	crop
+67	photo
+68	folder
+69	bike
+70	wheelie
+71	ware
+73	sort of event
+74	group of person
+75	christmas
+76	direction
+77	hug
+79	wear
+80	balance
+81	middle
+82	forest
+83	bench
+84	child
+85	person try to balance
+86	balance on bench
+87	person balance
+88	child balance
+89	try to balance
+90	park
+91	on bench
+92	bench in park
+93	boy
+94	person wear
+95	boy balance
+96	bench in middle of forest
+97	wooden bench
+98	child wear
+99	young child
+100	child try to balance
+101	person balance on bench
+102	person wear clothing and pants balance
+103	person wear clothing and jean balance
+104	person wear shirt and pants balance
+105	balance on bench in middle of forest
+106	boy balance on bench
+107	balance on wooden bench
+108	child balance on bench
+109	balance on bench in park
+110	child wear clothing and pants balance
+111	child wear clothing and jean balance
+112	child wear shirt and pants balance
+113	young child balance
+114	on bench in middle of forest
+115	on wooden bench
+116	on bench in park
+117	try to balance on bench
+118	person balance on bench in park
+119	person balance on bench in middle of forest
+120	person balance on wooden bench
+121	person wear clothing and pants balance on bench
+122	person wear clothing and jean balance on bench
+123	person wear shirt and pants balance on bench
+124	young child balance on bench
+125	child balance on bench in park
+126	child balance on bench in middle of forest
+127	child balance on wooden bench
+128	child wear clothing and pants balance on bench
+129	child wear clothing and jean balance on bench
+130	child wear shirt and pants balance on bench
+131	balance himself
+132	table
+133	person try to balance himself
+134	person try to balance on bench
+135	person balance himself
+136	child balance himself
+137	try to balance himself
+138	young child try to balance
+139	child try to balance himself
+140	child try to balance on bench
+141	young child balance himself
+142	young child try to balance on bench
+143	young child try to balance himself
+144	person engage
+145	engage
+146	game
+147	courage
+148	boy engage
+149	little boy
+150	boy wear
+151	child engage
+152	person standing
+153	standing
+154	child standing
+155	adult standing
+156	man standing
+157	person watch
+158	adult
+159	person watch them
+160	watch
+161	rooftop
+162	three person
+163	person one work
+164	three adult
+165	man
+166	adult one work
+167	adult watch
+168	adult watch them
+169	man watch
+170	man watch them
+171	three man
+172	man one work
+173	person fix
+174	person fix roof
+175	fix roof
+176	fix
+177	on roof
+178	person work
+179	work on roof
+180	man work
+181	adult work
+182	three person work
+183	three person one work
+184	three adult work
+185	three adult one work
+186	person one work on roof
+187	person work on roof
+188	man work on roof
+189	adult work on roof
+190	three man work
+191	three man one work
+192	person sit
+193	sit
+194	adult sit
+195	man sit
+196	most person
+197	person arrange
+198	wear glasses
+199	cook wear
+200	adult wear
+201	chef wear
+202	person flip
+203	flip
+204	only one
+205	be one
+206	arrange
+207	plate
+208	movement
+209	fry pan
+210	kitchen
+211	person wear glasses
+212	most person wear
+213	person wear clothing
+214	person wear shirt
+215	person wear pants
+216	person wear jean
+217	most adult
+218	cook
+219	adult arrange
+220	wear clothing
+221	wear shirt
+222	wear pants
+223	wear jean
+224	adult flip
+225	most person flip
+226	one on ladder
+227	most adult flip
+228	most cook
+229	cook flip
+230	chef
+231	male culinary person
+232	worker
+233	person prepare
+234	prepare
+235	commercial kitchen
+236	in kitchen
+237	three male culinary person
+238	three worker
+239	three person prepare
+240	male culinary adult
+241	adult prepare
+242	three male culinary adult
+243	three adult prepare
+244	person in kitchen
+245	in commercial kitchen
+246	meal in kitchen
+247	two sous person
+248	person and person prepare dish
+249	person prepare dish
+250	chef prepare
+251	cook prepare
+252	prepare dish
+253	restaurant
+254	two sous adult
+255	person and adult prepare dish
+256	male culinary person prepare
+257	person prepare meal
+258	worker prepare
+259	adult prepare dish
+260	prepare meal
+261	male culinary adult prepare
+262	adult prepare meal
+263	two sous cook
+264	person and cook prepare dish
+265	cook arrange
+266	cook prepare dish
+267	two sous chef
+268	person and chef prepare dish
+269	most chef
+270	chef flip
+271	most cook wear
+272	most cook arrange
+273	chef arrange
+274	chef prepare dish
+275	most chef wear
+276	most chef arrange
+277	dress
+278	person clothing prepare meal
+279	clothing wear
+280	dress wear
+281	wear white
+282	white clothing
+283	shirt
+284	three person prepare meal
+285	male culinary person prepare meal
+286	worker prepare meal
+287	person prepare meal in kitchen
+288	chef prepare meal
+289	cook prepare meal
+290	prepare meal in kitchen
+291	three chef prepare
+292	three cook prepare
+293	three cook
+294	three adult prepare meal
+295	three male culinary person prepare
+296	three worker prepare
+297	adult clothing prepare meal
+298	male culinary adult prepare meal
+299	adult prepare meal in kitchen
+300	three male culinary person prepare meal
+301	three worker prepare meal
+302	three person prepare meal in kitchen
+303	three person clothing prepare meal
+304	three male culinary adult prepare
+305	three male culinary adult prepare meal
+306	three adult prepare meal in kitchen
+307	three cook prepare meal
+308	three adult clothing prepare meal
+309	three chef
+310	person cook
+311	cook in kitchen
+312	adult cook
+313	man cook
+314	three person cook
+315	three adult cook
+316	three man cook
+317	gym wear
+318	gymnasium wear
+319	wear leotard
+320	get hug
+321	by person
+322	someone
+323	blue clothing
+324	jacket
+325	wear clothing and pant
+326	wear blue clothing
+327	wear jacket
+328	child wear clothing
+329	boy wear clothing
+330	wear white clothing
+331	wear clothing and pants
+332	person hug wear clothing
+333	person wear leotard hug
+334	purple leotard
+335	woman wear
+336	girl_woman wear
+337	blue and purple clothing
+338	outfit
+339	woman
+340	adult hug wear clothing
+341	adult wear leotard hug
+342	person wear leotard
+343	blue leotard
+344	leotard get hug
+345	wear purple leotard
+346	woman wear leotard
+347	adult wear leotard
+348	girl_woman wear leotard
+349	wear blue leotard
+350	gym wear leotard
+351	gymnasium wear leotard
+352	adult wear glasses
+353	most adult wear
+354	wear blue and purple clothing
+355	person wear leotard hug wear clothing
+356	woman wear leotard hug wear clothing
+357	adult wear leotard hug wear clothing
+358	girl_woman wear leotard hug wear clothing
+359	wear outfit
+360	by adult
+361	hug by person
+362	by someone
+363	get hug by person
+364	by woman
+365	girl_woman
+366	brown-haired person
+367	person hug person
+368	person hug
+369	person hug person wear clothing
+370	person wear leotard hug person
+371	woman hug
+372	adult hug
+373	girl_woman hug
+374	hug person
+375	hug woman
+376	hug adult
+377	hug girl_woman
+378	track clothing
+379	brown-haired person wear
+380	brown-haired adult
+381	adult hug person
+382	adult hug person wear clothing
+383	person wear blue leotard hug person
+384	blue leotard get hug
+385	brown-haired woman wear
+386	brown-haired adult wear
+387	brown-haired girl_woman wear
+388	person hug adult
+389	person wear leotard hug adult
+390	person wear outfit
+391	woman wear clothing
+392	wear track clothing
+393	adult wear clothing
+394	girl_woman wear clothing
+395	track outfit
+396	person hug person wear outfit
+397	blue and purple outfit
+398	person hug wear outfit
+399	woman wear outfit
+400	adult wear outfit
+401	girl_woman wear outfit
+402	wear track outfit
+403	wear blue and purple outfit
+404	person wear leotard hug wear outfit
+405	woman wear leotard hug wear outfit
+406	adult wear leotard hug wear outfit
+407	girl_woman wear leotard hug wear outfit
+408	brown-haired person wear leotard
+409	person wear leotard hug woman wear clothing
+410	person wear blue leotard
+411	person wear leotard hug adult wear clothing
+412	person wear leotard hug girl_woman wear clothing
+413	person wear leotard hug person wear outfit
+414	person wear leotard hug person wear clothing
+415	person wear purple leotard
+416	brown-haired woman
+417	woman hug person
+418	woman hug person wear clothing
+419	woman hug wear clothing
+420	woman wear leotard hug
+421	woman wear blue leotard
+422	adult wear blue leotard
+423	girl_woman wear blue leotard
+424	gym wear blue leotard
+425	gymnasium wear blue leotard
+426	brown-haired woman wear leotard
+427	woman wear leotard hug woman wear clothing
+428	woman wear leotard hug adult wear clothing
+429	woman wear leotard hug girl_woman wear clothing
+430	woman wear leotard hug person wear outfit
+431	woman wear leotard hug person
+432	woman wear leotard hug person wear clothing
+433	woman wear purple leotard
+434	brown-haired adult wear leotard
+435	adult wear leotard hug woman wear clothing
+436	adult wear leotard hug adult wear clothing
+437	adult wear leotard hug girl_woman wear clothing
+438	adult wear leotard hug person wear outfit
+439	adult wear leotard hug person
+440	adult wear leotard hug person wear clothing
+441	adult wear purple leotard
+442	brown-haired girl_woman wear leotard
+443	girl_woman wear leotard hug woman wear clothing
+444	girl_woman wear leotard hug adult wear clothing
+445	girl_woman wear leotard hug girl_woman wear clothing
+446	girl_woman wear leotard hug person wear outfit
+447	girl_woman wear leotard hug person
+448	girl_woman wear leotard hug person wear clothing
+449	girl_woman wear purple leotard
+450	girl_woman wear leotard hug
+451	person hug woman
+452	person wear leotard hug woman
+453	person wear track clothing
+454	person wear white clothing
+455	person wear clothing and pants
+456	brown-haired girl_woman
+457	girl_woman hug person
+458	girl_woman hug person wear clothing
+459	by girl_woman
+460	girl_woman hug wear clothing
+461	person hug girl_woman
+462	person wear leotard hug girl_woman
+463	person hug each other
+464	hug each other
+465	adult hug each other
+466	brown-haired person hug
+467	woman hug each other
+468	brown-haired woman hug
+469	woman hug woman
+470	woman hug adult
+471	woman hug girl_woman
+472	brown-haired adult hug
+473	adult hug woman
+474	adult hug adult
+475	adult hug girl_woman
+476	person wear leotard hug each other during event
+477	adult wear leotard hug each other during event
+478	woman wear leotard hug each other during event
+479	person wear blue leotard hug each other during event
+480	brown-haired person wear blue leotard
+481	person wear blue leotard hug woman wear clothing
+482	person wear blue leotard hug adult wear clothing
+483	person wear blue leotard hug girl_woman wear clothing
+484	person wear blue leotard hug person wear outfit
+485	person wear blue leotard hug person wear clothing
+486	adult wear blue leotard hug each other during event
+487	brown-haired adult wear blue leotard
+488	adult wear blue leotard hug woman wear clothing
+489	adult wear blue leotard hug adult wear clothing
+490	adult wear blue leotard hug girl_woman wear clothing
+491	adult wear blue leotard hug person wear outfit
+492	adult wear blue leotard hug person
+493	adult wear blue leotard hug person wear clothing
+494	woman wear blue leotard hug each other during event
+495	brown-haired woman wear blue leotard
+496	woman wear blue leotard hug woman wear clothing
+497	woman wear blue leotard hug adult wear clothing
+498	woman wear blue leotard hug girl_woman wear clothing
+499	woman wear blue leotard hug person wear outfit
+500	woman wear blue leotard hug person
+501	woman wear blue leotard hug person wear clothing
+502	audience sit
+503	street person
+504	person sell person
+505	person sell
+506	some person
+507	sell person
+508	ward
+509	sell
+510	street adult
+511	merchant
+512	adult sell person
+513	adult sell
+514	person sell toy
+515	woman sell
+516	sell toy
+517	adult sell toy
+518	street person sell
+519	person sell ward
+520	vendor sell
+521	merchant sell
+522	sell ward
+523	street adult sell
+524	adult sell ward
+525	young woman
+526	woman sell toy
+527	set
+528	person with ware
+529	person set up
+530	adult with ware
+531	adult set up
+532	vendor
+533	merchant with ware
+534	merchant set up
+535	street merchant
+536	merchant sell person
+537	street vendor
+538	vendor sell person
+539	vendor with ware
+540	vendor set up
+541	sit on side of street
+542	side
+543	on side of street
+544	person sit on side of street
+545	adult sit on side of street
+546	man sit on side of street
+547	on street
+548	person play
+549	play
+550	cover
+551	dot
+552	performer
+553	entertainer
+554	adult play
+555	person with long hair and tattoo
+556	person play instrument
+557	play instrument
+558	percussion instrument
+559	man play
+560	play drum
+561	play percussion instrument
+562	long hair
+563	with long hair and tattoo
+564	adult with long hair and tattoo
+565	adult play instrument
+566	person play drum
+567	person play percussion instrument
+568	person with long hair and tattoo play
+569	entertainer play
+570	musician play
+571	performer play
+572	adult play drum
+573	adult play percussion instrument
+574	adult with long hair and tattoo play
+575	tattoo dot
+576	man with long hair and tattoo
+577	man play instrument
+578	person with long hair and tattoo play instrument
+579	person play instrument outdoors
+580	person with long hair and tattoo play percussion instrument
+581	person play percussion instrument outdoors
+582	person with long hair and tattoo play drum
+583	person play drum outdoors
+584	entertainer play instrument
+585	musician play instrument
+586	performer play instrument
+587	drum
+588	entertainer play percussion instrument
+589	musician play percussion instrument
+590	performer play percussion instrument
+591	man play percussion instrument
+592	entertainer play drum
+593	musician play drum
+594	performer play drum
+595	man play drum
+596	adult with long hair and tattoo play instrument
+597	adult play instrument outdoors
+598	adult with long hair and tattoo play percussion instrument
+599	adult play percussion instrument outdoors
+600	adult with long hair and tattoo play drum
+601	adult play drum outdoors
+602	shake
+603	shake hair
+604	person shake hair
+605	person shake hair and beat instrument
+606	tattoo person
+607	person beat
+608	person shake
+609	person beat instrument
+610	beat instrument
+611	beat
+612	hair cover
+613	beat percussion instrument
+614	person shake hair and beat percussion instrument
+615	person beat percussion instrument
+616	beat drum
+617	person shake hair and beat drum
+618	person beat drum
+619	long-haired person
+620	music outdoors
+621	play outdoors
+622	drummer play
+623	percussionist play
+624	long-haired adult
+625	long-haired person play
+626	person play outdoors
+627	long-haired entertainer play
+628	entertainer play outdoors
+629	long-haired adult play
+630	adult play outdoors
+631	long-haired performer play
+632	performer play outdoors
+633	long-haired musician play
+634	musician play outdoors
+635	long-haired performer
+636	musician
+637	long-haired entertainer
+638	long-haired musician
+639	percussionist
+640	adult beat
+641	entertainer beat
+642	performer beat
+643	tattoo person beat
+644	adult beat instrument
+645	entertainer beat instrument
+646	performer beat instrument
+647	tattoo person beat instrument
+648	person tilt face
+649	tilt face
+650	tilt
+651	person lift
+652	person tilt
+653	person lift her
+654	lift
+655	cover face
+656	adult lift
+657	adult tilt
+658	adult tilt face
+659	adult lift her
+660	woman lift
+661	woman tilt
+662	woman tilt face
+663	woman lift her
+664	person peer
+665	wear glove
+666	peer
+667	adult peer
+668	person wear glove
+669	adult wear glove
+670	woman wear glove
+671	woman peer
+672	person with glove
+673	person and other
+674	white glove
+675	with glove
+676	adult with glove
+677	adult and other
+678	woman with glove
+679	woman and other
+680	wear white glove
+681	with white glove
+682	person with brown hair
+683	brown hair
+684	adult with brown hair
+685	person with brown hair wear
+686	woman with brown hair wear
+687	adult with brown hair wear
+688	woman with brown hair
+689	person wear white glove
+690	person with brown hair wear glove
+691	person wear glove peer
+692	woman wear white glove
+693	adult wear white glove
+694	woman with brown hair wear glove
+695	woman wear glove peer
+696	adult with brown hair wear glove
+697	adult wear glove peer
+698	person wear white glove peer
+699	person with brown hair wear white glove
+700	adult wear white glove peer
+701	adult with brown hair wear white glove
+702	woman wear white glove peer
+703	woman with brown hair wear white glove
+704	lady standing
+705	woman standing
+706	lady
+707	person talk
+708	person with hair
+709	talk
+710	phone
+711	close hair
+712	with hair
+713	haircut
+714	coat
+715	adult talk
+716	adult with hair
+717	person and wear clothing talk
+718	adult and wear clothing talk
+719	young man and wear clothing talk
+720	man and wear clothing talk
+721	wear coat
+722	young man
+723	man talk
+724	man with hair
+725	black clothing
+726	man wear
+727	talk on indoor
+728	indoor
+729	person wear clothing and clothing talk
+730	person wear clothing and shirt talk
+731	person wear coat and clothing talk
+732	person talk on indoor
+733	person and talk
+734	person talk on phone
+735	person with hair talk
+736	person wear coat
+737	black coat
+738	sport coat
+739	wear black clothing
+740	man wear clothing
+741	wear clothing and clothing
+742	wear clothing and shirt
+743	wear blue shirt
+744	adult wear shirt
+745	man wear shirt
+746	child wear shirt
+747	boy wear shirt
+748	wear white shirt
+749	wear shirt and pants
+750	adult wear coat
+751	wear black coat
+752	man wear coat
+753	wear coat and clothing
+754	person and wear coat talk
+755	adult and wear coat talk
+756	young man and wear coat talk
+757	man and wear coat talk
+758	wear sport coat
+759	blue shirt
+760	blue jacket
+761	white shirt
+762	young man talk
+763	talk on phone
+764	adult wear clothing and clothing talk
+765	adult wear clothing and shirt talk
+766	adult wear coat and clothing talk
+767	adult talk on indoor
+768	adult and talk
+769	adult talk on phone
+770	adult with hair talk
+771	man wear clothing and clothing talk
+772	man wear clothing and shirt talk
+773	man wear coat and clothing talk
+774	man talk on indoor
+775	man and talk
+776	man talk on phone
+777	man with hair talk
+778	person wear clothing and clothing
+779	person wear blue clothing
+780	person wear clothing and shirt
+781	person wear blue shirt
+782	person wear white shirt
+783	person wear shirt and pants
+784	person wear black clothing
+785	adult wear black clothing
+786	adult wear clothing and clothing
+787	adult wear track clothing
+788	person hug adult wear clothing
+789	wear clothing and blue clothing
+790	adult wear blue clothing
+791	man wear blue clothing
+792	wear blue clothing and pant
+793	wear blue jacket
+794	man wear clothing and clothing
+795	suit
+796	be clothing
+797	person be clothing talk
+798	room
+799	phone in room
+800	on phone
+801	black suit
+802	be black clothing
+803	person be black clothing talk
+804	adult be clothing talk
+805	man be clothing talk
+806	talk on phone in room
+807	young man talk on phone
+808	person talk on phone in room
+809	person be clothing talk on phone
+810	person and talk on phone
+811	person with hair talk on phone
+812	adult talk on phone in room
+813	adult be clothing talk on phone
+814	adult and talk on phone
+815	adult with hair talk on phone
+816	man talk on phone in room
+817	man be clothing talk on phone
+818	man and talk on phone
+819	man with hair talk on phone
+820	on phone in room
+821	dark clothing
+822	businessman wear
+823	wear suit
+824	businessman talk
+825	cellphone
+826	person wear suit
+827	businessman
+828	person wear suit talk
+829	person wear clothing talk
+830	dark suit
+831	be suit
+832	person be suit talk
+833	wear dark clothing
+834	businessman wear clothing
+835	man wear suit
+836	adult wear suit
+837	man wear suit talk
+838	man wear clothing talk
+839	adult wear suit talk
+840	adult wear clothing talk
+841	businessman talk on phone
+842	talk on cellphone
+843	on cellphone
+844	person wear dark clothing
+845	person wear suit talk on phone
+846	person talk on cellphone
+847	person wear clothing talk on phone
+848	man wear dark clothing
+849	man wear black clothing
+850	adult wear dark clothing
+851	man wear suit talk on phone
+852	man talk on cellphone
+853	man wear clothing talk on phone
+854	adult wear suit talk on phone
+855	adult talk on cellphone
+856	adult wear clothing talk on phone
+857	person make
+858	make
+859	adult make
+860	man make
+861	sit on ground
+862	bag
+863	ground
+864	some adult
+865	some person sit
+866	sell some person
+867	some ward
+868	person sell some person
+869	person sit on ground
+870	some man sit
+871	man sit on ground
+872	some adult sit
+873	adult sit on ground
+874	some man
+875	male sit
+876	sit in circle
+877	person sit talk
+878	male
+879	circle
+880	man sit in circle
+881	man sit talk
+882	adult sit in circle
+883	adult sit talk
+884	person sit in circle
+885	some male
+886	some person sit talk
+887	some male sit
+888	some man sit in circle
+889	some man sit talk
+890	some man sit on ground
+891	some adult sit in circle
+892	some adult sit talk
+893	some adult sit on ground
+894	some person sit in circle
+895	some person sit on ground
+896	sit on street
+897	boy sit
+898	child sit
+899	boy talk
+900	child talk
+901	person sit on street
+902	person sit and talk
+903	some boy
+904	some person talk
+905	some child
+906	set up on street
+907	some boy sit
+908	some child sit
+909	some person sit on street
+910	some person sit and talk
+911	in circle
+912	person sit down
+913	man sit down
+914	adult sit down
+915	sit down in circle
+916	group sit
+917	crowd
+918	over group
+919	girl
+920	person jump
+921	person jump as wave approach her
+922	girl wear
+923	wear blue
+924	jump
+925	wave approach her
+926	approach her
+927	approach
+928	shore
+929	person wear blue
+930	lift her
+931	young long-haired person
+932	person on beach
+933	jump in air
+934	girl jump
+935	air
+936	beach
+937	young long-haired girl
+938	girl on beach
+939	girl jump as wave approach her
+940	young long-haired person jump
+941	person jump in air
+942	person on beach jump
+943	person jump on shore
+944	jump on shore
+945	girl jump on shore
+946	young long-haired girl jump
+947	girl jump in air
+948	girl on beach jump
+949	leap
+950	standing by ocean
+951	person leap while standing
+952	person leap
+953	ocean
+954	into air
+955	girl leap
+956	girl leap while standing
+957	in air
+958	jump into air
+959	on beach
+960	air on beach
+961	person jump into air
+962	girl jump into air
+963	into air on beach
+964	leap into air
+965	person run
+966	run
+967	into ocean
+968	child run
+969	by ocean
+970	gather take
+971	group look
+972	group at christmas
+973	group gather take picture
+974	group gather take
+975	look
+976	person look
+977	person at christmas
+978	person gather take picture
+979	person gather take
+980	group try to avoid camera
+981	group try to avoid
+982	avoid
+983	person try to avoid camera
+984	person try to avoid
+985	group of person look
+986	person look of try to avoid camera
+987	person gather take picture all look away from camera
+988	person at christmas look
+989	group look of try to avoid camera
+990	group gather take picture all look away from camera
+991	group at christmas look
+992	group of person try to avoid camera
+993	group of person try to avoid
+994	group of person at christmas
+995	group of person gather take picture
+996	group of person gather take
+997	group of person gather take picture all look away from camera
+998	group of person at christmas look
+999	group of person look of try to avoid camera
+1000	group not want to take
+1001	not want to take picture
+1002	not want to take
+1003	person not want to take
+1004	group of person not want to take
+1005	funny picture
+1006	gather take picture
+1007	person at party
+1008	night
+1009	party
+1010	some person at party
+1011	individual
+1012	individual standing
+1013	some individual
+1014	some person standing
+1015	person move knob
+1016	person with headphone on
+1017	person move
+1018	move
+1019	equipment
+1020	dj
+1021	adult move knob
+1022	adult with headphone on
+1023	adult move
+1024	shaven head person
+1025	person and work
+1026	wear headphone
+1027	young man wear
+1028	board
+1029	work with board
+1030	shaven head adult
+1031	adult and work
+1032	shaven head person wear
+1033	person wear headphone
+1034	with headphone on
+1035	shaven head adult wear
+1036	adult wear headphone
+1037	shaven head man wear
+1038	man wear headphone
+1039	shaven head man
+1040	man and work
+1041	shaven head young man
+1042	young man and work
+1043	young man with hair
+1044	person adjust
+1045	adjust
+1046	mixer
+1047	adult adjust
+1048	man adjust
+1049	person with headphone
+1050	person be hard
+1051	at work
+1052	earphone
+1053	with headphone
+1054	adult with headphone
+1055	adult be hard
+1056	man with headphone
+1057	man be hard
+1058	person control
+1059	control
+1060	adult control
+1061	man control
+1062	ride
+1063	person ride skateboard
+1064	person fall
+1065	person ride
+1066	fall
+1067	cover in graffiti
+1068	wall cover
+1069	graffiti
+1070	shadow
+1071	adult ride skateboard
+1072	adult fall
+1073	adult ride
+1074	man ride skateboard
+1075	man fall
+1076	man ride
+1077	skateboarder jump
+1078	adult jump
+1079	skater jump
+1080	athlete jump
+1081	jump through air
+1082	graffiti cover wall
+1083	in front of wall
+1084	through air
+1085	air in front of wall
+1086	athlete
+1087	person jump through air
+1088	person perform
+1089	perform
+1090	graffiti wall
+1091	against wall
+1092	adult perform
+1093	skater
+1094	athlete perform
+1095	skateboarder
+1096	skater perform
+1097	skateboarder perform
+1098	person grind
+1099	grind
+1100	adult grind
+1101	athlete grind
+1102	skater grind
+1103	skateboarder grind
+1104	trick on ramp
+1105	perform trick
+1106	ramp
+1107	person perform trick
+1108	skateboard trick
+1109	trick against wall
+1110	adult perform trick
+1111	athlete perform trick
+1112	skater perform trick
+1113	person perform skateboard trick
+1114	person perform trick against wall
+1115	person perform trick on ramp
+1116	perform skateboard trick
+1117	skateboarder perform trick
+1118	perform trick against wall
+1119	perform trick on ramp
+1120	adult perform skateboard trick
+1121	adult perform trick against wall
+1122	adult perform trick on ramp
+1123	athlete perform skateboard trick
+1124	athlete perform trick against wall
+1125	athlete perform trick on ramp
+1126	skater perform skateboard trick
+1127	skater perform trick against wall
+1128	skater perform trick on ramp
+1129	female person
+1130	person hold
+1131	person hold microphone
+1132	short clothing
+1133	entertainer wear
+1134	singer wear
+1135	performer wear
+1136	musician wear
+1137	wear dress
+1138	hold
+1139	electric instrument
+1140	stringed instrument
+1141	instrument in front of amplifier
+1142	play stringed instrument
+1143	play guitar
+1144	play bass guitar
+1145	amplifier
+1146	in one of hand
+1147	female person wear
+1148	person wear dress
+1149	female adult
+1150	adult hold
+1151	adult hold microphone
+1152	wear short clothing
+1153	entertainer wear clothing
+1154	singer wear clothing
+1155	performer wear clothing
+1156	musician wear clothing
+1157	short dress
+1158	person dress prepare meal
+1159	female adult wear
+1160	adult wear dress
+1161	person play electric instrument
+1162	person play stringed instrument
+1163	person play instrument in front of amplifier
+1164	person hold microphone while person play instrument
+1165	person play guitar
+1166	person play bass guitar
+1167	play electric instrument
+1168	play instrument in front of amplifier
+1169	adult play stringed instrument
+1170	adult play guitar
+1171	adult play bass guitar
+1172	man play stringed instrument
+1173	man play guitar
+1174	man play bass guitar
+1175	man with long hair and tattoo play
+1176	female person wear clothing
+1177	person wear short clothing
+1178	female performer
+1179	performer hold
+1180	performer hold microphone
+1181	female entertainer
+1182	entertainer hold
+1183	entertainer hold microphone
+1184	female adult wear clothing
+1185	adult wear short clothing
+1186	adult play electric instrument
+1187	adult play instrument in front of amplifier
+1188	person hold microphone while adult play instrument
+1189	man play electric instrument
+1190	man play instrument in front of amplifier
+1191	person hold microphone while man play instrument
+1192	man with long hair and tattoo play instrument
+1193	man play instrument outdoors
+1194	female musician
+1195	musician hold
+1196	musician hold microphone
+1197	singer
+1198	musical person
+1199	person praise group
+1200	person praise
+1201	praise group
+1202	praise
+1203	band play
+1204	musical person wear
+1205	musical adult
+1206	adult praise group
+1207	adult praise
+1208	black dress
+1209	musical adult wear
+1210	musical entertainer wear
+1211	entertainer wear dress
+1212	female entertainer wear
+1213	musical performer wear
+1214	performer wear dress
+1215	female performer wear
+1216	wear black dress
+1217	wear short dress
+1218	singer wear dress
+1219	musician wear dress
+1220	praise crowd
+1221	person praise crowd
+1222	over crowd
+1223	musical person wear clothing
+1224	musical person wear dress
+1225	person wear black dress
+1226	female person wear dress
+1227	person wear short dress
+1228	musical performer
+1229	performer praise group
+1230	performer praise
+1231	musical entertainer
+1232	entertainer praise group
+1233	entertainer praise
+1234	entertainer wear black clothing
+1235	performer wear black clothing
+1236	wear black clothing and clothing
+1237	musical adult wear clothing
+1238	musical entertainer wear clothing
+1239	female entertainer wear clothing
+1240	entertainer wear short clothing
+1241	musical performer wear clothing
+1242	female performer wear clothing
+1243	performer wear short clothing
+1244	musical adult wear dress
+1245	adult wear black dress
+1246	female adult wear dress
+1247	adult wear short dress
+1248	female entertainer wear dress
+1249	entertainer wear short dress
+1250	musical entertainer wear dress
+1251	entertainer wear black dress
+1252	female performer wear dress
+1253	performer wear short dress
+1254	musical performer wear dress
+1255	performer wear black dress
+1256	musical person wear black clothing
+1257	person wear black coat
+1258	person wear black clothing and clothing
+1259	musical adult wear black clothing
+1260	adult wear black coat
+1261	adult wear black clothing and clothing
+1262	redheaded person
+1263	person spread
+1264	person with arm
+1265	spread
+1266	stage
+1267	with arm
+1268	redheaded adult
+1269	adult spread
+1270	adult with arm
+1271	dot arm
+1272	redheaded performer
+1273	performer spread
+1274	performer with arm
+1275	redheaded entertainer
+1276	entertainer spread
+1277	entertainer with arm
+1278	redheaded musician
+1279	musician spread
+1280	musician with arm
+1281	redheaded singer
+1282	singer spread
+1283	singer with arm
+1284	female singer
+1285	singer hold
+1286	singer hold microphone
+1287	person and person
+1288	male person
+1289	person on stage
+1290	on stage
+1291	female person and person
+1292	female person hold
+1293	female person hold microphone
+1294	adult and person
+1295	male adult
+1296	adult on stage
+1297	person and adult
+1298	female adult and person
+1299	female adult hold
+1300	female adult hold microphone
+1301	performer and person
+1302	entertainer and person
+1303	male entertainer
+1304	entertainer on stage
+1305	person and entertainer
+1306	male performer
+1307	performer on stage
+1308	person and performer
+1309	spread on stage
+1310	female performer and person
+1311	female performer hold
+1312	female performer hold microphone
+1313	female entertainer and person
+1314	female entertainer hold
+1315	female entertainer hold microphone
+1316	musician and person
+1317	male musician
+1318	musician on stage
+1319	person and musician
+1320	guitarist
+1321	female musician and person
+1322	female musician wear
+1323	female musician hold
+1324	female musician hold microphone
+1325	singer and person
+1326	female singer and person
+1327	female singer wear
+1328	female singer hold
+1329	female singer hold microphone
+1330	person sing
+1331	sing
+1332	adult sing
+1333	woman sing
+1334	person and person cover turn camera
+1335	wear head
+1336	video camera
+1337	camera on themselves
+1338	cover turn
+1339	themselves
+1340	person and adult cover turn camera
+1341	person wear head
+1342	adult wear head
+1343	woman wear head
+1344	adult and person cover turn camera
+1345	try to avoid camera
+1346	person and woman cover turn camera
+1347	man and person cover turn camera
+1348	person smile
+1349	brown clothing
+1350	sweater
+1351	wear sweater
+1352	person and person smile
+1353	smile
+1354	for camera
+1355	adult smile
+1356	person wear sweater
+1357	wear brown clothing
+1358	man wear sweater
+1359	adult wear sweater
+1360	person and adult smile
+1361	for video camera
+1362	video camera on themselves
+1363	person and person cover turn video camera
+1364	man smile
+1365	person wear brown clothing
+1366	person wear clothing and adult smile
+1367	person wear clothing and person smile
+1368	person wear clothing and woman smile
+1369	man wear brown clothing
+1370	man wear clothing and adult smile
+1371	man wear clothing and person smile
+1372	man wear clothing and woman smile
+1373	adult wear brown clothing
+1374	adult wear clothing and adult smile
+1375	adult wear clothing and person smile
+1376	adult wear clothing and woman smile
+1377	person and woman smile
+1378	person pose
+1379	pose
+1380	they
+1381	they hold
+1382	adult pose
+1383	person and person pose that person hold
+1384	hold microphone
+1385	pose for camera
+1386	smile for camera
+1387	man pose
+1388	pose for video camera
+1389	smile for video camera
+1390	camcorder
+1391	film person
+1392	long clothing
+1393	gray clothing
+1394	gentleman wear
+1395	film
+1396	film adult
+1397	wear long clothing
+1398	wear gray clothing
+1399	gentleman wear clothing
+1400	long coat
+1401	gray coat
+1402	wear long coat
+1403	wear gray coat
+1404	gentleman wear coat
+1405	person wear long clothing
+1406	person wear gray clothing
+1407	crew film person wear clothing
+1408	person wear long coat
+1409	person wear gray coat
+1410	crew film person wear coat
+1411	person wear coat and clothing
+1412	gentleman
+1413	film man
+1414	adult wear long clothing
+1415	adult wear gray clothing
+1416	crew film adult wear clothing
+1417	man wear long clothing
+1418	man wear gray clothing
+1419	crew film man wear clothing
+1420	adult wear long coat
+1421	adult wear gray coat
+1422	crew film adult wear coat
+1423	adult wear coat and clothing
+1424	man wear long coat
+1425	man wear gray coat
+1426	crew film man wear coat
+1427	man wear black coat
+1428	man wear coat and clothing
+1429	person film
+1430	man film
+1431	adult film
+1432	film gentleman
+1433	person film person while person watch
+1434	two person
+1435	person film person
+1436	fourth person
+1437	crew film
+1438	man film person
+1439	adult film person
+1440	crew film person
+1441	person film man
+1442	man film man
+1443	adult film man
+1444	crew film man
+1445	person film adult
+1446	man film adult
+1447	adult film adult
+1448	crew film adult
+1449	adult film person while person watch
+1450	two adult
+1451	person film adult while person watch
+1452	fourth person watch
+1453	person film person while adult watch
+1454	fourth adult
+1455	watch them
+1456	fourth man watch
+1457	person film person while man watch
+1458	fourth adult watch
+1459	film older gentleman
+1460	crew film gentleman
+1461	person film gentleman
+1462	man film gentleman
+1463	adult film gentleman
+1464	man film person while person watch
+1465	two man
+1466	person film man while person watch
+1467	fourth man
+1468	person film older gentleman
+1469	man film older gentleman
+1470	adult film older gentleman
+1471	crew film older gentleman
+1472	older gentleman
+1473	person film gentleman while person watch
+1474	older gentleman wear
+1475	person film older gentleman while person watch
+1476	person speak
+1477	speak
+1478	city
+1479	sidewalk
+1480	street in city
+1481	in front of camera
+1482	camera on street
+1483	adult speak
+1484	on sidewalk
+1485	on street in city
+1486	white man
+1487	man speak
+1488	person shoot
+1489	shoot
+1490	some person shoot
+1491	adult shoot
+1492	some adult shoot
+1493	man shoot
+1494	some man shoot
+1495	standing on street
+1496	person standing on street
+1497	man standing on street
+1498	adult standing on street
+1499	person in area
+1500	person surround
+1501	surround
+1502	person hold camera
+1503	hold camera
+1504	hold by person
+1505	vegetable
+1506	vegetation
+1507	area
+1508	two person in area
+1509	two person surround
+1510	two person film person while person watch
+1511	two person film
+1512	two person film person
+1513	person hold by person
+1514	artist
+1515	person shoot image
+1516	cameraman shoot
+1517	artist shoot
+1518	photographer shoot
+1519	shoot image
+1520	adult shoot image
+1521	person shoot scene
+1522	shoot scene
+1523	man shoot image
+1524	man shoot scene
+1525	adult shoot scene
+1526	cameraman
+1527	person in jungle
+1528	adult look
+1529	look at something
+1530	man look
+1531	at something
+1532	jungle
+1533	two person in jungle
+1534	two person look
+1535	adult in jungle
+1536	person look at something
+1537	person in jungle look
+1538	something in fry pan
+1539	flip something
+1540	two adult in jungle
+1541	two adult look
+1542	two adult film person while person watch
+1543	two adult film
+1544	two adult film person
+1545	man in jungle
+1546	two man in jungle
+1547	two man look
+1548	two man film person while person watch
+1549	two man film
+1550	two man film person
+1551	person with camera
+1552	with camera
+1553	two person with camera
+1554	adult with camera
+1555	with video camera
+1556	two adult with camera
+1557	man with camera
+1558	two man with camera
+1559	person take
+1560	take
+1561	photographer
+1562	artist take
+1563	artist shoot image
+1564	photographer shoot image
+1565	photographer take
+1566	guitarist play
+1567	person play while person play
+1568	play with hula hoop
+1569	background
+1570	hula hoop
+1571	adult play while person play
+1572	performer play while person play
+1573	entertainer play while person play
+1574	musician play while person play
+1575	person play with hula hoop
+1576	guitarist play while person play
+1577	male guitarist
+1578	guitarist on stage
+1579	person and guitarist
+1580	person play instrument while person smile
+1581	instrument on stage
+1582	woman smile
+1583	play instrument on stage
+1584	play guitar on stage
+1585	play electric guitar
+1586	play guitar in front of amplifier
+1587	play stringed instrument on stage
+1588	play electric stringed instrument
+1589	play stringed instrument in front of amplifier
+1590	adult play instrument while person smile
+1591	person play instrument on stage
+1592	guitar
+1593	stringed instrument on stage
+1594	person play stringed instrument while person smile
+1595	electric stringed instrument
+1596	stringed instrument in front of amplifier
+1597	person play instrument while adult smile
+1598	person smile for camera
+1599	adult smile for camera
+1600	adult and person smile
+1601	person play guitar on stage
+1602	person play guitar while person smile
+1603	person play electric guitar
+1604	person play guitar in front of amplifier
+1605	person hold microphone while person play guitar
+1606	person play stringed instrument on stage
+1607	person play electric stringed instrument
+1608	person play stringed instrument in front of amplifier
+1609	person hold microphone while person play stringed instrument
+1610	man play instrument on stage
+1611	man play instrument while person smile
+1612	man play guitar on stage
+1613	man play guitar while person smile
+1614	man play electric guitar
+1615	man play guitar in front of amplifier
+1616	person hold microphone while man play guitar
+1617	man play stringed instrument on stage
+1618	man play stringed instrument while person smile
+1619	man play electric stringed instrument
+1620	man play stringed instrument in front of amplifier
+1621	person hold microphone while man play stringed instrument
+1622	adult play instrument on stage
+1623	adult play guitar on stage
+1624	adult play guitar while person smile
+1625	adult play electric guitar
+1626	adult play guitar in front of amplifier
+1627	person hold microphone while adult play guitar
+1628	adult play stringed instrument on stage
+1629	adult play stringed instrument while person smile
+1630	adult play electric stringed instrument
+1631	adult play stringed instrument in front of amplifier
+1632	person hold microphone while adult play stringed instrument
+1633	bass guitar
+1634	electric guitar
+1635	guitar in front of amplifier
+1636	guitar on stage
+1637	person play instrument while woman smile
+1638	wear hat
+1639	person wear hat
+1640	adult wear hat
+1641	man wear hat
+1642	person play instrument on stage while person smile
+1643	person wear hat play instrument
+1644	person wear hat play guitar
+1645	person wear hat play stringed instrument
+1646	person play stringed instrument on stage while person smile
+1647	adult wear hat play instrument
+1648	man wear hat play instrument
+1649	adult wear hat play guitar
+1650	man wear hat play guitar
+1651	adult wear hat play stringed instrument
+1652	man wear hat play stringed instrument
+1653	person wear hat play instrument on stage
+1654	person wear hat play guitar on stage
+1655	person play guitar on stage while person smile
+1656	person wear hat play stringed instrument on stage
+1657	adult wear hat play instrument on stage
+1658	adult play instrument on stage while person smile
+1659	man wear hat play instrument on stage
+1660	man play instrument on stage while person smile
+1661	adult wear hat play guitar on stage
+1662	adult play guitar on stage while person smile
+1663	man wear hat play guitar on stage
+1664	man play guitar on stage while person smile
+1665	adult wear hat play stringed instrument on stage
+1666	adult play stringed instrument on stage while person smile
+1667	man wear hat play stringed instrument on stage
+1668	man play stringed instrument on stage while person smile
+1669	perform outdoors
+1670	some person perform
+1671	person perform outdoors
+1672	perform music outdoors
+1673	play music outdoors
+1674	performer sit
+1675	entertainer sit
+1676	musician sit
+1677	asian person
+1678	person write
+1679	person in warehouse
+1680	write
+1681	clipboard
+1682	warehouse
+1683	asian man talk
+1684	man in warehouse talk
+1685	man talk and write
+1686	asian person talk
+1687	person in warehouse talk
+1688	person talk and write
+1689	asian adult talk
+1690	adult in warehouse talk
+1691	adult talk and write
+1692	asian adult
+1693	adult write
+1694	adult in warehouse
+1695	asian man
+1696	man write
+1697	man in warehouse
+1698	brown hat
+1699	man hold
+1700	hold folder
+1701	asian person hold
+1702	asian person wear
+1703	asian person write
+1704	asian person in warehouse
+1705	person hold folder
+1706	white hat
+1707	wear brown hat
+1708	wear white hat
+1709	asian adult wear
+1710	asian man wear
+1711	asian adult hold
+1712	adult hold folder
+1713	asian adult write
+1714	asian adult in warehouse
+1715	asian person wear hat
+1716	person wear brown hat
+1717	person wear hat hold folder
+1718	person wear white hat
+1719	asian adult wear hat
+1720	adult wear brown hat
+1721	adult wear hat hold folder
+1722	adult wear white hat
+1723	asian man wear hat
+1724	man wear brown hat
+1725	man wear hat hold folder
+1726	man wear white hat
+1727	asian man hold
+1728	asian man write
+1729	asian man in warehouse
+1730	person wear clothing write
+1731	person wear jacket write
+1732	person write on clipboard
+1733	person in warehouse write
+1734	person wear jacket
+1735	man wear jacket
+1736	adult wear jacket
+1737	wear jacket and pant
+1738	write on clipboard
+1739	man wear clothing write
+1740	man wear jacket write
+1741	man write on clipboard
+1742	man in warehouse write
+1743	adult wear clothing write
+1744	adult wear jacket write
+1745	adult write on clipboard
+1746	adult in warehouse write
+1747	person wear blue jacket
+1748	man wear blue jacket
+1749	adult wear blue jacket
+1750	wear blue jacket and pant
+1751	person wear blue clothing write
+1752	person wear clothing and blue clothing
+1753	man wear blue clothing write
+1754	man wear clothing and blue clothing
+1755	man wear blue shirt
+1756	adult wear blue clothing write
+1757	adult wear clothing and blue clothing
+1758	adult wear blue shirt
+1759	person wear hat write
+1760	adult wear hat write
+1761	man wear hat write
+1762	ride on track
+1763	bike ride whilst pull wheelie
+1764	pull
+1765	track
+1766	ride skateboard
+1767	ride bike
+1768	ride motorcycle
+1769	ride motorbike
+1770	motorbike
+1771	person ride bike
+1772	person ride bike perform trick
+1773	trick at track
+1774	man perform
+1775	at track
+1776	adult ride bike
+1777	adult ride motorcycle
+1778	adult ride motorbike
+1779	person ride motorcycle
+1780	person ride motorbike
+1781	man ride bike
+1782	man ride motorcycle
+1783	man ride motorbike
+1784	person perform trick at track
+1785	perform trick at track
+1786	man perform trick
+1787	on track
+1788	motorcycle
+1789	motorbike ride whilst pull wheelie
+1790	person ride motorbike perform trick
+1791	adult perform trick at track
+1792	adult ride bike perform trick
+1793	person ride motorcycle perform trick
+1794	motorcycle ride whilst pull wheelie
+1795	put
+1796	up
+1797	person put bike
+1798	person put bike up
+1799	person put
+1800	put bike
+1801	wheel
+1802	adult put bike
+1803	adult put bike up
+1804	adult put
+1805	person put motorbike
+1806	put motorbike
+1807	person put motorbike up
+1808	wheel on track
+1809	man put bike
+1810	man put bike up
+1811	man put
+1812	person put motorcycle
+1813	put motorcycle
+1814	person put motorcycle up
+1815	person do
+1816	trick on bike
+1817	do trick
+1818	do
+1819	on bike
+1820	adult do
+1821	on motorbike
+1822	man do
+1823	on motorcycle
+1841	young woman sell toy
+1842	young woman sell
+1845	man person
+1853	smile couple
+1854	couple with camcorder
+1855	man adult
+1859	with ware
+1872	man person wear
+1879	man person wear clothing
+1885	person wear track outfit
+1925	man adult wear
+1927	man person wear jacket
+1935	child wear white clothing
+1936	boy wear white clothing
+1937	wear white clothing and pants
+1938	man adult wear clothing
+1942	man adult wear jacket
+1948	person wear white clothing and pants
+1963	little boy balance
+1964	little boy wear
+1967	little boy wear white shirt and jean balance on wooden bench outside in middle of woods
+1968	jean
+1969	woods
+1970	little boy wear white shirt and jean
+1971	wear white shirt and jean
+1972	young child try to balance on bench in park
+1973	young child try to balance himself on picnic table
+1974	picnic table
+1975	boy engage in game of courage and dare
+1976	two man on rooftop while man standing atop ladder watch them
+1977	three man one on ladder work on roof
+1978	person fix roof of house
+1979	three man work on roof
+1980	three chef in kitchen left most chef flip something in fry pan middle chef be only one without hat hand blur from movement right most chef wear glasses and arrange food artfully on plate
+1981	middle chef
+1982	most chef flip something
+1983	be only one
+1984	blur
+1985	most chef wear glasses
+1986	most chef arrange food
+1987	arrange food
+1988	three male culinary worker prepare meal in commercial kitchen
+1989	three male culinary worker
+1990	three male culinary worker prepare meal
+1991	chef and two sous chef prepare dish in restaurant
+1992	three chef dress wear white prepare meal
+1993	three chef prepare meal
+1994	dress wear white
+1995	three man cook in kitchen
+1996	female gymnasium wear blue leotard get hug by someone else wear blue jacket and black pant
+1997	female gymnasium
+1998	black pant
+1999	female gymnasium wear blue leotard
+2000	girl_woman wear purple leotard hug by girl_woman wear blue and purple outfit
+2001	brown-haired girl_woman wear blue leotard hug girl_woman wear track outfit
+2002	brown-haired girl_woman hug girl_woman
+2003	brown-haired girl_woman wear blue leotard
+2004	girl_woman wear track outfit
+2005	woman wear blue leotard hug each other during some sort of sport event
+2006	some sort of sport event
+2007	street vendor sell some ward include pineapple and soccer ball
+2008	soccer ball
+2009	street vendor sell some ward
+2010	sell some ward
+2011	young woman sell odd toy and fruit alongside street
+2012	odd toy
+2013	young woman sell odd toy
+2014	sell odd toy
+2015	vendor with ware set up on street
+2016	middle eastern marketplace
+2017	musician play drum while hair cover face and tattoo dot arm
+2018	hair cover face
+2019	tattoo dot arm
+2020	man with long hair and tattoo play drum outdoors
+2021	tattoo person shake hair and beat drum
+2022	tattoo person shake hair
+2023	tattoo person beat drum
+2024	long-haired drummer play music outdoors
+2025	long-haired drummer
+2026	woman tilt face upward and lift her white gloved hand
+2027	white gloved hand
+2028	woman wear white glove peer over crowd
+2029	woman with white glove and some other
+2030	some other
+2031	young man with close haircut and wear sport coat talk on phone
+2032	close haircut
+2033	man wear black coat and blue shirt talk on phone indoor
+2034	phone indoor
+2035	man wear black coat and blue shirt
+2036	wear black coat and blue shirt
+2037	man be black suit talk on phone in room
+2038	be black suit
+2039	businessman wear dark suit talk on cellphone
+2040	businessman wear dark suit
+2041	wear dark suit
+2042	man make call
+2043	make call
+2044	some man sit on ground next to blue bag
+2045	blue bag
+2046	some young male sit in circle talk
+2047	some young male
+2048	some young male sit
+2049	some boy sit on street and talk
+2050	some boy talk
+2051	man sit down in circle
+2052	girl wear blue jump on shore as small wave approach her
+2053	small wave
+2054	small wave approach her
+2055	girl wear blue
+2056	young long-haired girl on beach jump in air
+2057	young long-haired girl jump in air
+2058	girl leap into air while standing by ocean
+2059	girl jump into air on beach
+2060	child run into ocean
+2061	group of person at christmas gather take funny picture all look away from camera
+2062	group of person gather take funny picture
+2063	gather take funny picture
+2064	group of person look of in some direction try to avoid camera
+2065	some direction
+2066	try to avoid
+2067	group of person not want to take picture
+2068	some person at holiday party at night
+2069	holiday party
+2070	some individual standing
+2071	dj with headphone on move knob up and down on dj equipment
+2072	dj equipment
+2073	dj move knob
+2074	move knob
+2075	shaven head young man wear headphone and work with mix board
+2076	mix board
+2077	shaven head young man wear headphone
+2078	man adjust music on audio mixer
+2079	audio mixer
+2080	man adjust music
+2081	adjust music
+2082	man with earphone be hard at work
+2083	man control machine
+2084	control machine
+2085	man ride skateboard with shadow fall on wall cover in graffiti
+2086	skateboarder jump through air in front of graffiti cover wall
+2087	skateboarder jump through air
+2088	skateboarder perform skateboard trick against graffiti wall
+2089	skateboarder perform skateboard trick
+2090	skateboarder grind lip
+2091	grind lip
+2092	female singer wear short dress hold microphone in one of two outstretched hand while man play electric bass guitar in front of amplifier
+2093	two outstretched hand
+2094	electric bass guitar
+2095	man play electric bass guitar
+2096	play electric bass guitar
+2097	female singer wear short dress
+2098	musical performer wear black dress praise crowd as red lights flash and band play
+2099	red lights flash
+2100	musical performer praise crowd
+2101	musical performer wear black dress
+2102	redheaded singer with arm spread on stage
+2103	redheaded singer spread
+2104	female singer and male guitarist on stage
+2105	man and woman wear head cover turn video camera on themselves
+2106	man wear brown sweater and woman smile for video camera
+2107	brown sweater
+2108	man wear brown sweater
+2109	wear brown sweater
+2110	man and woman pose for video camera that they hold
+2111	smile couple with camcorder
+2112	camera crew film older gentleman wear long gray coat
+2113	camera crew
+2114	long gray coat
+2115	camera crew film older gentleman
+2116	older gentleman wear long gray coat
+2117	wear long gray coat
+2118	two man film older gentleman while fourth man watch
+2119	two man film older gentleman
+2120	white man speak in front of camera on sidewalk in city
+2121	white man speak
+2122	some man shoot scene
+2123	two person in area surround by vegetation with person hold camera point towards vegetable hold by person
+2124	cameraman shoot closeup image of farmer and crop
+2125	closeup image
+2126	farmer
+2127	cameraman shoot closeup image
+2128	shoot closeup image
+2129	two man in field or jungle look at something
+2130	field or jungle
+2131	two man outdoors with video camera
+2132	photographer take photo
+2133	take photo
+2134	guitarist play while person play with hula-hoop in background
+2135	hula-hoop
+2136	man play guitar on stage while woman smile
+2137	man wear white hat play guitar on stage
+2138	some person perform music outdoors
+2139	asian man in warehouse talk and write on clipboard
+2140	asian man wear brown hat hold yellow folder
+2141	yellow folder
+2142	asian man hold yellow folder
+2143	hold yellow folder
+2144	asian man wear brown hat
+2145	man wear blue jacket write
+2146	motorcycle ride on track whilst pull wheelie
+2147	pull wheelie
+2148	man ride motorcycle perform trick at track
+2149	man put motorcycle up on rear wheel on track
+2150	rear wheel
+2151	man put motorcycle
+2152	man do trick on motorcycle
+2153	man do trick

@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# run.sh <file name> (skip the extension)
+
+BASEDIR=$(dirname $0)
+pushd $BASEDIR > /dev/null
+
+mkdir ../tmp/$1
+./fixNPs.pl ../../corpora/$1/$1.pos 1> ../tmp/$1/NP.pos 2> ../tmp/$1/NP.log
+./getNPs.pl ../tmp/$1/NP.pos > ../tmp/$1/NP.np
+./fixANNS.pl ../tmp/$1/NP.np ../tmp/$1/NP.pos 1> ../tmp/$1/ANNS.pos 2> ../tmp/$1/ANNS.log
+./fixDef.pl ../tmp/$1/ANNS.pos ../data/groups.txt ../data/definites.txt > ../tmp/$1/def.pos
+./getNPs.pl ../tmp/$1/def.pos > ../tmp/$1/def.np
+./fixAndCC.pl ../tmp/$1/def.np ../tmp/$1/def.pos 1> ../tmp/$1/and.pos 2> ../tmp/$1/and.log
+./getNPs.pl ../tmp/$1/and.pos > ../tmp/$1/and.np
+./fixVerbing.pl ../tmp/$1/and.np ../tmp/$1/and.pos 1> ../tmp/$1/verb.pos 2> ../tmp/$1/verb.log
+./getNPs.pl ../tmp/$1/verb.pos > ../tmp/$1/verb.np
+./fixAdvp.pl ../tmp/$1/verb.np ../tmp/$1/verb.pos 1> ../tmp/$1/advp.pos 2> ../tmp/$1/advp.log
+./getNPs.pl ../tmp/$1/advp.pos > ../tmp/$1/advp.np
+./makeEntity.pl ../tmp/$1/advp.np ../tmp/$1/advp.pos 1> ../tmp/$1/ent.pos 2> ../tmp/$1/ent.log
+./getNPs.pl ../tmp/$1/ent.pos > ../tmp/$1/ent.np
+./easyCorefs.pl ../tmp/$1/ent.np > ../tmp/$1/easy.np
+./makeHypeLexicon.pl ../tmp/$1/easy.np > ../tmp/$1/lexicon.txt
+./coverCorefs.pl ../tmp/$1/easy.np ../tmp/$1/lexicon.txt > ../tmp/$1/easy.cover
+./corefNPs.pl ../tmp/$1/easy.np ../tmp/$1/lexicon.txt > ../../corpora/$1/$1.np
+./makeCoref.pl ../tmp/$1/ent.pos ../../corpora/$1/$1.np > ../../corpora/$1/$1.coref
+
+popd > /dev/null

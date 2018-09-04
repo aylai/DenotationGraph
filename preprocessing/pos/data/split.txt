@@ -1,0 +1,7 @@
+stand
+sit
+walk
+work
+dress
+smile
+pose

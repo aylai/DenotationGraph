@@ -1,0 +1,292 @@
+I. Setting Up External Resources
+
+The denotation graph uses a couple different external resources: the
+MALT parser, the Stanford dependency parser, the OpenNLP Toolkit, and
+WordNet.  Each has a specific directory that the scripts expect to
+find them in, so either use that directory as the install directory,
+or create a link from that location to where the external resource is
+installed.  The SVNed version should come with copies of the external
+resources used.
+
+MALLET
+URL: http://mallet.cs.umass.edu
+Version: 2.0
+Directory: ate/mallet
+
+MALT Parser
+URL: http://maltparser.org
+Version: 1.5.1
+Directory: parser/malt
+
+Stanford Dependency Parser
+URL: http://nlp.stanford.edu/software/lex-parser.shtml
+Version: 1.6.7 (build date: 2011-05-15, directory date: 2011-06-08)
+Directory: parser/stanford
+
+OpenNLP Toolkit
+URL: http://opennlp.apache.org
+Version: 1.3.0
+Directory: opennlp
+
+WordNet
+URL: http://wordnet.princeton.edu
+Version: 3.0
+Directory: WordNet
+
+QueryData
+URL: http://search.cpan.org/dist/WordNet-QueryData/QueryData.pm
+Version: 1.49
+Directory: WordNet
+
+If you've got WordNet and QueryData installed already, QueryData.pm
+just needs to be in the PERL library path, and WordNet just needs to
+be installed where QueryData expects it to be (/usr/local/WordNet-3.0)
+If you don't have them installed, you can put QueryData.pm and the
+contents of WordNet's dict directory into the WordNet directory.
+Then, from this directory, run "source setenvSh.sh" or "source
+setenvCsh.sh", depending on if you're using a sh or csh shell.  This
+will set the PERLLIB and WNSEARCHDIR variables so that QueryData.pm is
+in the PERL library path, and it knows where to find the WordNet
+dictionary files.
+
+
+Corpus files live in the "corpora/NAME" directory.  The files in this
+directory should be of the form "NAME.TYPE".  The denotation graph for
+that corpus will live in "corpora/NAME/graph."  All files will be tab
+separated.
+
+(see corpora/notes.txt for a description of the files in the corpus
+and denotation graph directories)
+
+
+What follows is a description of how to create a clean run of the
+denotation graph, followed by a description of the various
+directories.
+
+
+II. Getting Results from CrowdFlower
+
+The "crowdflower" directory contains the scripts used for producing a
+spell checked corpus from CrowdFlower results.  At the end of the
+processing on the CrowdFlower output, you should have a spell-checked
+version of the corpus, with two columns: caption ID and caption.  Pick
+a name for the corpus, and place it in "corpora/NAME/NAME.spell".
+
+(see crowdflower/notes.txt for a description of the workflow/process
+and scripts)
+
+
+III. Getting a tokenized version of the corpus.
+
+Run the following commands:
+
+token/scripts/run.sh NAME
+compound/scripts/run.sh NAME
+
+This runs the OpenNLP tokenizer, and then a couple scripts that fix
+tokenizer errors, common spelling errors, and normalizes compound
+nouns and verbs.  It creates "corpora/NAME/NAME.token".  This should
+be the last file containing the entire corpus that you manually edit.
+If something goes weird later on in the chain, either make fixes in
+the token file, or create scripts to fix things.  Do not apply manual
+fixes to the files containing the entire corpus after this.
+
+When you are manually editting "NAME.token", you will need to watch
+out for: first, the tokenizer does not always handle punctuation marks
+correctly (and the fixes do not always catch tokenizer mistkaes).
+Watch out for periods (.), single quotes (') and double quotes(").
+Also, make sure there are no slashes (/) or square brackets ([ and ]).
+The first will cause the tagger to choke, and the second may cause
+problems by mimicking chunk boundaries.  Finally, there should be
+another scripts that ensures that all hashes (#) are their own token.
+If it misses a hash, WordNet will tend to hang if given a word with a
+hash in it, since it uses them as separators.
+
+
+IV. Generating the Rest of the Corpus
+
+Run the following commands:
+
+pos/scripts/run.sh NAME
+entity/scripts/run.sh NAME
+parser/scripts/run.sh NAME <# of processes>
+event/scripts/run.sh NAME
+
+This generates the tagged and chunked version of the corpus
+("NAME.pos"), the entity co-referenced version of the corpus
+("NAME.coref") along with a list of noun phrases ("NAME.np"), various
+dependency parses of the corpus ("NAME.conll"), and the list of verb
+phrases ("NAME.vp") along with their subjects ("NAME.subj"), direct
+object ("NAME.dobj"), and the combined subject-verb-object
+("NAME.svo").  You can specify a number of processes to use for the
+parser.  The scripts will split the corpus evenly between the
+processes and run however many copies of the MALT parser using the
+polynomial model in parallel.  Afterwards, it will run the same number
+of copies of the Stanford parser in parallel.  The MALT parser using
+the linear model will always run as a single process, but it is the
+fastest of the parsers.  If you want to, comment out the
+"runStanford.pl" and "runlin.sh" lines in "parser/scripts/run.sh" - we
+only use the MALT parser using the polynomial model.
+
+
+V. Generating the Graph
+
+Generating the graph consists of the following commands:
+
+graph/scripts/runPre.sh NAME
+graph/scripts/runNew.sh NAME
+
+This generates the rewrite rules and starting string for each caption,
+and then generates a new graph using the corpus.
+
+Instead of using runNew.sh, you can use runAdd.sh:
+
+graph/scripts/runAdd.sh NAME OLD
+
+This will use the graph generated by the OLD corpus as a starting
+point for the new denotation graph being generated by NAME.  Any nodes
+in the OLD denotation graph will be considered as already being
+associated with an image, which will cause the new denotation graph to
+continue expanding if it encounters one of those nodes.
+
+You can also specify sub-graphs to create by making a
+"corpora/NAME/NAME.split" file.  This should contain a list of
+sub-graph names and a file containing the images that should be used
+by the sub-graph.  If you create a "train" sub-graph, runNew.sh and
+runAdd.sh will calculate the image co-occurrence counts of nodes
+("corpora/NAME/graph/train/node-image.cnt") that have a visual
+denotation of at least 10, as well a file with the PMI and conditional
+probabilities between nodes
+("corpora/NAME/graph/train/node-image.pmi").
+
+You can also specify corpus specific entity modifier chunkings
+("corpora/NAME/NAME.ent-mod"), as well as a corpus specific hypernym
+lexicon ("corpora/NAME/NAME.lexicon") (see "corpora/notes.txt" for a
+description of their contents).  If those files do not exist, the
+default versions created for the image caption corpus will be used.
+See "entity/notes.txt" and "graph/notes.txt" for a description of the
+scripts used to create the two files.  They will require a decent
+amount of manual editting, though.
+
+
+VI. Generating the HTML version of the graph
+
+html/scripts/run.sh NAME <max size> <min size> <image URL>
+
+This generates the HTML version of the graph.  There are three types
+of HTML pages.  "node" pages display the grab as a tree.  Each page
+has a particular node as its root, and then display part or all of the
+node's children in a tree structure.  "pmi" pages display the
+co-occurrence counts, the pointwise mutual information and the
+conditional probabilities of pairs of nodes in the training sub-graph.
+"image" pages display the image and its captions, along with the nodes
+that the captions generated.
+
+The script will assume that you have generated a training sub-graph,
+and produced the co-occurrence counts, PMIs, and conditional
+probabilities over that sub-graph.  The "max size" and "min size" are
+used to determine how the "node" pages are generated.  The tree
+structure generated should never have more than "max size" nodes in
+it, and always have more than "min size" nodes in it.  Note: because
+we are forcing the graph into a tree structure, a node with multiple
+paths from the root node will show up more than once.  So, the "max
+size" and "min size" do not refer to the number of distinct nodes in
+the tree structure, but are rather used to control the size of the
+"node" HTML pages and how many are generated.  Typically, I use the
+following options:
+
+html/scripts/run.sh NAME 10000 10 http://shannon.cs.illinois.edu/~pyoung2/flickrImages
+
+
+VII. Contents/Directories
+
+This directory contains all of the scripts used in the generation of
+the denotation graph.  Most sub-directory will have their own
+notes.txt file.  A number of sub-directories will contains one or more
+of "scripts/" (actual script files), "data/" (txt files used by the
+scripts), and "tmp/" (temporary files generated by the scripts).
+
+corpora/
+Individual corpora are stored here.  Sub-directories are the corpus
+name, and the corpus files (from various stages of processing) are
+stored here.  For the most part, they will use "NAME.TYPE" as
+filenames.  The denotation graph will be stored in the "graph"
+directory inside the corpus' directory.
+
+misc/
+Contains a number of useful scripts and some shared PERL code.  This
+includes the lemmatization functions, and an override for QueryData's
+get hypernyms function (getHypes).  You can modify getHypes in order
+to add hypernym links to WordNet.
+
+crowdflower/
+These scripts are used to filter and organize the captions from
+crowdflower.  This includes processing the CSV files from Crowdflower,
+identifying bad workers, and then generating caption files after
+filtering out bad workers.  The process is largely manual, and there
+is no run.sh.  The final file produced should be a spell checked
+corpus file ("NAME.spell")
+
+token/
+Runs the OpenNLP tokenizer on a spell checked corpus file
+("NAME.spell"), and produces the initial tokenized output
+("NAME.pretoken").
+
+compound/
+Fixes some tokenizer errors, some context sensitive spelling errors,
+and normalizes a number of compound terms.  Takes the initial
+tokenized output ("NAME.pretoken") and produces the tokenized file
+("NAME.token").  Make sure you remove slashes (/) and square brackets
+([ and ]) from the "NAME.token" file before proceeding.
+
+pos/
+Uses the OpenNLP tagger and chunker to generate a tagged and chunked
+file ("NAME.pos") from a tokenized file ("NAME.token").  Applies a
+number of fixes to both the tagger and the chunker output.
+
+lemma/
+Lemmatizes part of speech tagged files.  Produces a lemmatized file
+("NAME.lemma"), and a list of noun ("NAME.nlemma") and verb
+("NAME.vlemma") lemmatizations.  The script perform lemmatizations on
+individual tokens, and does not look for compound nouns.
+
+entity/
+Performs entity co-reference.  Takes a "NAME.pos" file, and produces a
+chunked file with entity co-references ("NAME.coref"), and a list of
+noun phrases ("NAME.np").  Also includes scripts to generate entity
+modifier chunking and entity typing.
+
+parser/
+Runs the MALTParser and Stanford dependency parser on the corpus.
+Uses the "NAME.coref" file as input.  Produces three files:
+"NAME-malt-lin.conll" (MALTParser linear model output),
+"NAME-malt-poly.conll" (MALTParser polynomial model output),
+"NAME-stanford.conll" (Stanford dependency parser output).
+
+event/
+Generates the verb phrase ("NAME.vp"), subject ("NAME.subj"), direct
+object ("NAME.dobj"), and subject-verb-object ("NAME.svo") files from
+the "NAME.coref" and MALTParser polynomial model output
+("NAME-malt-poly.conll").
+
+graph/
+Generates the rewrite rules, starting string, and the denotation
+graph.  If you want to specify sub-graphs to create (training, dev,
+test splits, for example), create a "corpora/NAME/NAME.split" file
+consisting of two columns: sub-graph name and file containing the list
+of images in the sub-graph.  Also, will create a co-occurrence count
+file for the nodes ("corpora/NAME/graph/train/node-image.cnt") and the
+PMIs and conditional probabilities between nodes
+("corpora/NAME/graph/train/node-image.pmi") for the "train" sub-graph.
+
+html/
+Generates the HTML view of a denotation graph.  It assumes that you
+have a "train" sub-graph with co-occurrence counts, PMIs, and
+conditional probabilities.
+
+ate/
+Contains files for the Approximate Textual Entailment task.  This
+includes both the scripts and the data files used in a task.  (The
+currently checked in TACL2014 task is missing the associated graph,
+the external similarities (DIRECT and VerbOcean), and the external
+vectors (BNC and Gigaword) due to space limitations.)

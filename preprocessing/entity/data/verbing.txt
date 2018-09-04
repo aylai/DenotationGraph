@@ -1,0 +1,25 @@
+carrying
+cooking	<food>
+cutting	razor
+doing
+drinking	glasses	glass
+eating	area
+enjoying
+getting
+having
+holding
+making
+overlooking
+performing
+playing
+preparing
+reading
+riding	<vehicle>
+selling	stand	counter
+shoveling
+showing
+throwing	game	toy
+using
+washing
+watching
+wearing

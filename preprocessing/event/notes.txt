@@ -1,0 +1,128 @@
+Current process:
+
+1. breakVPs.pl - break up VPs (i.e., [VP stands talking] -> [VP
+   stands] [VP talking]).  split.txt is a list of lemmatized verbs
+   that can be the first term.  Also breaks up [VP X and/or Y] -> [VP
+   X] and/or [VP Y].
+   input: POS file
+   output: POS file
+
+2. At this point you'll need to rerun the parser scripts - or see
+   renumberConll.pl in the parser directory.
+
+3. getVPs.pl - get the VPs
+   input: CoNLL file
+   output: vp file
+
+4. getSubj.pl - get the subject of a VP.
+   input: CoNLL file
+   output: verb/subject file
+
+5. getDobj.pl - get the direct object of a VP
+   input: coref file, NP file, CoNLL file
+   output: verb/dobj file
+
+6. getNPtype.pl - get all of the entity mentions of a particular type
+   Run over clothing, vehicle, animal, person, agentref, who, that-which
+   input: NP file, type file
+   output: NP file
+
+7. getSubjNP.pl - get all of the VP/subj pairs that have a subject in 
+   an NP file.  We want clothing, vehicle, noID (not), and no subject
+   VPs (nosubj)
+   input: verb/subject file, NP file
+   output: verb/subject file
+
+8. findNewSubj.pl - replace subjects where appropriate.  This will
+   look at all of the subjects in the verb/subject file, and try to
+   find the closest entity mention in the NP file that is to the left
+   of the subject or VP, and that does not cross a clausal boundary.
+   Also, will ignore excluded verbs.
+   input: verb/subject file, NP file, VP file, coref file, excluded verb file
+   output: verb/subject/replace file.
+   use: clause-boundary.txt and exclverb-all.txt
+
+9. findNewSubj2.pl - as above, but with an allowance that VPs after a
+   "while" clause boundary can use the subject of the first VP of the
+   caption (if one exists).  Only to be used with subjectless VPs -
+   i.e., "A man speaks while walking down a street."
+   input: verb/subject file, NP file, VP file, coref file, excluded verb file, full verb/subject file
+   output: verb/subject/replace file.
+   use: clause-boundary.txt and exclverb-all.txt
+
+10. findNewSubj3.pl - look for a prior adjacent NP as the subject.
+    Used to replace instances of "who" with a prior adjacent person
+    NP.  Will ignore unchunked terms, when determining what is prior.
+    input: verb/subject file, NP file, coref file output:
+    verb/subject/replace file
+
+11. replaceSubj.pl - replace subjects
+    input: verb/subject file, verb/subject/replace files
+    output: verb/subject file
+
+
+1. Event Mentions
+
+   Relations between event mentions:
+   1. Synonymous - Any event describable using event mention X is
+      describable using event mention Y.  And vice versa.
+
+   2. Hypernym/hyponym - Any event event describable using event
+      mention X is describable using event mention Y, but not
+      necessarily vice versa.
+
+   3. Holonym/meronym/part-of - ...
+
+   a. VP chunks - start by just grabbing the VP chunks.  Remove RBs,
+   normalize.  Still some errors with compound verbs - "pan fry", etc.
+
+   b. PRT - Some succeeding particles may be part of the event mention
+   - i.e., "going up" - "going up" is much more similar to "ascend"
+   than "going" is.
+
+   c. Direct Objects - identify when a VP chunk is followed by an
+   entity mention, grab both the VP and direct object.
+
+   d. Light verbs - identify probable light verbs (primary criteria
+   here is that the direct object should be a better description of
+   the event than the verb, or the verb and the direct object)
+
+   e. Verb nominalizations - identify noun phrases (both direct
+   objects and non-direct objects) that could be event mentions.
+
+
+2. Event Coreference
+
+   a. GIZA - get alignment probabilities, identify good coreference
+   chains that consist of mentions that align with each other.
+
+3. Event Hierarchy
+
+   a. Use coreference chains to identify co-occurring event mentions.
+
+   b. Look for actor terms that share a substring with event mentions
+   (butcher/butchering, baseball player/play baseball, etc.)
+
+4. Denotation Graph
+
+   a. Look into applying event hierarchy to the graph.  (Event version
+   of liftEntity)
+
+   b. Evaluation - given an event hierarchy that says that fry is a
+   type of cook, use the denotation graph to come up with images of
+   cooking, and divide them into three sets - images that are
+   described just as cooking, images that are described just as frying
+   (but can be lifted to cooking via the hierarchy), and images that
+   are described as both frying and cooking.  We can evaluate the
+   validity of the link between fry and cook by evaluating how well
+   cook describes images from each of the three sets.
+
+5. Manual markup
+
+   a. Select a set of topics (cook, some sport, playing an instrument?)
+
+   b. Get all images in that topic - select a random subset.
+
+   c. Markup all of the captions for those images - identify event
+   mentions, coref them, and build an event hierarchy using the events
+   in those captions.

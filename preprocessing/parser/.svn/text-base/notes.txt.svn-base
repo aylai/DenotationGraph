@@ -1,0 +1,49 @@
+Dependecy parser.  Malt and Stanford.
+
+I'd suggest just running the parser you want, except 1) Malt
+polynomial is the good one (so far), and the others take a lot less
+time anyways.
+
+The intermediate CoNLL and token files fed to the parser should not
+have URL/sentence IDs.
+
+scripts/run.sh NAME <# of threads>
+Run all three parser.  For the MALT Parser polynomial model and the
+Stanford dependency parser, use the specified number of threads.
+
+Pre-parser script:
+
+scripts/tokenize.pl
+Strip out the meta-data from a POS file, leaving only the tokens
+behind.  The Stanford dependency parser runs it own tagger.
+
+scripts/conllize.pl
+Turn a POS file into a CoNLL file (without URL/Sentence IDs) - one
+line per word, tags, and a couple spots for labels and dependency
+links that we leave blank (_).
+
+
+Parsers:
+
+scripts/runlin.sh
+Run the MALT Parser using the linear model.  Fast, but not so good.
+
+scripts/runpoly.pl <# of threads> [# of lines in a work unit]
+Run the Malt Parser using the polynomial model.  Slow, but pretty
+good.  You can specify a number of threads to run in parallel.  You
+can also specify the size of a work unit that a thread will work on,
+but there's no reason to.  If you don't the script will break the
+corpus up into even pieces for each thread.
+
+scripts/runStanford.pl <# of threads> [# of lines in a work unit]
+Same as "scripts/runpoly.pl", except with the Stanford dependency
+parser.
+
+
+Post-parser scripts:
+
+scripts/conllMalt.pl
+Turn the MALT Parser output back into a CoNLL file.
+
+scripts/conllStanford.pl
+Turns the output of the Stanford dependency parser into a CoNLL file.
